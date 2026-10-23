@@ -395,6 +395,13 @@ server {
 }
 ```
 
+```bash
+rsync -avR -e 'ssh -p 60079' \
+  Build TemplateData \
+  index.html manifest.webmanifest ServiceWorker.js \
+  ubuntu@base2.jdj.kr:~/pixelhero/
+```
+
 - 확인 주소: `https://pixelhero.jdj.kr/` → `?hub=…`가 붙은 주소로 바뀌고 월드 선택에 beta가 나오면 됩니다.
 - 허브는 cors()로 모든 출처를 허용하므로 다른 도메인의 페이지에서도 호출됩니다.
 
