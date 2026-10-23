@@ -50,6 +50,7 @@ crashlytics-buildid.txt
 # TLS certificates for the wss listener (private keys; see PROGRESS)
 /Server/certs/
 /PixelHero-Data/server/certs/
+/publish/
 
 # ---------------------------------------------------------------------------
 # Editors / OS
