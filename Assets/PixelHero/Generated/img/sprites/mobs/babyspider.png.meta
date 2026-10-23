@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: e9cf01dabe70f3746b2b0378eb1a322a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 712604415896093644
+    second: babyspider_0
+  - first:
+      213: 3367315520880461686
+    second: babyspider_1
+  - first:
+      213: 1079821149265255769
+    second: babyspider_2
+  - first:
+      213: 7651123745508375334
+    second: babyspider_3
+  - first:
+      213: 6000006892590459223
+    second: babyspider_4
+  - first:
+      213: -172703800012885498
+    second: babyspider_5
+  - first:
+      213: -1920782714927735002
+    second: babyspider_6
+  - first:
+      213: 2167862291010049378
+    second: babyspider_7
+  - first:
+      213: 1797995805902113336
+    second: babyspider_8
+  - first:
+      213: 174156889676631329
+    second: babyspider_9
+  - first:
+      213: 1995344931791985130
+    second: babyspider_10
+  - first:
+      213: 4450751658175340366
+    second: babyspider_11
+  - first:
+      213: 6848348591710807056
+    second: babyspider_12
+  - first:
+      213: -359928372397545405
+    second: babyspider_13
+  - first:
+      213: -5794673974399819026
+    second: babyspider_14
+  - first:
+      213: 4748500280945133109
+    second: babyspider_15
+  - first:
+      213: -4253877637887536498
+    second: babyspider_16
+  - first:
+      213: -5363057585698217185
+    second: babyspider_17
+  - first:
+      213: 5859315521594568513
+    second: babyspider_18
+  - first:
+      213: 8882303311019813974
+    second: babyspider_19
+  - first:
+      213: 9169987587194741955
+    second: babyspider_20
+  - first:
+      213: -588135528246505747
+    second: babyspider_21
+  - first:
+      213: -1849539175622056246
+    second: babyspider_22
+  - first:
+      213: 6906726038009088239
+    second: babyspider_23
+  - first:
+      213: -8494015229739676205
+    second: babyspider_24
+  - first:
+      213: -4532335181781354466
+    second: babyspider_25
+  - first:
+      213: 3248922880241390500
+    second: babyspider_26
+  - first:
+      213: 9200783952462850823
+    second: babyspider_27
+  - first:
+      213: 8119366878818867041
+    second: babyspider_28
+  - first:
+      213: -5638608497722092115
+    second: babyspider_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: babyspider_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc38cd2d0fda3e900800000000000000
+      internalID: 712604415896093644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 260
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6774dbc10ab1bbe20800000000000000
+      internalID: 3367315520880461686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 260
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd8e63d9b4cfe00800000000000000
+      internalID: 1079821149265255769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 261
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b359752804e2a60800000000000000
+      internalID: 7651123745508375334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759efbaba7e444350800000000000000
+      internalID: 6000006892590459223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 229
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6023fd41fce6a9df0800000000000000
+      internalID: -172703800012885498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f950a2c420855e0800000000000000
+      internalID: -1920782714927735002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 229
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2655e91944bc51e10800000000000000
+      internalID: 2167862291010049378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 196
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a0076c8a3c3f810800000000000000
+      internalID: 1797995805902113336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 195
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dcc58b4caba6200800000000000000
+      internalID: 174156889676631329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae956d7c4a3e0bb10800000000000000
+      internalID: 1995344931791985130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f95015d0f34cd30800000000000000
+      internalID: 4450751658175340366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 173
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01428f292c83a0f50800000000000000
+      internalID: 6848348591710807056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348e8a26d07410bf0800000000000000
+      internalID: -359928372397545405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2a2b6c8be259fa0800000000000000
+      internalID: -5794673974399819026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c39dc8df06e140800000000000000
+      internalID: 4748500280945133109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 135
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e825cbb83d037f4c0800000000000000
+      internalID: -4253877637887536498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f136e7e5a879295b0800000000000000
+      internalID: -5363057585698217185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fa3934c68705150800000000000000
+      internalID: 5859315521594568513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cac980dc7444b70800000000000000
+      internalID: 8882303311019813974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4eb793027524f70800000000000000
+      internalID: 9169987587194741955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee84176ad586d7f0800000000000000
+      internalID: -588135528246505747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 66
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6e0e64bed1556e0800000000000000
+      internalID: -1849539175622056246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 67
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe80978fcbe99df50800000000000000
+      internalID: 6906726038009088239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddcb9ad6223f1a80800000000000000
+      internalID: -8494015229739676205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18baee5a29e911c0800000000000000
+      internalID: -4532335181781354466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 35
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a35d63652e761d20800000000000000
+      internalID: 3248922880241390500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba9a5c140cfaf70800000000000000
+      internalID: 9200783952462850823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16712157829cda070800000000000000
+      internalID: 8119366878818867041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyspider_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da596c92273afb1b0800000000000000
+      internalID: -5638608497722092115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      babyspider_0: 712604415896093644
+      babyspider_1: 3367315520880461686
+      babyspider_10: 1995344931791985130
+      babyspider_11: 4450751658175340366
+      babyspider_12: 6848348591710807056
+      babyspider_13: -359928372397545405
+      babyspider_14: -5794673974399819026
+      babyspider_15: 4748500280945133109
+      babyspider_16: -4253877637887536498
+      babyspider_17: -5363057585698217185
+      babyspider_18: 5859315521594568513
+      babyspider_19: 8882303311019813974
+      babyspider_2: 1079821149265255769
+      babyspider_20: 9169987587194741955
+      babyspider_21: -588135528246505747
+      babyspider_22: -1849539175622056246
+      babyspider_23: 6906726038009088239
+      babyspider_24: -8494015229739676205
+      babyspider_25: -4532335181781354466
+      babyspider_26: 3248922880241390500
+      babyspider_27: 9200783952462850823
+      babyspider_28: 8119366878818867041
+      babyspider_29: -5638608497722092115
+      babyspider_3: 7651123745508375334
+      babyspider_4: 6000006892590459223
+      babyspider_5: -172703800012885498
+      babyspider_6: -1920782714927735002
+      babyspider_7: 2167862291010049378
+      babyspider_8: 1797995805902113336
+      babyspider_9: 174156889676631329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

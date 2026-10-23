@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: af712eba258e73b49a928fd3440c9fe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7306683528158331200
+    second: firespider_0
+  - first:
+      213: 4838492330408654565
+    second: firespider_1
+  - first:
+      213: -8000016255248181638
+    second: firespider_2
+  - first:
+      213: 3855977920334532745
+    second: firespider_3
+  - first:
+      213: -5609505949962624611
+    second: firespider_4
+  - first:
+      213: -1785131836763354272
+    second: firespider_5
+  - first:
+      213: -8992076962967194901
+    second: firespider_6
+  - first:
+      213: 5751669805127221020
+    second: firespider_7
+  - first:
+      213: 1613303929477441652
+    second: firespider_8
+  - first:
+      213: -5081213715896578867
+    second: firespider_9
+  - first:
+      213: -4194623373933952634
+    second: firespider_10
+  - first:
+      213: 110970361528419186
+    second: firespider_11
+  - first:
+      213: -90589872884564541
+    second: firespider_12
+  - first:
+      213: -5870204227124103400
+    second: firespider_13
+  - first:
+      213: 1929852926015443524
+    second: firespider_14
+  - first:
+      213: -2126441330783925472
+    second: firespider_15
+  - first:
+      213: 2566639902420658459
+    second: firespider_16
+  - first:
+      213: 7130115700647994311
+    second: firespider_17
+  - first:
+      213: -5044358250415461960
+    second: firespider_18
+  - first:
+      213: -8649283772550479199
+    second: firespider_19
+  - first:
+      213: 7778197944205275436
+    second: firespider_20
+  - first:
+      213: -245216762176467099
+    second: firespider_21
+  - first:
+      213: -9160047554343893330
+    second: firespider_22
+  - first:
+      213: -5886557373508223250
+    second: firespider_23
+  - first:
+      213: 7637740221710673198
+    second: firespider_24
+  - first:
+      213: -7264864310414628901
+    second: firespider_25
+  - first:
+      213: -6202835766681241761
+    second: firespider_26
+  - first:
+      213: -8490116497836400996
+    second: firespider_27
+  - first:
+      213: 8524335087479649462
+    second: firespider_28
+  - first:
+      213: 5611257253481255524
+    second: firespider_29
+  - first:
+      213: -7015991304223937587
+    second: firespider_30
+  - first:
+      213: 4163634428961884442
+    second: firespider_31
+  - first:
+      213: -2240853884494411974
+    second: firespider_32
+  - first:
+      213: -4389125921465056359
+    second: firespider_33
+  - first:
+      213: -7399661085853421306
+    second: firespider_34
+  - first:
+      213: -8516108468033481181
+    second: firespider_35
+  - first:
+      213: -4656220903657467235
+    second: firespider_36
+  - first:
+      213: 880027739005291341
+    second: firespider_37
+  - first:
+      213: 6178177079822469677
+    second: firespider_38
+  - first:
+      213: 3453450941612435651
+    second: firespider_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: firespider_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 392
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cebce92b02799a90800000000000000
+      internalID: -7306683528158331200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 393
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6b57a9327c52340800000000000000
+      internalID: 4838492330408654565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 391
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d49c0a9b3af090800000000000000
+      internalID: -8000016255248181638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 393
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9801a4b1d7f238530800000000000000
+      internalID: 3855977920334532745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 393
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91a9071f080722b0800000000000000
+      internalID: -5609505949962624611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 344
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bca707d00f937e0800000000000000
+      internalID: -1785131836763354272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 346
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fd5de4a9b53380800000000000000
+      internalID: -8992076962967194901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 347
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fb2ffc63902df40800000000000000
+      internalID: 5751669805127221020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 345
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ae3f406b936610800000000000000
+      internalID: 1613303929477441652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 345
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc442cfb07eb79b0800000000000000
+      internalID: -5081213715896578867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 298
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681cd16f344b9c5c0800000000000000
+      internalID: -4194623373933952634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 296
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2738f73b4fe3a8100800000000000000
+      internalID: 110970361528419186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 297
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb7769df82ebef0800000000000000
+      internalID: -90589872884564541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 249
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817754b6b58d88ea0800000000000000
+      internalID: -5870204227124103400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 250
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44216ebe20738ca10800000000000000
+      internalID: 1929852926015443524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 249
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b4ae240ec5d72e0800000000000000
+      internalID: -2126441330783925472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 249
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19602284698e9320800000000000000
+      internalID: 2566639902420658459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 249
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c32f88e37243f260800000000000000
+      internalID: 7130115700647994311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 200
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9ec2cb5e6def9b0800000000000000
+      internalID: -5044358250415461960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a204971c3297f780800000000000000
+      internalID: -8649283772550479199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 179
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c217701d1d5b1fb60800000000000000
+      internalID: 7778197944205275436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 200
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f008d67a0d89cf0800000000000000
+      internalID: -245216762176467099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 204
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea685a50849f0e080800000000000000
+      internalID: -9160047554343893330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 186
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef512d14fbe4ea0800000000000000
+      internalID: -5886557373508223250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2527c1e344bef960800000000000000
+      internalID: 7637740221710673198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 154
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7a25c86640e2b90800000000000000
+      internalID: -7264864310414628901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 101
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5770e6fbb91be9a0800000000000000
+      internalID: -6202835766681241761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e17cc170c0d2a80800000000000000
+      internalID: -8490116497836400996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 104
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b47f9329958c4670800000000000000
+      internalID: 8524335087479649462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 95
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46295190eb03fdd40800000000000000
+      internalID: 5611257253481255524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 104
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba084c41132ae90800000000000000
+      internalID: -7015991304223937587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 98
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a190cd8047338c930800000000000000
+      internalID: 4163634428961884442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 56
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37082db343e6e0e0800000000000000
+      internalID: -2240853884494411974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993cd90aa31b613c0800000000000000
+      internalID: -4389125921465056359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 54
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601fc6f827f1f4990800000000000000
+      internalID: -7399661085853421306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 8
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3261b26f774b0d980800000000000000
+      internalID: -8516108468033481181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d929fb102c7c16fb0800000000000000
+      internalID: -4656220903657467235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 40
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b86e7e09c763c00800000000000000
+      internalID: 880027739005291341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a474a125b4db550800000000000000
+      internalID: 6178177079822469677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firespider_39
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 13
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c82c00955f1def20800000000000000
+      internalID: 3453450941612435651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      firespider_0: -7306683528158331200
+      firespider_1: 4838492330408654565
+      firespider_10: -4194623373933952634
+      firespider_11: 110970361528419186
+      firespider_12: -90589872884564541
+      firespider_13: -5870204227124103400
+      firespider_14: 1929852926015443524
+      firespider_15: -2126441330783925472
+      firespider_16: 2566639902420658459
+      firespider_17: 7130115700647994311
+      firespider_18: -5044358250415461960
+      firespider_19: -8649283772550479199
+      firespider_2: -8000016255248181638
+      firespider_20: 7778197944205275436
+      firespider_21: -245216762176467099
+      firespider_22: -9160047554343893330
+      firespider_23: -5886557373508223250
+      firespider_24: 7637740221710673198
+      firespider_25: -7264864310414628901
+      firespider_26: -6202835766681241761
+      firespider_27: -8490116497836400996
+      firespider_28: 8524335087479649462
+      firespider_29: 5611257253481255524
+      firespider_3: 3855977920334532745
+      firespider_30: -7015991304223937587
+      firespider_31: 4163634428961884442
+      firespider_32: -2240853884494411974
+      firespider_33: -4389125921465056359
+      firespider_34: -7399661085853421306
+      firespider_35: -8516108468033481181
+      firespider_36: -4656220903657467235
+      firespider_37: 880027739005291341
+      firespider_38: 6178177079822469677
+      firespider_39: 3453450941612435651
+      firespider_4: -5609505949962624611
+      firespider_5: -1785131836763354272
+      firespider_6: -8992076962967194901
+      firespider_7: 5751669805127221020
+      firespider_8: 1613303929477441652
+      firespider_9: -5081213715896578867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

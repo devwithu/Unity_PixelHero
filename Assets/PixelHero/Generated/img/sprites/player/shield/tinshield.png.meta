@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 39ca54fee1326794cbdb112c39c5813c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 343576115143355995
+    second: tinshield_0
+  - first:
+      213: -4571746072661638436
+    second: tinshield_1
+  - first:
+      213: -4794633503293258803
+    second: tinshield_2
+  - first:
+      213: -7242614118833298595
+    second: tinshield_3
+  - first:
+      213: -3962635581308461114
+    second: tinshield_4
+  - first:
+      213: -6600780480336992208
+    second: tinshield_5
+  - first:
+      213: 2747699722424267402
+    second: tinshield_6
+  - first:
+      213: -9115526553452416416
+    second: tinshield_7
+  - first:
+      213: -7620112613848699013
+    second: tinshield_8
+  - first:
+      213: -2057113279772755802
+    second: tinshield_9
+  - first:
+      213: -7730815907515589851
+    second: tinshield_10
+  - first:
+      213: 4083290563484031766
+    second: tinshield_11
+  - first:
+      213: -4647811304566857936
+    second: tinshield_12
+  - first:
+      213: 1527428577410257294
+    second: tinshield_13
+  - first:
+      213: -2024723549055092293
+    second: tinshield_14
+  - first:
+      213: 3773919851963087637
+    second: tinshield_15
+  - first:
+      213: -709276752634975588
+    second: tinshield_16
+  - first:
+      213: -2212708477769311169
+    second: tinshield_17
+  - first:
+      213: -7392075152921383632
+    second: tinshield_18
+  - first:
+      213: 5166045377635380507
+    second: tinshield_19
+  - first:
+      213: -5961589199526353981
+    second: tinshield_20
+  - first:
+      213: 8155392113250737745
+    second: tinshield_21
+  - first:
+      213: 6515658165789475748
+    second: tinshield_22
+  - first:
+      213: -5364476761448100888
+    second: tinshield_23
+  - first:
+      213: 6737860570437126542
+    second: tinshield_24
+  - first:
+      213: 8071106880339351799
+    second: tinshield_25
+  - first:
+      213: -4867371798106597030
+    second: tinshield_26
+  - first:
+      213: 4137944367432983799
+    second: tinshield_27
+  - first:
+      213: 1739667418335399021
+    second: tinshield_28
+  - first:
+      213: -5344401796052952235
+    second: tinshield_29
+  - first:
+      213: -8145345336167583207
+    second: tinshield_30
+  - first:
+      213: -2734324462626358192
+    second: tinshield_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tinshield_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 539
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ead6808a0a4c400800000000000000
+      internalID: 343576115143355995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 538
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd247b74b25ed80c0800000000000000
+      internalID: -4571746072661638436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 538
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3c4085b3a067db0800000000000000
+      internalID: -4794633503293258803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 539
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5366b9f4d01d7b90800000000000000
+      internalID: -7242614118833298595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 444
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf19c90fe3e109c0800000000000000
+      internalID: -3962635581308461114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 443
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0386e2520215564a0800000000000000
+      internalID: -6600780480336992208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 443
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b980f65ac12620800000000000000
+      internalID: 2747699722424267402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062f3d055e42f7180800000000000000
+      internalID: -9115526553452416416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 393
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f231763fbef3690800000000000000
+      internalID: -7620112613848699013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 395
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8f7600f5aa373e0800000000000000
+      internalID: -2057113279772755802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 393
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b189844ef96b490800000000000000
+      internalID: -7730815907515589851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 395
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b9b2f1223caa830800000000000000
+      internalID: 4083290563484031766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f5f306e38af7fb0800000000000000
+      internalID: -4647811304566857936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 300
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e819150d234823510800000000000000
+      internalID: 1527428577410257294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9f33ad8acb6e3e0800000000000000
+      internalID: -2024723549055092293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 300
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bfd0b3c18af5430800000000000000
+      internalID: 3773919851963087637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 252
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aefb72d842826f0800000000000000
+      internalID: -709276752634975588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 252
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c9017ec51ea41e0800000000000000
+      internalID: -2212708477769311169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_18
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d212530d21a6990800000000000000
+      internalID: -7392075152921383632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 251
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d618b66ea71b740800000000000000
+      internalID: 5166045377635380507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 156
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32d69753e244da0800000000000000
+      internalID: -5961589199526353981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 156
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e155afae5cd2170800000000000000
+      internalID: 8155392113250737745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 155
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a341c194944c6a50800000000000000
+      internalID: 6515658165789475748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4c04cecc8d85b0800000000000000
+      internalID: -5364476761448100888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8904077d70b18d50800000000000000
+      internalID: 6737860570437126542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f896d2f1f4520070800000000000000
+      internalID: 8071106880339351799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a591a18532f937cb0800000000000000
+      internalID: -4867371798106597030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4eb297a7eec6930800000000000000
+      internalID: 4137944367432983799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc331cc4a842810800000000000000
+      internalID: 1739667418335399021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bdd41e1eed4d5b0800000000000000
+      internalID: -5344401796052952235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912b8d8929be5fe80800000000000000
+      internalID: -8145345336167583207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinshield_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cbe78636abd0ad0800000000000000
+      internalID: -2734324462626358192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tinshield_0: 343576115143355995
+      tinshield_1: -4571746072661638436
+      tinshield_10: -7730815907515589851
+      tinshield_11: 4083290563484031766
+      tinshield_12: -4647811304566857936
+      tinshield_13: 1527428577410257294
+      tinshield_14: -2024723549055092293
+      tinshield_15: 3773919851963087637
+      tinshield_16: -709276752634975588
+      tinshield_17: -2212708477769311169
+      tinshield_18: -7392075152921383632
+      tinshield_19: 5166045377635380507
+      tinshield_2: -4794633503293258803
+      tinshield_20: -5961589199526353981
+      tinshield_21: 8155392113250737745
+      tinshield_22: 6515658165789475748
+      tinshield_23: -5364476761448100888
+      tinshield_24: 6737860570437126542
+      tinshield_25: 8071106880339351799
+      tinshield_26: -4867371798106597030
+      tinshield_27: 4137944367432983799
+      tinshield_28: 1739667418335399021
+      tinshield_29: -5344401796052952235
+      tinshield_3: -7242614118833298595
+      tinshield_30: -8145345336167583207
+      tinshield_31: -2734324462626358192
+      tinshield_4: -3962635581308461114
+      tinshield_5: -6600780480336992208
+      tinshield_6: 2747699722424267402
+      tinshield_7: -9115526553452416416
+      tinshield_8: -7620112613848699013
+      tinshield_9: -2057113279772755802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: a0dd5f3ea19ea0c4dad32e3894c7b7b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7207036887514717631
+    second: whitebear_0
+  - first:
+      213: -889273003250255079
+    second: whitebear_1
+  - first:
+      213: -2899048339389039033
+    second: whitebear_2
+  - first:
+      213: -7790639293460896429
+    second: whitebear_3
+  - first:
+      213: -3408410040855498162
+    second: whitebear_4
+  - first:
+      213: -1140685169993719404
+    second: whitebear_5
+  - first:
+      213: 5470581315769130176
+    second: whitebear_6
+  - first:
+      213: -4295758887708894705
+    second: whitebear_7
+  - first:
+      213: -6663226700367757975
+    second: whitebear_8
+  - first:
+      213: 3640081981011124529
+    second: whitebear_9
+  - first:
+      213: -8143135216056039763
+    second: whitebear_10
+  - first:
+      213: 6123521714274459875
+    second: whitebear_11
+  - first:
+      213: 4741991440683428453
+    second: whitebear_12
+  - first:
+      213: 5643801100697730782
+    second: whitebear_13
+  - first:
+      213: 6678788974750174747
+    second: whitebear_14
+  - first:
+      213: 5721216037544100834
+    second: whitebear_15
+  - first:
+      213: 7986414426342438195
+    second: whitebear_16
+  - first:
+      213: 7222032947238785096
+    second: whitebear_17
+  - first:
+      213: -5960209249618643717
+    second: whitebear_18
+  - first:
+      213: 4807283692892242798
+    second: whitebear_19
+  - first:
+      213: -6814307695780337207
+    second: whitebear_20
+  - first:
+      213: 5312934854738014107
+    second: whitebear_21
+  - first:
+      213: -1571458551045822162
+    second: whitebear_22
+  - first:
+      213: 1641796834509015359
+    second: whitebear_23
+  - first:
+      213: 7444012734524961179
+    second: whitebear_24
+  - first:
+      213: -4518847153653686076
+    second: whitebear_25
+  - first:
+      213: 8954559115371393200
+    second: whitebear_26
+  - first:
+      213: 613251218657033256
+    second: whitebear_27
+  - first:
+      213: -7110997850707634534
+    second: whitebear_28
+  - first:
+      213: -4663325418247394674
+    second: whitebear_29
+  - first:
+      213: -4100424619872058019
+    second: whitebear_30
+  - first:
+      213: 5252549718066081148
+    second: whitebear_31
+  - first:
+      213: -2593031673627089735
+    second: whitebear_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whitebear_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 391
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd937b5dd9840460800000000000000
+      internalID: 7207036887514717631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 390
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b7ce44aeaa8a3f0800000000000000
+      internalID: -889273003250255079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 391
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb70825e284c7d0800000000000000
+      internalID: -2899048339389039033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 343
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3552014d6d612e390800000000000000
+      internalID: -7790639293460896429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 343
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42fee95025e2b0d0800000000000000
+      internalID: -3408410040855498162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491e7f9a1e87b20f0800000000000000
+      internalID: -1140685169993719404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 343
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccde49e8b86beb40800000000000000
+      internalID: 5470581315769130176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a52613d066264c0800000000000000
+      internalID: -4295758887708894705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d7eaa8e967783a0800000000000000
+      internalID: -6663226700367757975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 295
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131e777964b248230800000000000000
+      internalID: 3640081981011124529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 295
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da681094aa5cdfe80800000000000000
+      internalID: -8143135216056039763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 247
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e068b92e8e1bf450800000000000000
+      internalID: 6123521714274459875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 247
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ae0e55710fec140800000000000000
+      internalID: 4741991440683428453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 247
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edefb0ee23fc25e40800000000000000
+      internalID: 5643801100697730782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 199
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e87c1df23dfac50800000000000000
+      internalID: 6678788974750174747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e385118ca7d56f40800000000000000
+      internalID: 5721216037544100834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335323f5b9175de60800000000000000
+      internalID: 7986414426342438195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 199
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d55893b0d93460800000000000000
+      internalID: 7222032947238785096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 199
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4bb791445194da0800000000000000
+      internalID: -5960209249618643717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 199
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63ce517c07e6b240800000000000000
+      internalID: 4807283692892242798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 151
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c96dc22147be61a0800000000000000
+      internalID: -6814307695780337207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 151
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f637be9165bb940800000000000000
+      internalID: 5312934854738014107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29e9a516ce013ae0800000000000000
+      internalID: -1571458551045822162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 102
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39454ab585d8c610800000000000000
+      internalID: 1641796834509015359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9138d854227e4760800000000000000
+      internalID: 7444012734524961179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 55
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0ef24a474d941c0800000000000000
+      internalID: -4518847153653686076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 54
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b2f7721cf44c70800000000000000
+      internalID: 8954559115371393200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 54
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb026fbb4b28800800000000000000
+      internalID: 613251218657033256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 55
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9651066129a05d90800000000000000
+      internalID: -7110997850707634534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 54
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a605d4d3a884fb0800000000000000
+      internalID: -4663325418247394674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 54
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558240888d5817c0800000000000000
+      internalID: -4100424619872058019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d286ea32ec4e840800000000000000
+      internalID: 5252549718066081148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebear_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4ee1a6e63b30cd0800000000000000
+      internalID: -2593031673627089735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      whitebear_0: 7207036887514717631
+      whitebear_1: -889273003250255079
+      whitebear_10: -8143135216056039763
+      whitebear_11: 6123521714274459875
+      whitebear_12: 4741991440683428453
+      whitebear_13: 5643801100697730782
+      whitebear_14: 6678788974750174747
+      whitebear_15: 5721216037544100834
+      whitebear_16: 7986414426342438195
+      whitebear_17: 7222032947238785096
+      whitebear_18: -5960209249618643717
+      whitebear_19: 4807283692892242798
+      whitebear_2: -2899048339389039033
+      whitebear_20: -6814307695780337207
+      whitebear_21: 5312934854738014107
+      whitebear_22: -1571458551045822162
+      whitebear_23: 1641796834509015359
+      whitebear_24: 7444012734524961179
+      whitebear_25: -4518847153653686076
+      whitebear_26: 8954559115371393200
+      whitebear_27: 613251218657033256
+      whitebear_28: -7110997850707634534
+      whitebear_29: -4663325418247394674
+      whitebear_3: -7790639293460896429
+      whitebear_30: -4100424619872058019
+      whitebear_31: 5252549718066081148
+      whitebear_32: -2593031673627089735
+      whitebear_4: -3408410040855498162
+      whitebear_5: -1140685169993719404
+      whitebear_6: 5470581315769130176
+      whitebear_7: -4295758887708894705
+      whitebear_8: -6663226700367757975
+      whitebear_9: 3640081981011124529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 7818cec716a1d604799cad981e6adb00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9148230989969492153
+    second: goldaxe_0
+  - first:
+      213: 1561436504251823507
+    second: goldaxe_1
+  - first:
+      213: 8625534667261969808
+    second: goldaxe_2
+  - first:
+      213: 3114209254957108502
+    second: goldaxe_3
+  - first:
+      213: 2946420982454272239
+    second: goldaxe_4
+  - first:
+      213: 7971090248362981337
+    second: goldaxe_5
+  - first:
+      213: -8254317577990886497
+    second: goldaxe_6
+  - first:
+      213: 8169747178708122022
+    second: goldaxe_7
+  - first:
+      213: -8034571767077889427
+    second: goldaxe_8
+  - first:
+      213: 8674535045222966588
+    second: goldaxe_9
+  - first:
+      213: 557294411125065310
+    second: goldaxe_10
+  - first:
+      213: -4252081179573021874
+    second: goldaxe_11
+  - first:
+      213: 9183581217048352900
+    second: goldaxe_12
+  - first:
+      213: 5255477060099512852
+    second: goldaxe_13
+  - first:
+      213: -317539619471508561
+    second: goldaxe_14
+  - first:
+      213: 3565403617300871088
+    second: goldaxe_15
+  - first:
+      213: 441460193121776885
+    second: goldaxe_16
+  - first:
+      213: -7064020886258825723
+    second: goldaxe_17
+  - first:
+      213: 5332568372029736307
+    second: goldaxe_18
+  - first:
+      213: -191973685944173776
+    second: goldaxe_19
+  - first:
+      213: -1918098094631253447
+    second: goldaxe_20
+  - first:
+      213: 3746850331059743642
+    second: goldaxe_21
+  - first:
+      213: 1899303273673660704
+    second: goldaxe_22
+  - first:
+      213: -990007314244547616
+    second: goldaxe_23
+  - first:
+      213: 7246888604522676008
+    second: goldaxe_24
+  - first:
+      213: -3826667462780288331
+    second: goldaxe_25
+  - first:
+      213: 1209738196681192184
+    second: goldaxe_26
+  - first:
+      213: 1832912371145461715
+    second: goldaxe_27
+  - first:
+      213: -9026293165276776315
+    second: goldaxe_28
+  - first:
+      213: 6725927692465807059
+    second: goldaxe_29
+  - first:
+      213: 561690994257438336
+    second: goldaxe_30
+  - first:
+      213: 8873505543336263910
+    second: goldaxe_31
+  - first:
+      213: 3872506326586247607
+    second: goldaxe_32
+  - first:
+      213: -3982000119078091474
+    second: goldaxe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldaxe_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 397
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f5af4264fa0180800000000000000
+      internalID: -9148230989969492153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 396
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395f14f4a365ba510800000000000000
+      internalID: 1561436504251823507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 396
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09587ff641e04b770800000000000000
+      internalID: 8625534667261969808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 397
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dc3fd41d4e73b20800000000000000
+      internalID: 3114209254957108502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 349
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0c1f1d54ac3e820800000000000000
+      internalID: 2946420982454272239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 348
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7714629500f9e60800000000000000
+      internalID: 7971090248362981337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 348
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b279465e5c27d80800000000000000
+      internalID: -8254317577990886497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9b5ab16c5c06170800000000000000
+      internalID: 8169747178708122022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a90fcfb877f7090800000000000000
+      internalID: -8034571767077889427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35213af9a3226870800000000000000
+      internalID: 8674535045222966588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e568b627058ebb700800000000000000
+      internalID: 557294411125065310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 301
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e431d6712b29df4c0800000000000000
+      internalID: -4252081179573021874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 252
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488dd10d572a27f70800000000000000
+      internalID: 9183581217048352900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a127c9a843fe840800000000000000
+      internalID: 5255477060099512852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb943066fd79bf0800000000000000
+      internalID: -317539619471508561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 253
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b77c1a13bbda7130800000000000000
+      internalID: 3565403617300871088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4bf79e4b1602600800000000000000
+      internalID: 441460193121776885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5064a944e6e87fd90800000000000000
+      internalID: -7064020886258825723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375c0536ea6110a40800000000000000
+      internalID: 5332568372029736307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 205
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b331323f8f55df0800000000000000
+      internalID: -191973685944173776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a862902fb8165e0800000000000000
+      internalID: -1918098094631253447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bee51468c7ff330800000000000000
+      internalID: 3746850331059743642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0291e04b34eab5a10800000000000000
+      internalID: 1899303273673660704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb4a6dc799c242f0800000000000000
+      internalID: -990007314244547616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f76674ace129460800000000000000
+      internalID: 7246888604522676008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b28f679732f4eac0800000000000000
+      internalID: -3826667462780288331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2776cfa7ad9c010800000000000000
+      internalID: 1209738196681192184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 101
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df4b822710df6910800000000000000
+      internalID: 1832912371145461715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883425803a2cb280800000000000000
+      internalID: -9026293165276776315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de136ec99b475d50800000000000000
+      internalID: 6725927692465807059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086204abbf68bc700800000000000000
+      internalID: 561690994257438336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0840f1746052b70800000000000000
+      internalID: 8873505543336263910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b940a29cf7edb530800000000000000
+      internalID: 3872506326586247607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldaxe_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 15
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2589ce3df71db8c0800000000000000
+      internalID: -3982000119078091474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goldaxe_0: -9148230989969492153
+      goldaxe_1: 1561436504251823507
+      goldaxe_10: 557294411125065310
+      goldaxe_11: -4252081179573021874
+      goldaxe_12: 9183581217048352900
+      goldaxe_13: 5255477060099512852
+      goldaxe_14: -317539619471508561
+      goldaxe_15: 3565403617300871088
+      goldaxe_16: 441460193121776885
+      goldaxe_17: -7064020886258825723
+      goldaxe_18: 5332568372029736307
+      goldaxe_19: -191973685944173776
+      goldaxe_2: 8625534667261969808
+      goldaxe_20: -1918098094631253447
+      goldaxe_21: 3746850331059743642
+      goldaxe_22: 1899303273673660704
+      goldaxe_23: -990007314244547616
+      goldaxe_24: 7246888604522676008
+      goldaxe_25: -3826667462780288331
+      goldaxe_26: 1209738196681192184
+      goldaxe_27: 1832912371145461715
+      goldaxe_28: -9026293165276776315
+      goldaxe_29: 6725927692465807059
+      goldaxe_3: 3114209254957108502
+      goldaxe_30: 561690994257438336
+      goldaxe_31: 8873505543336263910
+      goldaxe_32: 3872506326586247607
+      goldaxe_33: -3982000119078091474
+      goldaxe_4: 2946420982454272239
+      goldaxe_5: 7971090248362981337
+      goldaxe_6: -8254317577990886497
+      goldaxe_7: 8169747178708122022
+      goldaxe_8: -8034571767077889427
+      goldaxe_9: 8674535045222966588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: f7b60314711272f4b99eebc0d8e78146
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8442420166199143183
+    second: eliminator_0
+  - first:
+      213: 4443872530416795281
+    second: eliminator_1
+  - first:
+      213: -4558659273889788695
+    second: eliminator_2
+  - first:
+      213: 8083060020450189991
+    second: eliminator_3
+  - first:
+      213: 2475989711990839912
+    second: eliminator_4
+  - first:
+      213: -2513728777206323819
+    second: eliminator_5
+  - first:
+      213: -2301332553422729831
+    second: eliminator_6
+  - first:
+      213: -7363429485587444581
+    second: eliminator_7
+  - first:
+      213: -4295097142360477387
+    second: eliminator_8
+  - first:
+      213: 1250452098844316346
+    second: eliminator_9
+  - first:
+      213: 682795809244772401
+    second: eliminator_10
+  - first:
+      213: -3252228467178892907
+    second: eliminator_11
+  - first:
+      213: 2380965399379946330
+    second: eliminator_12
+  - first:
+      213: 2777868970940605568
+    second: eliminator_13
+  - first:
+      213: -7705202518397170966
+    second: eliminator_14
+  - first:
+      213: -4564761174393543868
+    second: eliminator_15
+  - first:
+      213: -5412169096197268810
+    second: eliminator_16
+  - first:
+      213: 1260258310720062167
+    second: eliminator_17
+  - first:
+      213: 6500002916329873116
+    second: eliminator_18
+  - first:
+      213: -7456336692467885910
+    second: eliminator_19
+  - first:
+      213: -7964231885117746670
+    second: eliminator_20
+  - first:
+      213: 7207576276610523999
+    second: eliminator_21
+  - first:
+      213: -7202315153247976671
+    second: eliminator_22
+  - first:
+      213: -4696109776810581627
+    second: eliminator_23
+  - first:
+      213: -7305522788743220708
+    second: eliminator_24
+  - first:
+      213: 6725835910254404426
+    second: eliminator_25
+  - first:
+      213: -2270376619805879509
+    second: eliminator_26
+  - first:
+      213: 5811167627479321810
+    second: eliminator_27
+  - first:
+      213: -499181852606242578
+    second: eliminator_28
+  - first:
+      213: 5965017321364687460
+    second: eliminator_29
+  - first:
+      213: -4496472201134225129
+    second: eliminator_30
+  - first:
+      213: -5551211141095084530
+    second: eliminator_31
+  - first:
+      213: 1404447888511089442
+    second: eliminator_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eliminator_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 343
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be4ea4960892570800000000000000
+      internalID: 8442420166199143183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 343
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19efb92958ecbad30800000000000000
+      internalID: 4443872530416795281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 343
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec42cf0b836cb0c0800000000000000
+      internalID: -4558659273889788695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 342
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a26811434ccc2070800000000000000
+      internalID: 8083060020450189991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 337
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a5cb2568b7c5220800000000000000
+      internalID: 2475989711990839912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 301
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595a0f4def07d1dd0800000000000000
+      internalID: -2513728777206323819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 302
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d02335c360010e0800000000000000
+      internalID: -2301332553422729831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c4cee55e7dfc990800000000000000
+      internalID: -7363429485587444581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 302
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531fec9c7efb464c0800000000000000
+      internalID: -4295097142360477387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 259
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2d1480f8f7a5110800000000000000
+      internalID: 1250452098844316346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 259
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138f820cb27c97900800000000000000
+      internalID: 682795809244772401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 219
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591936da073cdd2d0800000000000000
+      internalID: -3252228467178892907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 219
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ba9847a63ea0120800000000000000
+      internalID: 2380965399379946330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 221
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084ae7d7c19fc8620800000000000000
+      internalID: 2777868970940605568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 221
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeacd78222f911590800000000000000
+      internalID: -7705202518397170966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 220
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44327c3a5e5b6a0c0800000000000000
+      internalID: -4564761174393543868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba90d4c1ec14e4b0800000000000000
+      internalID: -5412169096197268810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 179
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d204b7a1465d7110800000000000000
+      internalID: 1260258310720062167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 177
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde58d2c636a43a50800000000000000
+      internalID: 6500002916329873116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 179
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa89db79845c58890800000000000000
+      internalID: -7456336692467885910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21297bafb4d597190800000000000000
+      internalID: -7964231885117746670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 134
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5327eaaf64760460800000000000000
+      internalID: 7207576276610523999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123cd32178c3c0c90800000000000000
+      internalID: -7202315153247976671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 85
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58167fef90114deb0800000000000000
+      internalID: -4696109776810581627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 84
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12707edab19d9a90800000000000000
+      internalID: -7305522788743220708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 84
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a7481028f65d50800000000000000
+      internalID: 6725835910254404426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b235e164e700e70e0800000000000000
+      internalID: -2270376619805879509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 49
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc87261b2a65a050800000000000000
+      internalID: 5811167627479321810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee06515ffbc8219f0800000000000000
+      internalID: -499181852606242578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 49
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a8ef656aff7c250800000000000000
+      internalID: 5965017321364687460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 50
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c9fc3b525991c0800000000000000
+      internalID: -4496472201134225129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e26d5f0e226f2b0800000000000000
+      internalID: -5551211141095084530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminator_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b304cd9e99d7310800000000000000
+      internalID: 1404447888511089442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eliminator_0: 8442420166199143183
+      eliminator_1: 4443872530416795281
+      eliminator_10: 682795809244772401
+      eliminator_11: -3252228467178892907
+      eliminator_12: 2380965399379946330
+      eliminator_13: 2777868970940605568
+      eliminator_14: -7705202518397170966
+      eliminator_15: -4564761174393543868
+      eliminator_16: -5412169096197268810
+      eliminator_17: 1260258310720062167
+      eliminator_18: 6500002916329873116
+      eliminator_19: -7456336692467885910
+      eliminator_2: -4558659273889788695
+      eliminator_20: -7964231885117746670
+      eliminator_21: 7207576276610523999
+      eliminator_22: -7202315153247976671
+      eliminator_23: -4696109776810581627
+      eliminator_24: -7305522788743220708
+      eliminator_25: 6725835910254404426
+      eliminator_26: -2270376619805879509
+      eliminator_27: 5811167627479321810
+      eliminator_28: -499181852606242578
+      eliminator_29: 5965017321364687460
+      eliminator_3: 8083060020450189991
+      eliminator_30: -4496472201134225129
+      eliminator_31: -5551211141095084530
+      eliminator_32: 1404447888511089442
+      eliminator_4: 2475989711990839912
+      eliminator_5: -2513728777206323819
+      eliminator_6: -2301332553422729831
+      eliminator_7: -7363429485587444581
+      eliminator_8: -4295097142360477387
+      eliminator_9: 1250452098844316346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

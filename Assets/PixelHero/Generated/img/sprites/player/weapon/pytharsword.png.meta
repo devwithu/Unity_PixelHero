@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 339105e634bfb4e42ab61dcfcd145f33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9021168741924835113
+    second: pytharsword_0
+  - first:
+      213: 1757366425315215323
+    second: pytharsword_1
+  - first:
+      213: 1723632927568841999
+    second: pytharsword_2
+  - first:
+      213: 2030901494692921259
+    second: pytharsword_3
+  - first:
+      213: 8667322836444630078
+    second: pytharsword_4
+  - first:
+      213: -8170417387005479218
+    second: pytharsword_5
+  - first:
+      213: -8251217953673885768
+    second: pytharsword_6
+  - first:
+      213: -4052166524351604382
+    second: pytharsword_7
+  - first:
+      213: 3961238829054487531
+    second: pytharsword_8
+  - first:
+      213: -4353923508282349612
+    second: pytharsword_9
+  - first:
+      213: 5879756777079976485
+    second: pytharsword_10
+  - first:
+      213: 5755676102844695795
+    second: pytharsword_11
+  - first:
+      213: -3041902617841434298
+    second: pytharsword_12
+  - first:
+      213: -2558030242585763411
+    second: pytharsword_13
+  - first:
+      213: -7797941865912524646
+    second: pytharsword_14
+  - first:
+      213: -544112880012043881
+    second: pytharsword_15
+  - first:
+      213: 4218429386706111686
+    second: pytharsword_16
+  - first:
+      213: -6499771222637573417
+    second: pytharsword_17
+  - first:
+      213: 6723640745355895504
+    second: pytharsword_18
+  - first:
+      213: -4877024228445634866
+    second: pytharsword_19
+  - first:
+      213: -8236875894750338295
+    second: pytharsword_20
+  - first:
+      213: -7998305814463756088
+    second: pytharsword_21
+  - first:
+      213: 8153310094489645917
+    second: pytharsword_22
+  - first:
+      213: -1761458609513031163
+    second: pytharsword_23
+  - first:
+      213: 5288820616537597256
+    second: pytharsword_24
+  - first:
+      213: -8670445940749659484
+    second: pytharsword_25
+  - first:
+      213: -2088070039475155787
+    second: pytharsword_26
+  - first:
+      213: 1919658016097869619
+    second: pytharsword_27
+  - first:
+      213: -6782990794718056850
+    second: pytharsword_28
+  - first:
+      213: 4718937525874254572
+    second: pytharsword_29
+  - first:
+      213: 5316603203857701932
+    second: pytharsword_30
+  - first:
+      213: -5822761836995196937
+    second: pytharsword_31
+  - first:
+      213: -4170903128109401470
+    second: pytharsword_32
+  - first:
+      213: -614406043721886685
+    second: pytharsword_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pytharsword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d076be43de5ec280800000000000000
+      internalID: -9021168741924835113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd78c11f37b636810800000000000000
+      internalID: 1757366425315215323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d48e2f3039be710800000000000000
+      internalID: 1723632927568841999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf3bf436263f2c10800000000000000
+      internalID: 2030901494692921259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cc9e3c234884870800000000000000
+      internalID: 8667322836444630078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6fcdcdca8dc9e80800000000000000
+      internalID: -8170417387005479218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b741faecf8cd7d80800000000000000
+      internalID: -8251217953673885768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2691b41f300d3c7c0800000000000000
+      internalID: -4052166524351604382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebe64c3ab529f630800000000000000
+      internalID: 3961238829054487531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7ab9523a1c393c0800000000000000
+      internalID: -4353923508282349612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5223c8fe2a7199150800000000000000
+      internalID: 5879756777079976485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f44340bbe440ef40800000000000000
+      internalID: 5755676102844695795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6410b3e8fadf8c5d0800000000000000
+      internalID: -3041902617841434298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da128f12c0d008cd0800000000000000
+      internalID: -2558030242585763411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90232f203528c390800000000000000
+      internalID: -7797941865912524646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799da2de73ce278f0800000000000000
+      internalID: -544112880012043881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cccfa05d2fda8a30800000000000000
+      internalID: 4218429386706111686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da8161a28c2cc5a0800000000000000
+      internalID: -6499771222637573417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2e74072ab2f4d50800000000000000
+      internalID: 6723640745355895504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece3686cd44515cb0800000000000000
+      internalID: -4877024228445634866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ad6ab30db0bd80800000000000000
+      internalID: -8236875894750338295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c842f31d3f400190800000000000000
+      internalID: -7998305814463756088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5379a53550662170800000000000000
+      internalID: 8153310094489645917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a1c6d2aba0e87e0800000000000000
+      internalID: -1761458609513031163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456c71545aa56940800000000000000
+      internalID: 5288820616537597256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a29369da536ca780800000000000000
+      internalID: -8670445940749659484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc82f6bc5fa503e0800000000000000
+      internalID: -2088070039475155787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f9ebb7bcef3aa10800000000000000
+      internalID: 1919658016097869619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ee51e5fc9fdd1a0800000000000000
+      internalID: -6782990794718056850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2eef28da80d7140800000000000000
+      internalID: 4718937525874254572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 59
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c54a1027e58c940800000000000000
+      internalID: 5316603203857701932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 62
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f74336a5f4613fa0800000000000000
+      internalID: -5822761836995196937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a397014b9fd16c0800000000000000
+      internalID: -4170903128109401470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pytharsword_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3249a1065f03977f0800000000000000
+      internalID: -614406043721886685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pytharsword_0: -9021168741924835113
+      pytharsword_1: 1757366425315215323
+      pytharsword_10: 5879756777079976485
+      pytharsword_11: 5755676102844695795
+      pytharsword_12: -3041902617841434298
+      pytharsword_13: -2558030242585763411
+      pytharsword_14: -7797941865912524646
+      pytharsword_15: -544112880012043881
+      pytharsword_16: 4218429386706111686
+      pytharsword_17: -6499771222637573417
+      pytharsword_18: 6723640745355895504
+      pytharsword_19: -4877024228445634866
+      pytharsword_2: 1723632927568841999
+      pytharsword_20: -8236875894750338295
+      pytharsword_21: -7998305814463756088
+      pytharsword_22: 8153310094489645917
+      pytharsword_23: -1761458609513031163
+      pytharsword_24: 5288820616537597256
+      pytharsword_25: -8670445940749659484
+      pytharsword_26: -2088070039475155787
+      pytharsword_27: 1919658016097869619
+      pytharsword_28: -6782990794718056850
+      pytharsword_29: 4718937525874254572
+      pytharsword_3: 2030901494692921259
+      pytharsword_30: 5316603203857701932
+      pytharsword_31: -5822761836995196937
+      pytharsword_32: -4170903128109401470
+      pytharsword_33: -614406043721886685
+      pytharsword_4: 8667322836444630078
+      pytharsword_5: -8170417387005479218
+      pytharsword_6: -8251217953673885768
+      pytharsword_7: -4052166524351604382
+      pytharsword_8: 3961238829054487531
+      pytharsword_9: -4353923508282349612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

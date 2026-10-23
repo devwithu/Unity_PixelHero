@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: aa476c34dfb892d4b8de2683a629438a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2548588853950858494
+    second: cobaltshield_0
+  - first:
+      213: -7827126295344477028
+    second: cobaltshield_1
+  - first:
+      213: 844990331479645994
+    second: cobaltshield_2
+  - first:
+      213: -5470280559992526347
+    second: cobaltshield_3
+  - first:
+      213: 8472900190792234321
+    second: cobaltshield_4
+  - first:
+      213: 7361720341833555844
+    second: cobaltshield_5
+  - first:
+      213: 5619026219596871256
+    second: cobaltshield_6
+  - first:
+      213: -1557020992138675942
+    second: cobaltshield_7
+  - first:
+      213: 2857048569335773464
+    second: cobaltshield_8
+  - first:
+      213: 2745262873499971484
+    second: cobaltshield_9
+  - first:
+      213: 2208907345721476869
+    second: cobaltshield_10
+  - first:
+      213: 5203738537080284640
+    second: cobaltshield_11
+  - first:
+      213: 7764367528274736596
+    second: cobaltshield_12
+  - first:
+      213: 8113677302395354159
+    second: cobaltshield_13
+  - first:
+      213: -288863198337970404
+    second: cobaltshield_14
+  - first:
+      213: 7675699961261058144
+    second: cobaltshield_15
+  - first:
+      213: 164406876075639220
+    second: cobaltshield_16
+  - first:
+      213: -744412578784365798
+    second: cobaltshield_17
+  - first:
+      213: 5822512848554646534
+    second: cobaltshield_18
+  - first:
+      213: -8324082186070972235
+    second: cobaltshield_19
+  - first:
+      213: 5323874146200089090
+    second: cobaltshield_20
+  - first:
+      213: -2408313568675739987
+    second: cobaltshield_21
+  - first:
+      213: -3125009459056772409
+    second: cobaltshield_22
+  - first:
+      213: 442312645926077423
+    second: cobaltshield_23
+  - first:
+      213: -9160982274287748704
+    second: cobaltshield_24
+  - first:
+      213: 380066730501354780
+    second: cobaltshield_25
+  - first:
+      213: -3081716441500568708
+    second: cobaltshield_26
+  - first:
+      213: 754843197014874441
+    second: cobaltshield_27
+  - first:
+      213: -7503827033821663294
+    second: cobaltshield_28
+  - first:
+      213: 255593679569862816
+    second: cobaltshield_29
+  - first:
+      213: -6295448215410376774
+    second: cobaltshield_30
+  - first:
+      213: -6862751396065042636
+    second: cobaltshield_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobaltshield_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 538
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4c2464f086e5320800000000000000
+      internalID: 2548588853950858494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 537
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c8fd1ba16706390800000000000000
+      internalID: -7827126295344477028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 537
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fdb72ca320abb00800000000000000
+      internalID: 844990331479645994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 538
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9abef30d8a514b0800000000000000
+      internalID: -5470280559992526347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 442
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b28905d9c59570800000000000000
+      internalID: 8472900190792234321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 441
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f91c695a51a2660800000000000000
+      internalID: 7361720341833555844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 441
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8567daa639acafd40800000000000000
+      internalID: 5619026219596871256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 442
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a197fb738a9546ae0800000000000000
+      internalID: -1557020992138675942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 393
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819fb49598646a720800000000000000
+      internalID: 2857048569335773464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 394
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fa806d902291620800000000000000
+      internalID: 2745262873499971484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 393
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ca73178d97ae10800000000000000
+      internalID: 2208907345721476869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 394
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56eaef0a4673840800000000000000
+      internalID: 5203738537080284640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 297
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5b46c212390cb60800000000000000
+      internalID: 7764367528274736596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 298
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cbc67b482999070800000000000000
+      internalID: 8113677302395354159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 297
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc16a9370cdfbf0800000000000000
+      internalID: -288863198337970404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 298
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068e1797270958a60800000000000000
+      internalID: 7675699961261058144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 250
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1ce17ce27184200800000000000000
+      internalID: 164406876075639220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 250
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b93324b05ba5f0800000000000000
+      internalID: -744412578784365798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 249
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c5f363698bdc050800000000000000
+      internalID: 5822512848554646534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 250
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8251aca5bea7c80800000000000000
+      internalID: -8324082186070972235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 154
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2027421345332e940800000000000000
+      internalID: 5323874146200089090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 154
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6445fa193f39ed0800000000000000
+      internalID: -2408313568675739987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 153
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7f29347cb1a4d0800000000000000
+      internalID: -3125009459056772409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 154
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3461c0209632600800000000000000
+      internalID: 442312645926077423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 109
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9bd639827add080800000000000000
+      internalID: -9160982274287748704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 109
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c153a7e7da4464500800000000000000
+      internalID: 380066730501354780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 109
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b0ed593b8b35d0800000000000000
+      internalID: -3081716441500568708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 109
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949113b63edb97a00800000000000000
+      internalID: 754843197014874441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf2619d11d0dd790800000000000000
+      internalID: -7503827033821663294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 13
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0c89de81d0c8300800000000000000
+      internalID: 255593679569862816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 13
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff89ae33312a8a0800000000000000
+      internalID: -6295448215410376774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltshield_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 13
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f1ab737fb92c0a0800000000000000
+      internalID: -6862751396065042636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cobaltshield_0: 2548588853950858494
+      cobaltshield_1: -7827126295344477028
+      cobaltshield_10: 2208907345721476869
+      cobaltshield_11: 5203738537080284640
+      cobaltshield_12: 7764367528274736596
+      cobaltshield_13: 8113677302395354159
+      cobaltshield_14: -288863198337970404
+      cobaltshield_15: 7675699961261058144
+      cobaltshield_16: 164406876075639220
+      cobaltshield_17: -744412578784365798
+      cobaltshield_18: 5822512848554646534
+      cobaltshield_19: -8324082186070972235
+      cobaltshield_2: 844990331479645994
+      cobaltshield_20: 5323874146200089090
+      cobaltshield_21: -2408313568675739987
+      cobaltshield_22: -3125009459056772409
+      cobaltshield_23: 442312645926077423
+      cobaltshield_24: -9160982274287748704
+      cobaltshield_25: 380066730501354780
+      cobaltshield_26: -3081716441500568708
+      cobaltshield_27: 754843197014874441
+      cobaltshield_28: -7503827033821663294
+      cobaltshield_29: 255593679569862816
+      cobaltshield_3: -5470280559992526347
+      cobaltshield_30: -6295448215410376774
+      cobaltshield_31: -6862751396065042636
+      cobaltshield_4: 8472900190792234321
+      cobaltshield_5: 7361720341833555844
+      cobaltshield_6: 5619026219596871256
+      cobaltshield_7: -1557020992138675942
+      cobaltshield_8: 2857048569335773464
+      cobaltshield_9: 2745262873499971484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

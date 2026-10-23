@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 32858eb34c3fcb84da0a521c07a4d2aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6914016923558582447
+    second: lolipop_0
+  - first:
+      213: -8887727690657408437
+    second: lolipop_1
+  - first:
+      213: -8296153015803410529
+    second: lolipop_2
+  - first:
+      213: 5922310945845029931
+    second: lolipop_3
+  - first:
+      213: 4467928253123412668
+    second: lolipop_4
+  - first:
+      213: 1087250581152624960
+    second: lolipop_5
+  - first:
+      213: -2623826812276435406
+    second: lolipop_6
+  - first:
+      213: -2787806247903312706
+    second: lolipop_7
+  - first:
+      213: -2111485453785596105
+    second: lolipop_8
+  - first:
+      213: -140909096945935295
+    second: lolipop_9
+  - first:
+      213: 309984525040625038
+    second: lolipop_10
+  - first:
+      213: -8954487787159475493
+    second: lolipop_11
+  - first:
+      213: -9203603008217340225
+    second: lolipop_12
+  - first:
+      213: -5317229872393832309
+    second: lolipop_13
+  - first:
+      213: 737237831324051623
+    second: lolipop_14
+  - first:
+      213: 836613853826762987
+    second: lolipop_15
+  - first:
+      213: 5891913124528566729
+    second: lolipop_16
+  - first:
+      213: 3148742077537416431
+    second: lolipop_17
+  - first:
+      213: 7709738400249964267
+    second: lolipop_18
+  - first:
+      213: -8522022570690568073
+    second: lolipop_19
+  - first:
+      213: 6970422217167365664
+    second: lolipop_20
+  - first:
+      213: -2635293945936379693
+    second: lolipop_21
+  - first:
+      213: 7878606369093645967
+    second: lolipop_22
+  - first:
+      213: 2038863532944336172
+    second: lolipop_23
+  - first:
+      213: 4334356940652949423
+    second: lolipop_24
+  - first:
+      213: -1117990013764146976
+    second: lolipop_25
+  - first:
+      213: 4208808433822431276
+    second: lolipop_26
+  - first:
+      213: 562444584472717337
+    second: lolipop_27
+  - first:
+      213: -7407434897836925926
+    second: lolipop_28
+  - first:
+      213: -5905005921580852224
+    second: lolipop_29
+  - first:
+      213: 7107689975924256881
+    second: lolipop_30
+  - first:
+      213: -7957473059406775288
+    second: lolipop_31
+  - first:
+      213: 346142473335685178
+    second: lolipop_32
+  - first:
+      213: -7215329024682426304
+    second: lolipop_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lolipop_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 541
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15760447d3a7c00a0800000000000000
+      internalID: -6914016923558582447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 540
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a56f921c278a480800000000000000
+      internalID: -8887727690657408437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 540
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9780ca79c42edc80800000000000000
+      internalID: -8296153015803410529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 541
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c20807d66403250800000000000000
+      internalID: 5922310945845029931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb24a59f215410e30800000000000000
+      internalID: 4467928253123412668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041707f94a0b61f00800000000000000
+      internalID: 1087250581152624960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2361e167a6b469bd0800000000000000
+      internalID: -2623826812276435406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4cb1becf8bf49d0800000000000000
+      internalID: -2787806247903312706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f74baba2f72b2e0800000000000000
+      internalID: -2111485453785596105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c9ae24ce36b0ef0800000000000000
+      internalID: -140909096945935295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e852aec78494d4400800000000000000
+      internalID: 309984525040625038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda29ccecc44bb380800000000000000
+      internalID: -8954487787159475493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb62d79a3db364080800000000000000
+      internalID: -9203603008217340225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88beda5a976536b0800000000000000
+      internalID: -5317229872393832309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8ac0bc6e13b3a00800000000000000
+      internalID: 737237831324051623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8c3831edf3c9b00800000000000000
+      internalID: 836613853826762987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1bcf225c744c150800000000000000
+      internalID: 5891913124528566729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe471fc9c3492bb20800000000000000
+      internalID: 3148742077537416431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be666122a3e7efa60800000000000000
+      internalID: 7709738400249964267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770a022af91bbb980800000000000000
+      internalID: -8522022570690568073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02660cc531aebb060800000000000000
+      internalID: 6970422217167365664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d089b95e1e8d6bd0800000000000000
+      internalID: -2635293945936379693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86f4f200ce665d60800000000000000
+      internalID: 7878606369093645967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2525a2b49f7b4c10800000000000000
+      internalID: 2038863532944336172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 253
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2e515caab62c30800000000000000
+      internalID: 4334356940652949423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8672f710a1c70f0800000000000000
+      internalID: -1117990013764146976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2877a9a8f0b86a30800000000000000
+      internalID: 4208808433822431276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 241
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918a65f9e543ec700800000000000000
+      internalID: 562444584472717337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c1999e431833990800000000000000
+      internalID: -7407434897836925926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c589f76643d0ea0800000000000000
+      internalID: -5905005921580852224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 202
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170f19cff5693a260800000000000000
+      internalID: 7107689975924256881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c7158b960619190800000000000000
+      internalID: -7957473059406775288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3049dcdebebdc400800000000000000
+      internalID: 346142473335685178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lolipop_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 162
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0400d320b700edb90800000000000000
+      internalID: -7215329024682426304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lolipop_0: -6914016923558582447
+      lolipop_1: -8887727690657408437
+      lolipop_10: 309984525040625038
+      lolipop_11: -8954487787159475493
+      lolipop_12: -9203603008217340225
+      lolipop_13: -5317229872393832309
+      lolipop_14: 737237831324051623
+      lolipop_15: 836613853826762987
+      lolipop_16: 5891913124528566729
+      lolipop_17: 3148742077537416431
+      lolipop_18: 7709738400249964267
+      lolipop_19: -8522022570690568073
+      lolipop_2: -8296153015803410529
+      lolipop_20: 6970422217167365664
+      lolipop_21: -2635293945936379693
+      lolipop_22: 7878606369093645967
+      lolipop_23: 2038863532944336172
+      lolipop_24: 4334356940652949423
+      lolipop_25: -1117990013764146976
+      lolipop_26: 4208808433822431276
+      lolipop_27: 562444584472717337
+      lolipop_28: -7407434897836925926
+      lolipop_29: -5905005921580852224
+      lolipop_3: 5922310945845029931
+      lolipop_30: 7107689975924256881
+      lolipop_31: -7957473059406775288
+      lolipop_32: 346142473335685178
+      lolipop_33: -7215329024682426304
+      lolipop_4: 4467928253123412668
+      lolipop_5: 1087250581152624960
+      lolipop_6: -2623826812276435406
+      lolipop_7: -2787806247903312706
+      lolipop_8: -2111485453785596105
+      lolipop_9: -140909096945935295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

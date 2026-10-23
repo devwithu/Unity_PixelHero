@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 807554bfbaacb7242a81309a95cabdcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6966752109234570380
+    second: etherialblade_0
+  - first:
+      213: 342014442478016031
+    second: etherialblade_1
+  - first:
+      213: 1267444624054245472
+    second: etherialblade_2
+  - first:
+      213: 3973167781252335592
+    second: etherialblade_3
+  - first:
+      213: 8324313686143362632
+    second: etherialblade_4
+  - first:
+      213: -1251346432956930982
+    second: etherialblade_5
+  - first:
+      213: 6136617480815757830
+    second: etherialblade_6
+  - first:
+      213: -6665084302328151567
+    second: etherialblade_7
+  - first:
+      213: -617500668634369480
+    second: etherialblade_8
+  - first:
+      213: -278224807807029497
+    second: etherialblade_9
+  - first:
+      213: 5048207982941215864
+    second: etherialblade_10
+  - first:
+      213: -3043760529822084185
+    second: etherialblade_11
+  - first:
+      213: -5075394602249416775
+    second: etherialblade_12
+  - first:
+      213: 2509229902731778750
+    second: etherialblade_13
+  - first:
+      213: -4648669447002411532
+    second: etherialblade_14
+  - first:
+      213: -3124206507549772221
+    second: etherialblade_15
+  - first:
+      213: -3022752879884681746
+    second: etherialblade_16
+  - first:
+      213: -1220482705240390923
+    second: etherialblade_17
+  - first:
+      213: 4369377933999605483
+    second: etherialblade_18
+  - first:
+      213: -2767552702269358279
+    second: etherialblade_19
+  - first:
+      213: -5386471723411225986
+    second: etherialblade_20
+  - first:
+      213: 5042290869315779623
+    second: etherialblade_21
+  - first:
+      213: 4669738702592409813
+    second: etherialblade_22
+  - first:
+      213: 1752635837343176040
+    second: etherialblade_23
+  - first:
+      213: -5238381389530428192
+    second: etherialblade_24
+  - first:
+      213: 3937031966358714771
+    second: etherialblade_25
+  - first:
+      213: 6567530416090098478
+    second: etherialblade_26
+  - first:
+      213: 7779638703152337069
+    second: etherialblade_27
+  - first:
+      213: 3883672023546271174
+    second: etherialblade_28
+  - first:
+      213: -6795484395816332217
+    second: etherialblade_29
+  - first:
+      213: -8014136481826700581
+    second: etherialblade_30
+  - first:
+      213: 4607342251962590866
+    second: etherialblade_31
+  - first:
+      213: -1941764037151215542
+    second: etherialblade_32
+  - first:
+      213: 638427436644534314
+    second: etherialblade_33
+  - first:
+      213: 5053840736420003871
+    second: etherialblade_34
+  - first:
+      213: -1140855896351574757
+    second: etherialblade_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: etherialblade_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bbeda3edf115f90800000000000000
+      internalID: -6966752109234570380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 723
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1694f7c2541fb400800000000000000
+      internalID: 342014442478016031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 723
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0685b3d9b2ed69110800000000000000
+      internalID: 1267444624054245472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7829adb07832730800000000000000
+      internalID: 3973167781252335592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 660
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8466f758137e58370800000000000000
+      internalID: 8324313686143362632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 659
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5466a49c0352aee0800000000000000
+      internalID: -1251346432956930982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 659
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ac97ae515a92550800000000000000
+      internalID: 6136617480815757830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 660
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1c2b1e32dd083a0800000000000000
+      internalID: -6665084302328151567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 597
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8327b7dd9623e67f0800000000000000
+      internalID: -617500668634369480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 596
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe5fae20c832cf0800000000000000
+      internalID: -278224807807029497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 596
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c9087f966de0640800000000000000
+      internalID: 5048207982941215864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 597
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a39996bce362c5d0800000000000000
+      internalID: -3043760529822084185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 531
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf0df5ff739099b0800000000000000
+      internalID: -5075394602249416775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba9d145d4392d220800000000000000
+      internalID: 2509229902731778750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 531
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fda53584cb9c7fb0800000000000000
+      internalID: -4648669447002411532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3463880fbb694a4d0800000000000000
+      internalID: -3124206507549772221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed3fae55460d06d0800000000000000
+      internalID: -3022752879884681746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f283ab2279ff0fe0800000000000000
+      internalID: -1220482705240390923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be60a7db41623ac30800000000000000
+      internalID: 4369377933999605483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fff0cfa7da799d0800000000000000
+      internalID: -2767552702269358279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 404
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72436d91886f35b0800000000000000
+      internalID: -5386471723411225986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 405
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c33c794d0d9f540800000000000000
+      internalID: 5042290869315779623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 404
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d00ae1db9e3ec040800000000000000
+      internalID: 4669738702592409813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 405
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8659579120d925810800000000000000
+      internalID: 1752635837343176040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 340
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec850f51e78d47b0800000000000000
+      internalID: -5238381389530428192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 342
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3993b20d6b523a630800000000000000
+      internalID: 3937031966358714771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 321
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2baf9efd1e842b50800000000000000
+      internalID: 6567530416090098478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da09646ae24d6fb60800000000000000
+      internalID: 7779638703152337069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 277
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5199bf02395e530800000000000000
+      internalID: 3883672023546271174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 278
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74458ae22f691b1a0800000000000000
+      internalID: -6795484395816332217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 268
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2883b945118c090800000000000000
+      internalID: -8014136481826700581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 277
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e0ee0e5190ff30800000000000000
+      internalID: 4607342251962590866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 214
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4039f765e77d05e0800000000000000
+      internalID: -1941764037151215542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a288f000f562cd800800000000000000
+      internalID: 638427436644534314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1086b59f59d22640800000000000000
+      internalID: 5053840736420003871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: etherialblade_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15fd065b9dda20f0800000000000000
+      internalID: -1140855896351574757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      etherialblade_0: -6966752109234570380
+      etherialblade_1: 342014442478016031
+      etherialblade_10: 5048207982941215864
+      etherialblade_11: -3043760529822084185
+      etherialblade_12: -5075394602249416775
+      etherialblade_13: 2509229902731778750
+      etherialblade_14: -4648669447002411532
+      etherialblade_15: -3124206507549772221
+      etherialblade_16: -3022752879884681746
+      etherialblade_17: -1220482705240390923
+      etherialblade_18: 4369377933999605483
+      etherialblade_19: -2767552702269358279
+      etherialblade_2: 1267444624054245472
+      etherialblade_20: -5386471723411225986
+      etherialblade_21: 5042290869315779623
+      etherialblade_22: 4669738702592409813
+      etherialblade_23: 1752635837343176040
+      etherialblade_24: -5238381389530428192
+      etherialblade_25: 3937031966358714771
+      etherialblade_26: 6567530416090098478
+      etherialblade_27: 7779638703152337069
+      etherialblade_28: 3883672023546271174
+      etherialblade_29: -6795484395816332217
+      etherialblade_3: 3973167781252335592
+      etherialblade_30: -8014136481826700581
+      etherialblade_31: 4607342251962590866
+      etherialblade_32: -1941764037151215542
+      etherialblade_33: 638427436644534314
+      etherialblade_34: 5053840736420003871
+      etherialblade_35: -1140855896351574757
+      etherialblade_4: 8324313686143362632
+      etherialblade_5: -1251346432956930982
+      etherialblade_6: 6136617480815757830
+      etherialblade_7: -6665084302328151567
+      etherialblade_8: -617500668634369480
+      etherialblade_9: -278224807807029497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

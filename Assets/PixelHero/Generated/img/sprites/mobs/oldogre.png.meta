@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 8b0b995dfc89f0b4394193b929c7064b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3719760179519783247
+    second: oldogre_0
+  - first:
+      213: 3993227723274605980
+    second: oldogre_1
+  - first:
+      213: 3065337659883831523
+    second: oldogre_2
+  - first:
+      213: -7990406340201149426
+    second: oldogre_3
+  - first:
+      213: 4451222441456082090
+    second: oldogre_4
+  - first:
+      213: -1930919888239422540
+    second: oldogre_5
+  - first:
+      213: -8466107828285822929
+    second: oldogre_6
+  - first:
+      213: -4898327615886522675
+    second: oldogre_7
+  - first:
+      213: -2329217844719411754
+    second: oldogre_8
+  - first:
+      213: -6807628379756502140
+    second: oldogre_9
+  - first:
+      213: -6331065983971096085
+    second: oldogre_10
+  - first:
+      213: -5894266292095670753
+    second: oldogre_11
+  - first:
+      213: 3120337627413157818
+    second: oldogre_12
+  - first:
+      213: 1304798439533219768
+    second: oldogre_13
+  - first:
+      213: 8030727931927980389
+    second: oldogre_14
+  - first:
+      213: -2576672143672943334
+    second: oldogre_15
+  - first:
+      213: 2901899708469601191
+    second: oldogre_16
+  - first:
+      213: -7451567571506446725
+    second: oldogre_17
+  - first:
+      213: 8563488039343001581
+    second: oldogre_18
+  - first:
+      213: -1371846841645686681
+    second: oldogre_19
+  - first:
+      213: 4244674893956898703
+    second: oldogre_20
+  - first:
+      213: 6069669251027340315
+    second: oldogre_21
+  - first:
+      213: 3372449392156511245
+    second: oldogre_22
+  - first:
+      213: -8959587645530004314
+    second: oldogre_23
+  - first:
+      213: -1884266709002355132
+    second: oldogre_24
+  - first:
+      213: 4624070830292958636
+    second: oldogre_25
+  - first:
+      213: 5274772662233555533
+    second: oldogre_26
+  - first:
+      213: 1591456519979182575
+    second: oldogre_27
+  - first:
+      213: 7324384324904698040
+    second: oldogre_28
+  - first:
+      213: 4807510152106431667
+    second: oldogre_29
+  - first:
+      213: -8665413726045830876
+    second: oldogre_30
+  - first:
+      213: 1840376598571914994
+    second: oldogre_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oldogre_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 392
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be741a23d1c06cc0800000000000000
+      internalID: -3719760179519783247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 392
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955601157bca6730800000000000000
+      internalID: 3993227723274605980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 392
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c00e5c544a8a20800000000000000
+      internalID: 3065337659883831523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 344
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c0841c4cf5c1190800000000000000
+      internalID: -7990406340201149426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 346
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac9c371a3be5cd30800000000000000
+      internalID: 4451222441456082090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 346
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b390c3979ef335e0800000000000000
+      internalID: -1930919888239422540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 344
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28aed819c7528a80800000000000000
+      internalID: -8466107828285822929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 346
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6099d5cf4a50cb0800000000000000
+      internalID: -4898327615886522675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 346
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd9ff006b4fcafd0800000000000000
+      internalID: -2329217844719411754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 296
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483eeb59e027681a0800000000000000
+      internalID: -6807628379756502140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 296
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be908dfe7098328a0800000000000000
+      internalID: -6331065983971096085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 248
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f162418590c533ea0800000000000000
+      internalID: -5894266292095670753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 248
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab71f353a8aad4b20800000000000000
+      internalID: 3120337627413157818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf8cd384439b1210800000000000000
+      internalID: 1304798439533219768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569ef566180e27f60800000000000000
+      internalID: 8030727931927980389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ddabd4652dd3cd0800000000000000
+      internalID: -2576672143672943334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e321f86e954820800000000000000
+      internalID: 2901899708469601191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 201
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eb98816c6b69890800000000000000
+      internalID: -7451567571506446725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 200
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def885f100f97d670800000000000000
+      internalID: 8563488039343001581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760a77dd09836fce0800000000000000
+      internalID: -1371846841645686681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fd159a35d18ea30800000000000000
+      internalID: 4244674893956898703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 104
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c889b760ccb3450800000000000000
+      internalID: 6069669251027340315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 104
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c887aaad85dce20800000000000000
+      internalID: 3372449392156511245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 104
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4a43e918629a380800000000000000
+      internalID: -8959587645530004314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 56
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef1d3596db9d5e0800000000000000
+      internalID: -1884266709002355132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 56
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad7bd7bbeffb2040800000000000000
+      internalID: 4624070830292958636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 57
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d426f531ac1c33940800000000000000
+      internalID: 5274772662233555533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 56
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9a6d4e54df51610800000000000000
+      internalID: 1591456519979182575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 57
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0426cbcb075a560800000000000000
+      internalID: 7324384324904698040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 56
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b453661305b7b240800000000000000
+      internalID: 4807510152106431667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4218e33a0244eb780800000000000000
+      internalID: -8665413726045830876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldogre_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f612d204c45a8910800000000000000
+      internalID: 1840376598571914994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      oldogre_0: -3719760179519783247
+      oldogre_1: 3993227723274605980
+      oldogre_10: -6331065983971096085
+      oldogre_11: -5894266292095670753
+      oldogre_12: 3120337627413157818
+      oldogre_13: 1304798439533219768
+      oldogre_14: 8030727931927980389
+      oldogre_15: -2576672143672943334
+      oldogre_16: 2901899708469601191
+      oldogre_17: -7451567571506446725
+      oldogre_18: 8563488039343001581
+      oldogre_19: -1371846841645686681
+      oldogre_2: 3065337659883831523
+      oldogre_20: 4244674893956898703
+      oldogre_21: 6069669251027340315
+      oldogre_22: 3372449392156511245
+      oldogre_23: -8959587645530004314
+      oldogre_24: -1884266709002355132
+      oldogre_25: 4624070830292958636
+      oldogre_26: 5274772662233555533
+      oldogre_27: 1591456519979182575
+      oldogre_28: 7324384324904698040
+      oldogre_29: 4807510152106431667
+      oldogre_3: -7990406340201149426
+      oldogre_30: -8665413726045830876
+      oldogre_31: 1840376598571914994
+      oldogre_4: 4451222441456082090
+      oldogre_5: -1930919888239422540
+      oldogre_6: -8466107828285822929
+      oldogre_7: -4898327615886522675
+      oldogre_8: -2329217844719411754
+      oldogre_9: -6807628379756502140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

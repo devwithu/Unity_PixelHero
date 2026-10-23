@@ -1,0 +1,443 @@
+{
+ "seed": 97,
+ "end": 34000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 216 115"
+    ]
+   ]
+  },
+  {
+   "t": 4000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 4300,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 4600,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 4900,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 5200,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 5500,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 5800,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 6100,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 0,
+   "send": [
+    "Quest",
+    {
+     "key": "foresting"
+    }
+   ]
+  },
+  {
+   "t": 7300,
+   "conn": 0,
+   "send": [
+    "Quest",
+    {
+     "key": "nosuchquest"
+    }
+   ]
+  },
+  {
+   "t": 7600,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 7900,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 8200,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn logs 10"
+    ]
+   ]
+  },
+  {
+   "t": 12500,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 12800,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 13100,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 13400,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 14000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn logs 10"
+    ]
+   ]
+  },
+  {
+   "t": 17500,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 17800,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 18100,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 18400,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  },
+  {
+   "t": 20000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 698 582"
+    ]
+   ]
+  },
+  {
+   "t": 21000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$redstoremannpc@698,581"
+    ]
+   ]
+  },
+  {
+   "t": 21300,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$redstoremannpc@698,581"
+    ]
+   ]
+  },
+  {
+   "t": 21600,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$redstoremannpc@698,581"
+    ]
+   ]
+  },
+  {
+   "t": 23000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 365 892"
+    ]
+   ]
+  },
+  {
+   "t": 24000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$vendingmachine@364,892"
+    ]
+   ]
+  },
+  {
+   "t": 24300,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$vendingmachine@364,892"
+    ]
+   ]
+  },
+  {
+   "t": 24600,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$vendingmachine@364,892"
+    ]
+   ]
+  },
+  {
+   "t": 26000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 399 890"
+    ]
+   ]
+  },
+  {
+   "t": 27000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$bluestoremannpc@399,889"
+    ]
+   ]
+  },
+  {
+   "t": 27300,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$bluestoremannpc@399,889"
+    ]
+   ]
+  },
+  {
+   "t": 27600,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$bluestoremannpc@399,889"
+    ]
+   ]
+  },
+  {
+   "t": 29000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$forestnpc@216,114"
+    ]
+   ]
+  }
+ ]
+}

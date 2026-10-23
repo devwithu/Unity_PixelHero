@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: dc93ba0febe3ff7449b1b94103a85e96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7284219647814240080
+    second: scimitar_0
+  - first:
+      213: 8827279675912279368
+    second: scimitar_1
+  - first:
+      213: -8693425889196376365
+    second: scimitar_2
+  - first:
+      213: 4383254935973705252
+    second: scimitar_3
+  - first:
+      213: -3266005899472621786
+    second: scimitar_4
+  - first:
+      213: -3396968044631544509
+    second: scimitar_5
+  - first:
+      213: -7052396909383005151
+    second: scimitar_6
+  - first:
+      213: 4955246911682630825
+    second: scimitar_7
+  - first:
+      213: -6334078081161300382
+    second: scimitar_8
+  - first:
+      213: -4571049226610309238
+    second: scimitar_9
+  - first:
+      213: 2485113109613177296
+    second: scimitar_10
+  - first:
+      213: -3569960196196065050
+    second: scimitar_11
+  - first:
+      213: 5240423857037627038
+    second: scimitar_12
+  - first:
+      213: 5801114001822258595
+    second: scimitar_13
+  - first:
+      213: -4056585998657297765
+    second: scimitar_14
+  - first:
+      213: 3352054068705128876
+    second: scimitar_15
+  - first:
+      213: -8923085183986165466
+    second: scimitar_16
+  - first:
+      213: 6851843486796940900
+    second: scimitar_17
+  - first:
+      213: 8147464314432432444
+    second: scimitar_18
+  - first:
+      213: -7775368676399281146
+    second: scimitar_19
+  - first:
+      213: -4187860052531462823
+    second: scimitar_20
+  - first:
+      213: -808540824435779218
+    second: scimitar_21
+  - first:
+      213: -6781296689576585393
+    second: scimitar_22
+  - first:
+      213: -3891890880628973412
+    second: scimitar_23
+  - first:
+      213: -2422102363390114340
+    second: scimitar_24
+  - first:
+      213: -2622184051725052003
+    second: scimitar_25
+  - first:
+      213: 741882247849402347
+    second: scimitar_26
+  - first:
+      213: 9037205971914864131
+    second: scimitar_27
+  - first:
+      213: 7893090448340095247
+    second: scimitar_28
+  - first:
+      213: -6171650257744047840
+    second: scimitar_29
+  - first:
+      213: 7259506134614562740
+    second: scimitar_30
+  - first:
+      213: 5818265127271648912
+    second: scimitar_31
+  - first:
+      213: -3036014437995770105
+    second: scimitar_32
+  - first:
+      213: 1493806948397603506
+    second: scimitar_33
+  - first:
+      213: -6374134296802129503
+    second: scimitar_34
+  - first:
+      213: -4086184186194800689
+    second: scimitar_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scimitar_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 725
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05783ed1d2fb61560800000000000000
+      internalID: 7284219647814240080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 724
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845d6c7a81cc08a70800000000000000
+      internalID: 8827279675912279368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 724
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def349a63fba5780800000000000000
+      internalID: -8693425889196376365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 725
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b0ba042374dc30800000000000000
+      internalID: 4383254935973705252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 661
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62faa9f30f0dca2d0800000000000000
+      internalID: -3266005899472621786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 660
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2262bf8b8bd0d0800000000000000
+      internalID: -3396968044631544509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 660
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cc929406ad02e90800000000000000
+      internalID: -7052396909383005151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 661
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4d139efc294c440800000000000000
+      internalID: 4955246911682630825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 599
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266fac86b85d818a0800000000000000
+      internalID: -6334078081161300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 598
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87811562fe5090c0800000000000000
+      internalID: -4571049226610309238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 598
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e82dd435ec7220800000000000000
+      internalID: 2485113109613177296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 599
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e02373bd14f47ec0800000000000000
+      internalID: -3569960196196065050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 532
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ec537abb9b9b840800000000000000
+      internalID: 5240423857037627038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 533
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a51924f272b18050800000000000000
+      internalID: 5801114001822258595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 532
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b926535e68c14b7c0800000000000000
+      internalID: -4056585998657297765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 533
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca172116a63e48e20800000000000000
+      internalID: 3352054068705128876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 469
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62914fb3d45da2480800000000000000
+      internalID: -8923085183986165466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 468
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4660b1f3953a61f50800000000000000
+      internalID: 6851843486796940900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 468
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39aae970ab911170800000000000000
+      internalID: 8147464314432432444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 469
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c858d6267581490800000000000000
+      internalID: -7775368676399281146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 406
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d30df687bb1e5c0800000000000000
+      internalID: -4187860052531462823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 407
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e699a1d676c77c4f0800000000000000
+      internalID: -808540824435779218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 406
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f475145f69ef3e1a0800000000000000
+      internalID: -6781296689576585393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 407
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90278b3dd93df9c0800000000000000
+      internalID: -3891890880628973412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 341
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd58f7cbbb6f26ed0800000000000000
+      internalID: -2422102363390114340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 343
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97db357f712c9bd0800000000000000
+      internalID: -2622184051725052003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 319
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef5b3849f1bb4a00800000000000000
+      internalID: 741882247849402347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306360643fa9a6d70800000000000000
+      internalID: 9037205971914864131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 278
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01175181f3e98d60800000000000000
+      internalID: 7893090448340095247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 279
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021d7351ac4e95aa0800000000000000
+      internalID: -6171650257744047840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 276
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7587eed52feb460800000000000000
+      internalID: 7259506134614562740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 278
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec1188e41aeb050800000000000000
+      internalID: 5818265127271648912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0e4244f8edd5d0800000000000000
+      internalID: -3036014437995770105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 216
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2badf3a41811bb410800000000000000
+      internalID: 1493806948397603506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 225
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a98970f0a68a87a0800000000000000
+      internalID: -6374134296802129503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scimitar_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 226
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf4a07d125fa47c0800000000000000
+      internalID: -4086184186194800689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scimitar_0: 7284219647814240080
+      scimitar_1: 8827279675912279368
+      scimitar_10: 2485113109613177296
+      scimitar_11: -3569960196196065050
+      scimitar_12: 5240423857037627038
+      scimitar_13: 5801114001822258595
+      scimitar_14: -4056585998657297765
+      scimitar_15: 3352054068705128876
+      scimitar_16: -8923085183986165466
+      scimitar_17: 6851843486796940900
+      scimitar_18: 8147464314432432444
+      scimitar_19: -7775368676399281146
+      scimitar_2: -8693425889196376365
+      scimitar_20: -4187860052531462823
+      scimitar_21: -808540824435779218
+      scimitar_22: -6781296689576585393
+      scimitar_23: -3891890880628973412
+      scimitar_24: -2422102363390114340
+      scimitar_25: -2622184051725052003
+      scimitar_26: 741882247849402347
+      scimitar_27: 9037205971914864131
+      scimitar_28: 7893090448340095247
+      scimitar_29: -6171650257744047840
+      scimitar_3: 4383254935973705252
+      scimitar_30: 7259506134614562740
+      scimitar_31: 5818265127271648912
+      scimitar_32: -3036014437995770105
+      scimitar_33: 1493806948397603506
+      scimitar_34: -6374134296802129503
+      scimitar_35: -4086184186194800689
+      scimitar_4: -3266005899472621786
+      scimitar_5: -3396968044631544509
+      scimitar_6: -7052396909383005151
+      scimitar_7: 4955246911682630825
+      scimitar_8: -6334078081161300382
+      scimitar_9: -4571049226610309238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

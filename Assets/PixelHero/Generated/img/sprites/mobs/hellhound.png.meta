@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 04fa9be5d8c37544f822c49ddb38f7c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8225861730618646133
+    second: hellhound_0
+  - first:
+      213: -5474853189136447984
+    second: hellhound_1
+  - first:
+      213: -6899605548128567257
+    second: hellhound_2
+  - first:
+      213: -8867623244375319752
+    second: hellhound_3
+  - first:
+      213: -3069666331154047390
+    second: hellhound_4
+  - first:
+      213: -8737344801192145897
+    second: hellhound_5
+  - first:
+      213: -4320617487874414822
+    second: hellhound_6
+  - first:
+      213: -8558056713007639631
+    second: hellhound_7
+  - first:
+      213: 4259282621286076677
+    second: hellhound_8
+  - first:
+      213: 1522951260272756200
+    second: hellhound_9
+  - first:
+      213: -6938261934210362297
+    second: hellhound_10
+  - first:
+      213: 6901728684998175993
+    second: hellhound_11
+  - first:
+      213: 178450385859299262
+    second: hellhound_12
+  - first:
+      213: 3564680005273444155
+    second: hellhound_13
+  - first:
+      213: 8894534766415942475
+    second: hellhound_14
+  - first:
+      213: -3689484443038719037
+    second: hellhound_15
+  - first:
+      213: 4473940244017692262
+    second: hellhound_16
+  - first:
+      213: 8730002607844911982
+    second: hellhound_17
+  - first:
+      213: 2525847655994732622
+    second: hellhound_18
+  - first:
+      213: 2444889119660001356
+    second: hellhound_19
+  - first:
+      213: 3415659721719488254
+    second: hellhound_20
+  - first:
+      213: 6388204510041084044
+    second: hellhound_21
+  - first:
+      213: 217860164178690021
+    second: hellhound_22
+  - first:
+      213: 1825792249503340813
+    second: hellhound_23
+  - first:
+      213: -5175706249895459410
+    second: hellhound_24
+  - first:
+      213: 6116896470247169400
+    second: hellhound_25
+  - first:
+      213: -4454334796824043649
+    second: hellhound_26
+  - first:
+      213: 4033268482446478694
+    second: hellhound_27
+  - first:
+      213: 5468498834500908109
+    second: hellhound_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hellhound_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81eef6a65ed7dd80800000000000000
+      internalID: -8225861730618646133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 575
+        width: 130
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0168b10180a6504b0800000000000000
+      internalID: -5474853189136447984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 575
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7208b754f4daf30a0800000000000000
+      internalID: -6899605548128567257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 511
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b130554afdfe480800000000000000
+      internalID: -8867623244375319752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 511
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e16905cba5665d0800000000000000
+      internalID: -3069666331154047390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 511
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c06dc1237beb680800000000000000
+      internalID: -8737344801192145897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 511
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a7e059451a04c0800000000000000
+      internalID: -4320617487874414822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 439
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3588513ccab3980800000000000000
+      internalID: -8558056713007639631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 439
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50150c73af20c1b30800000000000000
+      internalID: 4259282621286076677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 359
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e58ace2a1c922510800000000000000
+      internalID: 1522951260272756200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 359
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744d6c4088756bf90800000000000000
+      internalID: -6938261934210362297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 359
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fca07d0cadd7cf50800000000000000
+      internalID: 6901728684998175993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 359
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7cc233eabf97200800000000000000
+      internalID: 178450385859299262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 290
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fd24c0499487130800000000000000
+      internalID: 3564680005273444155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 296
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43959aae3cbf6b70800000000000000
+      internalID: 8894534766415942475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 297
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3e85062715cccc0800000000000000
+      internalID: -3689484443038719037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 297
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ebffea2f0a61e30800000000000000
+      internalID: 4473940244017692262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b64d84e13372970800000000000000
+      internalID: 8730002607844911982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 225
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b1548f0d9d0320800000000000000
+      internalID: 2525847655994732622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484d8463bdfde120800000000000000
+      internalID: 2444889119660001356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 143
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe13b28b6cd66f20800000000000000
+      internalID: 3415659721719488254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 143
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c801c8dd72677a850800000000000000
+      internalID: 6388204510041084044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 143
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef34904aaef50300800000000000000
+      internalID: 217860164178690021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09de41a064865910800000000000000
+      internalID: 1825792249503340813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5463976923c28b0800000000000000
+      internalID: -5175706249895459410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 75
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d5ce45ee493e450800000000000000
+      internalID: 6116896470247169400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 76
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f14a43a160f22c0800000000000000
+      internalID: -4454334796824043649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d400cc05c09f730800000000000000
+      internalID: 4033268482446478694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellhound_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44701577b204eb40800000000000000
+      internalID: 5468498834500908109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hellhound_0: -8225861730618646133
+      hellhound_1: -5474853189136447984
+      hellhound_10: -6938261934210362297
+      hellhound_11: 6901728684998175993
+      hellhound_12: 178450385859299262
+      hellhound_13: 3564680005273444155
+      hellhound_14: 8894534766415942475
+      hellhound_15: -3689484443038719037
+      hellhound_16: 4473940244017692262
+      hellhound_17: 8730002607844911982
+      hellhound_18: 2525847655994732622
+      hellhound_19: 2444889119660001356
+      hellhound_2: -6899605548128567257
+      hellhound_20: 3415659721719488254
+      hellhound_21: 6388204510041084044
+      hellhound_22: 217860164178690021
+      hellhound_23: 1825792249503340813
+      hellhound_24: -5175706249895459410
+      hellhound_25: 6116896470247169400
+      hellhound_26: -4454334796824043649
+      hellhound_27: 4033268482446478694
+      hellhound_28: 5468498834500908109
+      hellhound_3: -8867623244375319752
+      hellhound_4: -3069666331154047390
+      hellhound_5: -8737344801192145897
+      hellhound_6: -4320617487874414822
+      hellhound_7: -8558056713007639631
+      hellhound_8: 4259282621286076677
+      hellhound_9: 1522951260272756200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

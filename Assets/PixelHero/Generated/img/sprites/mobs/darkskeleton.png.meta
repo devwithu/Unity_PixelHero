@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: ba63e237de643914f9b6d08672afed92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8825171015216528539
+    second: darkskeleton_0
+  - first:
+      213: -7592276099153935288
+    second: darkskeleton_1
+  - first:
+      213: -4330214841820605455
+    second: darkskeleton_2
+  - first:
+      213: -3709601180143172467
+    second: darkskeleton_3
+  - first:
+      213: -5972279756117963963
+    second: darkskeleton_4
+  - first:
+      213: 306668769802869717
+    second: darkskeleton_5
+  - first:
+      213: 7532639170753888620
+    second: darkskeleton_6
+  - first:
+      213: -6958917165124331035
+    second: darkskeleton_7
+  - first:
+      213: -1291108339518094378
+    second: darkskeleton_8
+  - first:
+      213: 1507229560736754888
+    second: darkskeleton_9
+  - first:
+      213: -7901316126488074049
+    second: darkskeleton_10
+  - first:
+      213: -6947490708074869751
+    second: darkskeleton_11
+  - first:
+      213: -3861498674232384940
+    second: darkskeleton_12
+  - first:
+      213: -2393215335565889148
+    second: darkskeleton_13
+  - first:
+      213: -466685492702297792
+    second: darkskeleton_14
+  - first:
+      213: 2328812170566006097
+    second: darkskeleton_15
+  - first:
+      213: 1950160922707680298
+    second: darkskeleton_16
+  - first:
+      213: 587387603229919709
+    second: darkskeleton_17
+  - first:
+      213: -3659262731324328646
+    second: darkskeleton_18
+  - first:
+      213: 7593458665618363148
+    second: darkskeleton_19
+  - first:
+      213: 4339728992957496523
+    second: darkskeleton_20
+  - first:
+      213: -1097990643279430471
+    second: darkskeleton_21
+  - first:
+      213: 8597427522685303820
+    second: darkskeleton_22
+  - first:
+      213: 4337218778617563844
+    second: darkskeleton_23
+  - first:
+      213: 847573839223615223
+    second: darkskeleton_24
+  - first:
+      213: 7484725151753106216
+    second: darkskeleton_25
+  - first:
+      213: -5198663701638885062
+    second: darkskeleton_26
+  - first:
+      213: -3418377220199574678
+    second: darkskeleton_27
+  - first:
+      213: 5563383188826416365
+    second: darkskeleton_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkskeleton_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 395
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56302fb28b1b68580800000000000000
+      internalID: -8825171015216528539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 395
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844cd390d11d2a690800000000000000
+      internalID: -7592276099153935288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 394
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f398283b8cf7e3c0800000000000000
+      internalID: -4330214841820605455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 347
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8442378169d48cc0800000000000000
+      internalID: -3709601180143172467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 348
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b055d44333e1da0800000000000000
+      internalID: -5972279756117963963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 348
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db5ecf0f91814400800000000000000
+      internalID: 306668769802869717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 348
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c618af98a6f498860800000000000000
+      internalID: 7532639170753888620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 299
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9556f45b5fc6f90800000000000000
+      internalID: -6958917165124331035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 299
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ca784ecf051ee0800000000000000
+      internalID: -1291108339518094378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 251
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccaea2cc41cae410800000000000000
+      internalID: 1507229560736754888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 251
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8ec9e88d2e85290800000000000000
+      internalID: -7901316126488074049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 253
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cced8a20e859f90800000000000000
+      internalID: -6947490708074869751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 205
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452acb53a63396ac0800000000000000
+      internalID: -3861498674232384940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 204
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f394055799ced0800000000000000
+      internalID: -2393215335565889148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 205
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c6a954000689f0800000000000000
+      internalID: -466685492702297792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 205
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155713f945a915020800000000000000
+      internalID: 2328812170566006097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cd6dcd60d501b10800000000000000
+      internalID: 1950160922707680298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9ccfbb9e1d62800800000000000000
+      internalID: 587387603229919709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a357697feefa73dc0800000000000000
+      internalID: -3659262731324328646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 108
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c035bccac62616960800000000000000
+      internalID: 7593458665618363148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 108
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccf1b6b680d93c30800000000000000
+      internalID: 4339728992957496523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc70acc35723c0f0800000000000000
+      internalID: -1097990643279430471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 60
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cf2dfd7c2305770800000000000000
+      internalID: 8597427522685303820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca47a4ef75e03c30800000000000000
+      internalID: 4337218778617563844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 60
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe66d78aef23cb00800000000000000
+      internalID: 847573839223615223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 60
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823fca7aed51fd760800000000000000
+      internalID: 7484725151753106216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31d81538e2aad7b0800000000000000
+      internalID: -5198663701638885062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6397b1970c7f80d0800000000000000
+      internalID: -3418377220199574678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkskeleton_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4e06fb88b153d40800000000000000
+      internalID: 5563383188826416365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkskeleton_0: -8825171015216528539
+      darkskeleton_1: -7592276099153935288
+      darkskeleton_10: -7901316126488074049
+      darkskeleton_11: -6947490708074869751
+      darkskeleton_12: -3861498674232384940
+      darkskeleton_13: -2393215335565889148
+      darkskeleton_14: -466685492702297792
+      darkskeleton_15: 2328812170566006097
+      darkskeleton_16: 1950160922707680298
+      darkskeleton_17: 587387603229919709
+      darkskeleton_18: -3659262731324328646
+      darkskeleton_19: 7593458665618363148
+      darkskeleton_2: -4330214841820605455
+      darkskeleton_20: 4339728992957496523
+      darkskeleton_21: -1097990643279430471
+      darkskeleton_22: 8597427522685303820
+      darkskeleton_23: 4337218778617563844
+      darkskeleton_24: 847573839223615223
+      darkskeleton_25: 7484725151753106216
+      darkskeleton_26: -5198663701638885062
+      darkskeleton_27: -3418377220199574678
+      darkskeleton_28: 5563383188826416365
+      darkskeleton_3: -3709601180143172467
+      darkskeleton_4: -5972279756117963963
+      darkskeleton_5: 306668769802869717
+      darkskeleton_6: 7532639170753888620
+      darkskeleton_7: -6958917165124331035
+      darkskeleton_8: -1291108339518094378
+      darkskeleton_9: 1507229560736754888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

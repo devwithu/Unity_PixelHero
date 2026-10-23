@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: d2cc3534668e39440afc4dacb0bc4524
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7947694803280714024
+    second: minotaurboss_0
+  - first:
+      213: -3002058145459887501
+    second: minotaurboss_1
+  - first:
+      213: 8602835430690143481
+    second: minotaurboss_2
+  - first:
+      213: -8883356969207889825
+    second: minotaurboss_3
+  - first:
+      213: 5338783676316170948
+    second: minotaurboss_4
+  - first:
+      213: -8729382007974671405
+    second: minotaurboss_5
+  - first:
+      213: -5556769151576958234
+    second: minotaurboss_6
+  - first:
+      213: 3153638809184904095
+    second: minotaurboss_7
+  - first:
+      213: -5570928171822602438
+    second: minotaurboss_8
+  - first:
+      213: 825874873668106841
+    second: minotaurboss_9
+  - first:
+      213: 7213930356699898570
+    second: minotaurboss_10
+  - first:
+      213: -8483591548518003359
+    second: minotaurboss_11
+  - first:
+      213: -6684651076050039740
+    second: minotaurboss_12
+  - first:
+      213: -6596423204919531987
+    second: minotaurboss_13
+  - first:
+      213: 2993047139965303798
+    second: minotaurboss_14
+  - first:
+      213: -6888234487254338066
+    second: minotaurboss_15
+  - first:
+      213: 1013732181345054426
+    second: minotaurboss_16
+  - first:
+      213: -1431215001250358476
+    second: minotaurboss_17
+  - first:
+      213: 1090742680649542698
+    second: minotaurboss_18
+  - first:
+      213: 3860315192544795349
+    second: minotaurboss_19
+  - first:
+      213: 4878153771019270489
+    second: minotaurboss_20
+  - first:
+      213: 7127040207837004440
+    second: minotaurboss_21
+  - first:
+      213: -648246096230306955
+    second: minotaurboss_22
+  - first:
+      213: 8204818044144627731
+    second: minotaurboss_23
+  - first:
+      213: -1855457474832668896
+    second: minotaurboss_24
+  - first:
+      213: -918770853608488584
+    second: minotaurboss_25
+  - first:
+      213: 4819738275853479421
+    second: minotaurboss_26
+  - first:
+      213: 6271727016540498568
+    second: minotaurboss_27
+  - first:
+      213: -456437144106753940
+    second: minotaurboss_28
+  - first:
+      213: 2259104149827985151
+    second: minotaurboss_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minotaurboss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829d3cc9052eb4e60800000000000000
+      internalID: 7947694803280714024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 586
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372abc4b50c8656d0800000000000000
+      internalID: -3002058145459887501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 590
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc3e639e39636770800000000000000
+      internalID: 8602835430690143481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 587
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508f5d07e9f7b480800000000000000
+      internalID: -8883356969207889825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caba7fa77b271a40800000000000000
+      internalID: 5338783676316170948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbcbf160510bd680800000000000000
+      internalID: -8729382007974671405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 518
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea186dc5e362e2b0800000000000000
+      internalID: -5556769151576958234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 515
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f932a5bc9c9f3cb20800000000000000
+      internalID: 3153638809184904095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a372c41085610b2b0800000000000000
+      internalID: -5570928171822602438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 442
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a78e962d8167b00800000000000000
+      internalID: 825874873668106841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2218930770d1460800000000000000
+      internalID: 7213930356699898570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 367
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d04134f6a344a80800000000000000
+      internalID: -8483591548518003359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 366
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cca9c53495b33a0800000000000000
+      internalID: -6684651076050039740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 369
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a0a26b0cc474a0800000000000000
+      internalID: -6596423204919531987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 298
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb71a51480798920800000000000000
+      internalID: 2993047139965303798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 295
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee53c91ba331860a0800000000000000
+      internalID: -6888234487254338066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 294
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade24764c00811e00800000000000000
+      internalID: 1013732181345054426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 297
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b134d0a8d432ce0800000000000000
+      internalID: -1431215001250358476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c297560b8132f00800000000000000
+      internalID: 1090742680649542698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 227
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da1dacf638929530800000000000000
+      internalID: 3860315192544795349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959f559520fa2b340800000000000000
+      internalID: 4878153771019270489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8920d00fe4558e260800000000000000
+      internalID: 7127040207837004440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ba82b2c97f007f0800000000000000
+      internalID: -648246096230306955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b4f74a8e5dd170800000000000000
+      internalID: 8204818044144627731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02761ccd1471046e0800000000000000
+      internalID: -1855457474832668896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8710fa8c6cedf33f0800000000000000
+      internalID: -918770853608488584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda9920d6623e240800000000000000
+      internalID: 4819738275853479421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aed151e76a90750800000000000000
+      internalID: 6271727016540498568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c602933f5d86aa9f0800000000000000
+      internalID: -456437144106753940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurboss_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe9b194143f95f10800000000000000
+      internalID: 2259104149827985151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      minotaurboss_0: 7947694803280714024
+      minotaurboss_1: -3002058145459887501
+      minotaurboss_10: 7213930356699898570
+      minotaurboss_11: -8483591548518003359
+      minotaurboss_12: -6684651076050039740
+      minotaurboss_13: -6596423204919531987
+      minotaurboss_14: 2993047139965303798
+      minotaurboss_15: -6888234487254338066
+      minotaurboss_16: 1013732181345054426
+      minotaurboss_17: -1431215001250358476
+      minotaurboss_18: 1090742680649542698
+      minotaurboss_19: 3860315192544795349
+      minotaurboss_2: 8602835430690143481
+      minotaurboss_20: 4878153771019270489
+      minotaurboss_21: 7127040207837004440
+      minotaurboss_22: -648246096230306955
+      minotaurboss_23: 8204818044144627731
+      minotaurboss_24: -1855457474832668896
+      minotaurboss_25: -918770853608488584
+      minotaurboss_26: 4819738275853479421
+      minotaurboss_27: 6271727016540498568
+      minotaurboss_28: -456437144106753940
+      minotaurboss_29: 2259104149827985151
+      minotaurboss_3: -8883356969207889825
+      minotaurboss_4: 5338783676316170948
+      minotaurboss_5: -8729382007974671405
+      minotaurboss_6: -5556769151576958234
+      minotaurboss_7: 3153638809184904095
+      minotaurboss_8: -5570928171822602438
+      minotaurboss_9: 825874873668106841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

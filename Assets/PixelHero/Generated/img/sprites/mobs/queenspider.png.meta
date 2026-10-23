@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: ab00fb5954d867e45b5f44e7f081f1d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3282169733351092167
+    second: queenspider_0
+  - first:
+      213: 6587099078343859058
+    second: queenspider_1
+  - first:
+      213: 128011316227244922
+    second: queenspider_2
+  - first:
+      213: 4565458599025383989
+    second: queenspider_3
+  - first:
+      213: -6505972581160182492
+    second: queenspider_4
+  - first:
+      213: -7988026466688350001
+    second: queenspider_5
+  - first:
+      213: 5399668800306107930
+    second: queenspider_6
+  - first:
+      213: 4547508883882681181
+    second: queenspider_7
+  - first:
+      213: -1077175150398970971
+    second: queenspider_8
+  - first:
+      213: 2164381133464305520
+    second: queenspider_9
+  - first:
+      213: 5510694334542641659
+    second: queenspider_10
+  - first:
+      213: -8359669523684699244
+    second: queenspider_11
+  - first:
+      213: 3165786674631422584
+    second: queenspider_12
+  - first:
+      213: -4391969347915098663
+    second: queenspider_13
+  - first:
+      213: -95210877287834107
+    second: queenspider_14
+  - first:
+      213: 4081088528168616922
+    second: queenspider_15
+  - first:
+      213: 3527767177649909188
+    second: queenspider_16
+  - first:
+      213: -8450463426029243973
+    second: queenspider_17
+  - first:
+      213: -5252787559940404962
+    second: queenspider_18
+  - first:
+      213: 4238535278508843968
+    second: queenspider_19
+  - first:
+      213: -847819478955560547
+    second: queenspider_20
+  - first:
+      213: 4115590287977290012
+    second: queenspider_21
+  - first:
+      213: 9014871944949032843
+    second: queenspider_22
+  - first:
+      213: -5962545711390354184
+    second: queenspider_23
+  - first:
+      213: 7509947683980297262
+    second: queenspider_24
+  - first:
+      213: -6333683696034397561
+    second: queenspider_25
+  - first:
+      213: -4501390261340352995
+    second: queenspider_26
+  - first:
+      213: 2576126367977200255
+    second: queenspider_27
+  - first:
+      213: -8223530949147919722
+    second: queenspider_28
+  - first:
+      213: 3197266474891630057
+    second: queenspider_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queenspider_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930d11764046372d0800000000000000
+      internalID: -3282169733351092167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 260
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b1df836b31a6b50800000000000000
+      internalID: 6587099078343859058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 260
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7384f62d99c6c100800000000000000
+      internalID: 128011316227244922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 261
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a19af2864cb5f30800000000000000
+      internalID: 4565458599025383989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 228
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d1485586426b5a0800000000000000
+      internalID: -6505972581160182492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 229
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc84f9c3044d42190800000000000000
+      internalID: -7988026466688350001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16510b4a2a7fea40800000000000000
+      internalID: 5399668800306107930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 229
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53a2c47c3ffb1f30800000000000000
+      internalID: 4547508883882681181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3679768ea1d01f0800000000000000
+      internalID: -1077175150398970971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 196
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f72ba6c2d690e10800000000000000
+      internalID: 2164381133464305520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9fb24ec4be97c40800000000000000
+      internalID: 5510694334542641659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 171
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4935d111cdc7cfb80800000000000000
+      internalID: -8359669523684699244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872321025322feb20800000000000000
+      internalID: 3165786674631422584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 170
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5dd11d5279c03c0800000000000000
+      internalID: -4391969347915098663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5188263ebdaef0800000000000000
+      internalID: -95210877287834107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad38962d460f2a830800000000000000
+      internalID: 4081088528168616922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 135
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdea12ae8525f030800000000000000
+      internalID: 3527767177649909188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1b818594ce9ba80800000000000000
+      internalID: -8450463426029243973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1949217b895a17b0800000000000000
+      internalID: -5252787559940404962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c32b7b016d42da30800000000000000
+      internalID: 4238535278508843968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9172330da0fb34f0800000000000000
+      internalID: -847819478955560547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c191fe3cf838d1930800000000000000
+      internalID: 4115590287977290012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 66
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87625665424b1d70800000000000000
+      internalID: 9014871944949032843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 67
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f49c833448c04da0800000000000000
+      internalID: -5962545711390354184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24c96111a1b83860800000000000000
+      internalID: 7509947683980297262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782cf2a5c3c3a18a0800000000000000
+      internalID: -6333683696034397561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 35
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ec76d1869d781c0800000000000000
+      internalID: -4501390261340352995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a5cc3684d30c320800000000000000
+      internalID: 2576126367977200255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a7b900c2620ed80800000000000000
+      internalID: -8223530949147919722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenspider_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e55e284be8fe5c20800000000000000
+      internalID: 3197266474891630057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      queenspider_0: -3282169733351092167
+      queenspider_1: 6587099078343859058
+      queenspider_10: 5510694334542641659
+      queenspider_11: -8359669523684699244
+      queenspider_12: 3165786674631422584
+      queenspider_13: -4391969347915098663
+      queenspider_14: -95210877287834107
+      queenspider_15: 4081088528168616922
+      queenspider_16: 3527767177649909188
+      queenspider_17: -8450463426029243973
+      queenspider_18: -5252787559940404962
+      queenspider_19: 4238535278508843968
+      queenspider_2: 128011316227244922
+      queenspider_20: -847819478955560547
+      queenspider_21: 4115590287977290012
+      queenspider_22: 9014871944949032843
+      queenspider_23: -5962545711390354184
+      queenspider_24: 7509947683980297262
+      queenspider_25: -6333683696034397561
+      queenspider_26: -4501390261340352995
+      queenspider_27: 2576126367977200255
+      queenspider_28: -8223530949147919722
+      queenspider_29: 3197266474891630057
+      queenspider_3: 4565458599025383989
+      queenspider_4: -6505972581160182492
+      queenspider_5: -7988026466688350001
+      queenspider_6: 5399668800306107930
+      queenspider_7: 4547508883882681181
+      queenspider_8: -1077175150398970971
+      queenspider_9: 2164381133464305520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

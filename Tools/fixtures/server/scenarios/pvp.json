@@ -1,0 +1,203 @@
+{
+ "seed": 61,
+ "end": 60000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.0.1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 2000,
+   "open": 1,
+   "address": "10.0.0.2"
+  },
+  {
+   "t": 2400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 2700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 4000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teletome guest4205"
+    ]
+   ]
+  },
+  {
+   "t": 4300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleto Guest4205"
+    ]
+   ]
+  },
+  {
+   "t": 4600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teletome Guest4205"
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "walk": 1,
+   "from": [
+    328,
+    892
+   ],
+   "path": [
+    [
+     329,
+     892
+    ]
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/togglepvp"
+    ]
+   ]
+  },
+  {
+   "t": 7500,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     1,
+     "0-897744205"
+    ]
+   ]
+  },
+  {
+   "t": 30000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/kill guest4205"
+    ]
+   ]
+  },
+  {
+   "t": 30300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/kill Guest4205"
+    ]
+   ]
+  },
+  {
+   "t": 40000,
+   "conn": 1,
+   "send": [
+    "Respawn"
+   ]
+  },
+  {
+   "t": 45000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/togglepvp"
+    ]
+   ]
+  },
+  {
+   "t": 45300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/players"
+    ]
+   ]
+  },
+  {
+   "t": 45600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleall"
+    ]
+   ]
+  }
+ ]
+}

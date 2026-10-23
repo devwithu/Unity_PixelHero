@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 66779256cef17fe4eb753b1d11907dbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2452383844474717194
+    second: santaelf_0
+  - first:
+      213: 5788826970302678964
+    second: santaelf_1
+  - first:
+      213: 1472621265265008763
+    second: santaelf_2
+  - first:
+      213: 7736283217257741137
+    second: santaelf_3
+  - first:
+      213: -2894548192123632396
+    second: santaelf_4
+  - first:
+      213: -3432902415462208444
+    second: santaelf_5
+  - first:
+      213: 4078236887182085071
+    second: santaelf_6
+  - first:
+      213: -7330349964518207072
+    second: santaelf_7
+  - first:
+      213: 4546855312037052365
+    second: santaelf_8
+  - first:
+      213: -7510504161200468487
+    second: santaelf_9
+  - first:
+      213: 3533364348475090447
+    second: santaelf_10
+  - first:
+      213: -7544358850778828746
+    second: santaelf_11
+  - first:
+      213: -6097887163134161055
+    second: santaelf_12
+  - first:
+      213: -4159482300500079331
+    second: santaelf_13
+  - first:
+      213: 2233479361002578546
+    second: santaelf_14
+  - first:
+      213: 5796415834774917960
+    second: santaelf_15
+  - first:
+      213: 7705277457148232261
+    second: santaelf_16
+  - first:
+      213: -1902636096435398762
+    second: santaelf_17
+  - first:
+      213: -3949743588075832395
+    second: santaelf_18
+  - first:
+      213: 621406222538709443
+    second: santaelf_19
+  - first:
+      213: -918432742033288616
+    second: santaelf_20
+  - first:
+      213: -649952447218805246
+    second: santaelf_21
+  - first:
+      213: -4318662746362377669
+    second: santaelf_22
+  - first:
+      213: -8593476242646660349
+    second: santaelf_23
+  - first:
+      213: 6099101881029281935
+    second: santaelf_24
+  - first:
+      213: 8672451391772855003
+    second: santaelf_25
+  - first:
+      213: 1331721803373845579
+    second: santaelf_26
+  - first:
+      213: -5485465515617216557
+    second: santaelf_27
+  - first:
+      213: 7668824843863804698
+    second: santaelf_28
+  - first:
+      213: 5736659708885104436
+    second: santaelf_29
+  - first:
+      213: -2589475845683660107
+    second: santaelf_30
+  - first:
+      213: -1348802498046863775
+    second: santaelf_31
+  - first:
+      213: 3382523274650985009
+    second: santaelf_32
+  - first:
+      213: -8133074390243499040
+    second: santaelf_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: santaelf_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0482defc1e980220800000000000000
+      internalID: 2452383844474717194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7871f757b065050800000000000000
+      internalID: 5788826970302678964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 260
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70aecc0d3dcf6410800000000000000
+      internalID: 1472621265265008763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 259
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb676f89ccc5b60800000000000000
+      internalID: 7736283217257741137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 259
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c83751cf74d7d0800000000000000
+      internalID: -2894548192123632396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 228
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6bc10171eb50d0800000000000000
+      internalID: -3432902415462208444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 229
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb026a67dec89830800000000000000
+      internalID: 4078236887182085071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 228
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1589d8b8d554a90800000000000000
+      internalID: -7330349964518207072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 229
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcff017e0dca91f30800000000000000
+      internalID: 4546855312037052365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd8d8bf14455c790800000000000000
+      internalID: -7510504161200468487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 196
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0623e48728090130800000000000000
+      internalID: 3533364348475090447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630f041d89d0d4790800000000000000
+      internalID: -7544358850778828746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 165
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f49f0eee3ff5ba0800000000000000
+      internalID: -6097887163134161055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d0b25b2ec8646c0800000000000000
+      internalID: -4159482300500079331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 166
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272a9b535a9eefe10800000000000000
+      internalID: 2233479361002578546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 165
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8435532bd71017050800000000000000
+      internalID: 5796415834774917960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5424521e505aeea60800000000000000
+      internalID: 7705277457148232261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697d1270d8a7895e0800000000000000
+      internalID: -1902636096435398762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 133
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbfcde1221bf29c0800000000000000
+      internalID: -3949743588075832395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 134
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c913a3caadaf9800800000000000000
+      internalID: 621406222538709443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852940589421143f0800000000000000
+      internalID: -918432742033288616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20690ae51b7eaf6f0800000000000000
+      internalID: -649952447218805246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a8b5a0d170114c0800000000000000
+      internalID: -4318662746362377669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 67
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b894333e6ddb880800000000000000
+      internalID: -8593476242646660349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 62
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88caaba8dc54a450800000000000000
+      internalID: 6099101881029281935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda867a979cba5870800000000000000
+      internalID: 8672451391772855003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 75
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c9db5ace93b7210800000000000000
+      internalID: 1331721803373845579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 65
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d71bf14d26bfd3b0800000000000000
+      internalID: -5485465515617216557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b413770932d6a60800000000000000
+      internalID: 7668824843863804698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43774617c95bc9f40800000000000000
+      internalID: 5736659708885104436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba329f1075501cd0800000000000000
+      internalID: -2589475845683660107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166d1c73647184de0800000000000000
+      internalID: -1348802498046863775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13220163ff221fe20800000000000000
+      internalID: 3382523274650985009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaelf_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3a5b5dee3812f80800000000000000
+      internalID: -8133074390243499040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      santaelf_0: 2452383844474717194
+      santaelf_1: 5788826970302678964
+      santaelf_10: 3533364348475090447
+      santaelf_11: -7544358850778828746
+      santaelf_12: -6097887163134161055
+      santaelf_13: -4159482300500079331
+      santaelf_14: 2233479361002578546
+      santaelf_15: 5796415834774917960
+      santaelf_16: 7705277457148232261
+      santaelf_17: -1902636096435398762
+      santaelf_18: -3949743588075832395
+      santaelf_19: 621406222538709443
+      santaelf_2: 1472621265265008763
+      santaelf_20: -918432742033288616
+      santaelf_21: -649952447218805246
+      santaelf_22: -4318662746362377669
+      santaelf_23: -8593476242646660349
+      santaelf_24: 6099101881029281935
+      santaelf_25: 8672451391772855003
+      santaelf_26: 1331721803373845579
+      santaelf_27: -5485465515617216557
+      santaelf_28: 7668824843863804698
+      santaelf_29: 5736659708885104436
+      santaelf_3: 7736283217257741137
+      santaelf_30: -2589475845683660107
+      santaelf_31: -1348802498046863775
+      santaelf_32: 3382523274650985009
+      santaelf_33: -8133074390243499040
+      santaelf_4: -2894548192123632396
+      santaelf_5: -3432902415462208444
+      santaelf_6: 4078236887182085071
+      santaelf_7: -7330349964518207072
+      santaelf_8: 4546855312037052365
+      santaelf_9: -7510504161200468487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

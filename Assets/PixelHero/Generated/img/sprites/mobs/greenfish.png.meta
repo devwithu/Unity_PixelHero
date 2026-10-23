@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: a5fa107fb3ae314439dabc2484911ed7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8888321013459236274
+    second: greenfish_0
+  - first:
+      213: 5982814355764925261
+    second: greenfish_1
+  - first:
+      213: -4645876882037728752
+    second: greenfish_2
+  - first:
+      213: -7804337701152632522
+    second: greenfish_3
+  - first:
+      213: -3088498777869141434
+    second: greenfish_4
+  - first:
+      213: 2907607747471321101
+    second: greenfish_5
+  - first:
+      213: 214475470707715531
+    second: greenfish_6
+  - first:
+      213: 3441122568068177215
+    second: greenfish_7
+  - first:
+      213: 6588386618738860028
+    second: greenfish_8
+  - first:
+      213: -7845118932037976810
+    second: greenfish_9
+  - first:
+      213: -8827062830722380201
+    second: greenfish_10
+  - first:
+      213: -6810788450963771196
+    second: greenfish_11
+  - first:
+      213: 7562271445766405773
+    second: greenfish_12
+  - first:
+      213: -2680682663085509174
+    second: greenfish_13
+  - first:
+      213: -6663413078604884710
+    second: greenfish_14
+  - first:
+      213: -2554643307031001019
+    second: greenfish_15
+  - first:
+      213: -6115629730957795940
+    second: greenfish_16
+  - first:
+      213: 7278363457656482385
+    second: greenfish_17
+  - first:
+      213: -7673912322631482300
+    second: greenfish_18
+  - first:
+      213: -4351924761801204627
+    second: greenfish_19
+  - first:
+      213: 1276564995066580240
+    second: greenfish_20
+  - first:
+      213: -9088322332879283665
+    second: greenfish_21
+  - first:
+      213: -6000773320767707062
+    second: greenfish_22
+  - first:
+      213: 784186174546362833
+    second: greenfish_23
+  - first:
+      213: 6411260896403494433
+    second: greenfish_24
+  - first:
+      213: -4619734137992534434
+    second: greenfish_25
+  - first:
+      213: -7880225927563002462
+    second: greenfish_26
+  - first:
+      213: 2500477002449337522
+    second: greenfish_27
+  - first:
+      213: 1146044133942768826
+    second: greenfish_28
+  - first:
+      213: 7311227075905623320
+    second: greenfish_29
+  - first:
+      213: 1458991621526599615
+    second: greenfish_30
+  - first:
+      213: -7097946659937293546
+    second: greenfish_31
+  - first:
+      213: -2006918469961082336
+    second: greenfish_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greenfish_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 271
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a4f1f612756a480800000000000000
+      internalID: -8888321013459236274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 269
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43d97055f9370350800000000000000
+      internalID: 5982814355764925261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 269
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a11f73797868fb0800000000000000
+      internalID: -4645876882037728752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 269
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631db9fb53c61b390800000000000000
+      internalID: -7804337701152632522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 270
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab1ef99b27325d0800000000000000
+      internalID: -3088498777869141434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08a33657d5e95820800000000000000
+      internalID: 2907607747471321101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 240
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6194ed48f9f200800000000000000
+      internalID: 214475470707715531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 239
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d984a6eb251cf20800000000000000
+      internalID: 3441122568068177215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 240
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffddd419b6ae6b50800000000000000
+      internalID: 6588386618738860028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 207
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3f2385e9802390800000000000000
+      internalID: -7845118932037976810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 206
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e0dbc8f19ff7580800000000000000
+      internalID: -8827062830722380201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 169
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0b8fb2df73b71a0800000000000000
+      internalID: -6810788450963771196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 171
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e7cf330d592f860800000000000000
+      internalID: 7562271445766405773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57d3f125d4ccad0800000000000000
+      internalID: -2680682663085509174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 170
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15501afb1dc683a0800000000000000
+      internalID: -6663413078604884710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 170
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548869482751c8cd0800000000000000
+      internalID: -2554643307031001019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 137
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d5174692be02ba0800000000000000
+      internalID: -6115629730957795940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 138
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a6cc79001f10560800000000000000
+      internalID: 7278363457656482385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444ce049669c08590800000000000000
+      internalID: -7673912322631482300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cdc939c7bda93c0800000000000000
+      internalID: -4351924761801204627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d44a7791547b110800000000000000
+      internalID: 1276564995066580240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a1b708dfacfd180800000000000000
+      internalID: -9088322332879283665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 74
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48effd4578f8bca0800000000000000
+      internalID: -6000773320767707062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 73
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1cb93cb2df1ea00800000000000000
+      internalID: 784186174546362833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1269b7421df59f850800000000000000
+      internalID: 6411260896403494433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56a534274863efb0800000000000000
+      internalID: -4619734137992534434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adb8c52540d3a290800000000000000
+      internalID: -7880225927563002462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 42
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcb60ce59a73b220800000000000000
+      internalID: 2500477002449337522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4349c511197ef00800000000000000
+      internalID: 1146044133942768826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 42
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815929bf942b67560800000000000000
+      internalID: 7311227075905623320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb73d5356216f3410800000000000000
+      internalID: 1458991621526599615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b64cb8e170f7d90800000000000000
+      internalID: -7097946659937293546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenfish_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a9cc0e84ef524e0800000000000000
+      internalID: -2006918469961082336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      greenfish_0: -8888321013459236274
+      greenfish_1: 5982814355764925261
+      greenfish_10: -8827062830722380201
+      greenfish_11: -6810788450963771196
+      greenfish_12: 7562271445766405773
+      greenfish_13: -2680682663085509174
+      greenfish_14: -6663413078604884710
+      greenfish_15: -2554643307031001019
+      greenfish_16: -6115629730957795940
+      greenfish_17: 7278363457656482385
+      greenfish_18: -7673912322631482300
+      greenfish_19: -4351924761801204627
+      greenfish_2: -4645876882037728752
+      greenfish_20: 1276564995066580240
+      greenfish_21: -9088322332879283665
+      greenfish_22: -6000773320767707062
+      greenfish_23: 784186174546362833
+      greenfish_24: 6411260896403494433
+      greenfish_25: -4619734137992534434
+      greenfish_26: -7880225927563002462
+      greenfish_27: 2500477002449337522
+      greenfish_28: 1146044133942768826
+      greenfish_29: 7311227075905623320
+      greenfish_3: -7804337701152632522
+      greenfish_30: 1458991621526599615
+      greenfish_31: -7097946659937293546
+      greenfish_32: -2006918469961082336
+      greenfish_4: -3088498777869141434
+      greenfish_5: 2907607747471321101
+      greenfish_6: 214475470707715531
+      greenfish_7: 3441122568068177215
+      greenfish_8: 6588386618738860028
+      greenfish_9: -7845118932037976810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

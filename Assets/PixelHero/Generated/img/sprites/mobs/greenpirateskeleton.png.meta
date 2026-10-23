@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 8692539a84ee00d4eab7cd89b9bbc760
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7521198709537802179
+    second: greenpirateskeleton_0
+  - first:
+      213: -4452477458758413608
+    second: greenpirateskeleton_1
+  - first:
+      213: 8938817605800051713
+    second: greenpirateskeleton_2
+  - first:
+      213: -2896885525777373729
+    second: greenpirateskeleton_3
+  - first:
+      213: 4219646493723190703
+    second: greenpirateskeleton_4
+  - first:
+      213: -372550725700790035
+    second: greenpirateskeleton_5
+  - first:
+      213: -4846408028764340916
+    second: greenpirateskeleton_6
+  - first:
+      213: 5514180142615469866
+    second: greenpirateskeleton_7
+  - first:
+      213: -5061214406768895913
+    second: greenpirateskeleton_8
+  - first:
+      213: 5653870689975536757
+    second: greenpirateskeleton_9
+  - first:
+      213: -8111690683131699794
+    second: greenpirateskeleton_10
+  - first:
+      213: -746726233927819114
+    second: greenpirateskeleton_11
+  - first:
+      213: 2774942444915275222
+    second: greenpirateskeleton_12
+  - first:
+      213: 2558135074915221677
+    second: greenpirateskeleton_13
+  - first:
+      213: -7255499193157888459
+    second: greenpirateskeleton_14
+  - first:
+      213: 4727461862845345053
+    second: greenpirateskeleton_15
+  - first:
+      213: 682312204371029149
+    second: greenpirateskeleton_16
+  - first:
+      213: -4067350651142693538
+    second: greenpirateskeleton_17
+  - first:
+      213: -5921783789444264865
+    second: greenpirateskeleton_18
+  - first:
+      213: -2366376470757847446
+    second: greenpirateskeleton_19
+  - first:
+      213: -1830371993864618435
+    second: greenpirateskeleton_20
+  - first:
+      213: -4341035847508320834
+    second: greenpirateskeleton_21
+  - first:
+      213: 5435381086333196763
+    second: greenpirateskeleton_22
+  - first:
+      213: -227008525907162809
+    second: greenpirateskeleton_23
+  - first:
+      213: 585919988584840117
+    second: greenpirateskeleton_24
+  - first:
+      213: 664562788054894629
+    second: greenpirateskeleton_25
+  - first:
+      213: 1298389748280386418
+    second: greenpirateskeleton_26
+  - first:
+      213: 4494443661505666532
+    second: greenpirateskeleton_27
+  - first:
+      213: 9194961487439274776
+    second: greenpirateskeleton_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greenpirateskeleton_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c78027906aa06860800000000000000
+      internalID: 7521198709537802179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 260
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2554c675f9532c0800000000000000
+      internalID: -4452477458758413608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10448b9a04f0d0c70800000000000000
+      internalID: 8938817605800051713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a11176f13cc7d0800000000000000
+      internalID: -2896885525777373729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 228
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5e71021223f8a30800000000000000
+      internalID: 4219646493723190703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 228
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de85acdb61f64daf0800000000000000
+      internalID: -372550725700790035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d76e043991ebcb0800000000000000
+      internalID: -4846408028764340916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f9b14df9d468c40800000000000000
+      internalID: 5514180142615469866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75853700054f2c9b0800000000000000
+      internalID: -5061214406768895913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c0cf1ef65967e40800000000000000
+      internalID: 5653870689975536757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd6102d4c7d6f80800000000000000
+      internalID: -8111690683131699794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 164
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6906442527813a5f0800000000000000
+      internalID: -746726233927819114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5345d8373928620800000000000000
+      internalID: 2774942444915275222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00acb0c42508320800000000000000
+      internalID: 2558135074915221677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536d0b3dce94f4b90800000000000000
+      internalID: -7255499193157888459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 132
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d6a1064815b9140800000000000000
+      internalID: 4727461862845345053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ce277b55f087900800000000000000
+      internalID: 682312204371029149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d9fade12edd87c0800000000000000
+      internalID: -4067350651142693538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c0289b40991dda0800000000000000
+      internalID: -5921783789444264865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 70
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ec2af2321f82fd0800000000000000
+      internalID: -2366376470757847446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 69
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e30ea8e563996e0800000000000000
+      internalID: -1830371993864618435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd970085ea81c3c0800000000000000
+      internalID: -4341035847508320834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd954c5dc4a5e6b40800000000000000
+      internalID: 5435381086333196763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749815cc2f089dcf0800000000000000
+      internalID: -227008525907162809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb7662102b912800800000000000000
+      internalID: 585919988584840117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52884f0b550093900800000000000000
+      internalID: 664562788054894629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273e24ec89ec40210800000000000000
+      internalID: 1298389748280386418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed1d0392b87f5e30800000000000000
+      internalID: 4494443661505666532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenpirateskeleton_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813273e71c01b9f70800000000000000
+      internalID: 9194961487439274776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      greenpirateskeleton_0: 7521198709537802179
+      greenpirateskeleton_1: -4452477458758413608
+      greenpirateskeleton_10: -8111690683131699794
+      greenpirateskeleton_11: -746726233927819114
+      greenpirateskeleton_12: 2774942444915275222
+      greenpirateskeleton_13: 2558135074915221677
+      greenpirateskeleton_14: -7255499193157888459
+      greenpirateskeleton_15: 4727461862845345053
+      greenpirateskeleton_16: 682312204371029149
+      greenpirateskeleton_17: -4067350651142693538
+      greenpirateskeleton_18: -5921783789444264865
+      greenpirateskeleton_19: -2366376470757847446
+      greenpirateskeleton_2: 8938817605800051713
+      greenpirateskeleton_20: -1830371993864618435
+      greenpirateskeleton_21: -4341035847508320834
+      greenpirateskeleton_22: 5435381086333196763
+      greenpirateskeleton_23: -227008525907162809
+      greenpirateskeleton_24: 585919988584840117
+      greenpirateskeleton_25: 664562788054894629
+      greenpirateskeleton_26: 1298389748280386418
+      greenpirateskeleton_27: 4494443661505666532
+      greenpirateskeleton_28: 9194961487439274776
+      greenpirateskeleton_3: -2896885525777373729
+      greenpirateskeleton_4: 4219646493723190703
+      greenpirateskeleton_5: -372550725700790035
+      greenpirateskeleton_6: -4846408028764340916
+      greenpirateskeleton_7: 5514180142615469866
+      greenpirateskeleton_8: -5061214406768895913
+      greenpirateskeleton_9: 5653870689975536757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: d90274a9853dcd3469039e6f77b6dcdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -674340758412060803
+    second: hermitcrab_0
+  - first:
+      213: -6803515609693912276
+    second: hermitcrab_1
+  - first:
+      213: -8590028391339666685
+    second: hermitcrab_2
+  - first:
+      213: 2409774365728481885
+    second: hermitcrab_3
+  - first:
+      213: 6701380044668087283
+    second: hermitcrab_4
+  - first:
+      213: -6602597980227542921
+    second: hermitcrab_5
+  - first:
+      213: 6363331295174022678
+    second: hermitcrab_6
+  - first:
+      213: -726460126474989412
+    second: hermitcrab_7
+  - first:
+      213: -4260207001253258639
+    second: hermitcrab_8
+  - first:
+      213: -7918851217671578429
+    second: hermitcrab_9
+  - first:
+      213: 1655381044742174537
+    second: hermitcrab_10
+  - first:
+      213: 3332005916299425776
+    second: hermitcrab_11
+  - first:
+      213: 1439823071050687870
+    second: hermitcrab_12
+  - first:
+      213: 8910070518392640081
+    second: hermitcrab_13
+  - first:
+      213: -2879375255035648759
+    second: hermitcrab_14
+  - first:
+      213: -7024331532327947100
+    second: hermitcrab_15
+  - first:
+      213: -5883936769508215742
+    second: hermitcrab_16
+  - first:
+      213: -4527929559542620346
+    second: hermitcrab_17
+  - first:
+      213: 6894359916160185571
+    second: hermitcrab_18
+  - first:
+      213: 4798484063812312546
+    second: hermitcrab_19
+  - first:
+      213: 6076311169943471604
+    second: hermitcrab_20
+  - first:
+      213: 2061628544936997727
+    second: hermitcrab_21
+  - first:
+      213: -6212346641514539669
+    second: hermitcrab_22
+  - first:
+      213: -8576566570226566301
+    second: hermitcrab_23
+  - first:
+      213: 8339691054614373269
+    second: hermitcrab_24
+  - first:
+      213: -6063588999875910683
+    second: hermitcrab_25
+  - first:
+      213: 8029573939744295709
+    second: hermitcrab_26
+  - first:
+      213: -3774837516101391592
+    second: hermitcrab_27
+  - first:
+      213: -7558464448103666144
+    second: hermitcrab_28
+  - first:
+      213: -6228393806308021497
+    second: hermitcrab_29
+  - first:
+      213: -5018523810243408326
+    second: hermitcrab_30
+  - first:
+      213: 3700260277679526440
+    second: hermitcrab_31
+  - first:
+      213: 3199961975653834226
+    second: hermitcrab_32
+  - first:
+      213: 8156604372304724266
+    second: hermitcrab_33
+  - first:
+      213: 7183207666772546140
+    second: hermitcrab_34
+  - first:
+      213: 9220506094700154917
+    second: hermitcrab_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hermitcrab_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 260
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77184d27a244a6f0800000000000000
+      internalID: -674340758412060803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c238e5c799e0591a0800000000000000
+      internalID: -6803515609693912276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 261
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303dda3a0b61ac880800000000000000
+      internalID: -8590028391339666685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 261
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52a612a40d317120800000000000000
+      internalID: 2409774365728481885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb255b25a5100d50800000000000000
+      internalID: 6701380044668087283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 229
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77063d97e1cde54a0800000000000000
+      internalID: -6602597980227542921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61659fc39181f4850800000000000000
+      internalID: 6363331295174022678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 229
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9019f92d581be5f0800000000000000
+      internalID: -726460126474989412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17adaaccd44b0e4c0800000000000000
+      internalID: -4260207001253258639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 196
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc148df5c69a1290800000000000000
+      internalID: -7918851217671578429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 196
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947b5c32a4819f610800000000000000
+      internalID: 1655381044742174537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7f6862ab9ad3e20800000000000000
+      internalID: 3332005916299425776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75636164774bf310800000000000000
+      internalID: 1439823071050687870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 167
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152597ccdede6ab70800000000000000
+      internalID: 8910070518392640081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905ec8c06776a08d0800000000000000
+      internalID: -2879375255035648759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 168
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4740710bf848e90800000000000000
+      internalID: -7024331532327947100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2447a9cbeae085ea0800000000000000
+      internalID: -5883936769508215742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 136
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f987b3e009921c0800000000000000
+      internalID: -4527929559542620346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 137
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e47b6cd0dfadaf50800000000000000
+      internalID: 6894359916160185571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 138
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edd7e325d3a79240800000000000000
+      internalID: 4798484063812312546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5083db0d4635450800000000000000
+      internalID: 6076311169943471604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5376c71d306c9c10800000000000000
+      internalID: 2061628544936997727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b655fead4af49c9a0800000000000000
+      internalID: -6212346641514539669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb72d152ae9f880800000000000000
+      internalID: -8576566570226566301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593eace14d88cb370800000000000000
+      internalID: 8339691054614373269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e32e6e4eedc9dba0800000000000000
+      internalID: -6063588999875910683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b4138a4f6ce6f60800000000000000
+      internalID: 8029573939744295709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b65ff67451d9bc0800000000000000
+      internalID: -3774837516101391592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eac5381a0fa1790800000000000000
+      internalID: -7558464448103666144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b64c525dc4099a0800000000000000
+      internalID: -6228393806308021497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e0a911f2f9a5ab0800000000000000
+      internalID: -5018523810243408326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82293932e17f95330800000000000000
+      internalID: 3700260277679526440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd9a95767c886c20800000000000000
+      internalID: 3199961975653834226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a210f980674123170800000000000000
+      internalID: 8156604372304724266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5217dd8051efa360800000000000000
+      internalID: 7183207666772546140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hermitcrab_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5205de7d071d5ff70800000000000000
+      internalID: 9220506094700154917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hermitcrab_0: -674340758412060803
+      hermitcrab_1: -6803515609693912276
+      hermitcrab_10: 1655381044742174537
+      hermitcrab_11: 3332005916299425776
+      hermitcrab_12: 1439823071050687870
+      hermitcrab_13: 8910070518392640081
+      hermitcrab_14: -2879375255035648759
+      hermitcrab_15: -7024331532327947100
+      hermitcrab_16: -5883936769508215742
+      hermitcrab_17: -4527929559542620346
+      hermitcrab_18: 6894359916160185571
+      hermitcrab_19: 4798484063812312546
+      hermitcrab_2: -8590028391339666685
+      hermitcrab_20: 6076311169943471604
+      hermitcrab_21: 2061628544936997727
+      hermitcrab_22: -6212346641514539669
+      hermitcrab_23: -8576566570226566301
+      hermitcrab_24: 8339691054614373269
+      hermitcrab_25: -6063588999875910683
+      hermitcrab_26: 8029573939744295709
+      hermitcrab_27: -3774837516101391592
+      hermitcrab_28: -7558464448103666144
+      hermitcrab_29: -6228393806308021497
+      hermitcrab_3: 2409774365728481885
+      hermitcrab_30: -5018523810243408326
+      hermitcrab_31: 3700260277679526440
+      hermitcrab_32: 3199961975653834226
+      hermitcrab_33: 8156604372304724266
+      hermitcrab_34: 7183207666772546140
+      hermitcrab_35: 9220506094700154917
+      hermitcrab_4: 6701380044668087283
+      hermitcrab_5: -6602597980227542921
+      hermitcrab_6: 6363331295174022678
+      hermitcrab_7: -726460126474989412
+      hermitcrab_8: -4260207001253258639
+      hermitcrab_9: -7918851217671578429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

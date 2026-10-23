@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 08a8b349cce2a5b4580a3fe7bc99fc24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2419706722867368769
+    second: coppersword_0
+  - first:
+      213: 6611455852529559234
+    second: coppersword_1
+  - first:
+      213: 4728196150337253684
+    second: coppersword_2
+  - first:
+      213: -802927950965300153
+    second: coppersword_3
+  - first:
+      213: 8089147836735095013
+    second: coppersword_4
+  - first:
+      213: -9062499572734233834
+    second: coppersword_5
+  - first:
+      213: 118211230521569195
+    second: coppersword_6
+  - first:
+      213: 2090353998006268936
+    second: coppersword_7
+  - first:
+      213: 1955197831996152328
+    second: coppersword_8
+  - first:
+      213: 215769351956580255
+    second: coppersword_9
+  - first:
+      213: 7207030730043545535
+    second: coppersword_10
+  - first:
+      213: 1419928361999160143
+    second: coppersword_11
+  - first:
+      213: -7234636779306336350
+    second: coppersword_12
+  - first:
+      213: 8178504651347470513
+    second: coppersword_13
+  - first:
+      213: -5082405941483295787
+    second: coppersword_14
+  - first:
+      213: -2197022637559046637
+    second: coppersword_15
+  - first:
+      213: -8303456900158252505
+    second: coppersword_16
+  - first:
+      213: -4521616246526130293
+    second: coppersword_17
+  - first:
+      213: -1318372018119369956
+    second: coppersword_18
+  - first:
+      213: 4358313413861331865
+    second: coppersword_19
+  - first:
+      213: 3126097735200591054
+    second: coppersword_20
+  - first:
+      213: 6733037703325836287
+    second: coppersword_21
+  - first:
+      213: 1211094093223092050
+    second: coppersword_22
+  - first:
+      213: -7189335569347004031
+    second: coppersword_23
+  - first:
+      213: -553707453210714630
+    second: coppersword_24
+  - first:
+      213: 6505280768332957502
+    second: coppersword_25
+  - first:
+      213: 7020631899926002288
+    second: coppersword_26
+  - first:
+      213: -3358815461577694496
+    second: coppersword_27
+  - first:
+      213: 897175437100955854
+    second: coppersword_28
+  - first:
+      213: -2606578976046450100
+    second: coppersword_29
+  - first:
+      213: 3897305246229993406
+    second: coppersword_30
+  - first:
+      213: -1365028451675552197
+    second: coppersword_31
+  - first:
+      213: -2851133557637842187
+    second: coppersword_32
+  - first:
+      213: -8531914303173824920
+    second: coppersword_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coppersword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143522db176849120800000000000000
+      internalID: 2419706722867368769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6a332a11c90cb50800000000000000
+      internalID: 6611455852529559234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431b831095ded9140800000000000000
+      internalID: 4728196150337253684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7442b7e584d6bd4f0800000000000000
+      internalID: -802927950965300153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e00730791d624070800000000000000
+      internalID: 8089147836735095013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613fb0e57a88b3280800000000000000
+      internalID: -9062499572734233834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf23b3ec78f3a100800000000000000
+      internalID: 118211230521569195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8043bf1d2ed620d10800000000000000
+      internalID: 2090353998006268936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9eb1b112422b10800000000000000
+      internalID: 1955197831996152328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97c9c815119ef200800000000000000
+      internalID: 215769351956580255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7d195b344840460800000000000000
+      internalID: 7207030730043545535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f435677725994b310800000000000000
+      internalID: 1419928361999160143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af38721e28699b90800000000000000
+      internalID: -7234636779306336350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8227916a2ef7170800000000000000
+      internalID: 8178504651347470513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbad8559baa779b0800000000000000
+      internalID: -5082405941483295787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e1dcc2d8b9281e0800000000000000
+      internalID: -2197022637559046637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1d4261f134cc80800000000000000
+      internalID: -8303456900158252505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87cc27fafdff31c0800000000000000
+      internalID: -4521616246526130293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b1e2272a334bde0800000000000000
+      internalID: -1318372018119369956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993560565f6db7c30800000000000000
+      internalID: 4358313413861331865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc8cfc351226b20800000000000000
+      internalID: 3126097735200591054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff36c063e1e807d50800000000000000
+      internalID: 6733037703325836287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fd22049abaec010800000000000000
+      internalID: 1211094093223092050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189bdf1f3695a3c90800000000000000
+      internalID: -7189335569347004031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd93e54106d058f0800000000000000
+      internalID: -553707453210714630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e378aa07466674a50800000000000000
+      internalID: 6505280768332957502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a7ddd148b4e6160800000000000000
+      internalID: 7020631899926002288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2629a22271361d0800000000000000
+      internalID: -3358815461577694496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8bb9d7e48637c00800000000000000
+      internalID: 897175437100955854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4affb54b3293dbd0800000000000000
+      internalID: -2606578976046450100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 59
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb71ecef872061630800000000000000
+      internalID: 3897305246229993406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 62
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36c39dfad17e0de0800000000000000
+      internalID: -1365028451675552197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fafcc1a22dbe68d0800000000000000
+      internalID: -2851133557637842187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppersword_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eef31352d889980800000000000000
+      internalID: -8531914303173824920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coppersword_0: 2419706722867368769
+      coppersword_1: 6611455852529559234
+      coppersword_10: 7207030730043545535
+      coppersword_11: 1419928361999160143
+      coppersword_12: -7234636779306336350
+      coppersword_13: 8178504651347470513
+      coppersword_14: -5082405941483295787
+      coppersword_15: -2197022637559046637
+      coppersword_16: -8303456900158252505
+      coppersword_17: -4521616246526130293
+      coppersword_18: -1318372018119369956
+      coppersword_19: 4358313413861331865
+      coppersword_2: 4728196150337253684
+      coppersword_20: 3126097735200591054
+      coppersword_21: 6733037703325836287
+      coppersword_22: 1211094093223092050
+      coppersword_23: -7189335569347004031
+      coppersword_24: -553707453210714630
+      coppersword_25: 6505280768332957502
+      coppersword_26: 7020631899926002288
+      coppersword_27: -3358815461577694496
+      coppersword_28: 897175437100955854
+      coppersword_29: -2606578976046450100
+      coppersword_3: -802927950965300153
+      coppersword_30: 3897305246229993406
+      coppersword_31: -1365028451675552197
+      coppersword_32: -2851133557637842187
+      coppersword_33: -8531914303173824920
+      coppersword_4: 8089147836735095013
+      coppersword_5: -9062499572734233834
+      coppersword_6: 118211230521569195
+      coppersword_7: 2090353998006268936
+      coppersword_8: 1955197831996152328
+      coppersword_9: 215769351956580255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

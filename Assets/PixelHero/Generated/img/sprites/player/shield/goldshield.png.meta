@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 375272918423d9b48acbd349bd5d09f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2558838656785001531
+    second: goldshield_0
+  - first:
+      213: 1381675117821533639
+    second: goldshield_1
+  - first:
+      213: -8651677747985673587
+    second: goldshield_2
+  - first:
+      213: 3253514558514359284
+    second: goldshield_3
+  - first:
+      213: -2510507454777102470
+    second: goldshield_4
+  - first:
+      213: -1653365518353648814
+    second: goldshield_5
+  - first:
+      213: 7084079536355610878
+    second: goldshield_6
+  - first:
+      213: -2507469836785772529
+    second: goldshield_7
+  - first:
+      213: 1301999032825565967
+    second: goldshield_8
+  - first:
+      213: -2723271401698285518
+    second: goldshield_9
+  - first:
+      213: 3516219423571547049
+    second: goldshield_10
+  - first:
+      213: -3743138668784359949
+    second: goldshield_11
+  - first:
+      213: -7587503657681668902
+    second: goldshield_12
+  - first:
+      213: 3825114516943241085
+    second: goldshield_13
+  - first:
+      213: 7412634138887150501
+    second: goldshield_14
+  - first:
+      213: 8240786802943485036
+    second: goldshield_15
+  - first:
+      213: -7963327589449550157
+    second: goldshield_16
+  - first:
+      213: 5555834757399445249
+    second: goldshield_17
+  - first:
+      213: 4476451833723102139
+    second: goldshield_18
+  - first:
+      213: -1982015211987338020
+    second: goldshield_19
+  - first:
+      213: 2070568858123456839
+    second: goldshield_20
+  - first:
+      213: 2995050001736842692
+    second: goldshield_21
+  - first:
+      213: 8915013203340677700
+    second: goldshield_22
+  - first:
+      213: 6278639186531285764
+    second: goldshield_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldshield_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 536
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3dac88ccd2d7cd0800000000000000
+      internalID: -2558838656785001531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 535
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd9fb00332bc2310800000000000000
+      internalID: 1381675117821533639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 535
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8299204de01fe780800000000000000
+      internalID: -8651677747985673587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 536
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb6fcbc04ec62d20800000000000000
+      internalID: 3253514558514359284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 440
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f6a0865c2e82dd0800000000000000
+      internalID: -2510507454777102470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 439
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b6aa22d01e09e0800000000000000
+      internalID: -1653365518353648814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 439
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef017152ec4bf4260800000000000000
+      internalID: 7084079536355610878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 440
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f089065f77da33dd0800000000000000
+      internalID: -2507469836785772529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 392
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035879d831a11210800000000000000
+      internalID: 1301999032825565967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 392
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2382bc2b61ff43ad0800000000000000
+      internalID: -2723271401698285518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 391
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a39f4e9fee1cc030800000000000000
+      internalID: 3516219423571547049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 393
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f564167633bd0cc0800000000000000
+      internalID: -3743138668784359949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 295
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad438e7af95c3b690800000000000000
+      internalID: -7587503657681668902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 296
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f77970369851530800000000000000
+      internalID: 3825114516943241085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 295
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab5d4ab977fed660800000000000000
+      internalID: 7412634138887150501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 296
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c646c2b8fe72d5270800000000000000
+      internalID: 8240786802943485036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 248
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6bac8bfb39c7190800000000000000
+      internalID: -7963327589449550157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 249
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fff89964a4a1d40800000000000000
+      internalID: 5555834757399445249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 247
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3263bb93d8f1e30800000000000000
+      internalID: 4476451833723102139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 248
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcf2167aa77e74e0800000000000000
+      internalID: -1982015211987338020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7415f67f7632cbc10800000000000000
+      internalID: 2070568858123456839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 153
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdbe0eab1e809920800000000000000
+      internalID: 2995050001736842692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 152
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442d901564d78bb70800000000000000
+      internalID: 8915013203340677700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldshield_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 153
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b7b021315322750800000000000000
+      internalID: 6278639186531285764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goldshield_0: -2558838656785001531
+      goldshield_1: 1381675117821533639
+      goldshield_10: 3516219423571547049
+      goldshield_11: -3743138668784359949
+      goldshield_12: -7587503657681668902
+      goldshield_13: 3825114516943241085
+      goldshield_14: 7412634138887150501
+      goldshield_15: 8240786802943485036
+      goldshield_16: -7963327589449550157
+      goldshield_17: 5555834757399445249
+      goldshield_18: 4476451833723102139
+      goldshield_19: -1982015211987338020
+      goldshield_2: -8651677747985673587
+      goldshield_20: 2070568858123456839
+      goldshield_21: 2995050001736842692
+      goldshield_22: 8915013203340677700
+      goldshield_23: 6278639186531285764
+      goldshield_3: 3253514558514359284
+      goldshield_4: -2510507454777102470
+      goldshield_5: -1653365518353648814
+      goldshield_6: 7084079536355610878
+      goldshield_7: -2507469836785772529
+      goldshield_8: 1301999032825565967
+      goldshield_9: -2723271401698285518
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

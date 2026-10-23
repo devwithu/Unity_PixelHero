@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 3d442b00599566c48b624dc6cb8d79d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2464737684913824725
+    second: bluepreta_0
+  - first:
+      213: -3502102891199872900
+    second: bluepreta_1
+  - first:
+      213: 2880859811925618982
+    second: bluepreta_2
+  - first:
+      213: -4579364029081410067
+    second: bluepreta_3
+  - first:
+      213: 3267036210778921992
+    second: bluepreta_4
+  - first:
+      213: 3803461819500814585
+    second: bluepreta_5
+  - first:
+      213: -5180175083617914395
+    second: bluepreta_6
+  - first:
+      213: -6150951658477455556
+    second: bluepreta_7
+  - first:
+      213: 5173044557961656967
+    second: bluepreta_8
+  - first:
+      213: 5994152704645674099
+    second: bluepreta_9
+  - first:
+      213: -1064905730968998292
+    second: bluepreta_10
+  - first:
+      213: 1448435700810478273
+    second: bluepreta_11
+  - first:
+      213: 9204722750736997577
+    second: bluepreta_12
+  - first:
+      213: 2915734487481624370
+    second: bluepreta_13
+  - first:
+      213: 765614998667556394
+    second: bluepreta_14
+  - first:
+      213: -2338641696712576217
+    second: bluepreta_15
+  - first:
+      213: -2484513095229184194
+    second: bluepreta_16
+  - first:
+      213: 6834084834432097532
+    second: bluepreta_17
+  - first:
+      213: 2135746245178070077
+    second: bluepreta_18
+  - first:
+      213: 2215150255599046080
+    second: bluepreta_19
+  - first:
+      213: 8830152790439327243
+    second: bluepreta_20
+  - first:
+      213: -3447919438198648509
+    second: bluepreta_21
+  - first:
+      213: 6463312327413696854
+    second: bluepreta_22
+  - first:
+      213: -7553358180646168248
+    second: bluepreta_23
+  - first:
+      213: -730978893230772881
+    second: bluepreta_24
+  - first:
+      213: -2406644459034423860
+    second: bluepreta_25
+  - first:
+      213: 8372848302772863569
+    second: bluepreta_26
+  - first:
+      213: -1798830164835565741
+    second: bluepreta_27
+  - first:
+      213: -6766287778736130793
+    second: bluepreta_28
+  - first:
+      213: 6008991916370972652
+    second: bluepreta_29
+  - first:
+      213: 8575604079516955862
+    second: bluepreta_30
+  - first:
+      213: 958594420014750824
+    second: bluepreta_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bluepreta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c5132622e7bcdd0800000000000000
+      internalID: -2464737684913824725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c923b9f7066fc0800000000000000
+      internalID: -3502102891199872900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 258
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62176894cbedaf720800000000000000
+      internalID: 2880859811925618982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 258
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a6659da4d270c0800000000000000
+      internalID: -4579364029081410067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd0dbcf18d65d20800000000000000
+      internalID: 3267036210778921992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 226
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f06b1c8f5c98c430800000000000000
+      internalID: 3803461819500814585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 226
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1ff9a05325c18b0800000000000000
+      internalID: -5180175083617914395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 225
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37f9d54e0e63aaa0800000000000000
+      internalID: -6150951658477455556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a72941e985ac740800000000000000
+      internalID: 5173044557961656967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 194
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3743ad160228f2350800000000000000
+      internalID: 5994152704645674099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea05a31e1b831f0800000000000000
+      internalID: -1064905730968998292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c27dc28890e91410800000000000000
+      internalID: 1448435700810478273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 162
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc92a5b29ebdbf70800000000000000
+      internalID: 9204722750736997577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237a2b17115c67820800000000000000
+      internalID: 2915734487481624370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267a4ee8c200aa00800000000000000
+      internalID: 765614998667556394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 130
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723b78a74c97b8fd0800000000000000
+      internalID: -2338641696712576217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 130
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37ee0fd08c358dd0800000000000000
+      internalID: -2484513095229184194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc9539c2fb87de50800000000000000
+      internalID: 6834084834432097532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 98
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d349632f4e1b3ad10800000000000000
+      internalID: 2135746245178070077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 98
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdc81dcb6bcdbe10800000000000000
+      internalID: 2215150255599046080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067f82cd210b8a70800000000000000
+      internalID: 8830152790439327243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3415100f9878620d0800000000000000
+      internalID: -3447919438198648509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65985e3515c42b950800000000000000
+      internalID: 6463312327413696854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8495b4d01c41d2790800000000000000
+      internalID: -7553358180646168248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6debaac19a0bd5f0800000000000000
+      internalID: -730978893230772881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd479e8d91e99ed0800000000000000
+      internalID: -2406644459034423860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152420d8b25523470800000000000000
+      internalID: 8372848302772863569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff7b5ee754907e0800000000000000
+      internalID: -1798830164835565741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715bd545d115912a0800000000000000
+      internalID: -6766287778736130793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4c799f4a346350800000000000000
+      internalID: 6008991916370972652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4bffd897aa20770800000000000000
+      internalID: 8575604079516955862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluepreta_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c96a0db8c9d4d00800000000000000
+      internalID: 958594420014750824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bluepreta_0: -2464737684913824725
+      bluepreta_1: -3502102891199872900
+      bluepreta_10: -1064905730968998292
+      bluepreta_11: 1448435700810478273
+      bluepreta_12: 9204722750736997577
+      bluepreta_13: 2915734487481624370
+      bluepreta_14: 765614998667556394
+      bluepreta_15: -2338641696712576217
+      bluepreta_16: -2484513095229184194
+      bluepreta_17: 6834084834432097532
+      bluepreta_18: 2135746245178070077
+      bluepreta_19: 2215150255599046080
+      bluepreta_2: 2880859811925618982
+      bluepreta_20: 8830152790439327243
+      bluepreta_21: -3447919438198648509
+      bluepreta_22: 6463312327413696854
+      bluepreta_23: -7553358180646168248
+      bluepreta_24: -730978893230772881
+      bluepreta_25: -2406644459034423860
+      bluepreta_26: 8372848302772863569
+      bluepreta_27: -1798830164835565741
+      bluepreta_28: -6766287778736130793
+      bluepreta_29: 6008991916370972652
+      bluepreta_3: -4579364029081410067
+      bluepreta_30: 8575604079516955862
+      bluepreta_31: 958594420014750824
+      bluepreta_4: 3267036210778921992
+      bluepreta_5: 3803461819500814585
+      bluepreta_6: -5180175083617914395
+      bluepreta_7: -6150951658477455556
+      bluepreta_8: 5173044557961656967
+      bluepreta_9: 5994152704645674099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

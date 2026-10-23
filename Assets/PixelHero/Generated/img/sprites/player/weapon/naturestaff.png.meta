@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 62a31d2ab17a6184c9627c745d3fbfe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2659663392457122626
+    second: naturestaff_0
+  - first:
+      213: -6205827554339130171
+    second: naturestaff_1
+  - first:
+      213: 7235097085882101153
+    second: naturestaff_2
+  - first:
+      213: -3810232039297475616
+    second: naturestaff_3
+  - first:
+      213: -2753302080329137235
+    second: naturestaff_4
+  - first:
+      213: 3623767295483640306
+    second: naturestaff_5
+  - first:
+      213: -7222997024583950733
+    second: naturestaff_6
+  - first:
+      213: -5442436000473117122
+    second: naturestaff_7
+  - first:
+      213: -2592923511992992698
+    second: naturestaff_8
+  - first:
+      213: 7611777611068158208
+    second: naturestaff_9
+  - first:
+      213: -7160613688552402489
+    second: naturestaff_10
+  - first:
+      213: -4344762440206926189
+    second: naturestaff_11
+  - first:
+      213: -8463583098815104332
+    second: naturestaff_12
+  - first:
+      213: 6432591635055226828
+    second: naturestaff_13
+  - first:
+      213: 6290067222216819351
+    second: naturestaff_14
+  - first:
+      213: -7676903004826530262
+    second: naturestaff_15
+  - first:
+      213: 3741871188918936937
+    second: naturestaff_16
+  - first:
+      213: -5517392674516703605
+    second: naturestaff_17
+  - first:
+      213: -5863406064521820209
+    second: naturestaff_18
+  - first:
+      213: 801627761349685143
+    second: naturestaff_19
+  - first:
+      213: -4159105226010174304
+    second: naturestaff_20
+  - first:
+      213: -5407853467831677279
+    second: naturestaff_21
+  - first:
+      213: -8157401390818681360
+    second: naturestaff_22
+  - first:
+      213: -618200073950276329
+    second: naturestaff_23
+  - first:
+      213: 9102185421016681055
+    second: naturestaff_24
+  - first:
+      213: 9152612661194028856
+    second: naturestaff_25
+  - first:
+      213: 2266296190659365082
+    second: naturestaff_26
+  - first:
+      213: -5087063646391743178
+    second: naturestaff_27
+  - first:
+      213: 4320985608754387206
+    second: naturestaff_28
+  - first:
+      213: -9161368344402331638
+    second: naturestaff_29
+  - first:
+      213: -466159094166182294
+    second: naturestaff_30
+  - first:
+      213: 4645335605161183807
+    second: naturestaff_31
+  - first:
+      213: 6842545361586833480
+    second: naturestaff_32
+  - first:
+      213: -5066550282268207009
+    second: naturestaff_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naturestaff_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9b7e6c3af61bd0800000000000000
+      internalID: -2659663392457122626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 399
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4f84e18b870e9a0800000000000000
+      internalID: -6205827554339130171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 399
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad6777677a386460800000000000000
+      internalID: 7235097085882101153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 400
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb9cd1d5265f1bc0800000000000000
+      internalID: -3810232039297475616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 352
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da343a6785e4ac9d0800000000000000
+      internalID: -2753302080329137235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9fafbd7253a4230800000000000000
+      internalID: 3623767295483640306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e58f7a972c2cb90800000000000000
+      internalID: -7222997024583950733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8007fa459874b0800000000000000
+      internalID: -5442436000473117122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c36e1cdc5140cd0800000000000000
+      internalID: -2592923511992992698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0013df8886772a960800000000000000
+      internalID: 7611777611068158208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d800f9c360ac90800000000000000
+      internalID: -7160613688552402489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb106849d44b3c0800000000000000
+      internalID: -4344762440206926189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba302c73005b8a80800000000000000
+      internalID: -8463583098815104332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfad90c208254950800000000000000
+      internalID: 6432591635055226828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792cf89ffceca4750800000000000000
+      internalID: 6290067222216819351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8f2e1469267590800000000000000
+      internalID: -7676903004826530262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 195
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96528c2650ccde330800000000000000
+      internalID: 3741871188918936937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86e61d48984e63b0800000000000000
+      internalID: -5517392674516703605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc74e4eff3ff0aea0800000000000000
+      internalID: -5863406064521820209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 208
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fe655a334ff1b00800000000000000
+      internalID: 801627761349685143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac513435d3e746c0800000000000000
+      internalID: -4159105226010174304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae478c4ce173f4b0800000000000000
+      internalID: -5407853467831677279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd99f1a7a61bce80800000000000000
+      internalID: -8157401390818681360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715d210ee46bb67f0800000000000000
+      internalID: -618200073950276329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a407b3a65715e70800000000000000
+      internalID: 9102185421016681055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837763509bc940f70800000000000000
+      internalID: 9152612661194028856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad88218c060837f10800000000000000
+      internalID: 2266296190659365082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d4407e09e1769b0800000000000000
+      internalID: -5087063646391743178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095161848937fb30800000000000000
+      internalID: 4320985608754387206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f36f97084cd080800000000000000
+      internalID: -9161368344402331638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 62
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66286f06ced789f0800000000000000
+      internalID: -466159094166182294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a4b10fe1c877040800000000000000
+      internalID: 4645335605161183807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84841e4c0ca95fe50800000000000000
+      internalID: 6842545361586833480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naturestaff_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f589fbcac5fffa9b0800000000000000
+      internalID: -5066550282268207009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      naturestaff_0: -2659663392457122626
+      naturestaff_1: -6205827554339130171
+      naturestaff_10: -7160613688552402489
+      naturestaff_11: -4344762440206926189
+      naturestaff_12: -8463583098815104332
+      naturestaff_13: 6432591635055226828
+      naturestaff_14: 6290067222216819351
+      naturestaff_15: -7676903004826530262
+      naturestaff_16: 3741871188918936937
+      naturestaff_17: -5517392674516703605
+      naturestaff_18: -5863406064521820209
+      naturestaff_19: 801627761349685143
+      naturestaff_2: 7235097085882101153
+      naturestaff_20: -4159105226010174304
+      naturestaff_21: -5407853467831677279
+      naturestaff_22: -8157401390818681360
+      naturestaff_23: -618200073950276329
+      naturestaff_24: 9102185421016681055
+      naturestaff_25: 9152612661194028856
+      naturestaff_26: 2266296190659365082
+      naturestaff_27: -5087063646391743178
+      naturestaff_28: 4320985608754387206
+      naturestaff_29: -9161368344402331638
+      naturestaff_3: -3810232039297475616
+      naturestaff_30: -466159094166182294
+      naturestaff_31: 4645335605161183807
+      naturestaff_32: 6842545361586833480
+      naturestaff_33: -5066550282268207009
+      naturestaff_4: -2753302080329137235
+      naturestaff_5: 3623767295483640306
+      naturestaff_6: -7222997024583950733
+      naturestaff_7: -5442436000473117122
+      naturestaff_8: -2592923511992992698
+      naturestaff_9: 7611777611068158208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

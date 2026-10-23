@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 3654e606328ee8543bc06228aac2a974
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 275341232548658071
+    second: snowwolf_0
+  - first:
+      213: -8387640716148621293
+    second: snowwolf_1
+  - first:
+      213: 2581012943675268875
+    second: snowwolf_2
+  - first:
+      213: 7091134425214685959
+    second: snowwolf_3
+  - first:
+      213: 1874875080115572167
+    second: snowwolf_4
+  - first:
+      213: 4321223689364186615
+    second: snowwolf_5
+  - first:
+      213: -4848887573808187669
+    second: snowwolf_6
+  - first:
+      213: 778131938232574911
+    second: snowwolf_7
+  - first:
+      213: -1802937375874241534
+    second: snowwolf_8
+  - first:
+      213: 8495089887478807546
+    second: snowwolf_9
+  - first:
+      213: -2939914624293460290
+    second: snowwolf_10
+  - first:
+      213: -859258281098061587
+    second: snowwolf_11
+  - first:
+      213: -4634618287312844538
+    second: snowwolf_12
+  - first:
+      213: -8132849783375077102
+    second: snowwolf_13
+  - first:
+      213: 3825452226849377363
+    second: snowwolf_14
+  - first:
+      213: 7274492733755744063
+    second: snowwolf_15
+  - first:
+      213: 8405813706560837486
+    second: snowwolf_16
+  - first:
+      213: 7864550665782508887
+    second: snowwolf_17
+  - first:
+      213: 4897386357089602385
+    second: snowwolf_18
+  - first:
+      213: -8690659228638798950
+    second: snowwolf_19
+  - first:
+      213: -3492045635200983333
+    second: snowwolf_20
+  - first:
+      213: -902424309350426333
+    second: snowwolf_21
+  - first:
+      213: -6455645427557967802
+    second: snowwolf_22
+  - first:
+      213: -3963613908868191461
+    second: snowwolf_23
+  - first:
+      213: -985585248520711020
+    second: snowwolf_24
+  - first:
+      213: 6459166032458324963
+    second: snowwolf_25
+  - first:
+      213: -7837922094198633114
+    second: snowwolf_26
+  - first:
+      213: -9073502800166367097
+    second: snowwolf_27
+  - first:
+      213: 5939135879682185294
+    second: snowwolf_28
+  - first:
+      213: -5505302993416252813
+    second: snowwolf_29
+  - first:
+      213: 3820587923398208741
+    second: snowwolf_30
+  - first:
+      213: -4029971953020466183
+    second: snowwolf_31
+  - first:
+      213: 4208651711712885127
+    second: snowwolf_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snowwolf_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 344
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bb416646532d300800000000000000
+      internalID: 275341232548658071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 344
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310cb52553d199b80800000000000000
+      internalID: -8387640716148621293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 344
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f1374f89991d320800000000000000
+      internalID: 2581012943675268875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 344
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70317757035c86260800000000000000
+      internalID: 7091134425214685959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 343
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd458ca3f4e40a10800000000000000
+      internalID: 1874875080115572167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 302
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f52e87fc0218fb30800000000000000
+      internalID: 4321223689364186615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 303
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be67b5f217a45bcb0800000000000000
+      internalID: -4848887573808187669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 302
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb32db600ea7cca00800000000000000
+      internalID: 778131938232574911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 303
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cadbe420eaaf6e0800000000000000
+      internalID: -1802937375874241534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 260
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbff266e3f94e570800000000000000
+      internalID: 8495089887478807546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 260
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6230db9335337d0800000000000000
+      internalID: -2939914624293460290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 217
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de856d8552d4314f0800000000000000
+      internalID: -859258281098061587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 217
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609403319378eafb0800000000000000
+      internalID: -4634618287312844538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 218
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211e0523630522f80800000000000000
+      internalID: -8132849783375077102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 218
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c859e388cb61530800000000000000
+      internalID: 3825452226849377363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 217
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fdba4799034f460800000000000000
+      internalID: 7274492733755744063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e671babb70377a470800000000000000
+      internalID: 8405813706560837486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 175
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d3700992f742d60800000000000000
+      internalID: 7864550665782508887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 175
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b8b2eb1f207f340800000000000000
+      internalID: 4897386357089602385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 175
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b93050a73946780800000000000000
+      internalID: -8690659228638798950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 133
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde54661ff2c98fc0800000000000000
+      internalID: -3492045635200983333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3299d743fd1f973f0800000000000000
+      internalID: -902424309350426333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 90
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6485886efa0f866a0800000000000000
+      internalID: -6455645427557967802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 91
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b2d17662a6ef8c0800000000000000
+      internalID: -3963613908868191461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 91
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494de06307f7252f0800000000000000
+      internalID: -985585248520711020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 90
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb92fdc84193a950800000000000000
+      internalID: 6459166032458324963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 88
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dca16e16b1a3390800000000000000
+      internalID: -7837922094198633114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 46
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7805297d641741280800000000000000
+      internalID: -9073502800166367097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 46
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48db3d9d9c0c6250800000000000000
+      internalID: 5939135879682185294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 46
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729788881c3993b0800000000000000
+      internalID: -5505302993416252813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 46
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec2c475974750530800000000000000
+      internalID: 3820587923398208741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb8d654cd9a218c0800000000000000
+      internalID: -4029971953020466183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowwolf_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7897cf3fe62286a30800000000000000
+      internalID: 4208651711712885127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snowwolf_0: 275341232548658071
+      snowwolf_1: -8387640716148621293
+      snowwolf_10: -2939914624293460290
+      snowwolf_11: -859258281098061587
+      snowwolf_12: -4634618287312844538
+      snowwolf_13: -8132849783375077102
+      snowwolf_14: 3825452226849377363
+      snowwolf_15: 7274492733755744063
+      snowwolf_16: 8405813706560837486
+      snowwolf_17: 7864550665782508887
+      snowwolf_18: 4897386357089602385
+      snowwolf_19: -8690659228638798950
+      snowwolf_2: 2581012943675268875
+      snowwolf_20: -3492045635200983333
+      snowwolf_21: -902424309350426333
+      snowwolf_22: -6455645427557967802
+      snowwolf_23: -3963613908868191461
+      snowwolf_24: -985585248520711020
+      snowwolf_25: 6459166032458324963
+      snowwolf_26: -7837922094198633114
+      snowwolf_27: -9073502800166367097
+      snowwolf_28: 5939135879682185294
+      snowwolf_29: -5505302993416252813
+      snowwolf_3: 7091134425214685959
+      snowwolf_30: 3820587923398208741
+      snowwolf_31: -4029971953020466183
+      snowwolf_32: 4208651711712885127
+      snowwolf_4: 1874875080115572167
+      snowwolf_5: 4321223689364186615
+      snowwolf_6: -4848887573808187669
+      snowwolf_7: 778131938232574911
+      snowwolf_8: -1802937375874241534
+      snowwolf_9: 8495089887478807546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

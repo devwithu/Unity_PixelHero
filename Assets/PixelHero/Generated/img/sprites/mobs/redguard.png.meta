@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: a32dfabbe7afc3246bc22d59ba9d70b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8123067617994871275
+    second: redguard_0
+  - first:
+      213: -5158995454271380219
+    second: redguard_1
+  - first:
+      213: 7178536539765146759
+    second: redguard_2
+  - first:
+      213: 4935532379361687740
+    second: redguard_3
+  - first:
+      213: 1330768444246660614
+    second: redguard_4
+  - first:
+      213: 9025319286910785701
+    second: redguard_5
+  - first:
+      213: 8897357825625013568
+    second: redguard_6
+  - first:
+      213: -3095879340291596843
+    second: redguard_7
+  - first:
+      213: -5457612977730884256
+    second: redguard_8
+  - first:
+      213: 5596382500508888433
+    second: redguard_9
+  - first:
+      213: 5101912176922250264
+    second: redguard_10
+  - first:
+      213: 5931953277937852018
+    second: redguard_11
+  - first:
+      213: 5823855039557531504
+    second: redguard_12
+  - first:
+      213: 4037844012504568831
+    second: redguard_13
+  - first:
+      213: 7084182833754262135
+    second: redguard_14
+  - first:
+      213: 3291553170271845944
+    second: redguard_15
+  - first:
+      213: 686103289785284002
+    second: redguard_16
+  - first:
+      213: -34238794832688970
+    second: redguard_17
+  - first:
+      213: -4932805042077257015
+    second: redguard_18
+  - first:
+      213: 6371582631797552771
+    second: redguard_19
+  - first:
+      213: -2699669269927702720
+    second: redguard_20
+  - first:
+      213: -8665656212679357739
+    second: redguard_21
+  - first:
+      213: 2645341312642697775
+    second: redguard_22
+  - first:
+      213: 7732341978351590644
+    second: redguard_23
+  - first:
+      213: 6751948681090805584
+    second: redguard_24
+  - first:
+      213: 9078863977831342470
+    second: redguard_25
+  - first:
+      213: 8444119019859906818
+    second: redguard_26
+  - first:
+      213: -3814456386637054609
+    second: redguard_27
+  - first:
+      213: 7282287602622544298
+    second: redguard_28
+  - first:
+      213: 6596209470506286908
+    second: redguard_29
+  - first:
+      213: -7140455909586990843
+    second: redguard_30
+  - first:
+      213: -5382994741957227207
+    second: redguard_31
+  - first:
+      213: 1370710118236138044
+    second: redguard_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redguard_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eefee0a01154f80800000000000000
+      internalID: -8123067617994871275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505ac46c7f09768b0800000000000000
+      internalID: -5158995454271380219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 260
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7840ddb03f84f9360800000000000000
+      internalID: 7178536539765146759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 260
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8ba49ac888e7440800000000000000
+      internalID: 4935532379361687740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 258
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6061f9d69d6d77210800000000000000
+      internalID: 1330768444246660614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a89cc0c210604d70800000000000000
+      internalID: 9025319286910785701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dbbeb5dc3c97b70800000000000000
+      internalID: 8897357825625013568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddd276842a3905d0800000000000000
+      internalID: -3095879340291596843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 229
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06de9c499e9a244b0800000000000000
+      internalID: -5457612977730884256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 196
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d6b0abb385aad40800000000000000
+      internalID: 5596382500508888433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 196
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc0b40812adc640800000000000000
+      internalID: 5101912176922250264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e13b3d318825250800000000000000
+      internalID: 5931953277937852018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077f1386d4d72d050800000000000000
+      internalID: 5823855039557531504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3d5c76cbd490830800000000000000
+      internalID: 4037844012504568831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 166
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac7d1f0c2105260800000000000000
+      internalID: 7084182833754262135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 166
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e3d514b22fdad20800000000000000
+      internalID: 3291553170271845944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5f0e29e47858900800000000000000
+      internalID: 686103289785284002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c57c5ffb568ff0800000000000000
+      internalID: -34238794832688970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 133
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2bab803f72b8bb0800000000000000
+      internalID: -4932805042077257015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386775145a86c6850800000000000000
+      internalID: 6371582631797552771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fcbea3a19d88ad0800000000000000
+      internalID: -2699669269927702720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 101
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da079156976db780800000000000000
+      internalID: -8665656212679357739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 68
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2acbb188e326b420800000000000000
+      internalID: 2645341312642697775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcdc75cf0cce4b60800000000000000
+      internalID: 7732341978351590644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa5165d8db3bd50800000000000000
+      internalID: 6751948681090805584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6812aba9faa9efd70800000000000000
+      internalID: 9078863977831342470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 68
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2019edb72898f2570800000000000000
+      internalID: 8444119019859906818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d374f4024501bc0800000000000000
+      internalID: -3814456386637054609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa93c8acdf1ef0560800000000000000
+      internalID: 7282287602622544298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 36
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f3891b0917a8b50800000000000000
+      internalID: 6596209470506286908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 37
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5098ab69e2108ec90800000000000000
+      internalID: -7140455909586990843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d08d17dc2cb45b0800000000000000
+      internalID: -5382994741957227207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redguard_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aaf77179db50310800000000000000
+      internalID: 1370710118236138044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redguard_0: -8123067617994871275
+      redguard_1: -5158995454271380219
+      redguard_10: 5101912176922250264
+      redguard_11: 5931953277937852018
+      redguard_12: 5823855039557531504
+      redguard_13: 4037844012504568831
+      redguard_14: 7084182833754262135
+      redguard_15: 3291553170271845944
+      redguard_16: 686103289785284002
+      redguard_17: -34238794832688970
+      redguard_18: -4932805042077257015
+      redguard_19: 6371582631797552771
+      redguard_2: 7178536539765146759
+      redguard_20: -2699669269927702720
+      redguard_21: -8665656212679357739
+      redguard_22: 2645341312642697775
+      redguard_23: 7732341978351590644
+      redguard_24: 6751948681090805584
+      redguard_25: 9078863977831342470
+      redguard_26: 8444119019859906818
+      redguard_27: -3814456386637054609
+      redguard_28: 7282287602622544298
+      redguard_29: 6596209470506286908
+      redguard_3: 4935532379361687740
+      redguard_30: -7140455909586990843
+      redguard_31: -5382994741957227207
+      redguard_32: 1370710118236138044
+      redguard_4: 1330768444246660614
+      redguard_5: 9025319286910785701
+      redguard_6: 8897357825625013568
+      redguard_7: -3095879340291596843
+      redguard_8: -5457612977730884256
+      redguard_9: 5596382500508888433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 23e38dadaaebde14a9f1ba2898d024ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3077884532242255059
+    second: ibosword_0
+  - first:
+      213: 7535105814689337086
+    second: ibosword_1
+  - first:
+      213: -783115152400873095
+    second: ibosword_2
+  - first:
+      213: -461393935023590724
+    second: ibosword_3
+  - first:
+      213: 3125019200366306396
+    second: ibosword_4
+  - first:
+      213: 995922309274223520
+    second: ibosword_5
+  - first:
+      213: -5023918026684064200
+    second: ibosword_6
+  - first:
+      213: -2100998302864310723
+    second: ibosword_7
+  - first:
+      213: 1421937659910088556
+    second: ibosword_8
+  - first:
+      213: 9036300901345949156
+    second: ibosword_9
+  - first:
+      213: 7403786357421338057
+    second: ibosword_10
+  - first:
+      213: 4295564207332323742
+    second: ibosword_11
+  - first:
+      213: -8753036046483659675
+    second: ibosword_12
+  - first:
+      213: -8688838942367656236
+    second: ibosword_13
+  - first:
+      213: 48519194099373373
+    second: ibosword_14
+  - first:
+      213: -6743146910058756913
+    second: ibosword_15
+  - first:
+      213: -7573051744497794273
+    second: ibosword_16
+  - first:
+      213: 6882696819859443300
+    second: ibosword_17
+  - first:
+      213: -1620159612953882682
+    second: ibosword_18
+  - first:
+      213: -3703845061626198665
+    second: ibosword_19
+  - first:
+      213: -6904022794076974465
+    second: ibosword_20
+  - first:
+      213: -2165564512265674065
+    second: ibosword_21
+  - first:
+      213: 2809530201114395154
+    second: ibosword_22
+  - first:
+      213: -913439353435898511
+    second: ibosword_23
+  - first:
+      213: 2677761616492900642
+    second: ibosword_24
+  - first:
+      213: 4980992012274259
+    second: ibosword_25
+  - first:
+      213: -3885432773952505921
+    second: ibosword_26
+  - first:
+      213: 8046625390883451423
+    second: ibosword_27
+  - first:
+      213: 3173342915019146929
+    second: ibosword_28
+  - first:
+      213: -2626063919571450962
+    second: ibosword_29
+  - first:
+      213: 8054795260030256702
+    second: ibosword_30
+  - first:
+      213: -6094221255108575846
+    second: ibosword_31
+  - first:
+      213: 507609049935497815
+    second: ibosword_32
+  - first:
+      213: -2976347621657148048
+    second: ibosword_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ibosword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc08fbbca7d6ba20800000000000000
+      internalID: 3077884532242255059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efec985d0d2129860800000000000000
+      internalID: 7535105814689337086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9798be20be0d125f0800000000000000
+      internalID: -783115152400873095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2366129acc899f0800000000000000
+      internalID: -461393935023590724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54eb1ad76c4e5b20800000000000000
+      internalID: 3125019200366306396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a34d2c401a32dd00800000000000000
+      internalID: 995922309274223520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e90de2c25774ab0800000000000000
+      internalID: -5023918026684064200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ef214dc21c7d2e0800000000000000
+      internalID: -2100998302864310723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67e0b794ccbbb310800000000000000
+      internalID: 1421937659910088556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5744c1bc3676d70800000000000000
+      internalID: 9036300901345949156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd6bf217788fb660800000000000000
+      internalID: 7403786357421338057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91fcef33e8ec9b30800000000000000
+      internalID: 4295564207332323742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e62f5718f68680800000000000000
+      internalID: -8753036046483659675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d65891740b0b6780800000000000000
+      internalID: -8688838942367656236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35d41133ff5ca000800000000000000
+      internalID: 48519194099373373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ccadac978b62a0800000000000000
+      internalID: -6743146910058756913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f138e87ef8d17e690800000000000000
+      internalID: -7573051744497794273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ece64aa40448f50800000000000000
+      internalID: 6882696819859443300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf037e7a690489e0800000000000000
+      internalID: -1620159612953882682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7758fae4a8c499cc0800000000000000
+      internalID: -3703845061626198665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7297dd09dbff20a0800000000000000
+      internalID: -6904022794076974465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2663cbc8e52f1e0800000000000000
+      internalID: -2165564512265674065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c72715d47df620800000000000000
+      internalID: 2809530201114395154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d37966fbfc253f0800000000000000
+      internalID: -913439353435898511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2213c38b002592520800000000000000
+      internalID: 2677761616492900642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a45839f22b11000800000000000000
+      internalID: 4980992012274259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb776ed5a7b241ac0800000000000000
+      internalID: -3885432773952505921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f123f30092b5baf60800000000000000
+      internalID: 8046625390883451423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b60830719af90c20800000000000000
+      internalID: 3173342915019146929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3497457c85e8bd0800000000000000
+      internalID: -2626063919571450962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 59
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e368a94ec9168cf60800000000000000
+      internalID: 8054795260030256702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 62
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d3e9a9e0afc6ba0800000000000000
+      internalID: -6094221255108575846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75acd22ddb36b0700800000000000000
+      internalID: 507609049935497815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ibosword_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0750c038b93e1b6d0800000000000000
+      internalID: -2976347621657148048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ibosword_0: 3077884532242255059
+      ibosword_1: 7535105814689337086
+      ibosword_10: 7403786357421338057
+      ibosword_11: 4295564207332323742
+      ibosword_12: -8753036046483659675
+      ibosword_13: -8688838942367656236
+      ibosword_14: 48519194099373373
+      ibosword_15: -6743146910058756913
+      ibosword_16: -7573051744497794273
+      ibosword_17: 6882696819859443300
+      ibosword_18: -1620159612953882682
+      ibosword_19: -3703845061626198665
+      ibosword_2: -783115152400873095
+      ibosword_20: -6904022794076974465
+      ibosword_21: -2165564512265674065
+      ibosword_22: 2809530201114395154
+      ibosword_23: -913439353435898511
+      ibosword_24: 2677761616492900642
+      ibosword_25: 4980992012274259
+      ibosword_26: -3885432773952505921
+      ibosword_27: 8046625390883451423
+      ibosword_28: 3173342915019146929
+      ibosword_29: -2626063919571450962
+      ibosword_3: -461393935023590724
+      ibosword_30: 8054795260030256702
+      ibosword_31: -6094221255108575846
+      ibosword_32: 507609049935497815
+      ibosword_33: -2976347621657148048
+      ibosword_4: 3125019200366306396
+      ibosword_5: 995922309274223520
+      ibosword_6: -5023918026684064200
+      ibosword_7: -2100998302864310723
+      ibosword_8: 1421937659910088556
+      ibosword_9: 9036300901345949156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

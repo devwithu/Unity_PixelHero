@@ -1,0 +1,120 @@
+{
+ "seed": 161,
+ "end": 12000,
+ "nodes": [
+  {
+   "name": "hub",
+   "kind": "hub",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret"
+   }
+  },
+  {
+   "name": "s1",
+   "kind": "server",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret",
+    "serverId": 1,
+    "port": 9001,
+    "apiPort": 9002,
+    "tutorialEnabled": false
+   }
+  },
+  {
+   "name": "s2",
+   "kind": "server",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "wrong",
+    "serverId": 2,
+    "port": 9101,
+    "apiPort": 9102,
+    "tutorialEnabled": false
+   }
+  }
+ ],
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.1.1",
+   "node": "s1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 2000,
+   "open": 0,
+   "address": "10.0.2.1",
+   "node": "s2"
+  },
+  {
+   "t": 2400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 2700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s2"
+  }
+ ]
+}

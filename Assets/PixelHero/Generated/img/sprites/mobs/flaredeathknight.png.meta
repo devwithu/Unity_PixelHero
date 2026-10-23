@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 4d252be307151ab4786c916c82595868
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1224404131481968344
+    second: flaredeathknight_0
+  - first:
+      213: 4747244306507020952
+    second: flaredeathknight_1
+  - first:
+      213: 4126336336656292638
+    second: flaredeathknight_2
+  - first:
+      213: -7194933726468912754
+    second: flaredeathknight_3
+  - first:
+      213: -3962696573685119518
+    second: flaredeathknight_4
+  - first:
+      213: 252018265300548032
+    second: flaredeathknight_5
+  - first:
+      213: -7627598600956060595
+    second: flaredeathknight_6
+  - first:
+      213: 2155090550091520997
+    second: flaredeathknight_7
+  - first:
+      213: -214873922502914799
+    second: flaredeathknight_8
+  - first:
+      213: 6266670008079608152
+    second: flaredeathknight_9
+  - first:
+      213: 4536966678341314911
+    second: flaredeathknight_10
+  - first:
+      213: 1760483911945973735
+    second: flaredeathknight_11
+  - first:
+      213: -6403084849670051850
+    second: flaredeathknight_12
+  - first:
+      213: -8390052222736934122
+    second: flaredeathknight_13
+  - first:
+      213: 8770833499835840808
+    second: flaredeathknight_14
+  - first:
+      213: 1866147295144885576
+    second: flaredeathknight_15
+  - first:
+      213: -6031781558692055538
+    second: flaredeathknight_16
+  - first:
+      213: 7432639540962331915
+    second: flaredeathknight_17
+  - first:
+      213: 2995953154927272065
+    second: flaredeathknight_18
+  - first:
+      213: -6061493110587085348
+    second: flaredeathknight_19
+  - first:
+      213: 6166310244770476407
+    second: flaredeathknight_20
+  - first:
+      213: 3532531756945720176
+    second: flaredeathknight_21
+  - first:
+      213: -181415890299512414
+    second: flaredeathknight_22
+  - first:
+      213: 8526520520146322791
+    second: flaredeathknight_23
+  - first:
+      213: -3778613834539112258
+    second: flaredeathknight_24
+  - first:
+      213: 4592352233975630426
+    second: flaredeathknight_25
+  - first:
+      213: 5036013755701273576
+    second: flaredeathknight_26
+  - first:
+      213: 6374835631077281252
+    second: flaredeathknight_27
+  - first:
+      213: -5465842223868842540
+    second: flaredeathknight_28
+  - first:
+      213: -7735673905962884386
+    second: flaredeathknight_29
+  - first:
+      213: 5879661019246726494
+    second: flaredeathknight_30
+  - first:
+      213: -7746019414574282663
+    second: flaredeathknight_31
+  - first:
+      213: -580484708699151235
+    second: flaredeathknight_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flaredeathknight_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded0860215fdf010800000000000000
+      internalID: 1224404131481968344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 345
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ab8577b8991e140800000000000000
+      internalID: 4747244306507020952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 345
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b5f223901b34930800000000000000
+      internalID: 4126336336656292638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 345
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c75b65e5762c90800000000000000
+      internalID: -7194933726468912754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 345
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e547d4267ca109c0800000000000000
+      internalID: -3962696573685119518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 303
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9362ce6495f7300800000000000000
+      internalID: 252018265300548032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c5fb43c73552690800000000000000
+      internalID: -7627598600956060595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 303
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9109ef6b68ed10800000000000000
+      internalID: 2155090550091520997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 304
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d08b15e4d940df0800000000000000
+      internalID: -214873922502914799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 261
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859ed2c8b2fa7f650800000000000000
+      internalID: 6266670008079608152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 261
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f596154f72b86fe30800000000000000
+      internalID: 4536966678341314911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 218
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef645c5ace7e6810800000000000000
+      internalID: 1760483911945973735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 219
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f72bb4114ca327a0800000000000000
+      internalID: -6403084849670051850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 221
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bd9c0b4fb809b80800000000000000
+      internalID: -8390052222736934122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 221
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829bfc5299248b970800000000000000
+      internalID: 8770833499835840808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dbaa1e313e5e910800000000000000
+      internalID: 1866147295144885576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 177
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06786f41aeca4ca0800000000000000
+      internalID: -6031781558692055538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 178
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d059e584a062760800000000000000
+      internalID: 7432639540962331915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 177
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180a62b6583c39920800000000000000
+      internalID: 2995953154927272065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 178
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddaafe812041eba0800000000000000
+      internalID: -6061493110587085348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 134
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77175624f72239550800000000000000
+      internalID: 6166310244770476407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 134
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0734982bae2160130800000000000000
+      internalID: 3532531756945720176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 93
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9161e753b7b7df0800000000000000
+      internalID: -181415890299512414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 90
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7658665dc39445670800000000000000
+      internalID: 8526520520146322791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 85
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb86be8ccbaaf8bc0800000000000000
+      internalID: -3778613834539112258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ac69586005bbf30800000000000000
+      internalID: 4592352233975630426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 93
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e32e8034d383e540800000000000000
+      internalID: 5036013755701273576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4ddb2b37f77850800000000000000
+      internalID: 6374835631077281252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 52
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd67f7e47d6524b0800000000000000
+      internalID: -5465842223868842540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 51
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2e2d0619d55a490800000000000000
+      internalID: -7735673905962884386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d89e39b80c89150800000000000000
+      internalID: 5879661019246726494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584503f16c908490800000000000000
+      internalID: -7746019414574282663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flaredeathknight_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 9
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74e074ab34b1f7f0800000000000000
+      internalID: -580484708699151235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flaredeathknight_0: 1224404131481968344
+      flaredeathknight_1: 4747244306507020952
+      flaredeathknight_10: 4536966678341314911
+      flaredeathknight_11: 1760483911945973735
+      flaredeathknight_12: -6403084849670051850
+      flaredeathknight_13: -8390052222736934122
+      flaredeathknight_14: 8770833499835840808
+      flaredeathknight_15: 1866147295144885576
+      flaredeathknight_16: -6031781558692055538
+      flaredeathknight_17: 7432639540962331915
+      flaredeathknight_18: 2995953154927272065
+      flaredeathknight_19: -6061493110587085348
+      flaredeathknight_2: 4126336336656292638
+      flaredeathknight_20: 6166310244770476407
+      flaredeathknight_21: 3532531756945720176
+      flaredeathknight_22: -181415890299512414
+      flaredeathknight_23: 8526520520146322791
+      flaredeathknight_24: -3778613834539112258
+      flaredeathknight_25: 4592352233975630426
+      flaredeathknight_26: 5036013755701273576
+      flaredeathknight_27: 6374835631077281252
+      flaredeathknight_28: -5465842223868842540
+      flaredeathknight_29: -7735673905962884386
+      flaredeathknight_3: -7194933726468912754
+      flaredeathknight_30: 5879661019246726494
+      flaredeathknight_31: -7746019414574282663
+      flaredeathknight_32: -580484708699151235
+      flaredeathknight_4: -3962696573685119518
+      flaredeathknight_5: 252018265300548032
+      flaredeathknight_6: -7627598600956060595
+      flaredeathknight_7: 2155090550091520997
+      flaredeathknight_8: -214873922502914799
+      flaredeathknight_9: 6266670008079608152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

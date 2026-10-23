@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: d55d056d9113ef04187807337840b4d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8639451301307472454
+    second: icewizard_0
+  - first:
+      213: 7087849247150224537
+    second: icewizard_1
+  - first:
+      213: 483249909285706272
+    second: icewizard_2
+  - first:
+      213: -1801897069918215697
+    second: icewizard_3
+  - first:
+      213: 5847371715167020336
+    second: icewizard_4
+  - first:
+      213: -2111526733139918029
+    second: icewizard_5
+  - first:
+      213: -8047443964115747607
+    second: icewizard_6
+  - first:
+      213: 4446737324733706221
+    second: icewizard_7
+  - first:
+      213: -4565717434035120253
+    second: icewizard_8
+  - first:
+      213: 3734353818644003771
+    second: icewizard_9
+  - first:
+      213: 3393817894381098937
+    second: icewizard_10
+  - first:
+      213: 2197803782446066985
+    second: icewizard_11
+  - first:
+      213: 1191553519477935080
+    second: icewizard_12
+  - first:
+      213: 5600884863203897738
+    second: icewizard_13
+  - first:
+      213: -550118170025067251
+    second: icewizard_14
+  - first:
+      213: -1694110027331923354
+    second: icewizard_15
+  - first:
+      213: -6704680741910728136
+    second: icewizard_16
+  - first:
+      213: 4135720172228700411
+    second: icewizard_17
+  - first:
+      213: -7677377065817399589
+    second: icewizard_18
+  - first:
+      213: 8082855709395695803
+    second: icewizard_19
+  - first:
+      213: 7718085262016213521
+    second: icewizard_20
+  - first:
+      213: 2510881101307202687
+    second: icewizard_21
+  - first:
+      213: 4844210772801631132
+    second: icewizard_22
+  - first:
+      213: -3452828228050180697
+    second: icewizard_23
+  - first:
+      213: 8804638734154982911
+    second: icewizard_24
+  - first:
+      213: -7283936352233927389
+    second: icewizard_25
+  - first:
+      213: 3378029819649108769
+    second: icewizard_26
+  - first:
+      213: -5607802635681847728
+    second: icewizard_27
+  - first:
+      213: -7560269380499230044
+    second: icewizard_28
+  - first:
+      213: -2815921711396227949
+    second: icewizard_29
+  - first:
+      213: 5323177627179011105
+    second: icewizard_30
+  - first:
+      213: -7127035616420129239
+    second: icewizard_31
+  - first:
+      213: -1014381468353477277
+    second: icewizard_32
+  - first:
+      213: 7839837911562763321
+    second: icewizard_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icewizard_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 392
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ad7bc4f2f75e770800000000000000
+      internalID: 8639451301307472454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 392
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b8e556591d5260800000000000000
+      internalID: 7087849247150224537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 392
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ad6bc6b39d4b600800000000000000
+      internalID: 483249909285706272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 392
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe125b969206ef6e0800000000000000
+      internalID: -1801897069918215697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 390
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03562302899062150800000000000000
+      internalID: 5847371715167020336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 345
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334471af9952b2e0800000000000000
+      internalID: -2111526733139918029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecf4011a5cb15090800000000000000
+      internalID: -8047443964115747607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 345
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def293a790cf5bd30800000000000000
+      internalID: 4446737324733706221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 345
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38757871f2053a0c0800000000000000
+      internalID: -4565717434035120253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 343
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb36e9330713d330800000000000000
+      internalID: 3734353818644003771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 298
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b713fac463491f20800000000000000
+      internalID: 3393817894381098937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 297
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d25ba45ea208e10800000000000000
+      internalID: 2197803782446066985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 250
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4953ec9f398010800000000000000
+      internalID: 1191553519477935080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 250
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81712bbb175abd40800000000000000
+      internalID: 5600884863203897738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 250
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dfa2360769d58f0800000000000000
+      internalID: -550118170025067251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 250
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662147ae7ef4d78e0800000000000000
+      internalID: -1694110027331923354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 250
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832320e536034f2a0800000000000000
+      internalID: -6704680741910728136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8eb1ca597056930800000000000000
+      internalID: 4135720172228700411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde19313c3a747590800000000000000
+      internalID: -7677377065817399589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8b44161721c2070800000000000000
+      internalID: 8082855709395695803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11277a457a52c1b60800000000000000
+      internalID: 7718085262016213521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c48a4fe0178d220800000000000000
+      internalID: 2510881101307202687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 152
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9336f938081a3340800000000000000
+      internalID: 4844210772801631132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 105
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5a0ac35071510d0800000000000000
+      internalID: -3452828228050180697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e3fc974c503a70800000000000000
+      internalID: 8804638734154982911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dca86ca724aea90800000000000000
+      internalID: -7283936352233927389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 103
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bacd0393c21ee20800000000000000
+      internalID: 3378029819649108769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 105
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0562fa9d6351d22b0800000000000000
+      internalID: -5607802635681847728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2b411fd07841790800000000000000
+      internalID: -7560269380499230044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394fae47f16dbe8d0800000000000000
+      internalID: -2815921711396227949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ccf4839d9bfd940800000000000000
+      internalID: 5323177627179011105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 57
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92698b51edea71d90800000000000000
+      internalID: -7127035616420129239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3654d00dd613ce1f0800000000000000
+      internalID: -1014381468353477277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icewizard_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cb6571b03bccc60800000000000000
+      internalID: 7839837911562763321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icewizard_0: 8639451301307472454
+      icewizard_1: 7087849247150224537
+      icewizard_10: 3393817894381098937
+      icewizard_11: 2197803782446066985
+      icewizard_12: 1191553519477935080
+      icewizard_13: 5600884863203897738
+      icewizard_14: -550118170025067251
+      icewizard_15: -1694110027331923354
+      icewizard_16: -6704680741910728136
+      icewizard_17: 4135720172228700411
+      icewizard_18: -7677377065817399589
+      icewizard_19: 8082855709395695803
+      icewizard_2: 483249909285706272
+      icewizard_20: 7718085262016213521
+      icewizard_21: 2510881101307202687
+      icewizard_22: 4844210772801631132
+      icewizard_23: -3452828228050180697
+      icewizard_24: 8804638734154982911
+      icewizard_25: -7283936352233927389
+      icewizard_26: 3378029819649108769
+      icewizard_27: -5607802635681847728
+      icewizard_28: -7560269380499230044
+      icewizard_29: -2815921711396227949
+      icewizard_3: -1801897069918215697
+      icewizard_30: 5323177627179011105
+      icewizard_31: -7127035616420129239
+      icewizard_32: -1014381468353477277
+      icewizard_33: 7839837911562763321
+      icewizard_4: 5847371715167020336
+      icewizard_5: -2111526733139918029
+      icewizard_6: -8047443964115747607
+      icewizard_7: 4446737324733706221
+      icewizard_8: -4565717434035120253
+      icewizard_9: 3734353818644003771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

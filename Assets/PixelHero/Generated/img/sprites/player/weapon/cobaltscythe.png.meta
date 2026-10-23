@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 6d47373bac1871745851ef821ade1218
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7233881540809248876
+    second: cobaltscythe_0
+  - first:
+      213: -7172968615982413824
+    second: cobaltscythe_1
+  - first:
+      213: -7858414211248552726
+    second: cobaltscythe_2
+  - first:
+      213: 628754578912677689
+    second: cobaltscythe_3
+  - first:
+      213: 993936108073247666
+    second: cobaltscythe_4
+  - first:
+      213: -3851738764724992799
+    second: cobaltscythe_5
+  - first:
+      213: 6568821226579214919
+    second: cobaltscythe_6
+  - first:
+      213: -330850247412086602
+    second: cobaltscythe_7
+  - first:
+      213: -6390238632656852265
+    second: cobaltscythe_8
+  - first:
+      213: -4040835274539826177
+    second: cobaltscythe_9
+  - first:
+      213: 965073458449000336
+    second: cobaltscythe_10
+  - first:
+      213: -3723123955732278909
+    second: cobaltscythe_11
+  - first:
+      213: 4843145251993480160
+    second: cobaltscythe_12
+  - first:
+      213: -3455107652210158226
+    second: cobaltscythe_13
+  - first:
+      213: -473689950234245402
+    second: cobaltscythe_14
+  - first:
+      213: -2680882001940300252
+    second: cobaltscythe_15
+  - first:
+      213: 5279713109634389678
+    second: cobaltscythe_16
+  - first:
+      213: -8187730403935298447
+    second: cobaltscythe_17
+  - first:
+      213: 7445701933469265819
+    second: cobaltscythe_18
+  - first:
+      213: 9031033419362925858
+    second: cobaltscythe_19
+  - first:
+      213: -813086363379338106
+    second: cobaltscythe_20
+  - first:
+      213: -5243657371511567745
+    second: cobaltscythe_21
+  - first:
+      213: -3460829087879226043
+    second: cobaltscythe_22
+  - first:
+      213: 5858875073779441463
+    second: cobaltscythe_23
+  - first:
+      213: 4217475610933188902
+    second: cobaltscythe_24
+  - first:
+      213: -7405285286471341656
+    second: cobaltscythe_25
+  - first:
+      213: -3282658369466318232
+    second: cobaltscythe_26
+  - first:
+      213: 1283729507463394716
+    second: cobaltscythe_27
+  - first:
+      213: -2797329188311081782
+    second: cobaltscythe_28
+  - first:
+      213: -71134376192550349
+    second: cobaltscythe_29
+  - first:
+      213: -2525812665516282359
+    second: cobaltscythe_30
+  - first:
+      213: -889943058425901677
+    second: cobaltscythe_31
+  - first:
+      213: -856084647852752808
+    second: cobaltscythe_32
+  - first:
+      213: -1127747410802761797
+    second: cobaltscythe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobaltscythe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d0334fe8e36460800000000000000
+      internalID: 7233881540809248876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c75b3c0f747c90800000000000000
+      internalID: -7172968615982413824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae406a819ed41f290800000000000000
+      internalID: -7858414211248552726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f8dfe45f8c9b800800000000000000
+      internalID: 628754578912677689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3e32bcf9b2bcd00800000000000000
+      internalID: 993936108073247666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 354
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e407f83000eb8ac0800000000000000
+      internalID: -3851738764724992799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742cc4b3a14292b50800000000000000
+      internalID: 6568821226579214919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b80721f375986bf0800000000000000
+      internalID: -330850247412086602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 307
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daa28e02df4157a0800000000000000
+      internalID: -6390238632656852265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff38f212ab11ce7c0800000000000000
+      internalID: -4040835274539826177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097a2018231a46d00800000000000000
+      internalID: 965073458449000336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 307
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38194dbfc7ec45cc0800000000000000
+      internalID: -3723123955732278909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebe0b452fe463340800000000000000
+      internalID: 4843145251993480160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65974175edfc00d0800000000000000
+      internalID: -3455107652210158226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e68d9eff7d1d69f0800000000000000
+      internalID: -473689950234245402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3c9de5089bcad0800000000000000
+      internalID: -2680882001940300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61bbf991f454940800000000000000
+      internalID: 5279713109634389678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 210
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c55ccf3965f5e80800000000000000
+      internalID: -8187730403935298447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fefdf9572745760800000000000000
+      internalID: 7445701933469265819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 211
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dfec3eb0da45d70800000000000000
+      internalID: 9031033419362925858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6847f0ba24657b4f0800000000000000
+      internalID: -813086363379338106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac1371769ca37b0800000000000000
+      internalID: -5243657371511567745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d9e94e74aa8ffc0800000000000000
+      internalID: -3460829087879226043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f930486d7ee4150800000000000000
+      internalID: 5858875073779441463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629db8619bb778a30800000000000000
+      internalID: 4217475610933188902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 117
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e27f44442b3990800000000000000
+      internalID: -7405285286471341656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 107
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624ff0fa97a172d0800000000000000
+      internalID: -3282658369466318232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 108
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95fa008f29b0d110800000000000000
+      internalID: 1283729507463394716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accd2e29ce3ed29d0800000000000000
+      internalID: -2797329188311081782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a59b769a7430ff0800000000000000
+      internalID: -71134376192550349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 60
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e28b653c282fcd0800000000000000
+      internalID: -2525812665516282359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d0334e08946a3f0800000000000000
+      internalID: -889943058425901677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850421b6c839e14f0800000000000000
+      internalID: -856084647852752808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltscythe_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf1cb674bf6950f0800000000000000
+      internalID: -1127747410802761797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cobaltscythe_0: 7233881540809248876
+      cobaltscythe_1: -7172968615982413824
+      cobaltscythe_10: 965073458449000336
+      cobaltscythe_11: -3723123955732278909
+      cobaltscythe_12: 4843145251993480160
+      cobaltscythe_13: -3455107652210158226
+      cobaltscythe_14: -473689950234245402
+      cobaltscythe_15: -2680882001940300252
+      cobaltscythe_16: 5279713109634389678
+      cobaltscythe_17: -8187730403935298447
+      cobaltscythe_18: 7445701933469265819
+      cobaltscythe_19: 9031033419362925858
+      cobaltscythe_2: -7858414211248552726
+      cobaltscythe_20: -813086363379338106
+      cobaltscythe_21: -5243657371511567745
+      cobaltscythe_22: -3460829087879226043
+      cobaltscythe_23: 5858875073779441463
+      cobaltscythe_24: 4217475610933188902
+      cobaltscythe_25: -7405285286471341656
+      cobaltscythe_26: -3282658369466318232
+      cobaltscythe_27: 1283729507463394716
+      cobaltscythe_28: -2797329188311081782
+      cobaltscythe_29: -71134376192550349
+      cobaltscythe_3: 628754578912677689
+      cobaltscythe_30: -2525812665516282359
+      cobaltscythe_31: -889943058425901677
+      cobaltscythe_32: -856084647852752808
+      cobaltscythe_33: -1127747410802761797
+      cobaltscythe_4: 993936108073247666
+      cobaltscythe_5: -3851738764724992799
+      cobaltscythe_6: 6568821226579214919
+      cobaltscythe_7: -330850247412086602
+      cobaltscythe_8: -6390238632656852265
+      cobaltscythe_9: -4040835274539826177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

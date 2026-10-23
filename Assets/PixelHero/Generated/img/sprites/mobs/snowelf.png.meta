@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 3af126cbd12abee4695f1d17993aec21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5947315906703898251
+    second: snowelf_0
+  - first:
+      213: 9108073683765682511
+    second: snowelf_1
+  - first:
+      213: -5410920822406845744
+    second: snowelf_2
+  - first:
+      213: 4129363516026801369
+    second: snowelf_3
+  - first:
+      213: 3226552487901994529
+    second: snowelf_4
+  - first:
+      213: 894994406788342415
+    second: snowelf_5
+  - first:
+      213: -3816140539447163799
+    second: snowelf_6
+  - first:
+      213: -4731135379751166879
+    second: snowelf_7
+  - first:
+      213: -2480417997761364580
+    second: snowelf_8
+  - first:
+      213: -6068700656031959444
+    second: snowelf_9
+  - first:
+      213: 4838874341382312265
+    second: snowelf_10
+  - first:
+      213: -7121004083747605164
+    second: snowelf_11
+  - first:
+      213: -1419059698545004017
+    second: snowelf_12
+  - first:
+      213: 3316064464532943395
+    second: snowelf_13
+  - first:
+      213: 3543438090228606149
+    second: snowelf_14
+  - first:
+      213: 1773221725291762145
+    second: snowelf_15
+  - first:
+      213: -5174400461001730673
+    second: snowelf_16
+  - first:
+      213: -4354915541207461286
+    second: snowelf_17
+  - first:
+      213: 2442927134986978320
+    second: snowelf_18
+  - first:
+      213: 1137230999246503795
+    second: snowelf_19
+  - first:
+      213: -77447392949354954
+    second: snowelf_20
+  - first:
+      213: 2291039524196174730
+    second: snowelf_21
+  - first:
+      213: -3310730319493193858
+    second: snowelf_22
+  - first:
+      213: 1149277772800226275
+    second: snowelf_23
+  - first:
+      213: 7000697227369710089
+    second: snowelf_24
+  - first:
+      213: 6978552794796921048
+    second: snowelf_25
+  - first:
+      213: -371578814217377348
+    second: snowelf_26
+  - first:
+      213: 6820509101724947143
+    second: snowelf_27
+  - first:
+      213: -5334612892125384565
+    second: snowelf_28
+  - first:
+      213: 7741820079883189688
+    second: snowelf_29
+  - first:
+      213: 4564922658117124654
+    second: snowelf_30
+  - first:
+      213: 847165065520728755
+    second: snowelf_31
+  - first:
+      213: -8270227449081219749
+    second: snowelf_32
+  - first:
+      213: 2849894221914712859
+    second: snowelf_33
+  - first:
+      213: 159131597812320287
+    second: snowelf_34
+  - first:
+      213: 1127397895643884090
+    second: snowelf_35
+  - first:
+      213: -9147382308629626618
+    second: snowelf_36
+  - first:
+      213: 2743973178120051884
+    second: snowelf_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snowelf_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 262
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86bd129e4c198250800000000000000
+      internalID: 5947315906703898251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41efec32c0666e70800000000000000
+      internalID: 9108073683765682511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 266
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daeca82e2c88e4b0800000000000000
+      internalID: -5410920822406845744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 266
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc4c315d327e4930800000000000000
+      internalID: 4129363516026801369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 262
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e1d8a846407cc20800000000000000
+      internalID: 3226552487901994529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 267
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82a49ccba8ab6c00800000000000000
+      internalID: 894994406788342415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 262
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c84de5685a0bc0800000000000000
+      internalID: -3816140539447163799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 267
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c16a15071a75eb0800000000000000
+      internalID: -4731135379751166879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 266
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9db2fc09f8c39dd0800000000000000
+      internalID: -2480417997761364580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 230
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66f80d18e4a7cba0800000000000000
+      internalID: -6068700656031959444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94158d67392272340800000000000000
+      internalID: 4838874341382312265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 230
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4553e18b38c1d2d90800000000000000
+      internalID: -7121004083747605164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02f62109bc7e4ce0800000000000000
+      internalID: -1419059698545004017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32238ccaf07050e20800000000000000
+      internalID: 3316064464532943395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c42aab4b22dc2130800000000000000
+      internalID: 3543438090228606149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e15504a3cfbb9810800000000000000
+      internalID: 1773221725291762145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 173
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85df542236d038b0800000000000000
+      internalID: -5174400461001730673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52508b736b3093c0800000000000000
+      internalID: -4354915541207461286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014cf0d394507e120800000000000000
+      internalID: 2442927134986978320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f76a9819148cf00800000000000000
+      internalID: 1137230999246503795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e3976a10adceef0800000000000000
+      internalID: -77447392949354954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bc71e0f486bcf10800000000000000
+      internalID: 2291039524196174730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 139
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f1e7fb05ced02d0800000000000000
+      internalID: -3310730319493193858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e372049b0e03ff00800000000000000
+      internalID: 1149277772800226275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9020f697909772160800000000000000
+      internalID: 7000697227369710089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d01e2cfaccc8d060800000000000000
+      internalID: 6978552794796921048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb923848903e7daf0800000000000000
+      internalID: -371578814217377348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c252a334e057ae50800000000000000
+      internalID: 6820509101724947143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80b5aea6d5a7f5b0800000000000000
+      internalID: -5334612892125384565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd7c604858707b60800000000000000
+      internalID: 7741820079883189688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e220438b8fcd95f30800000000000000
+      internalID: 4564922658117124654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bacb7c732cb1cb00800000000000000
+      internalID: 847165065520728755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5534ddd3ff3a3d80800000000000000
+      internalID: -8270227449081219749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b2aa802bbdc8720800000000000000
+      internalID: 2849894221914712859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18c4285859553200800000000000000
+      internalID: 159131597812320287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a6062b96255af00800000000000000
+      internalID: 1127397895643884090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60140755148fd0180800000000000000
+      internalID: -9147382308629626618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowelf_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac9b0b311d841620800000000000000
+      internalID: 2743973178120051884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snowelf_0: 5947315906703898251
+      snowelf_1: 9108073683765682511
+      snowelf_10: 4838874341382312265
+      snowelf_11: -7121004083747605164
+      snowelf_12: -1419059698545004017
+      snowelf_13: 3316064464532943395
+      snowelf_14: 3543438090228606149
+      snowelf_15: 1773221725291762145
+      snowelf_16: -5174400461001730673
+      snowelf_17: -4354915541207461286
+      snowelf_18: 2442927134986978320
+      snowelf_19: 1137230999246503795
+      snowelf_2: -5410920822406845744
+      snowelf_20: -77447392949354954
+      snowelf_21: 2291039524196174730
+      snowelf_22: -3310730319493193858
+      snowelf_23: 1149277772800226275
+      snowelf_24: 7000697227369710089
+      snowelf_25: 6978552794796921048
+      snowelf_26: -371578814217377348
+      snowelf_27: 6820509101724947143
+      snowelf_28: -5334612892125384565
+      snowelf_29: 7741820079883189688
+      snowelf_3: 4129363516026801369
+      snowelf_30: 4564922658117124654
+      snowelf_31: 847165065520728755
+      snowelf_32: -8270227449081219749
+      snowelf_33: 2849894221914712859
+      snowelf_34: 159131597812320287
+      snowelf_35: 1127397895643884090
+      snowelf_36: -9147382308629626618
+      snowelf_37: 2743973178120051884
+      snowelf_4: 3226552487901994529
+      snowelf_5: 894994406788342415
+      snowelf_6: -3816140539447163799
+      snowelf_7: -4731135379751166879
+      snowelf_8: -2480417997761364580
+      snowelf_9: -6068700656031959444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

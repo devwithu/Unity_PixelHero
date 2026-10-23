@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: c528ab6dbb88ba04cb4f0c6a1a7f2a37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6611574454720423463
+    second: cobra_0
+  - first:
+      213: -4351406574923369092
+    second: cobra_1
+  - first:
+      213: -3701504415640342782
+    second: cobra_2
+  - first:
+      213: -6849382259705158738
+    second: cobra_3
+  - first:
+      213: -2494338637890633613
+    second: cobra_4
+  - first:
+      213: -4771866641073911701
+    second: cobra_5
+  - first:
+      213: 4682876252821338782
+    second: cobra_6
+  - first:
+      213: -2253237503709759501
+    second: cobra_7
+  - first:
+      213: 7432834053039594074
+    second: cobra_8
+  - first:
+      213: 8066485832905999465
+    second: cobra_9
+  - first:
+      213: -6795642146501421791
+    second: cobra_10
+  - first:
+      213: 2117365903561856817
+    second: cobra_11
+  - first:
+      213: 3529639940031543285
+    second: cobra_12
+  - first:
+      213: -4778170506984411146
+    second: cobra_13
+  - first:
+      213: 5840167896736039428
+    second: cobra_14
+  - first:
+      213: 7293597987216806721
+    second: cobra_15
+  - first:
+      213: 2289323179878760719
+    second: cobra_16
+  - first:
+      213: -1566987287066901772
+    second: cobra_17
+  - first:
+      213: 7321321310356041758
+    second: cobra_18
+  - first:
+      213: 5872708901672968169
+    second: cobra_19
+  - first:
+      213: -247865739016596190
+    second: cobra_20
+  - first:
+      213: -2444806564744443825
+    second: cobra_21
+  - first:
+      213: -8997017050487618062
+    second: cobra_22
+  - first:
+      213: 5277676381469366185
+    second: cobra_23
+  - first:
+      213: 7459402796689963436
+    second: cobra_24
+  - first:
+      213: 658691056652669131
+    second: cobra_25
+  - first:
+      213: -1212044288980888947
+    second: cobra_26
+  - first:
+      213: 6716963326614481677
+    second: cobra_27
+  - first:
+      213: 1164169251040502372
+    second: cobra_28
+  - first:
+      213: -1858480051006297061
+    second: cobra_29
+  - first:
+      213: 1270053010274662325
+    second: cobra_30
+  - first:
+      213: 5229013211656048541
+    second: cobra_31
+  - first:
+      213: -342250811056326241
+    second: cobra_32
+  - first:
+      213: 8332588515453746562
+    second: cobra_33
+  - first:
+      213: 3702874791269796420
+    second: cobra_34
+  - first:
+      213: -3260068063153427892
+    second: cobra_35
+  - first:
+      213: 4097340422091235702
+    second: cobra_36
+  - first:
+      213: -4413044765994181734
+    second: cobra_37
+  - first:
+      213: -7187812672019450311
+    second: cobra_38
+  - first:
+      213: -5322587630561487098
+    second: cobra_39
+  - first:
+      213: -1242913891649189896
+    second: cobra_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobra_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 228
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d997542018fe34a0800000000000000
+      internalID: -6611574454720423463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 229
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b46c56c2bc93c0800000000000000
+      internalID: -4351406574923369092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 228
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fa73b685d91acc0800000000000000
+      internalID: -3701504415640342782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 228
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea36967df1b12f0a0800000000000000
+      internalID: -6849382259705158738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 229
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3704ff27934526dd0800000000000000
+      internalID: -2494338637890633613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c047829ce6cdb0800000000000000
+      internalID: -4771866641073911701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 200
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a3788142becf040800000000000000
+      internalID: 4682876252821338782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 200
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7bac4bd64eab0e0800000000000000
+      internalID: -2253237503709759501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 200
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a1addb03bb62760800000000000000
+      internalID: 7432834053039594074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9644510802ae1ff60800000000000000
+      internalID: 8066485832905999465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 172
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1251c1df87701b1a0800000000000000
+      internalID: -6795642146501421791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 172
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137145d2215626d10800000000000000
+      internalID: 2117365903561856817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 172
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f77c9a13dccbf030800000000000000
+      internalID: 3529639940031543285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 142
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff22fe5d3780bdb0800000000000000
+      internalID: -4778170506984411146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402879172c17c0150800000000000000
+      internalID: 5840167896736039428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143df8ae9b0183560800000000000000
+      internalID: 7293597987216806721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 142
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01cdb08d4f45cf10800000000000000
+      internalID: 2289323179878760719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 144
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f203da5d51f04ae0800000000000000
+      internalID: -1566987287066901772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 114
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10f44611fe8a9560800000000000000
+      internalID: 7321321310356041758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efdd7191ad008150800000000000000
+      internalID: 5872708901672968169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 114
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2251de17c676f8cf0800000000000000
+      internalID: -247865739016596190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 114
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f484ddbe16d421ed0800000000000000
+      internalID: -2444806564744443825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 86
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f58d8b29ac242380800000000000000
+      internalID: -8997017050487618062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a753f4e4b21e3940800000000000000
+      internalID: 5277676381469366185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 86
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9b24d625f158760800000000000000
+      internalID: 7459402796689963436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 86
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc05280b604242900800000000000000
+      internalID: 658691056652669131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 59
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82d04f0424fd2fe0800000000000000
+      internalID: -1212044288980888947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 62
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bae2cbe82773d50800000000000000
+      internalID: 6716963326614481677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 60
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462a3ba04c5f72010800000000000000
+      internalID: 1164169251040502372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cae918d3a5536e0800000000000000
+      internalID: -1858480051006297061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 60
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7365bdb7220a110800000000000000
+      internalID: 1270053010274662325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 31
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f459ebfcf219840800000000000000
+      internalID: 5229013211656048541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99f5ee53b4104bf0800000000000000
+      internalID: -342250811056326241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dbe1b5b1d43a370800000000000000
+      internalID: 8332588515453746562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 31
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a82650101436330800000000000000
+      internalID: 3702874791269796420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ae4208e59e1c2d0800000000000000
+      internalID: -3260068063153427892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671e89eb76dacd830800000000000000
+      internalID: 4097340422091235702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b1509aa27b1c2c0800000000000000
+      internalID: -4413044765994181734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ba3c1572cf3c90800000000000000
+      internalID: -7187812672019450311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6079e7210ce5226b0800000000000000
+      internalID: -5322587630561487098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobra_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f70ad9966840cee0800000000000000
+      internalID: -1242913891649189896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cobra_0: -6611574454720423463
+      cobra_1: -4351406574923369092
+      cobra_10: -6795642146501421791
+      cobra_11: 2117365903561856817
+      cobra_12: 3529639940031543285
+      cobra_13: -4778170506984411146
+      cobra_14: 5840167896736039428
+      cobra_15: 7293597987216806721
+      cobra_16: 2289323179878760719
+      cobra_17: -1566987287066901772
+      cobra_18: 7321321310356041758
+      cobra_19: 5872708901672968169
+      cobra_2: -3701504415640342782
+      cobra_20: -247865739016596190
+      cobra_21: -2444806564744443825
+      cobra_22: -8997017050487618062
+      cobra_23: 5277676381469366185
+      cobra_24: 7459402796689963436
+      cobra_25: 658691056652669131
+      cobra_26: -1212044288980888947
+      cobra_27: 6716963326614481677
+      cobra_28: 1164169251040502372
+      cobra_29: -1858480051006297061
+      cobra_3: -6849382259705158738
+      cobra_30: 1270053010274662325
+      cobra_31: 5229013211656048541
+      cobra_32: -342250811056326241
+      cobra_33: 8332588515453746562
+      cobra_34: 3702874791269796420
+      cobra_35: -3260068063153427892
+      cobra_36: 4097340422091235702
+      cobra_37: -4413044765994181734
+      cobra_38: -7187812672019450311
+      cobra_39: -5322587630561487098
+      cobra_4: -2494338637890633613
+      cobra_40: -1242913891649189896
+      cobra_5: -4771866641073911701
+      cobra_6: 4682876252821338782
+      cobra_7: -2253237503709759501
+      cobra_8: 7432834053039594074
+      cobra_9: 8066485832905999465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

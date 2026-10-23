@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 91e43d1727d4a6b48bfcba646814730b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5269669810004311964
+    second: rathat_0
+  - first:
+      213: 4168833452866618121
+    second: rathat_1
+  - first:
+      213: 6352815680130127715
+    second: rathat_2
+  - first:
+      213: 7156523773983769249
+    second: rathat_3
+  - first:
+      213: -2345333175060996496
+    second: rathat_4
+  - first:
+      213: 7418747567392392530
+    second: rathat_5
+  - first:
+      213: 7635972903666539253
+    second: rathat_6
+  - first:
+      213: -6934331060357471995
+    second: rathat_7
+  - first:
+      213: -7623817942455615501
+    second: rathat_8
+  - first:
+      213: -1417526546316133843
+    second: rathat_9
+  - first:
+      213: 2774832382822363529
+    second: rathat_10
+  - first:
+      213: -5742070989658727504
+    second: rathat_11
+  - first:
+      213: -6682688235226368581
+    second: rathat_12
+  - first:
+      213: -6742591013652551336
+    second: rathat_13
+  - first:
+      213: -2346765359903234290
+    second: rathat_14
+  - first:
+      213: 4317773243909860510
+    second: rathat_15
+  - first:
+      213: -470921383284481620
+    second: rathat_16
+  - first:
+      213: 595675795087304326
+    second: rathat_17
+  - first:
+      213: 4575427635630760156
+    second: rathat_18
+  - first:
+      213: 2137676995532138987
+    second: rathat_19
+  - first:
+      213: -3276762094712046731
+    second: rathat_20
+  - first:
+      213: 1649989178432826660
+    second: rathat_21
+  - first:
+      213: -8108940870082140057
+    second: rathat_22
+  - first:
+      213: 1767554629847165494
+    second: rathat_23
+  - first:
+      213: -5155818005688694425
+    second: rathat_24
+  - first:
+      213: 944602325593591393
+    second: rathat_25
+  - first:
+      213: 2307890648975173464
+    second: rathat_26
+  - first:
+      213: 7047651902868234795
+    second: rathat_27
+  - first:
+      213: 5784565491947447017
+    second: rathat_28
+  - first:
+      213: -7824829848873984855
+    second: rathat_29
+  - first:
+      213: 1434361577200680204
+    second: rathat_30
+  - first:
+      213: -476576740449184721
+    second: rathat_31
+  - first:
+      213: -9164111526544502119
+    second: rathat_32
+  - first:
+      213: -159004397855439096
+    second: rathat_33
+  - first:
+      213: -4299706067851130697
+    second: rathat_34
+  - first:
+      213: -6509418660069402255
+    second: rathat_35
+  - first:
+      213: -3544942794507110478
+    second: rathat_36
+  - first:
+      213: -1578074630256436088
+    second: rathat_37
+  - first:
+      213: 8136460651138555162
+    second: rathat_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rathat_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 450
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c71b4a3f5ed6b0800000000000000
+      internalID: -5269669810004311964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 447
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90341ed10fbaad930800000000000000
+      internalID: 4168833452866618121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 447
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36710b1d33cb92850800000000000000
+      internalID: 6352815680130127715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 447
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2c0fe9474115360800000000000000
+      internalID: 7156523773983769249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 403
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07edc8447e3b37fd0800000000000000
+      internalID: -2345333175060996496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 403
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25587b83b9fa4f660800000000000000
+      internalID: 7418747567392392530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 403
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa5d8516ec68f960800000000000000
+      internalID: 7635972903666539253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 403
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5016f68e3ae44cf90800000000000000
+      internalID: -6934331060357471995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 403
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fffeab59f1c23690800000000000000
+      internalID: -7623817942455615501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 403
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af323dd1fe35ce0800000000000000
+      internalID: -1417526546316133843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 355
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b069b95f228620800000000000000
+      internalID: 2774832382822363529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 355
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd0529bd01050b0800000000000000
+      internalID: -5742070989658727504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 355
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb576aad4725243a0800000000000000
+      internalID: -6682688235226368581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 307
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859af7562318d62a0800000000000000
+      internalID: -6742591013652551336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 307
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07a6cfb65d9e6fd0800000000000000
+      internalID: -2346765359903234290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 250
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ceee783efcbeb30800000000000000
+      internalID: 4317773243909860510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 251
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca161383f73f679f0800000000000000
+      internalID: -470921383284481620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 253
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6862a77caf3444800800000000000000
+      internalID: 595675795087304326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 252
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0e645613f2f7f30800000000000000
+      internalID: 4575427635630760156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 201
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a73bc6ed8aad10800000000000000
+      internalID: 2137676995532138987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 202
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b39336c3a9682d0800000000000000
+      internalID: -3276762094712046731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 201
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d2abf6a60f5e610800000000000000
+      internalID: 1649989178432826660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 202
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7686b1edd31477f80800000000000000
+      internalID: -8108940870082140057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a2329229d978810800000000000000
+      internalID: 1767554629847165494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 154
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769cc5c27dad278b0800000000000000
+      internalID: -5155818005688694425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 154
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e83077fc6eb1d00800000000000000
+      internalID: 944602325593591393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 154
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8576c984156470020800000000000000
+      internalID: 2307890648975173464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22211bc01a4ec160800000000000000
+      internalID: 7047651902868234795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 109
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2a28fbaa7e64050800000000000000
+      internalID: 5784565491947447017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 108
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac1efdc5be986390800000000000000
+      internalID: -7824829848873984855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 110
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0df3804140e7e310800000000000000
+      internalID: 1434361577200680204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f241055cafbd269f0800000000000000
+      internalID: -476576740449184721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9929042ce1982d080800000000000000
+      internalID: -9164111526544502119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 63
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8070a14b75a1bcdf0800000000000000
+      internalID: -159004397855439096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84423bc106454c0800000000000000
+      internalID: -4299706067851130697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17993409736e9a5a0800000000000000
+      internalID: -6509418660069402255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 16
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7b2507f45ddcec0800000000000000
+      internalID: -3544942794507110478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 15
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c528a1c7d891ae0800000000000000
+      internalID: -1578074630256436088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rathat_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 16
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d9e087ad38ae070800000000000000
+      internalID: 8136460651138555162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rathat_0: -5269669810004311964
+      rathat_1: 4168833452866618121
+      rathat_10: 2774832382822363529
+      rathat_11: -5742070989658727504
+      rathat_12: -6682688235226368581
+      rathat_13: -6742591013652551336
+      rathat_14: -2346765359903234290
+      rathat_15: 4317773243909860510
+      rathat_16: -470921383284481620
+      rathat_17: 595675795087304326
+      rathat_18: 4575427635630760156
+      rathat_19: 2137676995532138987
+      rathat_2: 6352815680130127715
+      rathat_20: -3276762094712046731
+      rathat_21: 1649989178432826660
+      rathat_22: -8108940870082140057
+      rathat_23: 1767554629847165494
+      rathat_24: -5155818005688694425
+      rathat_25: 944602325593591393
+      rathat_26: 2307890648975173464
+      rathat_27: 7047651902868234795
+      rathat_28: 5784565491947447017
+      rathat_29: -7824829848873984855
+      rathat_3: 7156523773983769249
+      rathat_30: 1434361577200680204
+      rathat_31: -476576740449184721
+      rathat_32: -9164111526544502119
+      rathat_33: -159004397855439096
+      rathat_34: -4299706067851130697
+      rathat_35: -6509418660069402255
+      rathat_36: -3544942794507110478
+      rathat_37: -1578074630256436088
+      rathat_38: 8136460651138555162
+      rathat_4: -2345333175060996496
+      rathat_5: 7418747567392392530
+      rathat_6: 7635972903666539253
+      rathat_7: -6934331060357471995
+      rathat_8: -7623817942455615501
+      rathat_9: -1417526546316133843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

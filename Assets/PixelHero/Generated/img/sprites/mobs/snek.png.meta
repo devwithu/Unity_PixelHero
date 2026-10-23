@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 5f81371dd2d9ae448bf9c4306d81f1cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5665439017586451948
+    second: snek_0
+  - first:
+      213: -8203255348304057741
+    second: snek_1
+  - first:
+      213: 3250335354672667512
+    second: snek_2
+  - first:
+      213: 2821775744143010026
+    second: snek_3
+  - first:
+      213: 8102115983880099888
+    second: snek_4
+  - first:
+      213: -7925204765709077902
+    second: snek_5
+  - first:
+      213: 7445201049882451128
+    second: snek_6
+  - first:
+      213: -1343031472728144958
+    second: snek_7
+  - first:
+      213: 6573954433469366869
+    second: snek_8
+  - first:
+      213: 8858740682745099492
+    second: snek_9
+  - first:
+      213: -3540554144530322824
+    second: snek_10
+  - first:
+      213: -9167500507855338597
+    second: snek_11
+  - first:
+      213: -4138757081142852876
+    second: snek_12
+  - first:
+      213: 912124807939043082
+    second: snek_13
+  - first:
+      213: 4911709664729771734
+    second: snek_14
+  - first:
+      213: -8771493123042166299
+    second: snek_15
+  - first:
+      213: 5269351606868978746
+    second: snek_16
+  - first:
+      213: -4671097450830801828
+    second: snek_17
+  - first:
+      213: -2465946392222568295
+    second: snek_18
+  - first:
+      213: -6271088966082477922
+    second: snek_19
+  - first:
+      213: 7717561467524556723
+    second: snek_20
+  - first:
+      213: -5464055163152332226
+    second: snek_21
+  - first:
+      213: -7626130844566883585
+    second: snek_22
+  - first:
+      213: -6294396675456416436
+    second: snek_23
+  - first:
+      213: 279321944954296216
+    second: snek_24
+  - first:
+      213: -3801333674777213284
+    second: snek_25
+  - first:
+      213: 7789639132498829700
+    second: snek_26
+  - first:
+      213: 9214253233939772536
+    second: snek_27
+  - first:
+      213: 2717246584226810939
+    second: snek_28
+  - first:
+      213: -7904969961597535170
+    second: snek_29
+  - first:
+      213: -1083164911664358857
+    second: snek_30
+  - first:
+      213: -638146723939103484
+    second: snek_31
+  - first:
+      213: -8859644242088490864
+    second: snek_32
+  - first:
+      213: -6724505750532087844
+    second: snek_33
+  - first:
+      213: 8801496436626232409
+    second: snek_34
+  - first:
+      213: -6526372740864686292
+    second: snek_35
+  - first:
+      213: -6176330275690855599
+    second: snek_36
+  - first:
+      213: -7603457302819449717
+    second: snek_37
+  - first:
+      213: 4030017663407327757
+    second: snek_38
+  - first:
+      213: -8952163518079000672
+    second: snek_39
+  - first:
+      213: 7415895914717841042
+    second: snek_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snek_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 228
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a1f14fa315061b0800000000000000
+      internalID: -5665439017586451948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 229
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a638239be282e80800000000000000
+      internalID: -8203255348304057741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 228
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b5828b8c28b1d20800000000000000
+      internalID: 3250335354672667512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 228
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae82571c616f82720800000000000000
+      internalID: 2821775744143010026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 229
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038103c7f8f707070800000000000000
+      internalID: 8102115983880099888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2727daf4144040290800000000000000
+      internalID: -7925204765709077902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 200
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcdb9398eaa25760800000000000000
+      internalID: 7445201049882451128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 200
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c38ed1cdf79c5de0800000000000000
+      internalID: -1343031472728144958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 200
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552cb881ab06b3b50800000000000000
+      internalID: 6573954433469366869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4b25027b190fa70800000000000000
+      internalID: 8858740682745099492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 172
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aab33a3cc6ddec0800000000000000
+      internalID: -3540554144530322824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 172
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93c11f0cde76c080800000000000000
+      internalID: -9167500507855338597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 172
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f209dedc5e2096c0800000000000000
+      internalID: -4138757081142852876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f27002ea488ac00800000000000000
+      internalID: 912124807939043082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 142
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de221eaae5e92440800000000000000
+      internalID: 4911709664729771734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 142
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e93a4b5a75654680800000000000000
+      internalID: -8771493123042166299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 142
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c2f044e5f702940800000000000000
+      internalID: 5269351606868978746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c545ff3fd9dec2fb0800000000000000
+      internalID: -4671097450830801828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 114
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990fa6842d237cdd0800000000000000
+      internalID: -2465946392222568295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 114
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9048cd9fcd98f8a0800000000000000
+      internalID: -6271088966082477922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 114
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72b0ce3494a1b60800000000000000
+      internalID: 7717561467524556723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 114
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8a2767c6cb24b0800000000000000
+      internalID: -5464055163152332226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 86
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2f0fed66a8a2690800000000000000
+      internalID: -7626130844566883585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 86
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c454504a29fc5a8a0800000000000000
+      internalID: -6294396675456416436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897d8fa34d950e300800000000000000
+      internalID: 279321944954296216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c968c22c923fe3bc0800000000000000
+      internalID: -3801333674777213284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 59
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481231d058b5a1c60800000000000000
+      internalID: 7789639132498829700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874797f3f7a9fdf70800000000000000
+      internalID: 9214253233939772536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c8bfb2f5995b520800000000000000
+      internalID: 2717246584226810939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 60
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c78d6c3b7eb4290800000000000000
+      internalID: -7904969961597535170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a141f6043d7f0f0800000000000000
+      internalID: -1083164911664358857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc7058fe8d427f0800000000000000
+      internalID: -638146723939103484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0980bf190883c0580800000000000000
+      internalID: -8859644242088490864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf9679d5a1cda2a0800000000000000
+      internalID: -6724505750532087844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 31
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95419f47062352a70800000000000000
+      internalID: 8801496436626232409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27c7f4029aad65a0800000000000000
+      internalID: -6526372740864686292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c4fd7654494aa0800000000000000
+      internalID: -6176330275690855599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84d8903ed71b7690800000000000000
+      internalID: -7603457302819449717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a81f186bf7de730800000000000000
+      internalID: 4030017663407327757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af90bdf5b683c380800000000000000
+      internalID: -8952163518079000672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snek_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29607081b0e8ae660800000000000000
+      internalID: 7415895914717841042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snek_0: -5665439017586451948
+      snek_1: -8203255348304057741
+      snek_10: -3540554144530322824
+      snek_11: -9167500507855338597
+      snek_12: -4138757081142852876
+      snek_13: 912124807939043082
+      snek_14: 4911709664729771734
+      snek_15: -8771493123042166299
+      snek_16: 5269351606868978746
+      snek_17: -4671097450830801828
+      snek_18: -2465946392222568295
+      snek_19: -6271088966082477922
+      snek_2: 3250335354672667512
+      snek_20: 7717561467524556723
+      snek_21: -5464055163152332226
+      snek_22: -7626130844566883585
+      snek_23: -6294396675456416436
+      snek_24: 279321944954296216
+      snek_25: -3801333674777213284
+      snek_26: 7789639132498829700
+      snek_27: 9214253233939772536
+      snek_28: 2717246584226810939
+      snek_29: -7904969961597535170
+      snek_3: 2821775744143010026
+      snek_30: -1083164911664358857
+      snek_31: -638146723939103484
+      snek_32: -8859644242088490864
+      snek_33: -6724505750532087844
+      snek_34: 8801496436626232409
+      snek_35: -6526372740864686292
+      snek_36: -6176330275690855599
+      snek_37: -7603457302819449717
+      snek_38: 4030017663407327757
+      snek_39: -8952163518079000672
+      snek_4: 8102115983880099888
+      snek_40: 7415895914717841042
+      snek_5: -7925204765709077902
+      snek_6: 7445201049882451128
+      snek_7: -1343031472728144958
+      snek_8: 6573954433469366869
+      snek_9: 8858740682745099492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

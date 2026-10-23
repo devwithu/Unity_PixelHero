@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 0922ff8beb37fdb46a9f7321446d7c76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6807425780599532438
+    second: adherer_0
+  - first:
+      213: -7659543138507340717
+    second: adherer_1
+  - first:
+      213: -1408888341556347121
+    second: adherer_2
+  - first:
+      213: -1209467456241271885
+    second: adherer_3
+  - first:
+      213: -4479519867192605894
+    second: adherer_4
+  - first:
+      213: 2915879293082205693
+    second: adherer_5
+  - first:
+      213: -4441669913645779394
+    second: adherer_6
+  - first:
+      213: -7085745589626842813
+    second: adherer_7
+  - first:
+      213: -647528762402873810
+    second: adherer_8
+  - first:
+      213: -4536255513986768806
+    second: adherer_9
+  - first:
+      213: 6548317180896305708
+    second: adherer_10
+  - first:
+      213: -4221901408625694233
+    second: adherer_11
+  - first:
+      213: 315800158462785021
+    second: adherer_12
+  - first:
+      213: -3812404521307507485
+    second: adherer_13
+  - first:
+      213: 2257047453766585019
+    second: adherer_14
+  - first:
+      213: -6807988974145163502
+    second: adherer_15
+  - first:
+      213: 197519341206971365
+    second: adherer_16
+  - first:
+      213: -1681254836367149930
+    second: adherer_17
+  - first:
+      213: 4546216654315220331
+    second: adherer_18
+  - first:
+      213: 4609241917802228072
+    second: adherer_19
+  - first:
+      213: -4802830640402162140
+    second: adherer_20
+  - first:
+      213: 9130816949212937983
+    second: adherer_21
+  - first:
+      213: 8846936751066829914
+    second: adherer_22
+  - first:
+      213: 8282416259000008100
+    second: adherer_23
+  - first:
+      213: -1481899149857534185
+    second: adherer_24
+  - first:
+      213: -4500900155217346459
+    second: adherer_25
+  - first:
+      213: 2025514915412168967
+    second: adherer_26
+  - first:
+      213: -1787629609417032849
+    second: adherer_27
+  - first:
+      213: 8843654636368026605
+    second: adherer_28
+  - first:
+      213: 2576396246866438999
+    second: adherer_29
+  - first:
+      213: 8170773198813595069
+    second: adherer_30
+  - first:
+      213: 1275421003029420483
+    second: adherer_31
+  - first:
+      213: 2637996498143399312
+    second: adherer_32
+  - first:
+      213: -4830707289519738949
+    second: adherer_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adherer_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a645780e15a2781a0800000000000000
+      internalID: -6807425780599532438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3544d77f816d3b590800000000000000
+      internalID: -7659543138507340717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 260
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f3859948f927ce0800000000000000
+      internalID: -1408888341556347121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 260
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbf75fa1cb173fe0800000000000000
+      internalID: -1209467456241271885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 260
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330eaf0a6c85d1c0800000000000000
+      internalID: -4479519867192605894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 228
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf410a4c8477820800000000000000
+      internalID: 2915879293082205693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 228
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e367a9b1fb40c52c0800000000000000
+      internalID: -4441669913645779394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 228
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34150899def5aad90800000000000000
+      internalID: -7085745589626842813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ed02775048307f0800000000000000
+      internalID: -647528762402873810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a506966e4abfb01c0800000000000000
+      internalID: -4536255513986768806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 196
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2269e318cb40ea50800000000000000
+      internalID: 6548317180896305708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9e426990bc865c0800000000000000
+      internalID: -4221901408625694233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 166
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5bf292292f16400800000000000000
+      internalID: 315800158462785021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 166
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e47f5f694e971bc0800000000000000
+      internalID: -3812404521307507485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 166
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba05fa63b4a25f10800000000000000
+      internalID: 2257047453766585019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f2d49291a2581a0800000000000000
+      internalID: -6807988974145163502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 165
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e329e85bcabdb200800000000000000
+      internalID: 197519341206971365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694bd6d42abfaa8e0800000000000000
+      internalID: -1681254836367149930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 133
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6c60d5f7671f30800000000000000
+      internalID: 4546216654315220331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 133
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869217a7a1157ff30800000000000000
+      internalID: 4609241917802228072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e9772aafae85db0800000000000000
+      internalID: -4802830640402162140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef3fe53ad27be70800000000000000
+      internalID: 9130816949212937983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54dfad1a12a6ca70800000000000000
+      internalID: 8846936751066829914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7d9794bd01f270800000000000000
+      internalID: 8282416259000008100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 67
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc9cb139c3f6be0800000000000000
+      internalID: -1481899149857534185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56005c6d7279981c0800000000000000
+      internalID: -4500900155217346459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701d56c75131c1c10800000000000000
+      internalID: 2025514915412168967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 68
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b3abc67501137e0800000000000000
+      internalID: -1787629609417032849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 35
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd3fc3909faba70800000000000000
+      internalID: 8843654636368026605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75baf177cb231c320800000000000000
+      internalID: 2576396246866438999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db501970fea646170800000000000000
+      internalID: 8170773198813595069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c914a015a433b110800000000000000
+      internalID: 1275421003029420483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dcf8e96db0c9420800000000000000
+      internalID: 2637996498143399312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adherer_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf294a7051e5fcb0800000000000000
+      internalID: -4830707289519738949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adherer_0: -6807425780599532438
+      adherer_1: -7659543138507340717
+      adherer_10: 6548317180896305708
+      adherer_11: -4221901408625694233
+      adherer_12: 315800158462785021
+      adherer_13: -3812404521307507485
+      adherer_14: 2257047453766585019
+      adherer_15: -6807988974145163502
+      adherer_16: 197519341206971365
+      adherer_17: -1681254836367149930
+      adherer_18: 4546216654315220331
+      adherer_19: 4609241917802228072
+      adherer_2: -1408888341556347121
+      adherer_20: -4802830640402162140
+      adherer_21: 9130816949212937983
+      adherer_22: 8846936751066829914
+      adherer_23: 8282416259000008100
+      adherer_24: -1481899149857534185
+      adherer_25: -4500900155217346459
+      adherer_26: 2025514915412168967
+      adherer_27: -1787629609417032849
+      adherer_28: 8843654636368026605
+      adherer_29: 2576396246866438999
+      adherer_3: -1209467456241271885
+      adherer_30: 8170773198813595069
+      adherer_31: 1275421003029420483
+      adherer_32: 2637996498143399312
+      adherer_33: -4830707289519738949
+      adherer_4: -4479519867192605894
+      adherer_5: 2915879293082205693
+      adherer_6: -4441669913645779394
+      adherer_7: -7085745589626842813
+      adherer_8: -647528762402873810
+      adherer_9: -4536255513986768806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

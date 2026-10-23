@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: c723c795b3a23414886a74e4100f588b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8320102380781528936
+    second: ant_0
+  - first:
+      213: 5359879180938795770
+    second: ant_1
+  - first:
+      213: 4633991597904760959
+    second: ant_2
+  - first:
+      213: -1261253993027305625
+    second: ant_3
+  - first:
+      213: -9063406064706534977
+    second: ant_4
+  - first:
+      213: 8217434899919345019
+    second: ant_5
+  - first:
+      213: -2427512704872538192
+    second: ant_6
+  - first:
+      213: -4421353822352961524
+    second: ant_7
+  - first:
+      213: -2686340854862509503
+    second: ant_8
+  - first:
+      213: 8036806028062095238
+    second: ant_9
+  - first:
+      213: 221818628435184992
+    second: ant_10
+  - first:
+      213: -7465117935036188475
+    second: ant_11
+  - first:
+      213: 707050923173715846
+    second: ant_12
+  - first:
+      213: 1700120742593231225
+    second: ant_13
+  - first:
+      213: -3441323214348041537
+    second: ant_14
+  - first:
+      213: 9034906796426197306
+    second: ant_15
+  - first:
+      213: 3737843084804870810
+    second: ant_16
+  - first:
+      213: -2169144991700227904
+    second: ant_17
+  - first:
+      213: -6311420968123156438
+    second: ant_18
+  - first:
+      213: -151795965319867433
+    second: ant_19
+  - first:
+      213: 1726702168178703428
+    second: ant_20
+  - first:
+      213: -2230745454718544595
+    second: ant_21
+  - first:
+      213: -4281863423516859416
+    second: ant_22
+  - first:
+      213: 7014323702457350286
+    second: ant_23
+  - first:
+      213: -4169000153598339595
+    second: ant_24
+  - first:
+      213: -7731156256331033617
+    second: ant_25
+  - first:
+      213: -4921893632008909291
+    second: ant_26
+  - first:
+      213: 3770494199277293063
+    second: ant_27
+  - first:
+      213: 7368219835689576571
+    second: ant_28
+  - first:
+      213: 6821537622741475828
+    second: ant_29
+  - first:
+      213: -3722960202082684651
+    second: ant_30
+  - first:
+      213: -7144726398354024985
+    second: ant_31
+  - first:
+      213: -3487157528013807266
+    second: ant_32
+  - first:
+      213: 8736504908653769264
+    second: ant_33
+  - first:
+      213: 4499570997802059497
+    second: ant_34
+  - first:
+      213: 8836965348187035108
+    second: ant_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ant_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 391
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89892aa67fe098c80800000000000000
+      internalID: -8320102380781528936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 391
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa5eda97bd126a40800000000000000
+      internalID: 5359879180938795770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70124d6ece3f4040800000000000000
+      internalID: 4633991597904760959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 391
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f701efc202f7ee0800000000000000
+      internalID: -1261253993027305625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 342
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1cb024430583280800000000000000
+      internalID: -9063406064706534977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 342
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75179ee0813a0270800000000000000
+      internalID: 8217434899919345019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 342
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf13527e0ebf4ed0800000000000000
+      internalID: -2427512704872538192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 342
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001658bf1234a2c0800000000000000
+      internalID: -4421353822352961524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 342
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a0d40b93338bad0800000000000000
+      internalID: -2686340854862509503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 342
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687fb5f6088788f60800000000000000
+      internalID: 8036806028062095238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 294
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d81780ede041300800000000000000
+      internalID: 221818628435184992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 294
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c835cb3ac2966890800000000000000
+      internalID: -7465117935036188475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 247
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f91e98113ffc900800000000000000
+      internalID: 707050923173715846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 247
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979fa89ceca089710800000000000000
+      internalID: 1700120742593231225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 246
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2ca7bf4c6fd30d0800000000000000
+      internalID: -3441323214348041537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39feb3ccdf626d70800000000000000
+      internalID: 9034906796426197306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 199
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92d1ff4b7c7fd330800000000000000
+      internalID: 3737843084804870810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 199
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8e3676f16a5e1e0800000000000000
+      internalID: -2169144991700227904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 200
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28311f91145968a0800000000000000
+      internalID: -6311420968123156438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 199
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d395c0bf56b4edf0800000000000000
+      internalID: -151795965319867433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 199
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c3037397a76f710800000000000000
+      internalID: 1726702168178703428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 200
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d251f23f3dcca01e0800000000000000
+      internalID: -2230745454718544595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 151
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e32a8017e3c394c0800000000000000
+      internalID: -4281863423516859416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 151
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b2907e32e75160800000000000000
+      internalID: 7014323702457350286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5d838d27cb426c0800000000000000
+      internalID: -4169000153598339595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe39956a85a65b490800000000000000
+      internalID: -7731156256331033617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 102
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e0ad9a1dbe1bbb0800000000000000
+      internalID: -4921893632008909291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 103
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e089f4f7c735430800000000000000
+      internalID: 3770494199277293063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 55
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a34de6ec214660800000000000000
+      internalID: 7368219835689576571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 53
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e7796358faae50800000000000000
+      internalID: 6821537622741475828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 54
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511f1f9db63655cc0800000000000000
+      internalID: -3722960202082684651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 55
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e590c0f135d8dc90800000000000000
+      internalID: -7144726398354024985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 53
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5168ea34b02b9fc0800000000000000
+      internalID: -3487157528013807266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 54
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b3ca2dec4e3970800000000000000
+      internalID: 8736504908653769264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e644a59bffa17e30800000000000000
+      internalID: 4499570997802059497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5df17f92533aa70800000000000000
+      internalID: 8836965348187035108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ant_0: -8320102380781528936
+      ant_1: 5359879180938795770
+      ant_10: 221818628435184992
+      ant_11: -7465117935036188475
+      ant_12: 707050923173715846
+      ant_13: 1700120742593231225
+      ant_14: -3441323214348041537
+      ant_15: 9034906796426197306
+      ant_16: 3737843084804870810
+      ant_17: -2169144991700227904
+      ant_18: -6311420968123156438
+      ant_19: -151795965319867433
+      ant_2: 4633991597904760959
+      ant_20: 1726702168178703428
+      ant_21: -2230745454718544595
+      ant_22: -4281863423516859416
+      ant_23: 7014323702457350286
+      ant_24: -4169000153598339595
+      ant_25: -7731156256331033617
+      ant_26: -4921893632008909291
+      ant_27: 3770494199277293063
+      ant_28: 7368219835689576571
+      ant_29: 6821537622741475828
+      ant_3: -1261253993027305625
+      ant_30: -3722960202082684651
+      ant_31: -7144726398354024985
+      ant_32: -3487157528013807266
+      ant_33: 8736504908653769264
+      ant_34: 4499570997802059497
+      ant_35: 8836965348187035108
+      ant_4: -9063406064706534977
+      ant_5: 8217434899919345019
+      ant_6: -2427512704872538192
+      ant_7: -4421353822352961524
+      ant_8: -2686340854862509503
+      ant_9: 8036806028062095238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: b994219881716124eb7a058b3d2a6dd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6947631355543446458
+    second: rabbitman_0
+  - first:
+      213: 8586968529435636721
+    second: rabbitman_1
+  - first:
+      213: 2468178942433886638
+    second: rabbitman_2
+  - first:
+      213: -8738884458487963546
+    second: rabbitman_3
+  - first:
+      213: -6127862358478208578
+    second: rabbitman_4
+  - first:
+      213: -759673860252639818
+    second: rabbitman_5
+  - first:
+      213: -6264593446290936948
+    second: rabbitman_6
+  - first:
+      213: -2918795883037194005
+    second: rabbitman_7
+  - first:
+      213: -9132462014129146004
+    second: rabbitman_8
+  - first:
+      213: -7166899445994191183
+    second: rabbitman_9
+  - first:
+      213: -7318086531913458839
+    second: rabbitman_10
+  - first:
+      213: 1416910559498795578
+    second: rabbitman_11
+  - first:
+      213: 7651880288216387518
+    second: rabbitman_12
+  - first:
+      213: -852863002614703007
+    second: rabbitman_13
+  - first:
+      213: -940653974866960186
+    second: rabbitman_14
+  - first:
+      213: -868663619459378570
+    second: rabbitman_15
+  - first:
+      213: -1246122891342048517
+    second: rabbitman_16
+  - first:
+      213: 6805608950560963484
+    second: rabbitman_17
+  - first:
+      213: 6644025433834956900
+    second: rabbitman_18
+  - first:
+      213: -6733927339164736244
+    second: rabbitman_19
+  - first:
+      213: -8994124407923786999
+    second: rabbitman_20
+  - first:
+      213: -586955703519759216
+    second: rabbitman_21
+  - first:
+      213: -550869112813915193
+    second: rabbitman_22
+  - first:
+      213: -7178830645097630924
+    second: rabbitman_23
+  - first:
+      213: -3687288690352451052
+    second: rabbitman_24
+  - first:
+      213: -3414329816099324399
+    second: rabbitman_25
+  - first:
+      213: -3250078012716381090
+    second: rabbitman_26
+  - first:
+      213: 2562347659166602286
+    second: rabbitman_27
+  - first:
+      213: -7576865916562732475
+    second: rabbitman_28
+  - first:
+      213: -1144683635570369057
+    second: rabbitman_29
+  - first:
+      213: -5690704635654879476
+    second: rabbitman_30
+  - first:
+      213: -8314706954159926490
+    second: rabbitman_31
+  - first:
+      213: 7789355932589022243
+    second: rabbitman_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rabbitman_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 260
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3688168e1fa6060800000000000000
+      internalID: 6947631355543446458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 260
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3387eb16a0b2770800000000000000
+      internalID: 8586968529435636721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 260
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10fd1dbabb04220800000000000000
+      internalID: 2468178942433886638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 260
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a4a6b2ee39b680800000000000000
+      internalID: -8738884458487963546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 260
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb14b6ad6a575faa0800000000000000
+      internalID: -6127862358478208578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 228
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bddd7626a81575f0800000000000000
+      internalID: -759673860252639818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 228
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba69ba371bf09a0800000000000000
+      internalID: -6264593446290936948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be802bbdb9a5e77d0800000000000000
+      internalID: -2918795883037194005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 228
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67751b1f2af24180800000000000000
+      internalID: -9132462014129146004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6829cfcee0a8c90800000000000000
+      internalID: -7166899445994191183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 197
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b5ab5721fe07a90800000000000000
+      internalID: -7318086531913458839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 164
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afc6195a0e9a310800000000000000
+      internalID: 1416910559498795578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 164
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf83faa490f03a60800000000000000
+      internalID: 7651880288216387518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 165
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cd3172e950a24f0800000000000000
+      internalID: -852863002614703007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 165
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ee73913022f2f0800000000000000
+      internalID: -940653974866960186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 164
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67291dc5a03e1f3f0800000000000000
+      internalID: -868663619459378570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 132
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2131325d1e4bee0800000000000000
+      internalID: -1246122891342048517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 132
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb76a6841627e50800000000000000
+      internalID: 6805608950560963484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 132
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468a4663ee1543c50800000000000000
+      internalID: 6644025433834956900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 132
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c056bcd43c84c82a0800000000000000
+      internalID: -6733927339164736244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b380001837e2380800000000000000
+      internalID: -8994124407923786999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b0d0c5e6bad7f0800000000000000
+      internalID: -586955703519759216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3fdf4e57bea58f0800000000000000
+      internalID: -550869112813915193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 68
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4337448309baf5c90800000000000000
+      internalID: -7178830645097630924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4121a33e87e14dcc0800000000000000
+      internalID: -3687288690352451052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 67
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eff554f1ddd90d0800000000000000
+      internalID: -3414329816099324399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c8bbf544765e2d0800000000000000
+      internalID: -3250078012716381090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24ddafbe994f8320800000000000000
+      internalID: 2562347659166602286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a8384c79099d690800000000000000
+      internalID: -7576865916562732475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd10a95c444d10f0800000000000000
+      internalID: -1144683635570369057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c074f16d84e8601b0800000000000000
+      internalID: -5690704635654879476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623d3d1141a3c9c80800000000000000
+      internalID: -8314706954159926490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitman_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cdc0f63f9591c60800000000000000
+      internalID: 7789355932589022243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rabbitman_0: 6947631355543446458
+      rabbitman_1: 8586968529435636721
+      rabbitman_10: -7318086531913458839
+      rabbitman_11: 1416910559498795578
+      rabbitman_12: 7651880288216387518
+      rabbitman_13: -852863002614703007
+      rabbitman_14: -940653974866960186
+      rabbitman_15: -868663619459378570
+      rabbitman_16: -1246122891342048517
+      rabbitman_17: 6805608950560963484
+      rabbitman_18: 6644025433834956900
+      rabbitman_19: -6733927339164736244
+      rabbitman_2: 2468178942433886638
+      rabbitman_20: -8994124407923786999
+      rabbitman_21: -586955703519759216
+      rabbitman_22: -550869112813915193
+      rabbitman_23: -7178830645097630924
+      rabbitman_24: -3687288690352451052
+      rabbitman_25: -3414329816099324399
+      rabbitman_26: -3250078012716381090
+      rabbitman_27: 2562347659166602286
+      rabbitman_28: -7576865916562732475
+      rabbitman_29: -1144683635570369057
+      rabbitman_3: -8738884458487963546
+      rabbitman_30: -5690704635654879476
+      rabbitman_31: -8314706954159926490
+      rabbitman_32: 7789355932589022243
+      rabbitman_4: -6127862358478208578
+      rabbitman_5: -759673860252639818
+      rabbitman_6: -6264593446290936948
+      rabbitman_7: -2918795883037194005
+      rabbitman_8: -9132462014129146004
+      rabbitman_9: -7166899445994191183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

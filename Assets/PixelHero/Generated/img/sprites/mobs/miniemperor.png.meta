@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: a4d240aad9456e64a96fbcce0eb2bd05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2454287087546638973
+    second: miniemperor_0
+  - first:
+      213: -8755661146129182810
+    second: miniemperor_1
+  - first:
+      213: -6860165427697319300
+    second: miniemperor_2
+  - first:
+      213: -6376719029043775293
+    second: miniemperor_3
+  - first:
+      213: 6181908006236381951
+    second: miniemperor_4
+  - first:
+      213: 7995682630615435798
+    second: miniemperor_5
+  - first:
+      213: 87664204665138999
+    second: miniemperor_6
+  - first:
+      213: 6890184863004665780
+    second: miniemperor_7
+  - first:
+      213: -7414952551605586415
+    second: miniemperor_8
+  - first:
+      213: -1712666459054856830
+    second: miniemperor_9
+  - first:
+      213: -1135144940062929845
+    second: miniemperor_10
+  - first:
+      213: -9042294542630306581
+    second: miniemperor_11
+  - first:
+      213: -2129462727857641059
+    second: miniemperor_12
+  - first:
+      213: -6417597112779925175
+    second: miniemperor_13
+  - first:
+      213: -5607659481559518587
+    second: miniemperor_14
+  - first:
+      213: -433214436571150501
+    second: miniemperor_15
+  - first:
+      213: 8134748980894803262
+    second: miniemperor_16
+  - first:
+      213: 277352634465472298
+    second: miniemperor_17
+  - first:
+      213: 2703023447266007686
+    second: miniemperor_18
+  - first:
+      213: 5862532285225821130
+    second: miniemperor_19
+  - first:
+      213: 4684287541780703302
+    second: miniemperor_20
+  - first:
+      213: 9082329414413639937
+    second: miniemperor_21
+  - first:
+      213: 534222516407106806
+    second: miniemperor_22
+  - first:
+      213: 1644855925617040839
+    second: miniemperor_23
+  - first:
+      213: 6144144883808812600
+    second: miniemperor_24
+  - first:
+      213: -3403759034541142386
+    second: miniemperor_25
+  - first:
+      213: 9104888512126908033
+    second: miniemperor_26
+  - first:
+      213: -3989585904083522531
+    second: miniemperor_27
+  - first:
+      213: 3994667328827582094
+    second: miniemperor_28
+  - first:
+      213: -2753244130428821434
+    second: miniemperor_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniemperor_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 261
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72ab0e4a116f0220800000000000000
+      internalID: 2454287087546638973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 261
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afc74bb394ad7680800000000000000
+      internalID: -8755661146129182810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 261
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c728fa5e3ebcbc0a0800000000000000
+      internalID: -6860165427697319300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 261
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c83f5114d75187a0800000000000000
+      internalID: -6376719029043775293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 229
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2ecd9149c8ac550800000000000000
+      internalID: 6181908006236381951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a08965dfe56fe60800000000000000
+      internalID: 7995682630615435798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 229
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f25923122773100800000000000000
+      internalID: 87664204665138999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 230
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7aa2c80aade9f50800000000000000
+      internalID: 6890184863004665780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1163c2fb0fbc81990800000000000000
+      internalID: -7414952551605586415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 197
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852f49fde26b38e0800000000000000
+      internalID: -1712666459054856830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c87f6f0b72f30f0800000000000000
+      internalID: -1135144940062929845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 172
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec31188501538280800000000000000
+      internalID: -9042294542630306581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d996c9f6ee0a272e0800000000000000
+      internalID: -2129462727857641059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 171
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9491e258d6d10f6a0800000000000000
+      internalID: -6417597112779925175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823b4489679d22b0800000000000000
+      internalID: -5607659481559518587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 137
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b570b94e3c9ecf9f0800000000000000
+      internalID: -433214436571150501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 136
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35a43f291f64e070800000000000000
+      internalID: 8134748980894803262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f45d660ca59d300800000000000000
+      internalID: 277352634465472298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a97d90181138520800000000000000
+      internalID: 2703023447266007686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3e4296d06eb5150800000000000000
+      internalID: 5862532285225821130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 68
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64860a963bee10140800000000000000
+      internalID: 4684287541780703302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 67
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101e43f6b7aea0e70800000000000000
+      internalID: 9082329414413639937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcf5795c80f96700800000000000000
+      internalID: 534222516407106806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd9911efb3b3d610800000000000000
+      internalID: 1644855925617040839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 36
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e35fff733644550800000000000000
+      internalID: 6144144883808812600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 37
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e0625213b63c0d0800000000000000
+      internalID: -3403759034541142386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 27
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186fbdcacdf0b5e70800000000000000
+      internalID: 9104888512126908033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 37
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c223a02c422a8c0800000000000000
+      internalID: -3989585904083522531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8660aa55c8ef6730800000000000000
+      internalID: 3994667328827582094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniemperor_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406cd9fc038ac9d0800000000000000
+      internalID: -2753244130428821434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miniemperor_0: 2454287087546638973
+      miniemperor_1: -8755661146129182810
+      miniemperor_10: -1135144940062929845
+      miniemperor_11: -9042294542630306581
+      miniemperor_12: -2129462727857641059
+      miniemperor_13: -6417597112779925175
+      miniemperor_14: -5607659481559518587
+      miniemperor_15: -433214436571150501
+      miniemperor_16: 8134748980894803262
+      miniemperor_17: 277352634465472298
+      miniemperor_18: 2703023447266007686
+      miniemperor_19: 5862532285225821130
+      miniemperor_2: -6860165427697319300
+      miniemperor_20: 4684287541780703302
+      miniemperor_21: 9082329414413639937
+      miniemperor_22: 534222516407106806
+      miniemperor_23: 1644855925617040839
+      miniemperor_24: 6144144883808812600
+      miniemperor_25: -3403759034541142386
+      miniemperor_26: 9104888512126908033
+      miniemperor_27: -3989585904083522531
+      miniemperor_28: 3994667328827582094
+      miniemperor_29: -2753244130428821434
+      miniemperor_3: -6376719029043775293
+      miniemperor_4: 6181908006236381951
+      miniemperor_5: 7995682630615435798
+      miniemperor_6: 87664204665138999
+      miniemperor_7: 6890184863004665780
+      miniemperor_8: -7414952551605586415
+      miniemperor_9: -1712666459054856830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

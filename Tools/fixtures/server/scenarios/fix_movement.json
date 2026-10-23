@@ -1,0 +1,375 @@
+{
+ "seed": 157,
+ "end": 30000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 188 157"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn burger 1"
+    ]
+   ]
+  },
+  {
+   "t": 4000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 2,
+     "type": 1,
+     "fromIndex": 0,
+     "value": 1
+    }
+   ]
+  },
+  {
+   "t": 5000,
+   "walk": 0,
+   "from": [
+    188,
+    157
+   ],
+   "path": [
+    [
+     189,
+     157
+    ],
+    [
+     190,
+     157
+    ],
+    [
+     191,
+     157
+    ]
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 0,
+     "requestX": 188,
+     "requestY": 157,
+     "playerX": 191,
+     "playerY": 157,
+     "targetInstance": "2-798084208",
+     "following": false
+    }
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 1,
+     "requestX": 188,
+     "requestY": 157,
+     "playerX": 191,
+     "playerY": 157,
+     "movementSpeed": 220,
+     "targetInstance": "2-798084208"
+    }
+   ]
+  },
+  {
+   "t": 7300,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 3,
+     "playerX": 188,
+     "playerY": 157,
+     "targetInstance": "2-798084208",
+     "orientation": 2
+    }
+   ]
+  },
+  {
+   "t": 8000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 0,
+     "requestX": 191,
+     "requestY": 157,
+     "playerX": 191,
+     "playerY": 157,
+     "targetInstance": "2-798084208",
+     "following": false
+    }
+   ]
+  },
+  {
+   "t": 8000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 1,
+     "requestX": 191,
+     "requestY": 157,
+     "playerX": 191,
+     "playerY": 157,
+     "movementSpeed": 220,
+     "targetInstance": "2-798084208"
+    }
+   ]
+  },
+  {
+   "t": 8300,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 3,
+     "playerX": 191,
+     "playerY": 157,
+     "targetInstance": "2-798084208",
+     "orientation": 2
+    }
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 0,
+     "requestX": 196,
+     "requestY": 157,
+     "playerX": 191,
+     "playerY": 157,
+     "following": false
+    }
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 1,
+     "requestX": 196,
+     "requestY": 157,
+     "playerX": 191,
+     "playerY": 157,
+     "movementSpeed": 220
+    }
+   ]
+  },
+  {
+   "t": 9220,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 2,
+     "playerX": 196,
+     "playerY": 157,
+     "nextGridX": 197,
+     "nextGridY": 157,
+     "timestamp": 10220
+    }
+   ]
+  },
+  {
+   "t": 9440,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 3,
+     "playerX": 191,
+     "playerY": 157,
+     "orientation": 3
+    }
+   ]
+  },
+  {
+   "t": 11000,
+   "walk": 0,
+   "from": [
+    191,
+    157
+   ],
+   "path": [
+    [
+     190,
+     157
+    ],
+    [
+     189,
+     157
+    ],
+    [
+     188,
+     157
+    ]
+   ],
+   "target": "2-798084208"
+  },
+  {
+   "t": 13000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 193 157"
+    ]
+   ]
+  },
+  {
+   "t": 13300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/lootbag"
+    ]
+   ]
+  },
+  {
+   "t": 14000,
+   "walk": 0,
+   "from": [
+    193,
+    157
+   ],
+   "path": [
+    [
+     194,
+     157
+    ],
+    [
+     195,
+     157
+    ]
+   ]
+  },
+  {
+   "t": 16000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 0,
+     "requestX": 195,
+     "requestY": 157,
+     "playerX": 195,
+     "playerY": 157,
+     "targetInstance": "8-101524213",
+     "following": false
+    }
+   ]
+  },
+  {
+   "t": 16000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 1,
+     "requestX": 195,
+     "requestY": 157,
+     "playerX": 195,
+     "playerY": 157,
+     "movementSpeed": 220,
+     "targetInstance": "8-101524213"
+    }
+   ]
+  },
+  {
+   "t": 16300,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 3,
+     "playerX": 195,
+     "playerY": 157,
+     "targetInstance": "8-101524213",
+     "orientation": 2
+    }
+   ]
+  },
+  {
+   "t": 17000,
+   "walk": 0,
+   "from": [
+    195,
+    157
+   ],
+   "path": [
+    [
+     194,
+     157
+    ],
+    [
+     193,
+     157
+    ]
+   ],
+   "target": "8-101524213"
+  }
+ ]
+}

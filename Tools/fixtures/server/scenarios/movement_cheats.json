@@ -1,0 +1,173 @@
+{
+ "seed": 9,
+ "end": 12000,
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 3,
+     "playerX": 133,
+     "playerY": 562,
+     "orientation": 1
+    }
+   ]
+  },
+  {
+   "t": 3500,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 0,
+     "requestX": 140,
+     "requestY": 562,
+     "playerX": 140,
+     "playerY": 562,
+     "following": false
+    }
+   ]
+  },
+  {
+   "t": 4500,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 1,
+     "requestX": 134,
+     "requestY": 562,
+     "playerX": 133,
+     "playerY": 562,
+     "movementSpeed": 100
+    }
+   ]
+  },
+  {
+   "t": 4600,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 2,
+     "playerX": 134,
+     "playerY": 562,
+     "nextGridX": 134,
+     "nextGridY": 562,
+     "timestamp": 5600
+    }
+   ]
+  },
+  {
+   "t": 6000,
+   "walk": 0,
+   "from": [
+    134,
+    562
+   ],
+   "path": [
+    [
+     134,
+     561
+    ],
+    [
+     134,
+     560
+    ],
+    [
+     134,
+     559
+    ]
+   ],
+   "speed": 220
+  },
+  {
+   "t": 8000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 2,
+     "playerX": 137,
+     "playerY": 558,
+     "nextGridX": 137,
+     "nextGridY": 558,
+     "timestamp": 9000
+    }
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 2,
+     "playerX": "135",
+     "playerY": 560.5,
+     "nextGridX": null,
+     "nextGridY": -3,
+     "timestamp": "x"
+    }
+   ]
+  },
+  {
+   "t": 9500,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 4
+    }
+   ]
+  },
+  {
+   "t": 10000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "134-559"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 510f4d83685596c47ae6ba4a25db17f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2317777252335857181
+    second: cowwarrior_0
+  - first:
+      213: 7420982512853034515
+    second: cowwarrior_1
+  - first:
+      213: 368887803435155196
+    second: cowwarrior_2
+  - first:
+      213: 312348875494529828
+    second: cowwarrior_3
+  - first:
+      213: -9139071633627926342
+    second: cowwarrior_4
+  - first:
+      213: 2490725975697111837
+    second: cowwarrior_5
+  - first:
+      213: -6680296963177263281
+    second: cowwarrior_6
+  - first:
+      213: -5908533604129807651
+    second: cowwarrior_7
+  - first:
+      213: 120932035080271746
+    second: cowwarrior_8
+  - first:
+      213: -7300657811558275322
+    second: cowwarrior_9
+  - first:
+      213: 2880677145146947204
+    second: cowwarrior_10
+  - first:
+      213: 4696851096175514565
+    second: cowwarrior_11
+  - first:
+      213: -5206221948142431204
+    second: cowwarrior_12
+  - first:
+      213: 3303462143375102553
+    second: cowwarrior_13
+  - first:
+      213: -6217796156291097329
+    second: cowwarrior_14
+  - first:
+      213: -2237209207477333854
+    second: cowwarrior_15
+  - first:
+      213: 6486501755850975400
+    second: cowwarrior_16
+  - first:
+      213: 3024670050242030964
+    second: cowwarrior_17
+  - first:
+      213: -1824439834336807044
+    second: cowwarrior_18
+  - first:
+      213: -1923144479047414890
+    second: cowwarrior_19
+  - first:
+      213: 8442547149427317507
+    second: cowwarrior_20
+  - first:
+      213: 2554342304272211453
+    second: cowwarrior_21
+  - first:
+      213: 5852795879892668606
+    second: cowwarrior_22
+  - first:
+      213: -7934070063920163390
+    second: cowwarrior_23
+  - first:
+      213: -215416630159883992
+    second: cowwarrior_24
+  - first:
+      213: 1209666337597083899
+    second: cowwarrior_25
+  - first:
+      213: 7853064235229687185
+    second: cowwarrior_26
+  - first:
+      213: 6390050886361850760
+    second: cowwarrior_27
+  - first:
+      213: -2308573369707078451
+    second: cowwarrior_28
+  - first:
+      213: -6980230617565535829
+    second: cowwarrior_29
+  - first:
+      213: 3343175126453717910
+    second: cowwarrior_30
+  - first:
+      213: -6948027862739754350
+    second: cowwarrior_31
+  - first:
+      213: 6399692780796130931
+    second: cowwarrior_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cowwarrior_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 343
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ea5f181266a2020800000000000000
+      internalID: 2317777252335857181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 343
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316adf20740acf660800000000000000
+      internalID: 7420982512853034515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 343
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfef9b5b08d8e1500800000000000000
+      internalID: 368887803435155196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 341
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b18d9b5afa55400800000000000000
+      internalID: 312348875494529828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 336
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab032c425ce7b2180800000000000000
+      internalID: -9139071633627926342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 301
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bb3461416d09220800000000000000
+      internalID: 2490725975697111837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 302
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fc2b34e41da43a0800000000000000
+      internalID: -6680296963177263281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd26266edfba00ea0800000000000000
+      internalID: -5908533604129807651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 302
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287bce09b03ada100800000000000000
+      internalID: 120932035080271746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 259
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076363a66adeaa90800000000000000
+      internalID: -7300657811558275322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 259
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486f11dd9983af720800000000000000
+      internalID: 2880677145146947204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3127edf219e2140800000000000000
+      internalID: 4696851096175514565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 219
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14d02fc8b8cfb7b0800000000000000
+      internalID: -5206221948142431204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 219
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952d2d0215148dd20800000000000000
+      internalID: 3303462143375102553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 221
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dda72d653f5b9a0800000000000000
+      internalID: -6217796156291097329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 220
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0941c3416d3f0e0800000000000000
+      internalID: -2237209207477333854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8e170eafea40a50800000000000000
+      internalID: 6486501755850975400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 179
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6073a269c9f920800000000000000
+      internalID: 3024670050242030964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 177
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77384013a94ea6e0800000000000000
+      internalID: -1824439834336807044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 179
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b00aa194e9f45e0800000000000000
+      internalID: -1923144479047414890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b1a11e6e3f92570800000000000000
+      internalID: 8442547149427317507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 134
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdd5e0dac8d27320800000000000000
+      internalID: 2554342304272211453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 89
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb05fd3e7de493150800000000000000
+      internalID: 5852795879892668606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 85
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c55af8305584e190800000000000000
+      internalID: -7934070063920163390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 83
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821cb9857bfa20df0800000000000000
+      internalID: -215416630159883992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 87
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0d83dff1999c010800000000000000
+      internalID: 1209666337597083899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 90
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da03b8050bbfc60800000000000000
+      internalID: 7853064235229687185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 49
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883a44adc650ea850800000000000000
+      internalID: 6390050886361850760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccdea860cc46ffd0800000000000000
+      internalID: -2308573369707078451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 49
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba163b57c3d312f90800000000000000
+      internalID: -6980230617565535829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 50
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b023a8018556e20800000000000000
+      internalID: 3343175126453717910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29261e79875a39f90800000000000000
+      internalID: -6948027862739754350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowwarrior_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3763cf65da640d850800000000000000
+      internalID: 6399692780796130931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cowwarrior_0: 2317777252335857181
+      cowwarrior_1: 7420982512853034515
+      cowwarrior_10: 2880677145146947204
+      cowwarrior_11: 4696851096175514565
+      cowwarrior_12: -5206221948142431204
+      cowwarrior_13: 3303462143375102553
+      cowwarrior_14: -6217796156291097329
+      cowwarrior_15: -2237209207477333854
+      cowwarrior_16: 6486501755850975400
+      cowwarrior_17: 3024670050242030964
+      cowwarrior_18: -1824439834336807044
+      cowwarrior_19: -1923144479047414890
+      cowwarrior_2: 368887803435155196
+      cowwarrior_20: 8442547149427317507
+      cowwarrior_21: 2554342304272211453
+      cowwarrior_22: 5852795879892668606
+      cowwarrior_23: -7934070063920163390
+      cowwarrior_24: -215416630159883992
+      cowwarrior_25: 1209666337597083899
+      cowwarrior_26: 7853064235229687185
+      cowwarrior_27: 6390050886361850760
+      cowwarrior_28: -2308573369707078451
+      cowwarrior_29: -6980230617565535829
+      cowwarrior_3: 312348875494529828
+      cowwarrior_30: 3343175126453717910
+      cowwarrior_31: -6948027862739754350
+      cowwarrior_32: 6399692780796130931
+      cowwarrior_4: -9139071633627926342
+      cowwarrior_5: 2490725975697111837
+      cowwarrior_6: -6680296963177263281
+      cowwarrior_7: -5908533604129807651
+      cowwarrior_8: 120932035080271746
+      cowwarrior_9: -7300657811558275322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

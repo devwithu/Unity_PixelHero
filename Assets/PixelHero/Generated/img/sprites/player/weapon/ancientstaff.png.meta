@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 26cf0cc5d58de74469ac7dfc1d06e25b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4545215218838353525
+    second: ancientstaff_0
+  - first:
+      213: -291744195878903617
+    second: ancientstaff_1
+  - first:
+      213: 5884803936723282766
+    second: ancientstaff_2
+  - first:
+      213: 1802296191079099763
+    second: ancientstaff_3
+  - first:
+      213: 3906284249489129077
+    second: ancientstaff_4
+  - first:
+      213: -1879630733465309564
+    second: ancientstaff_5
+  - first:
+      213: -3735606675167465425
+    second: ancientstaff_6
+  - first:
+      213: 8245230098993570321
+    second: ancientstaff_7
+  - first:
+      213: 1018968612935532335
+    second: ancientstaff_8
+  - first:
+      213: 6045929111733823281
+    second: ancientstaff_9
+  - first:
+      213: -3261826684433588051
+    second: ancientstaff_10
+  - first:
+      213: -1969815618784042571
+    second: ancientstaff_11
+  - first:
+      213: 9143982848756939683
+    second: ancientstaff_12
+  - first:
+      213: -5947328239321122858
+    second: ancientstaff_13
+  - first:
+      213: 1604322065239601743
+    second: ancientstaff_14
+  - first:
+      213: -1738215342222585257
+    second: ancientstaff_15
+  - first:
+      213: -3960247558292474152
+    second: ancientstaff_16
+  - first:
+      213: -6382422405429577142
+    second: ancientstaff_17
+  - first:
+      213: 5925761438570485594
+    second: ancientstaff_18
+  - first:
+      213: 2859739811320987313
+    second: ancientstaff_19
+  - first:
+      213: 6410541789543495902
+    second: ancientstaff_20
+  - first:
+      213: -2839110817697063697
+    second: ancientstaff_21
+  - first:
+      213: 4109754751746604419
+    second: ancientstaff_22
+  - first:
+      213: -8941483432960543856
+    second: ancientstaff_23
+  - first:
+      213: 9079052596037880237
+    second: ancientstaff_24
+  - first:
+      213: -140420900485020931
+    second: ancientstaff_25
+  - first:
+      213: -9093900235204747527
+    second: ancientstaff_26
+  - first:
+      213: 5828456715897217088
+    second: ancientstaff_27
+  - first:
+      213: 7934452419636177497
+    second: ancientstaff_28
+  - first:
+      213: 18905185808973869
+    second: ancientstaff_29
+  - first:
+      213: -3292919945013875357
+    second: ancientstaff_30
+  - first:
+      213: -6942515638244817636
+    second: ancientstaff_31
+  - first:
+      213: 529426962835667653
+    second: ancientstaff_32
+  - first:
+      213: 5005887401531482711
+    second: ancientstaff_33
+  - first:
+      213: 8111341641535036316
+    second: ancientstaff_34
+  - first:
+      213: 5733494684061390695
+    second: ancientstaff_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ancientstaff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89c07d07d62ce0c0800000000000000
+      internalID: -4545215218838353525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb02b57133483fbf0800000000000000
+      internalID: -291744195878903617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b263d50060ba150800000000000000
+      internalID: 5884803936723282766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d2f4936da030910800000000000000
+      internalID: 1802296191079099763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 488
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb08a14d8e53630800000000000000
+      internalID: 3906284249489129077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea4ee7ec53ae5e0800000000000000
+      internalID: -1879630733465309564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b0126585782cc0800000000000000
+      internalID: -3735606675167465425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 488
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112eed50711fc6270800000000000000
+      internalID: 8245230098993570321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f7b430e8a142e00800000000000000
+      internalID: 1018968612935532335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13766129e7477e350800000000000000
+      internalID: 6045929111733823281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0227399e9abb2d0800000000000000
+      internalID: -3261826684433588051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b16c59912fc9a4e0800000000000000
+      internalID: -1969815618784042571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abfb6c34f3f5ee70800000000000000
+      internalID: 9143982848756939683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 392
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d77d940a78d67da0800000000000000
+      internalID: -5947328239321122858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f427de31b62b34610800000000000000
+      internalID: 1604322065239601743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 392
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75250bf0b5e90e7e0800000000000000
+      internalID: -1738215342222585257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 344
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d67e59f3df5a09c0800000000000000
+      internalID: -3960247558292474152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a30e543a41d67a0800000000000000
+      internalID: -6382422405429577142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5793b1e1a88c3250800000000000000
+      internalID: 5925761438570485594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 344
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be74d3f436dfa720800000000000000
+      internalID: 2859739811320987313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed879870bc1d6f850800000000000000
+      internalID: 6410541789543495902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec9239e0c37998d0800000000000000
+      internalID: -2839110817697063697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d74db1c28c80930800000000000000
+      internalID: 4109754751746604419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093b855113879e380800000000000000
+      internalID: -8941483432960543856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da90de3bb364ffd70800000000000000
+      internalID: 9079052596037880237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 250
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2cc8b5fef1d0ef0800000000000000
+      internalID: -140420900485020931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 239
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe97c9eae9fbc180800000000000000
+      internalID: -9093900235204747527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 240
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0402bcba086d2e050800000000000000
+      internalID: 5828456715897217088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 201
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a27a7ef66dc1e60800000000000000
+      internalID: 7934452419636177497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 202
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d208e849a2a234000800000000000000
+      internalID: 18905185808973869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d26a3b1c23d42d0800000000000000
+      internalID: -3292919945013875357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15c2de5fca37af90800000000000000
+      internalID: -6942515638244817636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca75568407e85700800000000000000
+      internalID: 529426962835667653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75223e1c11c787540800000000000000
+      internalID: 5005887401531482711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b978b4f36419070800000000000000
+      internalID: 8111341641535036316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientstaff_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d11da907719f40800000000000000
+      internalID: 5733494684061390695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ancientstaff_0: -4545215218838353525
+      ancientstaff_1: -291744195878903617
+      ancientstaff_10: -3261826684433588051
+      ancientstaff_11: -1969815618784042571
+      ancientstaff_12: 9143982848756939683
+      ancientstaff_13: -5947328239321122858
+      ancientstaff_14: 1604322065239601743
+      ancientstaff_15: -1738215342222585257
+      ancientstaff_16: -3960247558292474152
+      ancientstaff_17: -6382422405429577142
+      ancientstaff_18: 5925761438570485594
+      ancientstaff_19: 2859739811320987313
+      ancientstaff_2: 5884803936723282766
+      ancientstaff_20: 6410541789543495902
+      ancientstaff_21: -2839110817697063697
+      ancientstaff_22: 4109754751746604419
+      ancientstaff_23: -8941483432960543856
+      ancientstaff_24: 9079052596037880237
+      ancientstaff_25: -140420900485020931
+      ancientstaff_26: -9093900235204747527
+      ancientstaff_27: 5828456715897217088
+      ancientstaff_28: 7934452419636177497
+      ancientstaff_29: 18905185808973869
+      ancientstaff_3: 1802296191079099763
+      ancientstaff_30: -3292919945013875357
+      ancientstaff_31: -6942515638244817636
+      ancientstaff_32: 529426962835667653
+      ancientstaff_33: 5005887401531482711
+      ancientstaff_34: 8111341641535036316
+      ancientstaff_35: 5733494684061390695
+      ancientstaff_4: 3906284249489129077
+      ancientstaff_5: -1879630733465309564
+      ancientstaff_6: -3735606675167465425
+      ancientstaff_7: 8245230098993570321
+      ancientstaff_8: 1018968612935532335
+      ancientstaff_9: 6045929111733823281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

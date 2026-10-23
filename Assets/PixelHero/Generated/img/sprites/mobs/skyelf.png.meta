@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 6c52ac4cf6b527740ad527b5a486ac16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2519432020106778374
+    second: skyelf_0
+  - first:
+      213: 6812131144792435152
+    second: skyelf_1
+  - first:
+      213: -3782242932733568004
+    second: skyelf_2
+  - first:
+      213: -667414866365771512
+    second: skyelf_3
+  - first:
+      213: 2935808234869416679
+    second: skyelf_4
+  - first:
+      213: 3072376688556572839
+    second: skyelf_5
+  - first:
+      213: 8480937278122656726
+    second: skyelf_6
+  - first:
+      213: -6956993637703485902
+    second: skyelf_7
+  - first:
+      213: -5832910659147225328
+    second: skyelf_8
+  - first:
+      213: -789834603406316529
+    second: skyelf_9
+  - first:
+      213: -3134758706559666352
+    second: skyelf_10
+  - first:
+      213: -3789030619395130296
+    second: skyelf_11
+  - first:
+      213: -3126234255766676659
+    second: skyelf_12
+  - first:
+      213: 2893314306427737453
+    second: skyelf_13
+  - first:
+      213: -4607315718421959507
+    second: skyelf_14
+  - first:
+      213: -2059541191411459934
+    second: skyelf_15
+  - first:
+      213: 4124669539894980516
+    second: skyelf_16
+  - first:
+      213: 7317208714610882075
+    second: skyelf_17
+  - first:
+      213: 8625158590739643423
+    second: skyelf_18
+  - first:
+      213: 2363968807734625800
+    second: skyelf_19
+  - first:
+      213: 9106503559744007642
+    second: skyelf_20
+  - first:
+      213: -5778236910730518006
+    second: skyelf_21
+  - first:
+      213: -5121986172449516973
+    second: skyelf_22
+  - first:
+      213: -7751128228296316220
+    second: skyelf_23
+  - first:
+      213: 598079696354488848
+    second: skyelf_24
+  - first:
+      213: 5273914587111990508
+    second: skyelf_25
+  - first:
+      213: 697360213340439599
+    second: skyelf_26
+  - first:
+      213: -4404093517390434269
+    second: skyelf_27
+  - first:
+      213: 6124889602555689137
+    second: skyelf_28
+  - first:
+      213: -5195690570881185214
+    second: skyelf_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skyelf_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 262
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af86acd1ded290dd0800000000000000
+      internalID: -2519432020106778374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d96ab81f2d898e50800000000000000
+      internalID: 6812131144792435152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 262
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1f248716c28bc0800000000000000
+      internalID: -3782242932733568004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 262
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801147417bddcb6f0800000000000000
+      internalID: -667414866365771512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 230
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2ee08f8061eb820800000000000000
+      internalID: 2935808234869416679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a00b91f15643aa20800000000000000
+      internalID: 3072376688556572839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 230
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d38ed0458752b570800000000000000
+      internalID: 8480937278122656726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f700752bc37f90800000000000000
+      internalID: -6956993637703485902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017a0fad8a65d0fa0800000000000000
+      internalID: -5832910659147225328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca7a8ec91f905f0800000000000000
+      internalID: -789834603406316529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b2f6a0991f74d0800000000000000
+      internalID: -3134758706559666352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 173
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cffdf0ab8aa6bc0800000000000000
+      internalID: -3789030619395130296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b9e5402826d94d0800000000000000
+      internalID: -3126234255766676659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d655e22480e172820800000000000000
+      internalID: 2893314306427737453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daca263c3c68f00c0800000000000000
+      internalID: -4607315718421959507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a892a5c23a0b63e0800000000000000
+      internalID: -2059541191411459934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af6055d715cd3930800000000000000
+      internalID: 4124669539894980516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 139
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1636c5ce82fb8560800000000000000
+      internalID: 7317208714610882075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cf17c4a08b2b770800000000000000
+      internalID: 8625158590739643423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80640251b118ec020800000000000000
+      internalID: 2363968807734625800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add2f504dbcc06e70800000000000000
+      internalID: 9106503559744007642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a026bd3e4249fcfa0800000000000000
+      internalID: -5778236910730518006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3521faea6bc0be8b0800000000000000
+      internalID: -5121986172449516973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca25ef81f57e6490800000000000000
+      internalID: -7751128228296316220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0123598a05ecc4800800000000000000
+      internalID: 598079696354488848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4af84ef55b03940800000000000000
+      internalID: 5273914587111990508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24c5a45b658da900800000000000000
+      internalID: 697360213340439599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b752a74481e2c0800000000000000
+      internalID: -4404093517390434269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8b0d874aafff450800000000000000
+      internalID: 6124889602555689137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skyelf_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ac7c724f235e7b0800000000000000
+      internalID: -5195690570881185214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skyelf_0: -2519432020106778374
+      skyelf_1: 6812131144792435152
+      skyelf_10: -3134758706559666352
+      skyelf_11: -3789030619395130296
+      skyelf_12: -3126234255766676659
+      skyelf_13: 2893314306427737453
+      skyelf_14: -4607315718421959507
+      skyelf_15: -2059541191411459934
+      skyelf_16: 4124669539894980516
+      skyelf_17: 7317208714610882075
+      skyelf_18: 8625158590739643423
+      skyelf_19: 2363968807734625800
+      skyelf_2: -3782242932733568004
+      skyelf_20: 9106503559744007642
+      skyelf_21: -5778236910730518006
+      skyelf_22: -5121986172449516973
+      skyelf_23: -7751128228296316220
+      skyelf_24: 598079696354488848
+      skyelf_25: 5273914587111990508
+      skyelf_26: 697360213340439599
+      skyelf_27: -4404093517390434269
+      skyelf_28: 6124889602555689137
+      skyelf_29: -5195690570881185214
+      skyelf_3: -667414866365771512
+      skyelf_4: 2935808234869416679
+      skyelf_5: 3072376688556572839
+      skyelf_6: 8480937278122656726
+      skyelf_7: -6956993637703485902
+      skyelf_8: -5832910659147225328
+      skyelf_9: -789834603406316529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

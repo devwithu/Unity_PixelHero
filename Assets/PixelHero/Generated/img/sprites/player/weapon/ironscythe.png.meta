@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 7ab0d767026fcd945afb032e7f9baeb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 460291303346491950
+    second: ironscythe_0
+  - first:
+      213: 5705738277519913173
+    second: ironscythe_1
+  - first:
+      213: -5083120865917243978
+    second: ironscythe_2
+  - first:
+      213: -4899745161406334049
+    second: ironscythe_3
+  - first:
+      213: -8693946852672552327
+    second: ironscythe_4
+  - first:
+      213: -5458635353750229361
+    second: ironscythe_5
+  - first:
+      213: 8040592470820271060
+    second: ironscythe_6
+  - first:
+      213: 5540878156910276523
+    second: ironscythe_7
+  - first:
+      213: 7520545162149777927
+    second: ironscythe_8
+  - first:
+      213: 6151863390386420337
+    second: ironscythe_9
+  - first:
+      213: 8219959092840804189
+    second: ironscythe_10
+  - first:
+      213: -6773998816643868676
+    second: ironscythe_11
+  - first:
+      213: 5261297027483486851
+    second: ironscythe_12
+  - first:
+      213: -3394804309400839531
+    second: ironscythe_13
+  - first:
+      213: 2170837109114849923
+    second: ironscythe_14
+  - first:
+      213: 1085515735578362166
+    second: ironscythe_15
+  - first:
+      213: 2124356885646872570
+    second: ironscythe_16
+  - first:
+      213: -5257080900176158561
+    second: ironscythe_17
+  - first:
+      213: 4901163726169238902
+    second: ironscythe_18
+  - first:
+      213: 3099277446329929510
+    second: ironscythe_19
+  - first:
+      213: 1521165310041301235
+    second: ironscythe_20
+  - first:
+      213: 7729132468150342474
+    second: ironscythe_21
+  - first:
+      213: 5822304188700992210
+    second: ironscythe_22
+  - first:
+      213: 1269035996125105175
+    second: ironscythe_23
+  - first:
+      213: 5485819872828665211
+    second: ironscythe_24
+  - first:
+      213: -7849405806220028161
+    second: ironscythe_25
+  - first:
+      213: -4890934466532570361
+    second: ironscythe_26
+  - first:
+      213: -8376932961777091109
+    second: ironscythe_27
+  - first:
+      213: 735597448973766706
+    second: ironscythe_28
+  - first:
+      213: 3631892695680227437
+    second: ironscythe_29
+  - first:
+      213: -6552038059505099968
+    second: ironscythe_30
+  - first:
+      213: -6729030090703980787
+    second: ironscythe_31
+  - first:
+      213: 151236858001647801
+    second: ironscythe_32
+  - first:
+      213: 6021811239363990569
+    second: ironscythe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ironscythe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e225b2d6088436600800000000000000
+      internalID: 460291303346491950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d07cecabbade2f40800000000000000
+      internalID: 5705738277519913173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd60a401802579b0800000000000000
+      internalID: -5083120865917243978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bbf645cbb900cb0800000000000000
+      internalID: -4899745161406334049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972c3566665e85780800000000000000
+      internalID: -8693946852672552327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 354
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e245d11180f34b0800000000000000
+      internalID: -5458635353750229361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d33ce6504ce59f60800000000000000
+      internalID: 8040592470820271060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafab5ea35725ec40800000000000000
+      internalID: 5540878156910276523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 307
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702583bbaf75e5860800000000000000
+      internalID: 7520545162149777927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a76bad82fcf5550800000000000000
+      internalID: 6151863390386420337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fa4056e39231270800000000000000
+      internalID: 8219959092840804189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 307
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7960967fbedf1a0800000000000000
+      internalID: -6773998816643868676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ac8fc55c1e30940800000000000000
+      internalID: 5261297027483486851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9230977b33e0d0800000000000000
+      internalID: -3394804309400839531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ac60269dc502e10800000000000000
+      internalID: 2170837109114849923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ce396fc6801f00800000000000000
+      internalID: 1085515735578362166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff0329055b3b7d10800000000000000
+      internalID: 2124356885646872570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 210
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90628546c81b07b0800000000000000
+      internalID: -5257080900176158561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67de854017e640440800000000000000
+      internalID: 4901163726169238902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 211
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f00e0ba68d20b20800000000000000
+      internalID: 3099277446329929510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0a8ad3ac34c1510800000000000000
+      internalID: 1521165310041301235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a431a027705634b60800000000000000
+      internalID: 7729132468150342474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2aacdcfcafcc050800000000000000
+      internalID: 5822304188700992210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c883cc3858c9110800000000000000
+      internalID: 1269035996125105175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d2bb5fb1c812c40800000000000000
+      internalID: 5485819872828665211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 117
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6dd56d10f411390800000000000000
+      internalID: -7849405806220028161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 107
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b8c961409ef1cb0800000000000000
+      internalID: -4890934466532570361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 108
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddf30aaad72fbb80800000000000000
+      internalID: -8376932961777091109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d3c38bfd553a00800000000000000
+      internalID: 735597448973766706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d681b540a23176230800000000000000
+      internalID: 3631892695680227437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 60
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bdb5c591c7215a0800000000000000
+      internalID: -6552038059505099968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07bca0d8cead92a0800000000000000
+      internalID: -6729030090703980787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8622efe1d491200800000000000000
+      internalID: 151236858001647801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironscythe_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924deb2da65c19350800000000000000
+      internalID: 6021811239363990569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ironscythe_0: 460291303346491950
+      ironscythe_1: 5705738277519913173
+      ironscythe_10: 8219959092840804189
+      ironscythe_11: -6773998816643868676
+      ironscythe_12: 5261297027483486851
+      ironscythe_13: -3394804309400839531
+      ironscythe_14: 2170837109114849923
+      ironscythe_15: 1085515735578362166
+      ironscythe_16: 2124356885646872570
+      ironscythe_17: -5257080900176158561
+      ironscythe_18: 4901163726169238902
+      ironscythe_19: 3099277446329929510
+      ironscythe_2: -5083120865917243978
+      ironscythe_20: 1521165310041301235
+      ironscythe_21: 7729132468150342474
+      ironscythe_22: 5822304188700992210
+      ironscythe_23: 1269035996125105175
+      ironscythe_24: 5485819872828665211
+      ironscythe_25: -7849405806220028161
+      ironscythe_26: -4890934466532570361
+      ironscythe_27: -8376932961777091109
+      ironscythe_28: 735597448973766706
+      ironscythe_29: 3631892695680227437
+      ironscythe_3: -4899745161406334049
+      ironscythe_30: -6552038059505099968
+      ironscythe_31: -6729030090703980787
+      ironscythe_32: 151236858001647801
+      ironscythe_33: 6021811239363990569
+      ironscythe_4: -8693946852672552327
+      ironscythe_5: -5458635353750229361
+      ironscythe_6: 8040592470820271060
+      ironscythe_7: 5540878156910276523
+      ironscythe_8: 7520545162149777927
+      ironscythe_9: 6151863390386420337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,605 @@
+{
+ "seed": 73,
+ "end": 40000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/tp home"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn gold 5000"
+    ]
+   ]
+  },
+  {
+   "t": 3600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn coppersword"
+    ]
+   ]
+  },
+  {
+   "t": 3900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn shardt1 5"
+    ]
+   ]
+  },
+  {
+   "t": 4200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn bluelily 3"
+    ]
+   ]
+  },
+  {
+   "t": 4500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn logs 10"
+    ]
+   ]
+  },
+  {
+   "t": 4800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn feather 5"
+    ]
+   ]
+  },
+  {
+   "t": 5500,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 0,
+     "index": 1
+    }
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/bank"
+    ]
+   ]
+  },
+  {
+   "t": 6500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 0,
+     "fromContainer": 1,
+     "fromIndex": 1,
+     "toContainer": 0
+    }
+   ]
+  },
+  {
+   "t": 6800,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 0,
+     "fromContainer": 1,
+     "fromIndex": 5,
+     "toContainer": 0,
+     "value": 7
+    }
+   ]
+  },
+  {
+   "t": 7100,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 0,
+     "fromContainer": 0,
+     "fromIndex": 0,
+     "toContainer": 1
+    }
+   ]
+  },
+  {
+   "t": 7400,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 0,
+     "fromContainer": 0,
+     "fromIndex": 7,
+     "toContainer": 1,
+     "value": 10
+    }
+   ]
+  },
+  {
+   "t": 7700,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 0,
+     "fromContainer": 0,
+     "fromIndex": 3,
+     "toContainer": 1
+    }
+   ]
+  },
+  {
+   "t": 8000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 4,
+     "type": 0,
+     "fromIndex": 0,
+     "value": 2
+    }
+   ]
+  },
+  {
+   "t": 8500,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 0,
+     "index": 1
+    }
+   ]
+  },
+  {
+   "t": 8800,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 0,
+     "index": 2
+    }
+   ]
+  },
+  {
+   "t": 9100,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 1,
+     "shardIndex": 2
+    }
+   ]
+  },
+  {
+   "t": 9400,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 1,
+     "shardIndex": 2
+    }
+   ]
+  },
+  {
+   "t": 9700,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 0,
+     "shardIndex": 0
+    }
+   ]
+  },
+  {
+   "t": 10000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/store startshop"
+    ]
+   ]
+  },
+  {
+   "t": 10500,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 2,
+     "key": "startshop",
+     "index": 0,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "t": 10800,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 2,
+     "key": "startshop",
+     "index": 4,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 11100,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 2,
+     "key": "startshop",
+     "index": 4,
+     "count": 50
+    }
+   ]
+  },
+  {
+   "t": 11400,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 2,
+     "key": "startshop",
+     "index": 7,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 11700,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 2,
+     "key": "startshop",
+     "index": 0,
+     "count": 0
+    }
+   ]
+  },
+  {
+   "t": 12000,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 5,
+     "key": "startshop",
+     "index": 1,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 12300,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 3,
+     "key": "startshop",
+     "index": 1,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 12600,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 3,
+     "key": "startshop",
+     "index": 0,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 12900,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 2,
+     "key": "startshop",
+     "index": -1,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 13200,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 2,
+     "key": "startshop",
+     "index": 99,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 13500,
+   "conn": 0,
+   "send": [
+    "Store",
+    {
+     "opcode": 2,
+     "key": "forester",
+     "index": 0,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 14000,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 1,
+     "key": "string"
+    }
+   ]
+  },
+  {
+   "t": 14300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/opencrafting"
+    ]
+   ]
+  },
+  {
+   "t": 14600,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 1,
+     "key": "string"
+    }
+   ]
+  },
+  {
+   "t": 14900,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 2,
+     "key": "string",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "t": 15200,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 2,
+     "key": "bucket",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 15500,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 2,
+     "key": "string",
+     "count": 5
+    }
+   ]
+  },
+  {
+   "t": 15800,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 2,
+     "key": "nothing",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 16500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/lootbag"
+    ]
+   ]
+  },
+  {
+   "t": 17000,
+   "walk": 0,
+   "from": [
+    191,
+    166
+   ],
+   "path": [
+    [
+     191,
+     167
+    ]
+   ]
+  },
+  {
+   "t": 18000,
+   "walk": 0,
+   "from": [
+    191,
+    167
+   ],
+   "path": [
+    [
+     191,
+     166
+    ]
+   ],
+   "target": "8-692904272"
+  },
+  {
+   "t": 19000,
+   "conn": 0,
+   "send": [
+    "LootBag",
+    {
+     "opcode": 1,
+     "index": 0
+    }
+   ]
+  },
+  {
+   "t": 19300,
+   "conn": 0,
+   "send": [
+    "LootBag",
+    {
+     "opcode": 1,
+     "index": 1
+    }
+   ]
+  },
+  {
+   "t": 19600,
+   "conn": 0,
+   "send": [
+    "LootBag",
+    {
+     "opcode": 1,
+     "index": 2
+    }
+   ]
+  },
+  {
+   "t": 19900,
+   "conn": 0,
+   "send": [
+    "LootBag",
+    {
+     "opcode": 1,
+     "index": 2
+    }
+   ]
+  },
+  {
+   "t": 20200,
+   "conn": 0,
+   "send": [
+    "LootBag",
+    {
+     "opcode": 1,
+     "index": 7
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 7445f76fdbe688f4a8ee5ab2ac2c4b9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4106450153802715829
+    second: bluemoonstaff_0
+  - first:
+      213: -3197311707748667493
+    second: bluemoonstaff_1
+  - first:
+      213: -7739749990908281693
+    second: bluemoonstaff_2
+  - first:
+      213: 3796098579278042384
+    second: bluemoonstaff_3
+  - first:
+      213: -4006407997591544531
+    second: bluemoonstaff_4
+  - first:
+      213: -6326859102783654908
+    second: bluemoonstaff_5
+  - first:
+      213: -2639596805998845719
+    second: bluemoonstaff_6
+  - first:
+      213: -5382361321933658683
+    second: bluemoonstaff_7
+  - first:
+      213: -1199397496538005324
+    second: bluemoonstaff_8
+  - first:
+      213: 3970083214253814103
+    second: bluemoonstaff_9
+  - first:
+      213: -751382864841067891
+    second: bluemoonstaff_10
+  - first:
+      213: 6946712851598918900
+    second: bluemoonstaff_11
+  - first:
+      213: -7954144537442192426
+    second: bluemoonstaff_12
+  - first:
+      213: -4099155893277768933
+    second: bluemoonstaff_13
+  - first:
+      213: -8214869867629969768
+    second: bluemoonstaff_14
+  - first:
+      213: 856027421025715674
+    second: bluemoonstaff_15
+  - first:
+      213: -5050064434793247753
+    second: bluemoonstaff_16
+  - first:
+      213: -6600830944073513197
+    second: bluemoonstaff_17
+  - first:
+      213: -3752166810088531500
+    second: bluemoonstaff_18
+  - first:
+      213: 5906537092467436390
+    second: bluemoonstaff_19
+  - first:
+      213: -1883726856036265128
+    second: bluemoonstaff_20
+  - first:
+      213: -5598567384068190514
+    second: bluemoonstaff_21
+  - first:
+      213: 9083009082194693472
+    second: bluemoonstaff_22
+  - first:
+      213: 6150172805689573519
+    second: bluemoonstaff_23
+  - first:
+      213: -572321359085288037
+    second: bluemoonstaff_24
+  - first:
+      213: -2842260342017607431
+    second: bluemoonstaff_25
+  - first:
+      213: -3107677223703574207
+    second: bluemoonstaff_26
+  - first:
+      213: 2493856322286837275
+    second: bluemoonstaff_27
+  - first:
+      213: -9070665902206461100
+    second: bluemoonstaff_28
+  - first:
+      213: -7035753028855697561
+    second: bluemoonstaff_29
+  - first:
+      213: -7092455926683629880
+    second: bluemoonstaff_30
+  - first:
+      213: 9218149607754208186
+    second: bluemoonstaff_31
+  - first:
+      213: -3442590008648417465
+    second: bluemoonstaff_32
+  - first:
+      213: 6950477533947916351
+    second: bluemoonstaff_33
+  - first:
+      213: -6873520133031080112
+    second: bluemoonstaff_34
+  - first:
+      213: 6665648078595224516
+    second: bluemoonstaff_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bluemoonstaff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dadbe8755f207c0800000000000000
+      internalID: -4106450153802715829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f617f11fdd0a3d0800000000000000
+      internalID: -3197311707748667493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac3495e362e69490800000000000000
+      internalID: -7739749990908281693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0159b369b837ea430800000000000000
+      internalID: 3796098579278042384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 488
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d954e27216668c0800000000000000
+      internalID: -4006407997591544531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40432aaca2b7238a0800000000000000
+      internalID: -6326859102783654908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ee2ca0b44e5bd0800000000000000
+      internalID: -2639596805998845719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 488
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5a75905e20e45b0800000000000000
+      internalID: -5382361321933658683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b00c52e452ea5fe0800000000000000
+      internalID: -1199397496538005324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f65226a1981730800000000000000
+      internalID: 3970083214253814103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8235d2f34d8295f0800000000000000
+      internalID: -751382864841067891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c134888ea76060800000000000000
+      internalID: 6946712851598918900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f4a1afa33d9190800000000000000
+      internalID: -7954144537442192426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 392
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13ca3eee6fdc17c0800000000000000
+      internalID: -4099155893277768933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89efadf216beefd80800000000000000
+      internalID: -8214869867629969768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 392
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad54b3c676831eb00800000000000000
+      internalID: 856027421025715674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 344
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb805727219ae9b0800000000000000
+      internalID: -5050064434793247753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3178714aa332564a0800000000000000
+      internalID: -6600830944073513197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d999a28a20adebc0800000000000000
+      internalID: -3752166810088531500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 344
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba031013c38f150800000000000000
+      internalID: 5906537092467436390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535814a768abd5e0800000000000000
+      internalID: -1883726856036265128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece078d60a4ed42b0800000000000000
+      internalID: -5598567384068190514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d8cdbe2a45d0e70800000000000000
+      internalID: 9083009082194693472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80056ee49dc95550800000000000000
+      internalID: 6150172805689573519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954a5691c4be08f0800000000000000
+      internalID: -572321359085288037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 250
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f83cd227434e88d0800000000000000
+      internalID: -2842260342017607431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 239
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149839cb7005fd4d0800000000000000
+      internalID: -3107677223703574207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 240
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ed4c2bc15fb9220800000000000000
+      internalID: 2493856322286837275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 201
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b5cbe9b658e1280800000000000000
+      internalID: -9070665902206461100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 202
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f6da3b5ebfb5e90800000000000000
+      internalID: -7035753028855697561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c688e089e8829d90800000000000000
+      internalID: -7092455926683629880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab398987a327def70800000000000000
+      internalID: 9218149607754208186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fb33370a67930d0800000000000000
+      internalID: -3442590008648417465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307c4eed7e057060800000000000000
+      internalID: 6950477533947916351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fcf224bd95c90a0800000000000000
+      internalID: -6873520133031080112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluemoonstaff_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3fe628c93218c50800000000000000
+      internalID: 6665648078595224516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bluemoonstaff_0: -4106450153802715829
+      bluemoonstaff_1: -3197311707748667493
+      bluemoonstaff_10: -751382864841067891
+      bluemoonstaff_11: 6946712851598918900
+      bluemoonstaff_12: -7954144537442192426
+      bluemoonstaff_13: -4099155893277768933
+      bluemoonstaff_14: -8214869867629969768
+      bluemoonstaff_15: 856027421025715674
+      bluemoonstaff_16: -5050064434793247753
+      bluemoonstaff_17: -6600830944073513197
+      bluemoonstaff_18: -3752166810088531500
+      bluemoonstaff_19: 5906537092467436390
+      bluemoonstaff_2: -7739749990908281693
+      bluemoonstaff_20: -1883726856036265128
+      bluemoonstaff_21: -5598567384068190514
+      bluemoonstaff_22: 9083009082194693472
+      bluemoonstaff_23: 6150172805689573519
+      bluemoonstaff_24: -572321359085288037
+      bluemoonstaff_25: -2842260342017607431
+      bluemoonstaff_26: -3107677223703574207
+      bluemoonstaff_27: 2493856322286837275
+      bluemoonstaff_28: -9070665902206461100
+      bluemoonstaff_29: -7035753028855697561
+      bluemoonstaff_3: 3796098579278042384
+      bluemoonstaff_30: -7092455926683629880
+      bluemoonstaff_31: 9218149607754208186
+      bluemoonstaff_32: -3442590008648417465
+      bluemoonstaff_33: 6950477533947916351
+      bluemoonstaff_34: -6873520133031080112
+      bluemoonstaff_35: 6665648078595224516
+      bluemoonstaff_4: -4006407997591544531
+      bluemoonstaff_5: -6326859102783654908
+      bluemoonstaff_6: -2639596805998845719
+      bluemoonstaff_7: -5382361321933658683
+      bluemoonstaff_8: -1199397496538005324
+      bluemoonstaff_9: 3970083214253814103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

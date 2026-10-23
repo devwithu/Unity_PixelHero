@@ -1,0 +1,271 @@
+{
+ "seed": 83,
+ "database": {
+  "player_info": [
+   {
+    "username": "keeper",
+    "password": "$2a$10$hs.GUSyj3gVHxHLCUFnVduJghMuJapTtpeSpiUUgtOx/d3oM69nla",
+    "email": "",
+    "x": 191,
+    "y": 166,
+    "userAgent": "harness",
+    "rank": 2,
+    "poison": {
+     "type": -1,
+     "remaining": -1
+    },
+    "effects": {},
+    "hitPoints": 69,
+    "mana": 44,
+    "orientation": 1,
+    "ban": 0,
+    "mute": 0,
+    "jail": 0,
+    "lastWarp": 0,
+    "mapVersion": 1695981410504,
+    "regionsLoaded": [],
+    "friends": [],
+    "lastServerId": 1,
+    "lastAddress": "",
+    "lastGlobalChat": 0,
+    "guild": "",
+    "pet": ""
+   }
+  ]
+ },
+ "end": 30000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.0.1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "keeper",
+     "password": "secret123"
+    }
+   ]
+  },
+  {
+   "t": 2500,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn coppersword"
+    ]
+   ]
+  },
+  {
+   "t": 3800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn flask 30"
+    ]
+   ]
+  },
+  {
+   "t": 4100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn shardt5 3"
+    ]
+   ]
+  },
+  {
+   "t": 4400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn leatherhelmet"
+    ]
+   ]
+  },
+  {
+   "t": 4700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addexp strength 500"
+    ]
+   ]
+  },
+  {
+   "t": 5500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 0
+    }
+   ]
+  },
+  {
+   "t": 5800,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 4
+    }
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/bank"
+    ]
+   ]
+  },
+  {
+   "t": 6500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 0,
+     "fromContainer": 1,
+     "fromIndex": 1,
+     "toContainer": 0
+    }
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 0,
+     "shardIndex": 3
+    }
+   ]
+  },
+  {
+   "t": 8000,
+   "close": 0
+  },
+  {
+   "t": 14000,
+   "open": 1,
+   "address": "10.0.0.2"
+  },
+  {
+   "t": 14400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 14700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "keeper",
+     "password": "secret123"
+    }
+   ]
+  },
+  {
+   "t": 15500,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 17000,
+   "conn": 1,
+   "send": [
+    "Chat",
+    [
+     "/bank"
+    ]
+   ]
+  },
+  {
+   "t": 17500,
+   "conn": 1,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 0,
+     "fromContainer": 0,
+     "fromIndex": 0,
+     "toContainer": 1
+    }
+   ]
+  },
+  {
+   "t": 18000,
+   "conn": 1,
+   "send": [
+    "Equipment",
+    {
+     "opcode": 2,
+     "type": 4
+    }
+   ]
+  },
+  {
+   "t": 20000,
+   "close": 1
+  }
+ ]
+}

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: d8d34f0d92f73eb4182f3dabf023b4de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8990717749392524422
+    second: goldspear_0
+  - first:
+      213: 3225470291238355040
+    second: goldspear_1
+  - first:
+      213: -1166466510928806408
+    second: goldspear_2
+  - first:
+      213: 8099084854325418878
+    second: goldspear_3
+  - first:
+      213: -8408767524309692755
+    second: goldspear_4
+  - first:
+      213: 7644366033207310261
+    second: goldspear_5
+  - first:
+      213: -7561550935763629107
+    second: goldspear_6
+  - first:
+      213: 4394570768961051071
+    second: goldspear_7
+  - first:
+      213: 6241173004802539328
+    second: goldspear_8
+  - first:
+      213: 91097594778093279
+    second: goldspear_9
+  - first:
+      213: -3894276244947498697
+    second: goldspear_10
+  - first:
+      213: 6940042984459591712
+    second: goldspear_11
+  - first:
+      213: 7932983971411066060
+    second: goldspear_12
+  - first:
+      213: 856546479769508060
+    second: goldspear_13
+  - first:
+      213: -5905473312335675037
+    second: goldspear_14
+  - first:
+      213: 6281724469511145689
+    second: goldspear_15
+  - first:
+      213: -2614028730749612357
+    second: goldspear_16
+  - first:
+      213: -8439547354321819472
+    second: goldspear_17
+  - first:
+      213: -4872486285756102836
+    second: goldspear_18
+  - first:
+      213: 5432474760486238347
+    second: goldspear_19
+  - first:
+      213: -6479392682968174958
+    second: goldspear_20
+  - first:
+      213: 2838274924899389291
+    second: goldspear_21
+  - first:
+      213: -3058250197299217141
+    second: goldspear_22
+  - first:
+      213: 3637908430394661758
+    second: goldspear_23
+  - first:
+      213: -622620859818854233
+    second: goldspear_24
+  - first:
+      213: -4065625308017512670
+    second: goldspear_25
+  - first:
+      213: 3647137738317035736
+    second: goldspear_26
+  - first:
+      213: -35793798413190139
+    second: goldspear_27
+  - first:
+      213: 6323771915929251001
+    second: goldspear_28
+  - first:
+      213: -8833096189109875929
+    second: goldspear_29
+  - first:
+      213: 1258693318133864014
+    second: goldspear_30
+  - first:
+      213: -8150531526898389515
+    second: goldspear_31
+  - first:
+      213: 4448911567753123597
+    second: goldspear_32
+  - first:
+      213: -5727832948477635895
+    second: goldspear_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldspear_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6844750882275cc70800000000000000
+      internalID: 8990717749392524422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 403
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06086def32c23cc20800000000000000
+      internalID: 3225470291238355040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 403
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdf2b573e0efcfe0800000000000000
+      internalID: -1166466510928806408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b10d3a3cab56070800000000000000
+      internalID: 8099084854325418878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae0eaafc7e0e4b80800000000000000
+      internalID: -8408767524309692755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b73266d76e361a60800000000000000
+      internalID: 7644366033207310261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb49ca9c79ff0790800000000000000
+      internalID: -7561550935763629107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb91d38b4d6acfc30800000000000000
+      internalID: 4394570768961051071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 308
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f330dd7c91d9650800000000000000
+      internalID: 6241173004802539328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd604a0a7c4a34100800000000000000
+      internalID: 91097594778093279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73989a25360c4f9c0800000000000000
+      internalID: -3894276244947498697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 308
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e7ae035cff4060800000000000000
+      internalID: 6940042984459591712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccf2d824ee971e60800000000000000
+      internalID: 7932983971411066060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d5443c7013eb00800000000000000
+      internalID: 856546479769508060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 259
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361ceab9f4b8b0ea0800000000000000
+      internalID: -5905473312335675037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 260
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8471e7f1b2d2750800000000000000
+      internalID: 6281724469511145689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe010718ba19bbd0800000000000000
+      internalID: -2614028730749612357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 211
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86f885564b0ea80800000000000000
+      internalID: -8439547354321819472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 211
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c478b84e983716cb0800000000000000
+      internalID: -4872486285756102836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88be0e1307046b40800000000000000
+      internalID: 5432474760486238347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eaa632fa29416a0800000000000000
+      internalID: -6479392682968174958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fc681a104936720800000000000000
+      internalID: 2838274924899389291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d36bb16a9ee85d0800000000000000
+      internalID: -3058250197299217141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b921761727c7230800000000000000
+      internalID: 3637908430394661758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8bfb470a10c57f0800000000000000
+      internalID: -622620859818854233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f27cda25ff397c0800000000000000
+      internalID: -4065625308017512670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8fe4b137c3d9230800000000000000
+      internalID: 3647137738317035736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7b60eab5d08ff0800000000000000
+      internalID: -35793798413190139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bced818d0d82c750800000000000000
+      internalID: 6323771915929251001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 70
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bcf35d0d98a6580800000000000000
+      internalID: -8833096189109875929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46d68c67e6c77110800000000000000
+      internalID: 1258693318133864014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd699872ce73ee80800000000000000
+      internalID: -8150531526898389515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071d01ef75bdbd30800000000000000
+      internalID: 4448911567753123597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldspear_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2563dd746a280b0800000000000000
+      internalID: -5727832948477635895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goldspear_0: 8990717749392524422
+      goldspear_1: 3225470291238355040
+      goldspear_10: -3894276244947498697
+      goldspear_11: 6940042984459591712
+      goldspear_12: 7932983971411066060
+      goldspear_13: 856546479769508060
+      goldspear_14: -5905473312335675037
+      goldspear_15: 6281724469511145689
+      goldspear_16: -2614028730749612357
+      goldspear_17: -8439547354321819472
+      goldspear_18: -4872486285756102836
+      goldspear_19: 5432474760486238347
+      goldspear_2: -1166466510928806408
+      goldspear_20: -6479392682968174958
+      goldspear_21: 2838274924899389291
+      goldspear_22: -3058250197299217141
+      goldspear_23: 3637908430394661758
+      goldspear_24: -622620859818854233
+      goldspear_25: -4065625308017512670
+      goldspear_26: 3647137738317035736
+      goldspear_27: -35793798413190139
+      goldspear_28: 6323771915929251001
+      goldspear_29: -8833096189109875929
+      goldspear_3: 8099084854325418878
+      goldspear_30: 1258693318133864014
+      goldspear_31: -8150531526898389515
+      goldspear_32: 4448911567753123597
+      goldspear_33: -5727832948477635895
+      goldspear_4: -8408767524309692755
+      goldspear_5: 7644366033207310261
+      goldspear_6: -7561550935763629107
+      goldspear_7: 4394570768961051071
+      goldspear_8: 6241173004802539328
+      goldspear_9: 91097594778093279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

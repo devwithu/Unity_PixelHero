@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 5155caa6ca0b4df4280238590c837e83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6261765087932380015
+    second: bronzescythe_0
+  - first:
+      213: -6567392927766636762
+    second: bronzescythe_1
+  - first:
+      213: -4435791266137519391
+    second: bronzescythe_2
+  - first:
+      213: 4981555763590654402
+    second: bronzescythe_3
+  - first:
+      213: 449215313017822983
+    second: bronzescythe_4
+  - first:
+      213: -2511711600489702479
+    second: bronzescythe_5
+  - first:
+      213: 5838537530315461876
+    second: bronzescythe_6
+  - first:
+      213: 1058877393009008785
+    second: bronzescythe_7
+  - first:
+      213: 4063625397277042930
+    second: bronzescythe_8
+  - first:
+      213: 8649935024369889845
+    second: bronzescythe_9
+  - first:
+      213: -8816133140623169256
+    second: bronzescythe_10
+  - first:
+      213: 6512390631147886801
+    second: bronzescythe_11
+  - first:
+      213: 4251786999588638815
+    second: bronzescythe_12
+  - first:
+      213: 1639785030695393697
+    second: bronzescythe_13
+  - first:
+      213: -7366346664543652637
+    second: bronzescythe_14
+  - first:
+      213: 9050418610262275843
+    second: bronzescythe_15
+  - first:
+      213: -5893663643013189847
+    second: bronzescythe_16
+  - first:
+      213: -3580752468813326919
+    second: bronzescythe_17
+  - first:
+      213: 5340269134432785186
+    second: bronzescythe_18
+  - first:
+      213: -261031927405505990
+    second: bronzescythe_19
+  - first:
+      213: -2161320221952105965
+    second: bronzescythe_20
+  - first:
+      213: -3721950906688375335
+    second: bronzescythe_21
+  - first:
+      213: -3031440728292967826
+    second: bronzescythe_22
+  - first:
+      213: 4750627594829041307
+    second: bronzescythe_23
+  - first:
+      213: -6086801037696488490
+    second: bronzescythe_24
+  - first:
+      213: 557439959235470232
+    second: bronzescythe_25
+  - first:
+      213: -1066612920923904641
+    second: bronzescythe_26
+  - first:
+      213: 7425308184471902601
+    second: bronzescythe_27
+  - first:
+      213: 3779842027143275578
+    second: bronzescythe_28
+  - first:
+      213: -2265769929507471688
+    second: bronzescythe_29
+  - first:
+      213: -4210976802978199215
+    second: bronzescythe_30
+  - first:
+      213: -2413805074263168936
+    second: bronzescythe_31
+  - first:
+      213: -9174189543001525640
+    second: bronzescythe_32
+  - first:
+      213: 7552379179933762585
+    second: bronzescythe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bronzescythe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c09da24ddb919a0800000000000000
+      internalID: -6261765087932380015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279e008deeebd4a0800000000000000
+      internalID: -6567392927766636762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eac7146857e072c0800000000000000
+      internalID: -4435791266137519391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9ee95d29a022540800000000000000
+      internalID: 4981555763590654402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fd71872feeb3600800000000000000
+      internalID: 449215313017822983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 354
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb55926b9b942dd0800000000000000
+      internalID: -2511711600489702479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f45d3e23f6a60150800000000000000
+      internalID: 5838537530315461876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1906ef6f063e1be00800000000000000
+      internalID: 1058877393009008785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 307
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f824f0d4c5e46830800000000000000
+      internalID: 4063625397277042930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f6c9431eba0870800000000000000
+      internalID: 8649935024369889845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196b945e9dc6a580800000000000000
+      internalID: -8816133140623169256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 307
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8d62066c8a06a50800000000000000
+      internalID: 6512390631147886801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50da1bcfb1610b30800000000000000
+      internalID: 4251786999588638815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a91a962ccfa1c610800000000000000
+      internalID: 1639785030695393697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4fd77bcba75c990800000000000000
+      internalID: -7366346664543652637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307744d56cb899d70800000000000000
+      internalID: 9050418610262275843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f60948420853ea0800000000000000
+      internalID: -5893663643013189847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 210
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b557cbe99c9e4ec0800000000000000
+      internalID: -3580752468813326919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22359dadb727c1a40800000000000000
+      internalID: 5340269134432785186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 211
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3295f358d0a06cf0800000000000000
+      internalID: -261031927405505990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3122da495b27102e0800000000000000
+      internalID: -2161320221952105965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5756fbe59f85cc0800000000000000
+      internalID: -3721950906688375335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a327808b82ee5d0800000000000000
+      internalID: -3031440728292967826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e04f9a0ae9de140800000000000000
+      internalID: 4750627594829041307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db2f9994b6578ba0800000000000000
+      internalID: -6086801037696488490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 117
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893a6d180bc6cb700800000000000000
+      internalID: 557439959235470232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 107
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f752d771331a231f0800000000000000
+      internalID: -1066612920923904641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 108
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9899f3be37efb0760800000000000000
+      internalID: 7425308184471902601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34a7f61c42b47430800000000000000
+      internalID: 3779842027143275578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bef1f0f04e5e80e0800000000000000
+      internalID: -2265769929507471688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 60
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159031d88ea9f85c0800000000000000
+      internalID: -4210976802978199215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8582287e211708ed0800000000000000
+      internalID: -2413805074263168936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727a43b73bbea080800000000000000
+      internalID: -9174189543001525640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzescythe_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914020599d07fc860800000000000000
+      internalID: 7552379179933762585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bronzescythe_0: -6261765087932380015
+      bronzescythe_1: -6567392927766636762
+      bronzescythe_10: -8816133140623169256
+      bronzescythe_11: 6512390631147886801
+      bronzescythe_12: 4251786999588638815
+      bronzescythe_13: 1639785030695393697
+      bronzescythe_14: -7366346664543652637
+      bronzescythe_15: 9050418610262275843
+      bronzescythe_16: -5893663643013189847
+      bronzescythe_17: -3580752468813326919
+      bronzescythe_18: 5340269134432785186
+      bronzescythe_19: -261031927405505990
+      bronzescythe_2: -4435791266137519391
+      bronzescythe_20: -2161320221952105965
+      bronzescythe_21: -3721950906688375335
+      bronzescythe_22: -3031440728292967826
+      bronzescythe_23: 4750627594829041307
+      bronzescythe_24: -6086801037696488490
+      bronzescythe_25: 557439959235470232
+      bronzescythe_26: -1066612920923904641
+      bronzescythe_27: 7425308184471902601
+      bronzescythe_28: 3779842027143275578
+      bronzescythe_29: -2265769929507471688
+      bronzescythe_3: 4981555763590654402
+      bronzescythe_30: -4210976802978199215
+      bronzescythe_31: -2413805074263168936
+      bronzescythe_32: -9174189543001525640
+      bronzescythe_33: 7552379179933762585
+      bronzescythe_4: 449215313017822983
+      bronzescythe_5: -2511711600489702479
+      bronzescythe_6: 5838537530315461876
+      bronzescythe_7: 1058877393009008785
+      bronzescythe_8: 4063625397277042930
+      bronzescythe_9: 8649935024369889845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

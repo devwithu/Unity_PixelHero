@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: ef3f6d31f5707604584806f3f3f0a4c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1427383872398785206
+    second: firesword_0
+  - first:
+      213: -7795298326410455829
+    second: firesword_1
+  - first:
+      213: -7487566392336318244
+    second: firesword_2
+  - first:
+      213: 4292280642658221899
+    second: firesword_3
+  - first:
+      213: 7642078817517452763
+    second: firesword_4
+  - first:
+      213: -1161926030027270987
+    second: firesword_5
+  - first:
+      213: 6460436671611920748
+    second: firesword_6
+  - first:
+      213: -330292875548006169
+    second: firesword_7
+  - first:
+      213: -5094718568338658666
+    second: firesword_8
+  - first:
+      213: 1142973823524600793
+    second: firesword_9
+  - first:
+      213: -3721735548269688906
+    second: firesword_10
+  - first:
+      213: 2778783377608864496
+    second: firesword_11
+  - first:
+      213: 1688588487987078070
+    second: firesword_12
+  - first:
+      213: -789400409987218760
+    second: firesword_13
+  - first:
+      213: 4479607566285619297
+    second: firesword_14
+  - first:
+      213: -406103794365610662
+    second: firesword_15
+  - first:
+      213: -7820087341537760691
+    second: firesword_16
+  - first:
+      213: -8626410767840516670
+    second: firesword_17
+  - first:
+      213: -7722113194824081584
+    second: firesword_18
+  - first:
+      213: -3195163831377159169
+    second: firesword_19
+  - first:
+      213: -748013055629177712
+    second: firesword_20
+  - first:
+      213: 7394797058127182901
+    second: firesword_21
+  - first:
+      213: 2644225650808345986
+    second: firesword_22
+  - first:
+      213: -3927755969916779107
+    second: firesword_23
+  - first:
+      213: 7103432559729182118
+    second: firesword_24
+  - first:
+      213: 8168418233627032998
+    second: firesword_25
+  - first:
+      213: 3815431198312655784
+    second: firesword_26
+  - first:
+      213: 1015934437897640292
+    second: firesword_27
+  - first:
+      213: 2054130234348849706
+    second: firesword_28
+  - first:
+      213: -1324265966560249203
+    second: firesword_29
+  - first:
+      213: 266909921547699817
+    second: firesword_30
+  - first:
+      213: 3766047145361895680
+    second: firesword_31
+  - first:
+      213: 6918428890138620254
+    second: firesword_32
+  - first:
+      213: -6480136071462187232
+    second: firesword_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: firesword_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 541
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a458c8f3ee9e03ce0800000000000000
+      internalID: -1427383872398785206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 540
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be49b10397981d390800000000000000
+      internalID: -7795298326410455829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 540
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd004a87902d61890800000000000000
+      internalID: -7487566392336318244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 541
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fbde5c08e319b30800000000000000
+      internalID: 4292280642658221899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd3aafe13e1e0a60800000000000000
+      internalID: 7642078817517452763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4d1fc8e6200efe0800000000000000
+      internalID: -1161926030027270987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61e5598ce418a950800000000000000
+      internalID: 6460436671611920748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e86e1131609a6bf0800000000000000
+      internalID: -330292875548006169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 444
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a669f747ceb49b0800000000000000
+      internalID: -5094718568338658666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 443
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbf0c203a8acdf00800000000000000
+      internalID: 1142973823524600793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 443
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b70179cc3db95cc0800000000000000
+      internalID: -3721735548269688906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 444
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2f22262c8309620800000000000000
+      internalID: 2778783377608864496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 395
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3a84688421f6710800000000000000
+      internalID: 1688588487987078070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 397
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b20a21728c7b05f0800000000000000
+      internalID: -789400409987218760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 395
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604b99f853ca2e30800000000000000
+      internalID: 4479607566285619297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 397
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5546ea20ca3d5af0800000000000000
+      internalID: -406103794365610662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aec17def7797390800000000000000
+      internalID: -7820087341537760691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5e2408c15d84880800000000000000
+      internalID: -8626410767840516670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f572b76fa85d490800000000000000
+      internalID: -7722113194824081584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 350
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb969f8c6f78a3d0800000000000000
+      internalID: -3195163831377159169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c4edbc6168e95f0800000000000000
+      internalID: -748013055629177712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 302
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c36cbbeb89f9660800000000000000
+      internalID: 7394797058127182901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 301
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285586e383d22b420800000000000000
+      internalID: 2644225650808345986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 302
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95c0b861cecd79c0800000000000000
+      internalID: -3927755969916779107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 253
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50a980746749260800000000000000
+      internalID: 7103432559729182118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 255
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adb928fa1d0c5170800000000000000
+      internalID: 8168418233627032998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 241
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab6e58b57223f430800000000000000
+      internalID: 3815431198312655784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 240
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46999f51df2591e00800000000000000
+      internalID: 1015934437897640292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ac0cc909cb18c10800000000000000
+      internalID: 2054130234348849706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7903ae134f9de0800000000000000
+      internalID: -1324265966560249203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 205
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966c0e4d82144b300800000000000000
+      internalID: 266909921547699817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 205
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0017ba2ecefa34430800000000000000
+      internalID: 3766047145361895680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 158
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5133809b62330060800000000000000
+      internalID: 6918428890138620254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firesword_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 159
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f0d44839ee116a0800000000000000
+      internalID: -6480136071462187232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      firesword_0: -1427383872398785206
+      firesword_1: -7795298326410455829
+      firesword_10: -3721735548269688906
+      firesword_11: 2778783377608864496
+      firesword_12: 1688588487987078070
+      firesword_13: -789400409987218760
+      firesword_14: 4479607566285619297
+      firesword_15: -406103794365610662
+      firesword_16: -7820087341537760691
+      firesword_17: -8626410767840516670
+      firesword_18: -7722113194824081584
+      firesword_19: -3195163831377159169
+      firesword_2: -7487566392336318244
+      firesword_20: -748013055629177712
+      firesword_21: 7394797058127182901
+      firesword_22: 2644225650808345986
+      firesword_23: -3927755969916779107
+      firesword_24: 7103432559729182118
+      firesword_25: 8168418233627032998
+      firesword_26: 3815431198312655784
+      firesword_27: 1015934437897640292
+      firesword_28: 2054130234348849706
+      firesword_29: -1324265966560249203
+      firesword_3: 4292280642658221899
+      firesword_30: 266909921547699817
+      firesword_31: 3766047145361895680
+      firesword_32: 6918428890138620254
+      firesword_33: -6480136071462187232
+      firesword_4: 7642078817517452763
+      firesword_5: -1161926030027270987
+      firesword_6: 6460436671611920748
+      firesword_7: -330292875548006169
+      firesword_8: -5094718568338658666
+      firesword_9: 1142973823524600793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

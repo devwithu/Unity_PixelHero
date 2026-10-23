@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>PixelHero.Server</RootNamespace>
+    <!-- The port keeps the original's names (lowercase fields such as x, y) where that keeps it close to the TS. -->
+    <NoWarn>$(NoWarn);CS8981;IDE1006</NoWarn>
+  </PropertyGroup>
+
+  <!--
+    Shared with the Unity client (Assets/PixelHero/Scripts/Runtime): linked, never copied. These files must keep
+    compiling in Unity (C# 9, .NET Standard 2.1), so only edit them in Assets/ and keep Unity's language level.
+  -->
+  <ItemGroup>
+    <Compile Include="..\..\..\Assets\PixelHero\Scripts\Runtime\Js\JsJson.cs" Link="Shared\Js\JsJson.cs" />
+    <Compile Include="..\..\..\Assets\PixelHero\Scripts\Runtime\Js\JsNumber.cs" Link="Shared\Js\JsNumber.cs" />
+    <Compile Include="..\..\..\Assets\PixelHero\Scripts\Runtime\Js\JsValue.cs" Link="Shared\Js\JsValue.cs" />
+    <Compile Include="..\..\..\Assets\PixelHero\Scripts\Runtime\Js\Fdlibm.cs" Link="Shared\Js\Fdlibm.cs" />
+    <Compile Include="..\..\..\Assets\PixelHero\Scripts\Runtime\Common\Generated\*.cs" Link="Shared\Generated\%(Filename)%(Extension)" />
+  </ItemGroup>
+
+  <!-- Data fixes for the original's map (see the file's description). -->
+  <ItemGroup>
+    <EmbeddedResource Include="Data/map_fixes.json" LogicalName="map_fixes.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="MongoDB.Driver" Version="3.9.0" />
+    <!-- common/api/discord.ts (discord.js). -->
+    <PackageReference Include="Discord.Net.WebSocket" Version="3.20.1" />
+  </ItemGroup>
+
+  <!-- Kestrel for the Express APIs (network/api.ts, the hub's controllers/api.ts). -->
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>

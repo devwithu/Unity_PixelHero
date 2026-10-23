@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: aac2fcb93dd8a11458f075be5f024868
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 163058091880529884
+    second: poisonspider_0
+  - first:
+      213: -7426851958296899193
+    second: poisonspider_1
+  - first:
+      213: -6507599988215711275
+    second: poisonspider_2
+  - first:
+      213: -4147030208628023207
+    second: poisonspider_3
+  - first:
+      213: 124216637077452532
+    second: poisonspider_4
+  - first:
+      213: 6830216159663946823
+    second: poisonspider_5
+  - first:
+      213: 5710778149672986305
+    second: poisonspider_6
+  - first:
+      213: -897198184025131209
+    second: poisonspider_7
+  - first:
+      213: -8145730412619756894
+    second: poisonspider_8
+  - first:
+      213: 3343417508689279393
+    second: poisonspider_9
+  - first:
+      213: 3096670344241910983
+    second: poisonspider_10
+  - first:
+      213: 7180998022660549990
+    second: poisonspider_11
+  - first:
+      213: -1035809701217307095
+    second: poisonspider_12
+  - first:
+      213: 8981985434916513736
+    second: poisonspider_13
+  - first:
+      213: -1514763034114513272
+    second: poisonspider_14
+  - first:
+      213: 6157954470200560647
+    second: poisonspider_15
+  - first:
+      213: -5538604826225124727
+    second: poisonspider_16
+  - first:
+      213: -390235847434814748
+    second: poisonspider_17
+  - first:
+      213: -4267691536354184983
+    second: poisonspider_18
+  - first:
+      213: -3141514275917306512
+    second: poisonspider_19
+  - first:
+      213: -288472000226068043
+    second: poisonspider_20
+  - first:
+      213: -7914368908064615678
+    second: poisonspider_21
+  - first:
+      213: -7901359225304143097
+    second: poisonspider_22
+  - first:
+      213: 2949701523066324145
+    second: poisonspider_23
+  - first:
+      213: -8328284635967281074
+    second: poisonspider_24
+  - first:
+      213: 5192081373067584040
+    second: poisonspider_25
+  - first:
+      213: -7993438345948106149
+    second: poisonspider_26
+  - first:
+      213: -7186265405313781625
+    second: poisonspider_27
+  - first:
+      213: 5774135430775457291
+    second: poisonspider_28
+  - first:
+      213: 7653165303300201669
+    second: poisonspider_29
+  - first:
+      213: -1427458457882535250
+    second: poisonspider_30
+  - first:
+      213: -1087339533790465689
+    second: poisonspider_31
+  - first:
+      213: -2847995434474250154
+    second: poisonspider_32
+  - first:
+      213: 4886315144195833036
+    second: poisonspider_33
+  - first:
+      213: -7842495876278374864
+    second: poisonspider_34
+  - first:
+      213: -1418449216119586929
+    second: poisonspider_35
+  - first:
+      213: 7451208306625669113
+    second: poisonspider_36
+  - first:
+      213: -3579497348853494088
+    second: poisonspider_37
+  - first:
+      213: 3653325922140031210
+    second: poisonspider_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poisonspider_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 393
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfba4c787c434200800000000000000
+      internalID: 163058091880529884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 393
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7819c4a3e758ee890800000000000000
+      internalID: -7426851958296899193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 393
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9f01a1a4c50b5a0800000000000000
+      internalID: -6507599988215711275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 393
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950a9e54ff9c276c0800000000000000
+      internalID: -4147030208628023207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 393
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6f1309f5e49b100800000000000000
+      internalID: 124216637077452532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 345
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cf6efb86dc9ce50800000000000000
+      internalID: 6830216159663946823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 345
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6225a5872c04f40800000000000000
+      internalID: 5710778149672986305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 345
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7377e0451038c83f0800000000000000
+      internalID: -897198184025131209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 345
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa04bff85d84fe80800000000000000
+      internalID: -8145730412619756894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 345
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9fe3d8284366e20800000000000000
+      internalID: 3343417508689279393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 345
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4960f654599fa20800000000000000
+      internalID: 3096670344241910983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 297
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66de671b7a708a360800000000000000
+      internalID: 7180998022660549990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 296
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926f900909010a1f0800000000000000
+      internalID: -1035809701217307095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 249
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c76ee91a2c66ac70800000000000000
+      internalID: 8981985434916513736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 248
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88626b8cb0b7afae0800000000000000
+      internalID: -1514763034114513272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 247
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c4553e6f2757550800000000000000
+      internalID: 6157954470200560647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 247
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a569d514ce223b0800000000000000
+      internalID: -5538604826225124727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 249
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea3607709a959af0800000000000000
+      internalID: -390235847434814748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 200
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0faaca82d16c4c0800000000000000
+      internalID: -4267691536354184983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 203
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075612719691764d0800000000000000
+      internalID: -3141514275917306512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 202
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9f0e28e342ffbf0800000000000000
+      internalID: -288472000226068043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 200
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203996509638a2290800000000000000
+      internalID: -7914368908064615678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 203
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70badf4d5abb85290800000000000000
+      internalID: -7901359225304143097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 203
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b40cc338e17fe820800000000000000
+      internalID: 2949701523066324145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 153
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48a3dcaf3dfb6c80800000000000000
+      internalID: -8328284635967281074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 154
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822ad9eff7afd0840800000000000000
+      internalID: 5192081373067584040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52f6c7ec2a911190800000000000000
+      internalID: -7993438345948106149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 109
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780f79630b1454c90800000000000000
+      internalID: -7186265405313781625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b064e54e499d12050800000000000000
+      internalID: 5774135430775457291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 109
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc9d8e8b41853a60800000000000000
+      internalID: 7653165303300201669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 111
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad8467816a03ce0800000000000000
+      internalID: -1427458457882535250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 62
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7613e2a747ef8e0f0800000000000000
+      internalID: -1087339533790465689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6506a3edd33e978d0800000000000000
+      internalID: -2847995434474250154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 59
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc776e1cbdafc340800000000000000
+      internalID: 4886315144195833036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 14
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e26f54d8bd92390800000000000000
+      internalID: -7842495876278374864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 59
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fb24504f7a05ce0800000000000000
+      internalID: -1418449216119586929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_36
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7ecd70a72086760800000000000000
+      internalID: 7451208306625669113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 59
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be822f4022135ec0800000000000000
+      internalID: -3579497348853494088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonspider_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 59
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae802ede19833b230800000000000000
+      internalID: 3653325922140031210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      poisonspider_0: 163058091880529884
+      poisonspider_1: -7426851958296899193
+      poisonspider_10: 3096670344241910983
+      poisonspider_11: 7180998022660549990
+      poisonspider_12: -1035809701217307095
+      poisonspider_13: 8981985434916513736
+      poisonspider_14: -1514763034114513272
+      poisonspider_15: 6157954470200560647
+      poisonspider_16: -5538604826225124727
+      poisonspider_17: -390235847434814748
+      poisonspider_18: -4267691536354184983
+      poisonspider_19: -3141514275917306512
+      poisonspider_2: -6507599988215711275
+      poisonspider_20: -288472000226068043
+      poisonspider_21: -7914368908064615678
+      poisonspider_22: -7901359225304143097
+      poisonspider_23: 2949701523066324145
+      poisonspider_24: -8328284635967281074
+      poisonspider_25: 5192081373067584040
+      poisonspider_26: -7993438345948106149
+      poisonspider_27: -7186265405313781625
+      poisonspider_28: 5774135430775457291
+      poisonspider_29: 7653165303300201669
+      poisonspider_3: -4147030208628023207
+      poisonspider_30: -1427458457882535250
+      poisonspider_31: -1087339533790465689
+      poisonspider_32: -2847995434474250154
+      poisonspider_33: 4886315144195833036
+      poisonspider_34: -7842495876278374864
+      poisonspider_35: -1418449216119586929
+      poisonspider_36: 7451208306625669113
+      poisonspider_37: -3579497348853494088
+      poisonspider_38: 3653325922140031210
+      poisonspider_4: 124216637077452532
+      poisonspider_5: 6830216159663946823
+      poisonspider_6: 5710778149672986305
+      poisonspider_7: -897198184025131209
+      poisonspider_8: -8145730412619756894
+      poisonspider_9: 3343417508689279393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

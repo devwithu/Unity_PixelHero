@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 932dde54c6fc6c54283f1c8491efcbb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7853938944994707037
+    second: sunshinestaff_0
+  - first:
+      213: -7177638850341571306
+    second: sunshinestaff_1
+  - first:
+      213: 1968237260858058753
+    second: sunshinestaff_2
+  - first:
+      213: -7266070674609265250
+    second: sunshinestaff_3
+  - first:
+      213: 3261635101806495136
+    second: sunshinestaff_4
+  - first:
+      213: -4482136460872954815
+    second: sunshinestaff_5
+  - first:
+      213: 1671266339966373894
+    second: sunshinestaff_6
+  - first:
+      213: 2992673930687364376
+    second: sunshinestaff_7
+  - first:
+      213: -3060572298164049237
+    second: sunshinestaff_8
+  - first:
+      213: 5496851348071537945
+    second: sunshinestaff_9
+  - first:
+      213: 3745632654267518050
+    second: sunshinestaff_10
+  - first:
+      213: 6544046910637770124
+    second: sunshinestaff_11
+  - first:
+      213: 6091309997779908008
+    second: sunshinestaff_12
+  - first:
+      213: 2905272947551954894
+    second: sunshinestaff_13
+  - first:
+      213: -3560987252858305497
+    second: sunshinestaff_14
+  - first:
+      213: 2220409518937491387
+    second: sunshinestaff_15
+  - first:
+      213: 3684891851304932431
+    second: sunshinestaff_16
+  - first:
+      213: 3284928892525215054
+    second: sunshinestaff_17
+  - first:
+      213: 6139124819715373598
+    second: sunshinestaff_18
+  - first:
+      213: 4825829205858543856
+    second: sunshinestaff_19
+  - first:
+      213: -2609139061294315827
+    second: sunshinestaff_20
+  - first:
+      213: 7330804760227491127
+    second: sunshinestaff_21
+  - first:
+      213: 4459652932659305653
+    second: sunshinestaff_22
+  - first:
+      213: -2855745877393879903
+    second: sunshinestaff_23
+  - first:
+      213: 8842932907384594196
+    second: sunshinestaff_24
+  - first:
+      213: 9016992173230764078
+    second: sunshinestaff_25
+  - first:
+      213: -2627901462048362542
+    second: sunshinestaff_26
+  - first:
+      213: -842158096831650815
+    second: sunshinestaff_27
+  - first:
+      213: 3390457830963401321
+    second: sunshinestaff_28
+  - first:
+      213: -785190636129301729
+    second: sunshinestaff_29
+  - first:
+      213: -3091842896737074325
+    second: sunshinestaff_30
+  - first:
+      213: 2846442699135382491
+    second: sunshinestaff_31
+  - first:
+      213: -8474124514440437573
+    second: sunshinestaff_32
+  - first:
+      213: -8280591532392773444
+    second: sunshinestaff_33
+  - first:
+      213: -4807581125382250525
+    second: sunshinestaff_34
+  - first:
+      213: 4318511561745359218
+    second: sunshinestaff_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sunshinestaff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d560408cbdbcefc60800000000000000
+      internalID: 7853938944994707037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615f85f8e77e36c90800000000000000
+      internalID: -7177638850341571306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108e12f4c55905b10800000000000000
+      internalID: 1968237260858058753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95280ff73bb92b90800000000000000
+      internalID: -7266070674609265250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 488
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a50f1e18d7a34d20800000000000000
+      internalID: 3261635101806495136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c47ded2a04cc1c0800000000000000
+      internalID: -4482136460872954815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60053c6a1e7813710800000000000000
+      internalID: 1671266339966373894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 488
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d3137851d188920800000000000000
+      internalID: 2992673930687364376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baae78ed5b9a685d0800000000000000
+      internalID: -3060572298164049237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d5ee07d2db84c40800000000000000
+      internalID: 5496851348071537945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c08b8cd092bf330800000000000000
+      internalID: 3745632654267518050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c858e0e4eff11da50800000000000000
+      internalID: 6544046910637770124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5f47a7b2ea88450800000000000000
+      internalID: 6091309997779908008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 392
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7e26e5a5a915820800000000000000
+      internalID: 2905272947551954894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724cfafd5f4d49ec0800000000000000
+      internalID: -3560987252858305497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 392
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb74a2871ba70de10800000000000000
+      internalID: 2220409518937491387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 344
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4413c88d9d532330800000000000000
+      internalID: 3684891851304932431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df1676c69669d20800000000000000
+      internalID: 3284928892525215054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a3bee3f7d823550800000000000000
+      internalID: 6139124819715373598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 344
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f867e9281ac8f240800000000000000
+      internalID: 4825829205858543856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6c4f9f8d97acbd0800000000000000
+      internalID: -2609139061294315827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2a13d6104cb560800000000000000
+      internalID: 7330804760227491127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcdfa8c6bed3ed30800000000000000
+      internalID: 4459652932659305653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acc621414a5e58d0800000000000000
+      internalID: -2855745877393879903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f554d90a868ba70800000000000000
+      internalID: 8842932907384594196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 250
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20b5e38b9ac22d70800000000000000
+      internalID: 9016992173230764078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 239
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa0e12b81d78bd0800000000000000
+      internalID: -2627901462048362542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 240
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10461a14cad0054f0800000000000000
+      internalID: -842158096831650815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 201
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d3801f635d0f20800000000000000
+      internalID: 3390457830963401321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 202
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bcc8cc6417a15f0800000000000000
+      internalID: -785190636129301729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b630ca644419715d0800000000000000
+      internalID: -3091842896737074325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f773cd88908720800000000000000
+      internalID: 2846442699135382491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb02956e6acd56a80800000000000000
+      internalID: -8474124514440437573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb80f9dafdd651d80800000000000000
+      internalID: -8280591532392773444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd7b8207a084db0800000000000000
+      internalID: -4807581125382250525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunshinestaff_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271ef3c826f6eeb30800000000000000
+      internalID: 4318511561745359218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sunshinestaff_0: 7853938944994707037
+      sunshinestaff_1: -7177638850341571306
+      sunshinestaff_10: 3745632654267518050
+      sunshinestaff_11: 6544046910637770124
+      sunshinestaff_12: 6091309997779908008
+      sunshinestaff_13: 2905272947551954894
+      sunshinestaff_14: -3560987252858305497
+      sunshinestaff_15: 2220409518937491387
+      sunshinestaff_16: 3684891851304932431
+      sunshinestaff_17: 3284928892525215054
+      sunshinestaff_18: 6139124819715373598
+      sunshinestaff_19: 4825829205858543856
+      sunshinestaff_2: 1968237260858058753
+      sunshinestaff_20: -2609139061294315827
+      sunshinestaff_21: 7330804760227491127
+      sunshinestaff_22: 4459652932659305653
+      sunshinestaff_23: -2855745877393879903
+      sunshinestaff_24: 8842932907384594196
+      sunshinestaff_25: 9016992173230764078
+      sunshinestaff_26: -2627901462048362542
+      sunshinestaff_27: -842158096831650815
+      sunshinestaff_28: 3390457830963401321
+      sunshinestaff_29: -785190636129301729
+      sunshinestaff_3: -7266070674609265250
+      sunshinestaff_30: -3091842896737074325
+      sunshinestaff_31: 2846442699135382491
+      sunshinestaff_32: -8474124514440437573
+      sunshinestaff_33: -8280591532392773444
+      sunshinestaff_34: -4807581125382250525
+      sunshinestaff_35: 4318511561745359218
+      sunshinestaff_4: 3261635101806495136
+      sunshinestaff_5: -4482136460872954815
+      sunshinestaff_6: 1671266339966373894
+      sunshinestaff_7: 2992673930687364376
+      sunshinestaff_8: -3060572298164049237
+      sunshinestaff_9: 5496851348071537945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

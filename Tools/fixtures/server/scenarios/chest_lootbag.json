@@ -1,0 +1,115 @@
+{
+ "seed": 67,
+ "end": 30000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 188 747"
+    ]
+   ]
+  },
+  {
+   "t": 4000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$chest@188,746"
+    ]
+   ]
+  },
+  {
+   "t": 4500,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     0,
+     "$chest@188,746"
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/lootbag"
+    ]
+   ]
+  },
+  {
+   "t": 7000,
+   "walk": 0,
+   "from": [
+    188,
+    747
+   ],
+   "path": [
+    [
+     188,
+     748
+    ]
+   ]
+  },
+  {
+   "t": 8000,
+   "walk": 0,
+   "from": [
+    188,
+    748
+   ],
+   "path": [
+    [
+     188,
+     747
+    ]
+   ],
+   "target": "8-39844209"
+  }
+ ]
+}

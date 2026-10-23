@@ -1,0 +1,524 @@
+{
+ "seed": 71,
+ "end": 60000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/tp home"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn coppersword"
+    ]
+   ]
+  },
+  {
+   "t": 3600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn leatherhelmet"
+    ]
+   ]
+  },
+  {
+   "t": 3900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn copperhelmet"
+    ]
+   ]
+  },
+  {
+   "t": 4200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn burger 3"
+    ]
+   ]
+  },
+  {
+   "t": 4500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn flask 30"
+    ]
+   ]
+  },
+  {
+   "t": 4800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn arrow 50"
+    ]
+   ]
+  },
+  {
+   "t": 5100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn woodenbow"
+    ]
+   ]
+  },
+  {
+   "t": 5400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn coppershield"
+    ]
+   ]
+  },
+  {
+   "t": 5700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn ratpet"
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn bronzehelmet"
+    ]
+   ]
+  },
+  {
+   "t": 6300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn wings"
+    ]
+   ]
+  },
+  {
+   "t": 6600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn nothing"
+    ]
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 0
+    }
+   ]
+  },
+  {
+   "t": 7300,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 1
+    }
+   ]
+  },
+  {
+   "t": 7600,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 2
+    }
+   ]
+  },
+  {
+   "t": 7900,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 10
+    }
+   ]
+  },
+  {
+   "t": 8200,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 11
+    }
+   ]
+  },
+  {
+   "t": 8500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle burn"
+    ]
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 6
+    }
+   ]
+  },
+  {
+   "t": 9300,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 8
+    }
+   ]
+  },
+  {
+   "t": 9600,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 7
+    }
+   ]
+  },
+  {
+   "t": 9900,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 9
+    }
+   ]
+  },
+  {
+   "t": 12000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 3
+    }
+   ]
+  },
+  {
+   "t": 12300,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 3
+    }
+   ]
+  },
+  {
+   "t": 12600,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 4,
+     "type": 1,
+     "fromIndex": 4,
+     "value": 20
+    }
+   ]
+  },
+  {
+   "t": 12900,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 4,
+     "type": 1,
+     "fromIndex": 20,
+     "value": 5
+    }
+   ]
+  },
+  {
+   "t": 13200,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 2,
+     "type": 1,
+     "fromIndex": 5,
+     "value": 3
+    }
+   ]
+  },
+  {
+   "t": 13500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 2,
+     "type": 1,
+     "fromIndex": "x",
+     "value": -1
+    }
+   ]
+  },
+  {
+   "t": 13800,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": -1
+    }
+   ]
+  },
+  {
+   "t": 14100,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 99
+    }
+   ]
+  },
+  {
+   "t": 14400,
+   "conn": 0,
+   "send": [
+    "Equipment",
+    {
+     "opcode": 3,
+     "style": 9
+    }
+   ]
+  },
+  {
+   "t": 14700,
+   "conn": 0,
+   "send": [
+    "Equipment",
+    {
+     "opcode": 3,
+     "style": 2
+    }
+   ]
+  },
+  {
+   "t": 15000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 189 160"
+    ]
+   ]
+  },
+  {
+   "t": 15500,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     1,
+     "$rat@186,159"
+    ]
+   ]
+  },
+  {
+   "t": 25000,
+   "conn": 0,
+   "send": [
+    "Equipment",
+    {
+     "opcode": 2,
+     "type": 4
+    }
+   ]
+  },
+  {
+   "t": 25300,
+   "conn": 0,
+   "send": [
+    "Equipment",
+    {
+     "opcode": 2,
+     "type": 0
+    }
+   ]
+  },
+  {
+   "t": 25600,
+   "conn": 0,
+   "send": [
+    "Equipment",
+    {
+     "opcode": 2,
+     "type": 2
+    }
+   ]
+  },
+  {
+   "t": 25900,
+   "conn": 0,
+   "send": [
+    "Equipment",
+    {
+     "opcode": 2,
+     "type": 11
+    }
+   ]
+  },
+  {
+   "t": 26500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 191 167"
+    ]
+   ]
+  },
+  {
+   "t": 28000,
+   "walk": 0,
+   "from": [
+    191,
+    167
+   ],
+   "path": [
+    [
+     191,
+     166
+    ]
+   ],
+   "target": "2-721814259"
+  },
+  {
+   "t": 30000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/clear"
+    ]
+   ]
+  },
+  {
+   "t": 30300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/empty"
+    ]
+   ]
+  }
+ ]
+}

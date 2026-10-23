@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: d3ec7fea8cd96bf488b75360cdad762f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7344310705581172617
+    second: shroomy_0
+  - first:
+      213: -7778025138734749710
+    second: shroomy_1
+  - first:
+      213: -1951315486336321956
+    second: shroomy_2
+  - first:
+      213: 6026715129429610127
+    second: shroomy_3
+  - first:
+      213: 3497183200566567218
+    second: shroomy_4
+  - first:
+      213: -8053080991838861425
+    second: shroomy_5
+  - first:
+      213: -8320455762080531804
+    second: shroomy_6
+  - first:
+      213: -7040266507783571743
+    second: shroomy_7
+  - first:
+      213: 2275611375719937206
+    second: shroomy_8
+  - first:
+      213: -4929853207214490211
+    second: shroomy_9
+  - first:
+      213: 6553984820862994318
+    second: shroomy_10
+  - first:
+      213: 6541467949958148369
+    second: shroomy_11
+  - first:
+      213: -313260922551030386
+    second: shroomy_12
+  - first:
+      213: 751190988420708032
+    second: shroomy_13
+  - first:
+      213: 7680572971409102724
+    second: shroomy_14
+  - first:
+      213: -5382609208506011375
+    second: shroomy_15
+  - first:
+      213: -7866070741156743267
+    second: shroomy_16
+  - first:
+      213: -6135528170324835700
+    second: shroomy_17
+  - first:
+      213: -565774993410748096
+    second: shroomy_18
+  - first:
+      213: 5671579981994722801
+    second: shroomy_19
+  - first:
+      213: -1515157725388879855
+    second: shroomy_20
+  - first:
+      213: 1804384360275927250
+    second: shroomy_21
+  - first:
+      213: -3283265960846217166
+    second: shroomy_22
+  - first:
+      213: -6721649436864976533
+    second: shroomy_23
+  - first:
+      213: 3956831443714954790
+    second: shroomy_24
+  - first:
+      213: 1039956736873349552
+    second: shroomy_25
+  - first:
+      213: -7465535066986295053
+    second: shroomy_26
+  - first:
+      213: 1141228258298990409
+    second: shroomy_27
+  - first:
+      213: 7380009342203565120
+    second: shroomy_28
+  - first:
+      213: -8600786751524973376
+    second: shroomy_29
+  - first:
+      213: -6660497324657246283
+    second: shroomy_30
+  - first:
+      213: 522473375499991509
+    second: shroomy_31
+  - first:
+      213: 3458622776103710787
+    second: shroomy_32
+  - first:
+      213: -4641940452591400232
+    second: shroomy_33
+  - first:
+      213: 8002277518990735285
+    second: shroomy_34
+  - first:
+      213: 5040352110425835952
+    second: shroomy_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shroomy_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987a346ccab3ce560800000000000000
+      internalID: 7344310705581172617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 258
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f728a79857ee0490800000000000000
+      internalID: -7778025138734749710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 258
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56743857e88be4e0800000000000000
+      internalID: -1951315486336321956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 258
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ecf14ba7133a350800000000000000
+      internalID: 6026715129429610127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 226
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231eb30979d788030800000000000000
+      internalID: 3497183200566567218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 226
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f878ef54185bd3090800000000000000
+      internalID: -8053080991838861425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 226
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa76db619dc78c80800000000000000
+      internalID: -8320455762080531804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 226
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6fa7f79e2fb4e90800000000000000
+      internalID: -7040266507783571743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 194
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ff905d78949f10800000000000000
+      internalID: 2275611375719937206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 194
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9df825a0a4a59bb0800000000000000
+      internalID: -4929853207214490211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 194
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8747d6587e64fa50800000000000000
+      internalID: 6553984820862994318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 194
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111bbda3176f7ca50800000000000000
+      internalID: 6541467949958148369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 162
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da555c9d217abf0800000000000000
+      internalID: -313260922551030386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 162
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c67a475934cc6a00800000000000000
+      internalID: 751190988420708032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4875e409c60e69a60800000000000000
+      internalID: 7680572971409102724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 162
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b04271712d45b0800000000000000
+      internalID: -5382609208506011375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97324f465a16d290800000000000000
+      internalID: -7866070741156743267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 130
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82c262f2a93adaa0800000000000000
+      internalID: -6135528170324835700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 131
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04114fe14a6f528f0800000000000000
+      internalID: -565774993410748096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 131
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5030eb1ff75be40800000000000000
+      internalID: 5671579981994722801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118c18f831419fae0800000000000000
+      internalID: -1515157725388879855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0648004067a0910800000000000000
+      internalID: 1804384360275927250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23031ac010f7f62d0800000000000000
+      internalID: -3283265960846217166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6965f23377e7b2a0800000000000000
+      internalID: -6721649436864976533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626d9bedb3d79e630800000000000000
+      internalID: 3956831443714954790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 66
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14c1b642bae6e00800000000000000
+      internalID: 1039956736873349552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f05f022967156890800000000000000
+      internalID: -7465535066986295053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 67
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8c8fed0576df00800000000000000
+      internalID: 1141228258298990409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0449b11556f0b6660800000000000000
+      internalID: 7380009342203565120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4d776b40ed3a880800000000000000
+      internalID: -8600786751524973376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf7d58d8f82193a0800000000000000
+      internalID: -6660497324657246283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9b64f44c2304700800000000000000
+      internalID: 522473375499991509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340bcbd171f7fff20800000000000000
+      internalID: 3458622776103710787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da06ce90c3849fb0800000000000000
+      internalID: -4641940452591400232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b77981710dcd0f60800000000000000
+      internalID: 8002277518990735285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroomy_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b982dc1a8de2f540800000000000000
+      internalID: 5040352110425835952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shroomy_0: 7344310705581172617
+      shroomy_1: -7778025138734749710
+      shroomy_10: 6553984820862994318
+      shroomy_11: 6541467949958148369
+      shroomy_12: -313260922551030386
+      shroomy_13: 751190988420708032
+      shroomy_14: 7680572971409102724
+      shroomy_15: -5382609208506011375
+      shroomy_16: -7866070741156743267
+      shroomy_17: -6135528170324835700
+      shroomy_18: -565774993410748096
+      shroomy_19: 5671579981994722801
+      shroomy_2: -1951315486336321956
+      shroomy_20: -1515157725388879855
+      shroomy_21: 1804384360275927250
+      shroomy_22: -3283265960846217166
+      shroomy_23: -6721649436864976533
+      shroomy_24: 3956831443714954790
+      shroomy_25: 1039956736873349552
+      shroomy_26: -7465535066986295053
+      shroomy_27: 1141228258298990409
+      shroomy_28: 7380009342203565120
+      shroomy_29: -8600786751524973376
+      shroomy_3: 6026715129429610127
+      shroomy_30: -6660497324657246283
+      shroomy_31: 522473375499991509
+      shroomy_32: 3458622776103710787
+      shroomy_33: -4641940452591400232
+      shroomy_34: 8002277518990735285
+      shroomy_35: 5040352110425835952
+      shroomy_4: 3497183200566567218
+      shroomy_5: -8053080991838861425
+      shroomy_6: -8320455762080531804
+      shroomy_7: -7040266507783571743
+      shroomy_8: 2275611375719937206
+      shroomy_9: -4929853207214490211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

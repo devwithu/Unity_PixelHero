@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 821a5687c152c234792c6e0bc8586e74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6699071067613792534
+    second: jirisanmoonbear_0
+  - first:
+      213: 177796192489830510
+    second: jirisanmoonbear_1
+  - first:
+      213: -2807592411863124959
+    second: jirisanmoonbear_2
+  - first:
+      213: 4267023383071249677
+    second: jirisanmoonbear_3
+  - first:
+      213: 7928952133234639169
+    second: jirisanmoonbear_4
+  - first:
+      213: -2391309320014951759
+    second: jirisanmoonbear_5
+  - first:
+      213: 3575327855490403231
+    second: jirisanmoonbear_6
+  - first:
+      213: 2898257565750387255
+    second: jirisanmoonbear_7
+  - first:
+      213: 3492806096445589818
+    second: jirisanmoonbear_8
+  - first:
+      213: -5250574829866828145
+    second: jirisanmoonbear_9
+  - first:
+      213: -6617722344960236154
+    second: jirisanmoonbear_10
+  - first:
+      213: 5816251027672602135
+    second: jirisanmoonbear_11
+  - first:
+      213: 5423884984882905901
+    second: jirisanmoonbear_12
+  - first:
+      213: 5326206480268235051
+    second: jirisanmoonbear_13
+  - first:
+      213: -8761330136411742639
+    second: jirisanmoonbear_14
+  - first:
+      213: -7428327556946143271
+    second: jirisanmoonbear_15
+  - first:
+      213: -1280307749210578972
+    second: jirisanmoonbear_16
+  - first:
+      213: 5452979618415091939
+    second: jirisanmoonbear_17
+  - first:
+      213: -6917055317541087236
+    second: jirisanmoonbear_18
+  - first:
+      213: -8613267462229516810
+    second: jirisanmoonbear_19
+  - first:
+      213: 1673493796032106089
+    second: jirisanmoonbear_20
+  - first:
+      213: -1427047057396433973
+    second: jirisanmoonbear_21
+  - first:
+      213: 839723101382205155
+    second: jirisanmoonbear_22
+  - first:
+      213: -2209110801449344164
+    second: jirisanmoonbear_23
+  - first:
+      213: 2749090786452952413
+    second: jirisanmoonbear_24
+  - first:
+      213: 879689188586420472
+    second: jirisanmoonbear_25
+  - first:
+      213: -6940477486728661016
+    second: jirisanmoonbear_26
+  - first:
+      213: -1245079887948917727
+    second: jirisanmoonbear_27
+  - first:
+      213: 8368726636803917953
+    second: jirisanmoonbear_28
+  - first:
+      213: 4742373261468374548
+    second: jirisanmoonbear_29
+  - first:
+      213: 156303107157295125
+    second: jirisanmoonbear_30
+  - first:
+      213: 8839842617648002351
+    second: jirisanmoonbear_31
+  - first:
+      213: -1778311878208616623
+    second: jirisanmoonbear_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jirisanmoonbear_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 391
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619873e84a1e7fc50800000000000000
+      internalID: 6699071067613792534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 391
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f5cfe1b8a77200800000000000000
+      internalID: 177796192489830510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 391
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124f0d0a39d6909d0800000000000000
+      internalID: -2807592411863124959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 343
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d055f34c823873b30800000000000000
+      internalID: 4267023383071249677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 343
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c68ea4fb490e60800000000000000
+      internalID: 7928952133234639169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba8d68d7dc50ded0800000000000000
+      internalID: -2391309320014951759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 343
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b801eddbd1e9130800000000000000
+      internalID: 3575327855490403231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732e32286eda83820800000000000000
+      internalID: 2898257565750387255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3945f793a0f87030800000000000000
+      internalID: 3492806096445589818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 295
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3e2fc2063227b0800000000000000
+      internalID: -5250574829866828145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 295
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685ea76e6902924a0800000000000000
+      internalID: -6617722344960236154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 247
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161dec6e7977b050800000000000000
+      internalID: 5816251027672602135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 247
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23458228a2854b40800000000000000
+      internalID: 5423884984882905901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 247
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2195c8039c7ae940800000000000000
+      internalID: 5326206480268235051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 199
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ed04319a0896680800000000000000
+      internalID: -8761330136411742639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7daf4a17749e890800000000000000
+      internalID: -7428327556946143271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef9f1da2ee6b3ee0800000000000000
+      internalID: -1280307749210578972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 199
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0a3136210ecab40800000000000000
+      internalID: 5452979618415091939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 199
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79c3a36dea100a0800000000000000
+      internalID: -6917055317541087236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 199
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd116ec0e6877880800000000000000
+      internalID: -8613267462229516810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 151
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e405eadb1793710800000000000000
+      internalID: 1673493796032106089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 151
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb7e1a134c123ce0800000000000000
+      internalID: -1427047057396433973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee539f26bb47ab00800000000000000
+      internalID: 839723101382205155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 102
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5322223e69a751e0800000000000000
+      internalID: -2209110801449344164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55d3d5418bb62620800000000000000
+      internalID: 2749090786452952413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 55
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8f17ef7a8453c00800000000000000
+      internalID: 879689188586420472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 54
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e731ff7f787eaf90800000000000000
+      internalID: -6940477486728661016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 54
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12452d9407698bee0800000000000000
+      internalID: -1245079887948917727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 55
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1880c096980b32470800000000000000
+      internalID: 8368726636803917953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 54
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416122aea5b40d140800000000000000
+      internalID: 4742373261468374548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 54
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510866b09dc4b2200800000000000000
+      internalID: 156303107157295125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25b447760e6daa70800000000000000
+      internalID: 8839842617648002351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jirisanmoonbear_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1578487c4ca2257e0800000000000000
+      internalID: -1778311878208616623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jirisanmoonbear_0: 6699071067613792534
+      jirisanmoonbear_1: 177796192489830510
+      jirisanmoonbear_10: -6617722344960236154
+      jirisanmoonbear_11: 5816251027672602135
+      jirisanmoonbear_12: 5423884984882905901
+      jirisanmoonbear_13: 5326206480268235051
+      jirisanmoonbear_14: -8761330136411742639
+      jirisanmoonbear_15: -7428327556946143271
+      jirisanmoonbear_16: -1280307749210578972
+      jirisanmoonbear_17: 5452979618415091939
+      jirisanmoonbear_18: -6917055317541087236
+      jirisanmoonbear_19: -8613267462229516810
+      jirisanmoonbear_2: -2807592411863124959
+      jirisanmoonbear_20: 1673493796032106089
+      jirisanmoonbear_21: -1427047057396433973
+      jirisanmoonbear_22: 839723101382205155
+      jirisanmoonbear_23: -2209110801449344164
+      jirisanmoonbear_24: 2749090786452952413
+      jirisanmoonbear_25: 879689188586420472
+      jirisanmoonbear_26: -6940477486728661016
+      jirisanmoonbear_27: -1245079887948917727
+      jirisanmoonbear_28: 8368726636803917953
+      jirisanmoonbear_29: 4742373261468374548
+      jirisanmoonbear_3: 4267023383071249677
+      jirisanmoonbear_30: 156303107157295125
+      jirisanmoonbear_31: 8839842617648002351
+      jirisanmoonbear_32: -1778311878208616623
+      jirisanmoonbear_4: 7928952133234639169
+      jirisanmoonbear_5: -2391309320014951759
+      jirisanmoonbear_6: 3575327855490403231
+      jirisanmoonbear_7: 2898257565750387255
+      jirisanmoonbear_8: 3492806096445589818
+      jirisanmoonbear_9: -5250574829866828145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

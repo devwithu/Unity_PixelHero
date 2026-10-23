@@ -1,0 +1,108 @@
+{
+ "seed": 1,
+ "end": 9000,
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 0,
+     "requestX": 134,
+     "requestY": 562,
+     "playerX": 133,
+     "playerY": 562,
+     "following": false
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 1,
+     "requestX": 134,
+     "requestY": 562,
+     "playerX": 133,
+     "playerY": 562,
+     "movementSpeed": 220
+    }
+   ]
+  },
+  {
+   "t": 3220,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 2,
+     "playerX": 134,
+     "playerY": 562,
+     "nextGridX": 134,
+     "nextGridY": 562,
+     "timestamp": 3220
+    }
+   ]
+  },
+  {
+   "t": 3220,
+   "conn": 0,
+   "send": [
+    "Movement",
+    {
+     "opcode": 3,
+     "playerX": 134,
+     "playerY": 562,
+     "orientation": 3
+    }
+   ]
+  },
+  {
+   "t": 5000,
+   "conn": 0,
+   "text": "not json"
+  },
+  {
+   "t": 7000,
+   "close": 0
+  }
+ ]
+}

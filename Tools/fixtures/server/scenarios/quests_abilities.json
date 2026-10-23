@@ -1,0 +1,828 @@
+{
+ "seed": 101,
+ "end": 98800,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/tp home"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest ancientlands"
+    ]
+   ]
+  },
+  {
+   "t": 3600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest anvilsechoes"
+    ]
+   ]
+  },
+  {
+   "t": 3900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest artsandcrafts"
+    ]
+   ]
+  },
+  {
+   "t": 4200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest clamchowder"
+    ]
+   ]
+  },
+  {
+   "t": 4500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest codersfallacy"
+    ]
+   ]
+  },
+  {
+   "t": 4800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest codersglitch"
+    ]
+   ]
+  },
+  {
+   "t": 5100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest codersglitch2"
+    ]
+   ]
+  },
+  {
+   "t": 5400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest desertquest"
+    ]
+   ]
+  },
+  {
+   "t": 5700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest evilsanta"
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest foresting"
+    ]
+   ]
+  },
+  {
+   "t": 6300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest herbalistdesperation"
+    ]
+   ]
+  },
+  {
+   "t": 6600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest minersquest"
+    ]
+   ]
+  },
+  {
+   "t": 6900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest minersquest2"
+    ]
+   ]
+  },
+  {
+   "t": 7200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest ricksroll"
+    ]
+   ]
+  },
+  {
+   "t": 7500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest royaldrama"
+    ]
+   ]
+  },
+  {
+   "t": 7800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest royalpet"
+    ]
+   ]
+  },
+  {
+   "t": 8100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest scavenger"
+    ]
+   ]
+  },
+  {
+   "t": 8400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest scientistspotion"
+    ]
+   ]
+  },
+  {
+   "t": 8700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest seaactivities"
+    ]
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest sorcery"
+    ]
+   ]
+  },
+  {
+   "t": 9300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/undostage foresting"
+    ]
+   ]
+  },
+  {
+   "t": 9600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/resetquest sorcery"
+    ]
+   ]
+  },
+  {
+   "t": 9900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/resetquests"
+    ]
+   ]
+  },
+  {
+   "t": 10200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishachievement firstrock"
+    ]
+   ]
+  },
+  {
+   "t": 10500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishachievement ratinfestation"
+    ]
+   ]
+  },
+  {
+   "t": 10800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishachievements"
+    ]
+   ]
+  },
+  {
+   "t": 11100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/resetachievements"
+    ]
+   ]
+  },
+  {
+   "t": 20000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/max"
+    ]
+   ]
+  },
+  {
+   "t": 20300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability intimidate"
+    ]
+   ]
+  },
+  {
+   "t": 20600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability run"
+    ]
+   ]
+  },
+  {
+   "t": 20900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability awareness"
+    ]
+   ]
+  },
+  {
+   "t": 21200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability dualistsmark"
+    ]
+   ]
+  },
+  {
+   "t": 21500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability hotshot"
+    ]
+   ]
+  },
+  {
+   "t": 21800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability thickskin"
+    ]
+   ]
+  },
+  {
+   "t": 22100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability precognition"
+    ]
+   ]
+  },
+  {
+   "t": 22400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability secretcalling"
+    ]
+   ]
+  },
+  {
+   "t": 22700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability nothing"
+    ]
+   ]
+  },
+  {
+   "t": 24000,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "intimidate"
+    }
+   ]
+  },
+  {
+   "t": 24200,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "intimidate",
+     "index": 0
+    }
+   ]
+  },
+  {
+   "t": 24400,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "intimidate"
+    }
+   ]
+  },
+  {
+   "t": 24600,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "run"
+    }
+   ]
+  },
+  {
+   "t": 24800,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "run",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "t": 25000,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "run"
+    }
+   ]
+  },
+  {
+   "t": 25200,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "awareness"
+    }
+   ]
+  },
+  {
+   "t": 25400,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "awareness",
+     "index": 2
+    }
+   ]
+  },
+  {
+   "t": 25600,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "awareness"
+    }
+   ]
+  },
+  {
+   "t": 25800,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "dualistsmark"
+    }
+   ]
+  },
+  {
+   "t": 26000,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "dualistsmark",
+     "index": 3
+    }
+   ]
+  },
+  {
+   "t": 26200,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "dualistsmark"
+    }
+   ]
+  },
+  {
+   "t": 26400,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "hotshot"
+    }
+   ]
+  },
+  {
+   "t": 26600,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "hotshot",
+     "index": 0
+    }
+   ]
+  },
+  {
+   "t": 26800,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "hotshot"
+    }
+   ]
+  },
+  {
+   "t": 27000,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "thickskin"
+    }
+   ]
+  },
+  {
+   "t": 27200,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "thickskin",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "t": 27400,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "thickskin"
+    }
+   ]
+  },
+  {
+   "t": 27600,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "precognition"
+    }
+   ]
+  },
+  {
+   "t": 27800,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "precognition",
+     "index": 2
+    }
+   ]
+  },
+  {
+   "t": 28000,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "precognition"
+    }
+   ]
+  },
+  {
+   "t": 28200,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "secretcalling"
+    }
+   ]
+  },
+  {
+   "t": 28400,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "secretcalling",
+     "index": 3
+    }
+   ]
+  },
+  {
+   "t": 28600,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "secretcalling"
+    }
+   ]
+  },
+  {
+   "t": 28800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setability run 3"
+    ]
+   ]
+  },
+  {
+   "t": 29100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setability nothing 2"
+    ]
+   ]
+  },
+  {
+   "t": 29400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setquickslot run 2"
+    ]
+   ]
+  },
+  {
+   "t": 29700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setquickslot hotshot x"
+    ]
+   ]
+  },
+  {
+   "t": 30300,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "run"
+    }
+   ]
+  },
+  {
+   "t": 30600,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 3,
+     "key": "nothing"
+    }
+   ]
+  },
+  {
+   "t": 30900,
+   "conn": 0,
+   "send": [
+    "Ability",
+    {
+     "opcode": 4,
+     "key": "run",
+     "index": 9
+    }
+   ]
+  },
+  {
+   "t": 31800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/resetabilities"
+    ]
+   ]
+  },
+  {
+   "t": 32800,
+   "conn": 0,
+   "send": [
+    "Examine",
+    [
+     "$rat@186,159"
+    ]
+   ]
+  },
+  {
+   "t": 33100,
+   "conn": 0,
+   "send": [
+    "Examine",
+    [
+     "$rat@186,159"
+    ]
+   ]
+  },
+  {
+   "t": 33400,
+   "conn": 0,
+   "send": [
+    "Examine",
+    [
+     "$blacksmith@199,169"
+    ]
+   ]
+  },
+  {
+   "t": 33700,
+   "conn": 0,
+   "send": [
+    "Examine",
+    [
+     "nobody"
+    ]
+   ]
+  },
+  {
+   "t": 34000,
+   "conn": 0,
+   "send": [
+    "Examine",
+    "$rat@186,159"
+   ]
+  }
+ ]
+}

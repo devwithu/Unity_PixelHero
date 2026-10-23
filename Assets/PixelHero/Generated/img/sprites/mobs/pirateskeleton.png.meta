@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: b3115a6473c8bba4f9024d5ec71687fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3857291972737201537
+    second: pirateskeleton_0
+  - first:
+      213: 7644040769333694824
+    second: pirateskeleton_1
+  - first:
+      213: 6581529282886058825
+    second: pirateskeleton_2
+  - first:
+      213: 4467706187351202365
+    second: pirateskeleton_3
+  - first:
+      213: 4265481111301580108
+    second: pirateskeleton_4
+  - first:
+      213: 2974134650441187900
+    second: pirateskeleton_5
+  - first:
+      213: 3175672230663784232
+    second: pirateskeleton_6
+  - first:
+      213: -5231753898125359036
+    second: pirateskeleton_7
+  - first:
+      213: 5622624159226950797
+    second: pirateskeleton_8
+  - first:
+      213: -2561491273921609046
+    second: pirateskeleton_9
+  - first:
+      213: -8458151642955581826
+    second: pirateskeleton_10
+  - first:
+      213: 6555386067837075492
+    second: pirateskeleton_11
+  - first:
+      213: -4580450292480963127
+    second: pirateskeleton_12
+  - first:
+      213: -3035722049252564956
+    second: pirateskeleton_13
+  - first:
+      213: 1779247507339818119
+    second: pirateskeleton_14
+  - first:
+      213: -3825078240138132832
+    second: pirateskeleton_15
+  - first:
+      213: -8489680142517073658
+    second: pirateskeleton_16
+  - first:
+      213: 1689946954310914668
+    second: pirateskeleton_17
+  - first:
+      213: -1252259306837944136
+    second: pirateskeleton_18
+  - first:
+      213: -946515286633456473
+    second: pirateskeleton_19
+  - first:
+      213: 2970813276030351622
+    second: pirateskeleton_20
+  - first:
+      213: 1615492006086738032
+    second: pirateskeleton_21
+  - first:
+      213: -2384710019602641983
+    second: pirateskeleton_22
+  - first:
+      213: 1510326131565531761
+    second: pirateskeleton_23
+  - first:
+      213: -4608189560004352471
+    second: pirateskeleton_24
+  - first:
+      213: -8291283674631083200
+    second: pirateskeleton_25
+  - first:
+      213: 8411952438242523442
+    second: pirateskeleton_26
+  - first:
+      213: -893510166969416407
+    second: pirateskeleton_27
+  - first:
+      213: 4540560520250000738
+    second: pirateskeleton_28
+  - first:
+      213: -7589200647662708546
+    second: pirateskeleton_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirateskeleton_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18577f5cc9ad78530800000000000000
+      internalID: 3857291972737201537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 260
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8611db07496151a60800000000000000
+      internalID: 7644040769333694824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9434149230a465b50800000000000000
+      internalID: 6581529282886058825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a12e14b1b700e30800000000000000
+      internalID: 4467706187351202365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 228
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45e443a878023b30800000000000000
+      internalID: 4265481111301580108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 228
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c324ab9f4bf364920800000000000000
+      internalID: 2974134650441187900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82789cf7111421c20800000000000000
+      internalID: 3175672230663784232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44809f57c831567b0800000000000000
+      internalID: -5231753898125359036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84704402e2970e40800000000000000
+      internalID: 5622624159226950797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2c3aaf141c37cd0800000000000000
+      internalID: -2561491273921609046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76fe39d4eb9e9a80800000000000000
+      internalID: -8458151642955581826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42049f295e869fa50800000000000000
+      internalID: 6555386067837075492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 164
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd865d2ab8fe60c0800000000000000
+      internalID: -4580450292480963127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420ea7151e2fed5d0800000000000000
+      internalID: -3035722049252564956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7843d7a5e2821b810800000000000000
+      internalID: 1779247507339818119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a28d725b979aeac0800000000000000
+      internalID: -3825078240138132832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 132
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609059004e89e2a80800000000000000
+      internalID: -8489680142517073658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6294fc1dc5e37710800000000000000
+      internalID: 1689946954310914668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b85f319bc41f9ee0800000000000000
+      internalID: -1252259306837944136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac5cb59c5d4dd2f0800000000000000
+      internalID: -946515286633456473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 70
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609bdcb3fe27a3920800000000000000
+      internalID: 2970813276030351622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 69
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07088489b616b6610800000000000000
+      internalID: 1615492006086738032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb05453fdec7eed0800000000000000
+      internalID: -2384710019602641983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17214f65d91c5f410800000000000000
+      internalID: 1510326131565531761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926e64aa20c6c00c0800000000000000
+      internalID: -4608189560004352471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b6e915d617fec80800000000000000
+      internalID: -8291283674631083200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2393de49c224db470800000000000000
+      internalID: 8411952438242523442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9258696bc3d9993f0800000000000000
+      internalID: -893510166969416407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2650aaa7cbf430f30800000000000000
+      internalID: 4540560520250000738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateskeleton_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb856e2683ebda690800000000000000
+      internalID: -7589200647662708546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pirateskeleton_0: 3857291972737201537
+      pirateskeleton_1: 7644040769333694824
+      pirateskeleton_10: -8458151642955581826
+      pirateskeleton_11: 6555386067837075492
+      pirateskeleton_12: -4580450292480963127
+      pirateskeleton_13: -3035722049252564956
+      pirateskeleton_14: 1779247507339818119
+      pirateskeleton_15: -3825078240138132832
+      pirateskeleton_16: -8489680142517073658
+      pirateskeleton_17: 1689946954310914668
+      pirateskeleton_18: -1252259306837944136
+      pirateskeleton_19: -946515286633456473
+      pirateskeleton_2: 6581529282886058825
+      pirateskeleton_20: 2970813276030351622
+      pirateskeleton_21: 1615492006086738032
+      pirateskeleton_22: -2384710019602641983
+      pirateskeleton_23: 1510326131565531761
+      pirateskeleton_24: -4608189560004352471
+      pirateskeleton_25: -8291283674631083200
+      pirateskeleton_26: 8411952438242523442
+      pirateskeleton_27: -893510166969416407
+      pirateskeleton_28: 4540560520250000738
+      pirateskeleton_29: -7589200647662708546
+      pirateskeleton_3: 4467706187351202365
+      pirateskeleton_4: 4265481111301580108
+      pirateskeleton_5: 2974134650441187900
+      pirateskeleton_6: 3175672230663784232
+      pirateskeleton_7: -5231753898125359036
+      pirateskeleton_8: 5622624159226950797
+      pirateskeleton_9: -2561491273921609046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

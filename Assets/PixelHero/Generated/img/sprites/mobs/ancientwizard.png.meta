@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 5d3d37669fba4dc48990e10d18b1a33a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4400631836993952798
+    second: ancientwizard_0
+  - first:
+      213: -3818990510703245511
+    second: ancientwizard_1
+  - first:
+      213: -7036092954637177334
+    second: ancientwizard_2
+  - first:
+      213: -810421336908282639
+    second: ancientwizard_3
+  - first:
+      213: -2282273852879483944
+    second: ancientwizard_4
+  - first:
+      213: -8191582057536642586
+    second: ancientwizard_5
+  - first:
+      213: 5379806289021941262
+    second: ancientwizard_6
+  - first:
+      213: -5343999204117100890
+    second: ancientwizard_7
+  - first:
+      213: -5591191336898620627
+    second: ancientwizard_8
+  - first:
+      213: 5557331229585737826
+    second: ancientwizard_9
+  - first:
+      213: -8672683424191196683
+    second: ancientwizard_10
+  - first:
+      213: 136896071998574394
+    second: ancientwizard_11
+  - first:
+      213: 2325510898715364547
+    second: ancientwizard_12
+  - first:
+      213: 4136623230247657962
+    second: ancientwizard_13
+  - first:
+      213: 6961985212187305862
+    second: ancientwizard_14
+  - first:
+      213: 6505060670274453409
+    second: ancientwizard_15
+  - first:
+      213: -5035552783020796642
+    second: ancientwizard_16
+  - first:
+      213: -58564206943061185
+    second: ancientwizard_17
+  - first:
+      213: -2770228930344672380
+    second: ancientwizard_18
+  - first:
+      213: 2811890139994130234
+    second: ancientwizard_19
+  - first:
+      213: -7758307271442497564
+    second: ancientwizard_20
+  - first:
+      213: 267708169857932097
+    second: ancientwizard_21
+  - first:
+      213: 2120892964531140993
+    second: ancientwizard_22
+  - first:
+      213: 8495749807834766011
+    second: ancientwizard_23
+  - first:
+      213: -356073888564741403
+    second: ancientwizard_24
+  - first:
+      213: 9133241750716250200
+    second: ancientwizard_25
+  - first:
+      213: 6179237633828025582
+    second: ancientwizard_26
+  - first:
+      213: -3550247154711900739
+    second: ancientwizard_27
+  - first:
+      213: -7788729327353229251
+    second: ancientwizard_28
+  - first:
+      213: -5331276467563348113
+    second: ancientwizard_29
+  - first:
+      213: 6230325189670231751
+    second: ancientwizard_30
+  - first:
+      213: -7338381205715027738
+    second: ancientwizard_31
+  - first:
+      213: 8826108757830532732
+    second: ancientwizard_32
+  - first:
+      213: -8639110702715380612
+    second: ancientwizard_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ancientwizard_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 392
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e363b8e8a0dde2c0800000000000000
+      internalID: -4400631836993952798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 392
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93702f84d58300bc0800000000000000
+      internalID: -3818990510703245511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 392
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ee8309cb6ca5e90800000000000000
+      internalID: -7036092954637177334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 392
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f44f2f761ec0c4f0800000000000000
+      internalID: -810421336908282639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 390
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbc4f6d50cb350e0800000000000000
+      internalID: -2282273852879483944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 345
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1a0100587a15e80800000000000000
+      internalID: -8191582057536642586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06b0910159e8aa40800000000000000
+      internalID: 5379806289021941262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 345
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a641ae990d46d5b0800000000000000
+      internalID: -5343999204117100890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 345
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d239aec3a191862b0800000000000000
+      internalID: -5591191336898620627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 343
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26884ae2f4b9f1d40800000000000000
+      internalID: 5557331229585737826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 298
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f15aa3206074a780800000000000000
+      internalID: -8672683424191196683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 297
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f0f9e804a56e100800000000000000
+      internalID: 136896071998574394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 250
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc8a3f57dfd54020800000000000000
+      internalID: 2325510898715364547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 250
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae16a8049ec386930800000000000000
+      internalID: 4136623230247657962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 250
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68762ff0aa0fd9060800000000000000
+      internalID: 6961985212187305862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 250
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afb21ed63e964a50800000000000000
+      internalID: 6505060670274453409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 250
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d0506c6f1e1ab0800000000000000
+      internalID: -5035552783020796642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b3b900a20ff2ff0800000000000000
+      internalID: -58564206943061185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ab44177b2e89d0800000000000000
+      internalID: -2770228930344672380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3706cd2f27d50720800000000000000
+      internalID: 2811890139994130234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff65354a4f45490800000000000000
+      internalID: -7758307271442497564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b1adf792717b300800000000000000
+      internalID: 267708169857932097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 152
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189f08d0aecee6d10800000000000000
+      internalID: 2120892964531140993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 105
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba95941077f6e570800000000000000
+      internalID: 8495749807834766011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea7e465fa8fe0bf0800000000000000
+      internalID: -356073888564741403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85875377bfacfbe70800000000000000
+      internalID: 9133241750716250200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 103
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee47b0393ef01c550800000000000000
+      internalID: 6179237633828025582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 105
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd4e86d50dfabec0800000000000000
+      internalID: -3550247154711900739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30917771ffd8e390800000000000000
+      internalID: -7788729327353229251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fbc7f8c408306b0800000000000000
+      internalID: -5331276467563348113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce567510cf867650800000000000000
+      internalID: 6230325189670231751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 57
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f3fe7c25d82a90800000000000000
+      internalID: -7338381205715027738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ef37b0723ac7a70800000000000000
+      internalID: 8826108757830532732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancientwizard_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cdf5d7696bb1880800000000000000
+      internalID: -8639110702715380612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ancientwizard_0: -4400631836993952798
+      ancientwizard_1: -3818990510703245511
+      ancientwizard_10: -8672683424191196683
+      ancientwizard_11: 136896071998574394
+      ancientwizard_12: 2325510898715364547
+      ancientwizard_13: 4136623230247657962
+      ancientwizard_14: 6961985212187305862
+      ancientwizard_15: 6505060670274453409
+      ancientwizard_16: -5035552783020796642
+      ancientwizard_17: -58564206943061185
+      ancientwizard_18: -2770228930344672380
+      ancientwizard_19: 2811890139994130234
+      ancientwizard_2: -7036092954637177334
+      ancientwizard_20: -7758307271442497564
+      ancientwizard_21: 267708169857932097
+      ancientwizard_22: 2120892964531140993
+      ancientwizard_23: 8495749807834766011
+      ancientwizard_24: -356073888564741403
+      ancientwizard_25: 9133241750716250200
+      ancientwizard_26: 6179237633828025582
+      ancientwizard_27: -3550247154711900739
+      ancientwizard_28: -7788729327353229251
+      ancientwizard_29: -5331276467563348113
+      ancientwizard_3: -810421336908282639
+      ancientwizard_30: 6230325189670231751
+      ancientwizard_31: -7338381205715027738
+      ancientwizard_32: 8826108757830532732
+      ancientwizard_33: -8639110702715380612
+      ancientwizard_4: -2282273852879483944
+      ancientwizard_5: -8191582057536642586
+      ancientwizard_6: 5379806289021941262
+      ancientwizard_7: -5343999204117100890
+      ancientwizard_8: -5591191336898620627
+      ancientwizard_9: 5557331229585737826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

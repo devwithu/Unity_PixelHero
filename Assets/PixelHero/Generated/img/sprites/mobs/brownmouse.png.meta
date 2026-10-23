@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 66d07c0d279e41c44b84fe38436234a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4191637968654618813
+    second: brownmouse_0
+  - first:
+      213: -1473131821833242245
+    second: brownmouse_1
+  - first:
+      213: 6468136531442384829
+    second: brownmouse_2
+  - first:
+      213: -955181587391441830
+    second: brownmouse_3
+  - first:
+      213: 1745690564979249377
+    second: brownmouse_4
+  - first:
+      213: -5759209766076301401
+    second: brownmouse_5
+  - first:
+      213: 6761582764292036073
+    second: brownmouse_6
+  - first:
+      213: -2928686873691323269
+    second: brownmouse_7
+  - first:
+      213: -3364179714019799052
+    second: brownmouse_8
+  - first:
+      213: -1548742528415252672
+    second: brownmouse_9
+  - first:
+      213: -8846435620481082066
+    second: brownmouse_10
+  - first:
+      213: 4700165027529544805
+    second: brownmouse_11
+  - first:
+      213: -4171671886894918875
+    second: brownmouse_12
+  - first:
+      213: -65401864734630632
+    second: brownmouse_13
+  - first:
+      213: -1227234319110297250
+    second: brownmouse_14
+  - first:
+      213: 2745061199749204813
+    second: brownmouse_15
+  - first:
+      213: 2842200230013606364
+    second: brownmouse_16
+  - first:
+      213: 6916827560410612179
+    second: brownmouse_17
+  - first:
+      213: -5545931355911789079
+    second: brownmouse_18
+  - first:
+      213: -2939054202824896808
+    second: brownmouse_19
+  - first:
+      213: -1730148530578985335
+    second: brownmouse_20
+  - first:
+      213: -7064717706329046416
+    second: brownmouse_21
+  - first:
+      213: -9081314425771696192
+    second: brownmouse_22
+  - first:
+      213: -6491026544078727378
+    second: brownmouse_23
+  - first:
+      213: 7357242589152262236
+    second: brownmouse_24
+  - first:
+      213: 7450854351794164464
+    second: brownmouse_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brownmouse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2d4bc97f44d5c0800000000000000
+      internalID: -4191637968654618813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 209
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793e4cb9626e8be0800000000000000
+      internalID: -1473131821833242245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 209
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfb95bd7ef63c950800000000000000
+      internalID: 6468136531442384829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a541a8338638eb2f0800000000000000
+      internalID: -955181587391441830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 184
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0d65dd150f93810800000000000000
+      internalID: 1745690564979249377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 184
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afbf0a3b3d2310b0800000000000000
+      internalID: -5759209766076301401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5d70123b7f5dd50800000000000000
+      internalID: 6761582764292036073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7487432ec63b57d0800000000000000
+      internalID: -2928686873691323269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff4641df580051d0800000000000000
+      internalID: -3364179714019799052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb44140e2c18ae0800000000000000
+      internalID: -1548742528415252672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ddcd07ca52b3580800000000000000
+      internalID: -8846435620481082066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564dc93a0375a3140800000000000000
+      internalID: 4700165027529544805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5231526758e3b16c0800000000000000
+      internalID: -4171671886894918875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d18dcb955a71ff0800000000000000
+      internalID: -65401864734630632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59234193ecf7fee0800000000000000
+      internalID: -1227234319110297250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b42c10e9a681620800000000000000
+      internalID: 2745061199749204813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd99e72fc06817720800000000000000
+      internalID: 2842200230013606364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d108eee4028dff50800000000000000
+      internalID: 6916827560410612179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e56d2eb0d4e803b0800000000000000
+      internalID: -5545931355911789079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec00936c16637d0800000000000000
+      internalID: -2939054202824896808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eec2204174df7e0800000000000000
+      internalID: -1730148530578985335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07248d33da415fd90800000000000000
+      internalID: -7064717706329046416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 29
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf5f3605a0b8f180800000000000000
+      internalID: -9081314425771696192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e275e84cfbd3be5a0800000000000000
+      internalID: -6491026544078727378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58bbcc872d2a1660800000000000000
+      internalID: 7357242589152262236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownmouse_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25ddf7e80c66760800000000000000
+      internalID: 7450854351794164464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brownmouse_0: -4191637968654618813
+      brownmouse_1: -1473131821833242245
+      brownmouse_10: -8846435620481082066
+      brownmouse_11: 4700165027529544805
+      brownmouse_12: -4171671886894918875
+      brownmouse_13: -65401864734630632
+      brownmouse_14: -1227234319110297250
+      brownmouse_15: 2745061199749204813
+      brownmouse_16: 2842200230013606364
+      brownmouse_17: 6916827560410612179
+      brownmouse_18: -5545931355911789079
+      brownmouse_19: -2939054202824896808
+      brownmouse_2: 6468136531442384829
+      brownmouse_20: -1730148530578985335
+      brownmouse_21: -7064717706329046416
+      brownmouse_22: -9081314425771696192
+      brownmouse_23: -6491026544078727378
+      brownmouse_24: 7357242589152262236
+      brownmouse_25: 7450854351794164464
+      brownmouse_3: -955181587391441830
+      brownmouse_4: 1745690564979249377
+      brownmouse_5: -5759209766076301401
+      brownmouse_6: 6761582764292036073
+      brownmouse_7: -2928686873691323269
+      brownmouse_8: -3364179714019799052
+      brownmouse_9: -1548742528415252672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

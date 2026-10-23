@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 7c0a580f1fe477c4db54f6d0a29c88e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1854498010620679959
+    second: golemsmace_0
+  - first:
+      213: 2615862833067962413
+    second: golemsmace_1
+  - first:
+      213: 9219035201725988924
+    second: golemsmace_2
+  - first:
+      213: -653589934989043540
+    second: golemsmace_3
+  - first:
+      213: 7833927612650059509
+    second: golemsmace_4
+  - first:
+      213: -7202193063972536688
+    second: golemsmace_5
+  - first:
+      213: 902812808224300214
+    second: golemsmace_6
+  - first:
+      213: 8050733578983696011
+    second: golemsmace_7
+  - first:
+      213: -6975599538350278564
+    second: golemsmace_8
+  - first:
+      213: -6798862240027585870
+    second: golemsmace_9
+  - first:
+      213: 5413079596028717297
+    second: golemsmace_10
+  - first:
+      213: -4665166130848512372
+    second: golemsmace_11
+  - first:
+      213: 7553406966978067617
+    second: golemsmace_12
+  - first:
+      213: 4264112877310072859
+    second: golemsmace_13
+  - first:
+      213: -1669548721824309336
+    second: golemsmace_14
+  - first:
+      213: -3305160483928282084
+    second: golemsmace_15
+  - first:
+      213: 7014084630498413841
+    second: golemsmace_16
+  - first:
+      213: 1279708171269261909
+    second: golemsmace_17
+  - first:
+      213: -22796491223540938
+    second: golemsmace_18
+  - first:
+      213: -6592642127670456264
+    second: golemsmace_19
+  - first:
+      213: 7514214717294770508
+    second: golemsmace_20
+  - first:
+      213: 9043223576622836250
+    second: golemsmace_21
+  - first:
+      213: 5538572057704935368
+    second: golemsmace_22
+  - first:
+      213: -8880867758289504463
+    second: golemsmace_23
+  - first:
+      213: -7177343372277144059
+    second: golemsmace_24
+  - first:
+      213: 9137167259084300359
+    second: golemsmace_25
+  - first:
+      213: -571959397117900088
+    second: golemsmace_26
+  - first:
+      213: -6540791552049271270
+    second: golemsmace_27
+  - first:
+      213: -265625052196682336
+    second: golemsmace_28
+  - first:
+      213: 5306412476471549874
+    second: golemsmace_29
+  - first:
+      213: -8137558260857023425
+    second: golemsmace_30
+  - first:
+      213: -745834271884783402
+    second: golemsmace_31
+  - first:
+      213: -8465736195073479526
+    second: golemsmace_32
+  - first:
+      213: 1789104459661831820
+    second: golemsmace_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golemsmace_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8294882ef7346e0800000000000000
+      internalID: -1854498010620679959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 537
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20b92223696d4420800000000000000
+      internalID: 2615862833067962413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 537
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3003b2eba790ff70800000000000000
+      internalID: 9219035201725988924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 538
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca81530ca6bfde6f0800000000000000
+      internalID: -653589934989043540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 490
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6712468a3b7bc60800000000000000
+      internalID: 7833927612650059509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e7222319bac0c90800000000000000
+      internalID: -7202193063972536688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcd1ec377f678c00800000000000000
+      internalID: 902812808224300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 490
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86e1a41983f9bf60800000000000000
+      internalID: 8050733578983696011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 445
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58b04d9d21b13f90800000000000000
+      internalID: -6975599538350278564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 444
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2d65a80d695a1a0800000000000000
+      internalID: -6798862240027585870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 444
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e43e763f1f1b40800000000000000
+      internalID: 5413079596028717297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 445
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8647900f10024fb0800000000000000
+      internalID: -4665166130848512372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac30b6ed9713d860800000000000000
+      internalID: 7553406966978067617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 394
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b185c36d11c2d2b30800000000000000
+      internalID: 4264112877310072859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af547c784294d8e0800000000000000
+      internalID: -1669548721824309336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 394
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cebc52d06b122d0800000000000000
+      internalID: -3305160483928282084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 346
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d82692fc8075160800000000000000
+      internalID: 7014084630498413841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a4ba43dcf62c110800000000000000
+      internalID: 1279708171269261909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bde7646b20faff0800000000000000
+      internalID: -22796491223540938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 346
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8305de80aea3284a0800000000000000
+      internalID: -6592642127670456264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 300
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49fd5e297ad74860800000000000000
+      internalID: 7514214717294770508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aaa0d0eebff7d70800000000000000
+      internalID: 9043223576622836250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 300
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf286e11f5fcdc40800000000000000
+      internalID: 5538572057704935368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1373fe1a3d1d0c480800000000000000
+      internalID: -8880867758289504463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506aa68ea34f46c90800000000000000
+      internalID: -7177343372277144059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 252
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740ac0b163dbdce70800000000000000
+      internalID: 9137167259084300359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca47dc65fdff08f0800000000000000
+      internalID: -571959397117900088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e2a3eecb07a35a0800000000000000
+      internalID: -6540791552049271270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 203
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a54f502c6f405cf0800000000000000
+      internalID: -265625052196682336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf99c3680a24a940800000000000000
+      internalID: 5306412476471549874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 198
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34529a50e5911f80800000000000000
+      internalID: -8137558260857023425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 203
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0defa6ea346a5f0800000000000000
+      internalID: -745834271884783402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 158
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c6a72b8c9a38a80800000000000000
+      internalID: -8465736195073479526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsmace_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 159
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ee538e60d24d810800000000000000
+      internalID: 1789104459661831820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      golemsmace_0: -1854498010620679959
+      golemsmace_1: 2615862833067962413
+      golemsmace_10: 5413079596028717297
+      golemsmace_11: -4665166130848512372
+      golemsmace_12: 7553406966978067617
+      golemsmace_13: 4264112877310072859
+      golemsmace_14: -1669548721824309336
+      golemsmace_15: -3305160483928282084
+      golemsmace_16: 7014084630498413841
+      golemsmace_17: 1279708171269261909
+      golemsmace_18: -22796491223540938
+      golemsmace_19: -6592642127670456264
+      golemsmace_2: 9219035201725988924
+      golemsmace_20: 7514214717294770508
+      golemsmace_21: 9043223576622836250
+      golemsmace_22: 5538572057704935368
+      golemsmace_23: -8880867758289504463
+      golemsmace_24: -7177343372277144059
+      golemsmace_25: 9137167259084300359
+      golemsmace_26: -571959397117900088
+      golemsmace_27: -6540791552049271270
+      golemsmace_28: -265625052196682336
+      golemsmace_29: 5306412476471549874
+      golemsmace_3: -653589934989043540
+      golemsmace_30: -8137558260857023425
+      golemsmace_31: -745834271884783402
+      golemsmace_32: -8465736195073479526
+      golemsmace_33: 1789104459661831820
+      golemsmace_4: 7833927612650059509
+      golemsmace_5: -7202193063972536688
+      golemsmace_6: 902812808224300214
+      golemsmace_7: 8050733578983696011
+      golemsmace_8: -6975599538350278564
+      golemsmace_9: -6798862240027585870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

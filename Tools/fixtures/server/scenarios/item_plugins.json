@@ -1,0 +1,518 @@
+{
+ "seed": 79,
+ "end": 50000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/tp home"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn hotsauce"
+    ]
+   ]
+  },
+  {
+   "t": 3600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn cure"
+    ]
+   ]
+  },
+  {
+   "t": 3900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn firepotion"
+    ]
+   ]
+  },
+  {
+   "t": 4200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn snowpotion"
+    ]
+   ]
+  },
+  {
+   "t": 4500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn blackpotion"
+    ]
+   ]
+  },
+  {
+   "t": 4800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn speedpotion"
+    ]
+   ]
+  },
+  {
+   "t": 5100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn accuracypotion"
+    ]
+   ]
+  },
+  {
+   "t": 5400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn defensepotion"
+    ]
+   ]
+  },
+  {
+   "t": 5700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn strengthpotion"
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn beermug"
+    ]
+   ]
+  },
+  {
+   "t": 6300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn knife"
+    ]
+   ]
+  },
+  {
+   "t": 6600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn chisel"
+    ]
+   ]
+  },
+  {
+   "t": 6900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn logs"
+    ]
+   ]
+  },
+  {
+   "t": 7200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn feather 5"
+    ]
+   ]
+  },
+  {
+   "t": 7500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn ruby"
+    ]
+   ]
+  },
+  {
+   "t": 7800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn coppersword"
+    ]
+   ]
+  },
+  {
+   "t": 8100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn shardt5 10"
+    ]
+   ]
+  },
+  {
+   "t": 8400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle burn"
+    ]
+   ]
+  },
+  {
+   "t": 8700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/poison"
+    ]
+   ]
+  },
+  {
+   "t": 10000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 0
+    }
+   ]
+  },
+  {
+   "t": 10500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 1
+    }
+   ]
+  },
+  {
+   "t": 11000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 2
+    }
+   ]
+  },
+  {
+   "t": 11500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 3
+    }
+   ]
+  },
+  {
+   "t": 12000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 4
+    }
+   ]
+  },
+  {
+   "t": 12500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 5
+    }
+   ]
+  },
+  {
+   "t": 13000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 6
+    }
+   ]
+  },
+  {
+   "t": 13500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 7
+    }
+   ]
+  },
+  {
+   "t": 14000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 8
+    }
+   ]
+  },
+  {
+   "t": 14500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 9
+    }
+   ]
+  },
+  {
+   "t": 15000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 10
+    }
+   ]
+  },
+  {
+   "t": 15300,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 2,
+     "key": "stick",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 15600,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 2,
+     "key": "arrow",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "t": 16000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 11
+    }
+   ]
+  },
+  {
+   "t": 16300,
+   "conn": 0,
+   "send": [
+    "Crafting",
+    {
+     "opcode": 2,
+     "key": "rubygem",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 17000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/bank"
+    ]
+   ]
+  },
+  {
+   "t": 17500,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 15,
+     "shardIndex": 16
+    }
+   ]
+  },
+  {
+   "t": 17800,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 15,
+     "shardIndex": 16
+    }
+   ]
+  },
+  {
+   "t": 18100,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 15,
+     "shardIndex": 16
+    }
+   ]
+  },
+  {
+   "t": 18400,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 15,
+     "shardIndex": 16
+    }
+   ]
+  },
+  {
+   "t": 18700,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 15,
+     "shardIndex": 16
+    }
+   ]
+  },
+  {
+   "t": 19000,
+   "conn": 0,
+   "send": [
+    "Enchant",
+    {
+     "opcode": 1,
+     "index": 15,
+     "shardIndex": 16
+    }
+   ]
+  },
+  {
+   "t": 20000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 15
+    }
+   ]
+  }
+ ]
+}

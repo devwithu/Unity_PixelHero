@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: e37ac2db88880204385869cf3f757c42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2136647354411484333
+    second: blackwizard_0
+  - first:
+      213: -8394055416319088188
+    second: blackwizard_1
+  - first:
+      213: -2328645814621841459
+    second: blackwizard_2
+  - first:
+      213: 6058445980762360552
+    second: blackwizard_3
+  - first:
+      213: 2229804752621253446
+    second: blackwizard_4
+  - first:
+      213: -8905585584186055978
+    second: blackwizard_5
+  - first:
+      213: -8585107407327241672
+    second: blackwizard_6
+  - first:
+      213: -6859612700798486136
+    second: blackwizard_7
+  - first:
+      213: -3486035055931465265
+    second: blackwizard_8
+  - first:
+      213: 2268442125071586721
+    second: blackwizard_9
+  - first:
+      213: 2265188191738375356
+    second: blackwizard_10
+  - first:
+      213: -2121791807488498954
+    second: blackwizard_11
+  - first:
+      213: 5004858756151851663
+    second: blackwizard_12
+  - first:
+      213: -9164714898610138845
+    second: blackwizard_13
+  - first:
+      213: -1286892995990306420
+    second: blackwizard_14
+  - first:
+      213: -6125657036735701918
+    second: blackwizard_15
+  - first:
+      213: 8820865327861290595
+    second: blackwizard_16
+  - first:
+      213: -4852343146745139033
+    second: blackwizard_17
+  - first:
+      213: -7056899856409434128
+    second: blackwizard_18
+  - first:
+      213: 1497359126670816004
+    second: blackwizard_19
+  - first:
+      213: 3619020484933027777
+    second: blackwizard_20
+  - first:
+      213: 7330050705489430515
+    second: blackwizard_21
+  - first:
+      213: -7336822409838716809
+    second: blackwizard_22
+  - first:
+      213: -7756293441959782959
+    second: blackwizard_23
+  - first:
+      213: -8922872579903771072
+    second: blackwizard_24
+  - first:
+      213: 4105709492133888386
+    second: blackwizard_25
+  - first:
+      213: 1143871616761962899
+    second: blackwizard_26
+  - first:
+      213: -7146201499712617415
+    second: blackwizard_27
+  - first:
+      213: -3335416390523991679
+    second: blackwizard_28
+  - first:
+      213: -2990855855193566139
+    second: blackwizard_29
+  - first:
+      213: 1978402112757308447
+    second: blackwizard_30
+  - first:
+      213: 7030114763091475459
+    second: blackwizard_31
+  - first:
+      213: -726861108626462553
+    second: blackwizard_32
+  - first:
+      213: -8522484827996762257
+    second: blackwizard_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackwizard_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 392
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da489f9c275e6ad10800000000000000
+      internalID: 2136647354411484333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 392
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c96b5d8213528b80800000000000000
+      internalID: -8394055416319088188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 392
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7d3c328fcfeafd0800000000000000
+      internalID: -2328645814621841459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 392
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eacb3e358ce31450800000000000000
+      internalID: 6058445980762360552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 390
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643b776cb9bd1fe10800000000000000
+      internalID: 2229804752621253446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 345
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d220c15811096480800000000000000
+      internalID: -8905585584186055978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a5fa38c429bd880800000000000000
+      internalID: -8585107407327241672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 345
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889f528a792cdc0a0800000000000000
+      internalID: -6859612700798486136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 345
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc165a0269d1f9fc0800000000000000
+      internalID: -3486035055931465265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 343
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a59c6218102b7f10800000000000000
+      internalID: 2268442125071586721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 298
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca9fda8a09f6f10800000000000000
+      internalID: 2265188191738375356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 297
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f26053c791ed82e0800000000000000
+      internalID: -2121791807488498954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 250
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a3f679584d47540800000000000000
+      internalID: 5004858756151851663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 250
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321dc904b5460d080800000000000000
+      internalID: -9164714898610138845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 250
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c814f0e63a9042ee0800000000000000
+      internalID: -1286892995990306420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 250
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c1f75516b4dfaa0800000000000000
+      internalID: -6125657036735701918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 250
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3665bbed7420a6a70800000000000000
+      internalID: 8820865327861290595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a074f9ed9309acb0800000000000000
+      internalID: -4852343146745139033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7e53b38fad01e90800000000000000
+      internalID: -7056899856409434128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403376e3130b7c410800000000000000
+      internalID: 1497359126670816004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c78b47e4f7593230800000000000000
+      internalID: 3619020484933027777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f78c46c74299b560800000000000000
+      internalID: 7330050705489430515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 152
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7781071f3ee5e2a90800000000000000
+      internalID: -7336822409838716809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 105
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d59b4a853c1c5490800000000000000
+      internalID: -7756293441959782959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e23caf9a69b2480800000000000000
+      internalID: -8922872579903771072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2810795b7096af830800000000000000
+      internalID: 4105709492133888386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 103
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391afb9cc29dfdf00800000000000000
+      internalID: 1143871616761962899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 105
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9340444299793dc90800000000000000
+      internalID: -7146201499712617415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1894dc0f67836b1d0800000000000000
+      internalID: -3335416390523991679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5445ac822785e76d0800000000000000
+      internalID: -2990855855193566139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c18c15d32b47b10800000000000000
+      internalID: 1978402112757308447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 57
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cfb40412cff8160800000000000000
+      internalID: 7030114763091475459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8e54b3caba9e5f0800000000000000
+      internalID: -726861108626462553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackwizard_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fc897f33d0ab980800000000000000
+      internalID: -8522484827996762257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blackwizard_0: 2136647354411484333
+      blackwizard_1: -8394055416319088188
+      blackwizard_10: 2265188191738375356
+      blackwizard_11: -2121791807488498954
+      blackwizard_12: 5004858756151851663
+      blackwizard_13: -9164714898610138845
+      blackwizard_14: -1286892995990306420
+      blackwizard_15: -6125657036735701918
+      blackwizard_16: 8820865327861290595
+      blackwizard_17: -4852343146745139033
+      blackwizard_18: -7056899856409434128
+      blackwizard_19: 1497359126670816004
+      blackwizard_2: -2328645814621841459
+      blackwizard_20: 3619020484933027777
+      blackwizard_21: 7330050705489430515
+      blackwizard_22: -7336822409838716809
+      blackwizard_23: -7756293441959782959
+      blackwizard_24: -8922872579903771072
+      blackwizard_25: 4105709492133888386
+      blackwizard_26: 1143871616761962899
+      blackwizard_27: -7146201499712617415
+      blackwizard_28: -3335416390523991679
+      blackwizard_29: -2990855855193566139
+      blackwizard_3: 6058445980762360552
+      blackwizard_30: 1978402112757308447
+      blackwizard_31: 7030114763091475459
+      blackwizard_32: -726861108626462553
+      blackwizard_33: -8522484827996762257
+      blackwizard_4: 2229804752621253446
+      blackwizard_5: -8905585584186055978
+      blackwizard_6: -8585107407327241672
+      blackwizard_7: -6859612700798486136
+      blackwizard_8: -3486035055931465265
+      blackwizard_9: 2268442125071586721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

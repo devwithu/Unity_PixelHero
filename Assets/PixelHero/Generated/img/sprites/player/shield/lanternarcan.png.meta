@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: b3c9caa535557404d96667bdf9d1567c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 194680181549358944
+    second: lanternarcan_0
+  - first:
+      213: 6633652675217375987
+    second: lanternarcan_1
+  - first:
+      213: -2414762398062403418
+    second: lanternarcan_2
+  - first:
+      213: -8195142837753526048
+    second: lanternarcan_3
+  - first:
+      213: 8505295512549481327
+    second: lanternarcan_4
+  - first:
+      213: 8905313341787775923
+    second: lanternarcan_5
+  - first:
+      213: 7878816633919317158
+    second: lanternarcan_6
+  - first:
+      213: 6196661339785098286
+    second: lanternarcan_7
+  - first:
+      213: 5118081853440090336
+    second: lanternarcan_8
+  - first:
+      213: -5324393058728278594
+    second: lanternarcan_9
+  - first:
+      213: -2839409848592477017
+    second: lanternarcan_10
+  - first:
+      213: 8518202576476608260
+    second: lanternarcan_11
+  - first:
+      213: -8801626866064238292
+    second: lanternarcan_12
+  - first:
+      213: 1725129136344507883
+    second: lanternarcan_13
+  - first:
+      213: 2099015570058148177
+    second: lanternarcan_14
+  - first:
+      213: 7150365673557301646
+    second: lanternarcan_15
+  - first:
+      213: -2067537020142156968
+    second: lanternarcan_16
+  - first:
+      213: -7781774396672018007
+    second: lanternarcan_17
+  - first:
+      213: -4687886664650086328
+    second: lanternarcan_18
+  - first:
+      213: -1866632627538753992
+    second: lanternarcan_19
+  - first:
+      213: -6224136282915198488
+    second: lanternarcan_20
+  - first:
+      213: 350565599415013826
+    second: lanternarcan_21
+  - first:
+      213: 681119859119102625
+    second: lanternarcan_22
+  - first:
+      213: -6118864473966037451
+    second: lanternarcan_23
+  - first:
+      213: -8540126459207294954
+    second: lanternarcan_24
+  - first:
+      213: 966166055984540614
+    second: lanternarcan_25
+  - first:
+      213: -3805791429338068499
+    second: lanternarcan_26
+  - first:
+      213: -5421161892982127312
+    second: lanternarcan_27
+  - first:
+      213: -1681275437664407531
+    second: lanternarcan_28
+  - first:
+      213: -8484779862198016478
+    second: lanternarcan_29
+  - first:
+      213: -434747256101903011
+    second: lanternarcan_30
+  - first:
+      213: 7200626723774524132
+    second: lanternarcan_31
+  - first:
+      213: 6904941669458477652
+    second: lanternarcan_32
+  - first:
+      213: 2916372397224523118
+    second: lanternarcan_33
+  - first:
+      213: -3476457648604112358
+    second: lanternarcan_34
+  - first:
+      213: 6727322875900064426
+    second: lanternarcan_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lanternarcan_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 538
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fde0af794a3b200800000000000000
+      internalID: 194680181549358944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 538
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2c6a526f77f0c50800000000000000
+      internalID: 6633652675217375987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 538
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a02586946a0d7ed0800000000000000
+      internalID: -2414762398062403418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 538
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e84d104201054e80800000000000000
+      internalID: -8195142837753526048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 495
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b5c37a431e80670800000000000000
+      internalID: 8505295512549481327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 494
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3aece4d47069b70800000000000000
+      internalID: 8905313341787775923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 494
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4233b1cfd275d60800000000000000
+      internalID: 7878816633919317158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 495
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24794f38a6fef550800000000000000
+      internalID: 6196661339785098286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 443
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e06ba53454170740800000000000000
+      internalID: 5118081853440090336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 441
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb502f119b4fb16b0800000000000000
+      internalID: -5324393058728278594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 441
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a456ea59c36898d0800000000000000
+      internalID: -2839409848592477017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 444
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40794b7ac1cb63670800000000000000
+      internalID: 8518202576476608260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 394
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29d4b29ff65ad580800000000000000
+      internalID: -8801626866064238292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 395
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5ad733fc3e0f710800000000000000
+      internalID: 1725129136344507883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 394
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15974573a83312d10800000000000000
+      internalID: 2099015570058148177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 394
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89978222b33b3360800000000000000
+      internalID: 7150365673557301646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 347
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8530572d802ae43e0800000000000000
+      internalID: -2067537020142156968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 346
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a972247a65910490800000000000000
+      internalID: -7781774396672018007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 347
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ad3e7ae741feb0800000000000000
+      internalID: -4687886664650086328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 346
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836066dd3836816e0800000000000000
+      internalID: -1866632627538753992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 298
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9283f070d6f99a0800000000000000
+      internalID: -6224136282915198488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 299
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19a972e857dd400800000000000000
+      internalID: 350565599415013826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 298
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa124437e2d37900800000000000000
+      internalID: 681119859119102625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 299
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5363f781e2d651ba0800000000000000
+      internalID: -6118864473966037451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 250
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610e80e9b306b7980800000000000000
+      internalID: -8540126459207294954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 251
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbaff0b8e2886d00800000000000000
+      internalID: 966166055984540614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 250
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de90415ebdc1f2bc0800000000000000
+      internalID: -3805791429338068499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 250
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0358aea1bf924c4b0800000000000000
+      internalID: -5421161892982127312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 205
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107c60b5e8eaa8e0800000000000000
+      internalID: -1681275437664407531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 204
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226ac4c6ba1004a80800000000000000
+      internalID: -8484779862198016478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 204
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5568f88ca777f9f0800000000000000
+      internalID: -434747256101903011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 205
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eae3cecad3cde360800000000000000
+      internalID: 7200626723774524132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4528dda4dd743df50800000000000000
+      internalID: 6904941669458477652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6572516e39097820800000000000000
+      internalID: 2916372397224523118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 155
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a134a003421cfc0800000000000000
+      internalID: -3476457648604112358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternarcan_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 156
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2f16343804c5d50800000000000000
+      internalID: 6727322875900064426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lanternarcan_0: 194680181549358944
+      lanternarcan_1: 6633652675217375987
+      lanternarcan_10: -2839409848592477017
+      lanternarcan_11: 8518202576476608260
+      lanternarcan_12: -8801626866064238292
+      lanternarcan_13: 1725129136344507883
+      lanternarcan_14: 2099015570058148177
+      lanternarcan_15: 7150365673557301646
+      lanternarcan_16: -2067537020142156968
+      lanternarcan_17: -7781774396672018007
+      lanternarcan_18: -4687886664650086328
+      lanternarcan_19: -1866632627538753992
+      lanternarcan_2: -2414762398062403418
+      lanternarcan_20: -6224136282915198488
+      lanternarcan_21: 350565599415013826
+      lanternarcan_22: 681119859119102625
+      lanternarcan_23: -6118864473966037451
+      lanternarcan_24: -8540126459207294954
+      lanternarcan_25: 966166055984540614
+      lanternarcan_26: -3805791429338068499
+      lanternarcan_27: -5421161892982127312
+      lanternarcan_28: -1681275437664407531
+      lanternarcan_29: -8484779862198016478
+      lanternarcan_3: -8195142837753526048
+      lanternarcan_30: -434747256101903011
+      lanternarcan_31: 7200626723774524132
+      lanternarcan_32: 6904941669458477652
+      lanternarcan_33: 2916372397224523118
+      lanternarcan_34: -3476457648604112358
+      lanternarcan_35: 6727322875900064426
+      lanternarcan_4: 8505295512549481327
+      lanternarcan_5: 8905313341787775923
+      lanternarcan_6: 7878816633919317158
+      lanternarcan_7: 6196661339785098286
+      lanternarcan_8: 5118081853440090336
+      lanternarcan_9: -5324393058728278594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

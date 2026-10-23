@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 0d9e10d6e991b6c4f90a4eaced708e73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5064386890913581377
+    second: suicideghost_0
+  - first:
+      213: 5226776816961750583
+    second: suicideghost_1
+  - first:
+      213: -8431658705745675192
+    second: suicideghost_2
+  - first:
+      213: -4912867067165876001
+    second: suicideghost_3
+  - first:
+      213: 8164327102331075386
+    second: suicideghost_4
+  - first:
+      213: 6769269870627173793
+    second: suicideghost_5
+  - first:
+      213: -7347094919592947713
+    second: suicideghost_6
+  - first:
+      213: -945243115777997726
+    second: suicideghost_7
+  - first:
+      213: -1427339849518502011
+    second: suicideghost_8
+  - first:
+      213: 6096580627250496912
+    second: suicideghost_9
+  - first:
+      213: 14495669218393762
+    second: suicideghost_10
+  - first:
+      213: 2200647048225338841
+    second: suicideghost_11
+  - first:
+      213: 3971633129354195785
+    second: suicideghost_12
+  - first:
+      213: 4629935341321728369
+    second: suicideghost_13
+  - first:
+      213: -5160151126964076236
+    second: suicideghost_14
+  - first:
+      213: -560899870209471707
+    second: suicideghost_15
+  - first:
+      213: -7676241513047129421
+    second: suicideghost_16
+  - first:
+      213: -7361142236092211367
+    second: suicideghost_17
+  - first:
+      213: -2626902362473523159
+    second: suicideghost_18
+  - first:
+      213: 3614452065375362963
+    second: suicideghost_19
+  - first:
+      213: 2250157521279505492
+    second: suicideghost_20
+  - first:
+      213: -444981315266722250
+    second: suicideghost_21
+  - first:
+      213: -8163076126706509118
+    second: suicideghost_22
+  - first:
+      213: -5952961389266821707
+    second: suicideghost_23
+  - first:
+      213: -6914221408947586443
+    second: suicideghost_24
+  - first:
+      213: -5301540614635922494
+    second: suicideghost_25
+  - first:
+      213: 5755185568182376615
+    second: suicideghost_26
+  - first:
+      213: 2466138253314539248
+    second: suicideghost_27
+  - first:
+      213: 3120342266060729521
+    second: suicideghost_28
+  - first:
+      213: -7626671572346961322
+    second: suicideghost_29
+  - first:
+      213: 5227888159631701127
+    second: suicideghost_30
+  - first:
+      213: 3345634856009256908
+    second: suicideghost_31
+  - first:
+      213: -5875472795462987541
+    second: suicideghost_32
+  - first:
+      213: -3945085921011435946
+    second: suicideghost_33
+  - first:
+      213: -2988545638184511811
+    second: suicideghost_34
+  - first:
+      213: -5192758539106948864
+    second: suicideghost_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: suicideghost_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 389
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb673f974fea7b9b0800000000000000
+      internalID: -5064386890913581377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 390
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736804782dd398840800000000000000
+      internalID: 5226776816961750583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 392
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf2b8741bbcfa80800000000000000
+      internalID: -8431658705745675192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 394
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0ecd09e6df1dbb0800000000000000
+      internalID: -4912867067165876001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 396
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bb98c3e348d4170800000000000000
+      internalID: 8164327102331075386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 396
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5bc7b051741fd50800000000000000
+      internalID: 6769269870627173793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 341
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffc592e810e90a90800000000000000
+      internalID: -7347094919592947713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 341
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644ba1f462d1e2f0800000000000000
+      internalID: -945243115777997726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 341
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fa0bf18f1113ce0800000000000000
+      internalID: -1427339849518502011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 338
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954bc787c76b9450800000000000000
+      internalID: 6096580627250496912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 293
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae3b8efbbf733000800000000000000
+      internalID: 14495669218393762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 293
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5bb71b4d44a8e10800000000000000
+      internalID: 2200647048225338841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 245
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943745dd9431e1730800000000000000
+      internalID: 3971633129354195785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 246
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171328899a5d04040800000000000000
+      internalID: 4629935341321728369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 248
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43189f1c3e57368b0800000000000000
+      internalID: -5160151126964076236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 250
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b0a913a884738f0800000000000000
+      internalID: -560899870209471707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 251
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b208bca303887590800000000000000
+      internalID: -7676241513047129421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 252
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f59942328f7d990800000000000000
+      internalID: -7361142236092211367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 197
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9289121283e5b8bd0800000000000000
+      internalID: -2626902362473523159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 198
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f1066d00d192230800000000000000
+      internalID: 3614452065375362963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 197
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454d980085a2a3f10800000000000000
+      internalID: 2250157521279505492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 198
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63647d3f9db13d9f0800000000000000
+      internalID: -444981315266722250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 149
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cadf29338de6be80800000000000000
+      internalID: -8163076126706509118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 149
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd92271825d26da0800000000000000
+      internalID: -5952961389266821707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 101
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a374df240cb00a0800000000000000
+      internalID: -6914221408947586443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbd15656e42d66b0800000000000000
+      internalID: -5301540614635922494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a817ff28c68edf40800000000000000
+      internalID: 5755185568182376615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 105
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feb0dbdcab793220800000000000000
+      internalID: 2466138253314539248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 105
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcef2a32cead4b20800000000000000
+      internalID: 3120342266060729521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 107
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65280bfdc9e982690800000000000000
+      internalID: -7626671572346961322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 53
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784715825903d8840800000000000000
+      internalID: 5227888159631701127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 52
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfc894fc251e6e20800000000000000
+      internalID: 3345634856009256908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 53
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be015f24f90267ea0800000000000000
+      internalID: -5875472795462987541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656f7bdb14d3049c0800000000000000
+      internalID: -3945085921011435946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db618f8739d8686d0800000000000000
+      internalID: -2988545638184511811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suicideghost_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00967200f9d9fe7b0800000000000000
+      internalID: -5192758539106948864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      suicideghost_0: -5064386890913581377
+      suicideghost_1: 5226776816961750583
+      suicideghost_10: 14495669218393762
+      suicideghost_11: 2200647048225338841
+      suicideghost_12: 3971633129354195785
+      suicideghost_13: 4629935341321728369
+      suicideghost_14: -5160151126964076236
+      suicideghost_15: -560899870209471707
+      suicideghost_16: -7676241513047129421
+      suicideghost_17: -7361142236092211367
+      suicideghost_18: -2626902362473523159
+      suicideghost_19: 3614452065375362963
+      suicideghost_2: -8431658705745675192
+      suicideghost_20: 2250157521279505492
+      suicideghost_21: -444981315266722250
+      suicideghost_22: -8163076126706509118
+      suicideghost_23: -5952961389266821707
+      suicideghost_24: -6914221408947586443
+      suicideghost_25: -5301540614635922494
+      suicideghost_26: 5755185568182376615
+      suicideghost_27: 2466138253314539248
+      suicideghost_28: 3120342266060729521
+      suicideghost_29: -7626671572346961322
+      suicideghost_3: -4912867067165876001
+      suicideghost_30: 5227888159631701127
+      suicideghost_31: 3345634856009256908
+      suicideghost_32: -5875472795462987541
+      suicideghost_33: -3945085921011435946
+      suicideghost_34: -2988545638184511811
+      suicideghost_35: -5192758539106948864
+      suicideghost_4: 8164327102331075386
+      suicideghost_5: 6769269870627173793
+      suicideghost_6: -7347094919592947713
+      suicideghost_7: -945243115777997726
+      suicideghost_8: -1427339849518502011
+      suicideghost_9: 6096580627250496912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

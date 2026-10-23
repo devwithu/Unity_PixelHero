@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 3163e2aa2f9e4ab4b99afc169e68e443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 791603486840750438
+    second: lightningseadragon_0
+  - first:
+      213: -2548460275151733272
+    second: lightningseadragon_1
+  - first:
+      213: -1635411346259561720
+    second: lightningseadragon_2
+  - first:
+      213: 3568373695222904356
+    second: lightningseadragon_3
+  - first:
+      213: 6340922912007738224
+    second: lightningseadragon_4
+  - first:
+      213: -4073845501853168990
+    second: lightningseadragon_5
+  - first:
+      213: -2773616688873820820
+    second: lightningseadragon_6
+  - first:
+      213: 3450203970949292939
+    second: lightningseadragon_7
+  - first:
+      213: -3094425942773708286
+    second: lightningseadragon_8
+  - first:
+      213: 723088327218393717
+    second: lightningseadragon_9
+  - first:
+      213: -2419443268136894232
+    second: lightningseadragon_10
+  - first:
+      213: -4002979648655063656
+    second: lightningseadragon_11
+  - first:
+      213: 6339135609880034901
+    second: lightningseadragon_12
+  - first:
+      213: 2223197991511342364
+    second: lightningseadragon_13
+  - first:
+      213: -5750265164089132241
+    second: lightningseadragon_14
+  - first:
+      213: 4658465975885541954
+    second: lightningseadragon_15
+  - first:
+      213: -7390384537160805734
+    second: lightningseadragon_16
+  - first:
+      213: -6970753039752222657
+    second: lightningseadragon_17
+  - first:
+      213: -7414582580998070374
+    second: lightningseadragon_18
+  - first:
+      213: -4275548897701697903
+    second: lightningseadragon_19
+  - first:
+      213: 6107821681819336499
+    second: lightningseadragon_20
+  - first:
+      213: 5407289840478405440
+    second: lightningseadragon_21
+  - first:
+      213: 1580523495033367000
+    second: lightningseadragon_22
+  - first:
+      213: 5075626511738922274
+    second: lightningseadragon_23
+  - first:
+      213: 1189072152051621426
+    second: lightningseadragon_24
+  - first:
+      213: -7862482074519977696
+    second: lightningseadragon_25
+  - first:
+      213: 397138828732074195
+    second: lightningseadragon_26
+  - first:
+      213: 8602935423176233803
+    second: lightningseadragon_27
+  - first:
+      213: -8121597006707714717
+    second: lightningseadragon_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightningseadragon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6618a1c5d275cfa00800000000000000
+      internalID: 791603486840750438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 575
+        width: 128
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf26fc1ec02acd0800000000000000
+      internalID: -2548460275151733272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 576
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8033e8c9b0add49e0800000000000000
+      internalID: -1635411346259561720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426fb9148f8658130800000000000000
+      internalID: 3568373695222904356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0735b56facb7ff750800000000000000
+      internalID: 6340922912007738224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 509
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa0838a91bc677c0800000000000000
+      internalID: -4073845501853168990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 511
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6da49411522289d0800000000000000
+      internalID: -2773616688873820820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83231b4b3691ef20800000000000000
+      internalID: 3450203970949292939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 437
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a483100046e05d0800000000000000
+      internalID: -3094425942773708286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 372
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727515a00de80a00800000000000000
+      internalID: 723088327218393717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 370
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e08d789a296c6ed0800000000000000
+      internalID: -2419443268136894232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 368
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8950cced73f8278c0800000000000000
+      internalID: -4002979648655063656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 362
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ebde1404229f750800000000000000
+      internalID: 6339135609880034901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 300
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d35655bc26ade10800000000000000
+      internalID: 2223197991511342364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 295
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf92aac44f230b0800000000000000
+      internalID: -5750265164089132241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 288
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242b6ea9f1236a040800000000000000
+      internalID: 4658465975885541954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 288
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a929dfc5b64107990800000000000000
+      internalID: -7390384537160805734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 226
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3828900b09e24f90800000000000000
+      internalID: -6970753039752222657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 224
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f9fcd3d6c1a1990800000000000000
+      internalID: -7414582580998070374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 156
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1966dac2ee23aa4c0800000000000000
+      internalID: -4275548897701697903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f3540857753c450800000000000000
+      internalID: 6107821681819336499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 148
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0434b4bf57d8a0b40800000000000000
+      internalID: 5407289840478405440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 149
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d96f98aeb52fe510800000000000000
+      internalID: 1580523495033367000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 84
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e0ccab6f307640800000000000000
+      internalID: 5075626511738922274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 82
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e985382de608010800000000000000
+      internalID: 1189072152051621426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0214c5fd53ad2e290800000000000000
+      internalID: -7862482074519977696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 81
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8071d19abe28500800000000000000
+      internalID: 397138828732074195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b435b04ef24c36770800000000000000
+      internalID: 8602935423176233803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningseadragon_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3659f4e6d8a4a4f80800000000000000
+      internalID: -8121597006707714717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lightningseadragon_0: 791603486840750438
+      lightningseadragon_1: -2548460275151733272
+      lightningseadragon_10: -2419443268136894232
+      lightningseadragon_11: -4002979648655063656
+      lightningseadragon_12: 6339135609880034901
+      lightningseadragon_13: 2223197991511342364
+      lightningseadragon_14: -5750265164089132241
+      lightningseadragon_15: 4658465975885541954
+      lightningseadragon_16: -7390384537160805734
+      lightningseadragon_17: -6970753039752222657
+      lightningseadragon_18: -7414582580998070374
+      lightningseadragon_19: -4275548897701697903
+      lightningseadragon_2: -1635411346259561720
+      lightningseadragon_20: 6107821681819336499
+      lightningseadragon_21: 5407289840478405440
+      lightningseadragon_22: 1580523495033367000
+      lightningseadragon_23: 5075626511738922274
+      lightningseadragon_24: 1189072152051621426
+      lightningseadragon_25: -7862482074519977696
+      lightningseadragon_26: 397138828732074195
+      lightningseadragon_27: 8602935423176233803
+      lightningseadragon_28: -8121597006707714717
+      lightningseadragon_3: 3568373695222904356
+      lightningseadragon_4: 6340922912007738224
+      lightningseadragon_5: -4073845501853168990
+      lightningseadragon_6: -2773616688873820820
+      lightningseadragon_7: 3450203970949292939
+      lightningseadragon_8: -3094425942773708286
+      lightningseadragon_9: 723088327218393717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

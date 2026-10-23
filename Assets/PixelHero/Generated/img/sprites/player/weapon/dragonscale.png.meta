@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 97e79eed2111c0847bba4687ab91ecd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3987406867387179846
+    second: dragonscale_0
+  - first:
+      213: -3596210295433448066
+    second: dragonscale_1
+  - first:
+      213: 4633062148992093556
+    second: dragonscale_2
+  - first:
+      213: 3539336740352409040
+    second: dragonscale_3
+  - first:
+      213: 7413921299791904659
+    second: dragonscale_4
+  - first:
+      213: 2320814152540654636
+    second: dragonscale_5
+  - first:
+      213: -3688080042428086046
+    second: dragonscale_6
+  - first:
+      213: -3721674230976288854
+    second: dragonscale_7
+  - first:
+      213: -9112509105559686433
+    second: dragonscale_8
+  - first:
+      213: -7120677073815042610
+    second: dragonscale_9
+  - first:
+      213: -3155777538572973448
+    second: dragonscale_10
+  - first:
+      213: -5869495919454647044
+    second: dragonscale_11
+  - first:
+      213: -706332752826937897
+    second: dragonscale_12
+  - first:
+      213: -697695470285701416
+    second: dragonscale_13
+  - first:
+      213: 3359468254416959660
+    second: dragonscale_14
+  - first:
+      213: -1852708033974776757
+    second: dragonscale_15
+  - first:
+      213: -735800307349326862
+    second: dragonscale_16
+  - first:
+      213: 308800645724545219
+    second: dragonscale_17
+  - first:
+      213: -8490421596163831089
+    second: dragonscale_18
+  - first:
+      213: -9028982717165618586
+    second: dragonscale_19
+  - first:
+      213: -4906242356615050411
+    second: dragonscale_20
+  - first:
+      213: -5544531629462835141
+    second: dragonscale_21
+  - first:
+      213: 5793787064395708090
+    second: dragonscale_22
+  - first:
+      213: 6609145002531109282
+    second: dragonscale_23
+  - first:
+      213: -9062522250185941776
+    second: dragonscale_24
+  - first:
+      213: 3308970506607783072
+    second: dragonscale_25
+  - first:
+      213: -6667718083348208311
+    second: dragonscale_26
+  - first:
+      213: -8055739339154083948
+    second: dragonscale_27
+  - first:
+      213: 7772570028246112953
+    second: dragonscale_28
+  - first:
+      213: -1301319771961768908
+    second: dragonscale_29
+  - first:
+      213: 623232831526869965
+    second: dragonscale_30
+  - first:
+      213: -5416294055446788600
+    second: dragonscale_31
+  - first:
+      213: 4670962133637699314
+    second: dragonscale_32
+  - first:
+      213: -3183542949312584800
+    second: dragonscale_33
+  - first:
+      213: -4516328009522951654
+    second: dragonscale_34
+  - first:
+      213: -1372322072619854515
+    second: dragonscale_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragonscale_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 538
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643e0917b6d165730800000000000000
+      internalID: 3987406867387179846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 537
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7536133ac1b71ec0800000000000000
+      internalID: -3596210295433448066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 537
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d4bfc3a71fb4040800000000000000
+      internalID: 4633062148992093556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 538
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddb13d53004e1130800000000000000
+      internalID: 3539336740352409040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 489
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f7cca342a83e660800000000000000
+      internalID: 7413921299791904659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 488
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c82efec20353020800000000000000
+      internalID: 2320814152540654636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 488
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8cddfddbe41dcc0800000000000000
+      internalID: -3688080042428086046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 489
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7eee45105f95cc0800000000000000
+      internalID: -3721674230976288854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 448
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd23a96af3dd98180800000000000000
+      internalID: -9112509105559686433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec58cf6ade54e2d90800000000000000
+      internalID: -7120677073815042610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 447
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a83377c0d6434d0800000000000000
+      internalID: -3155777538572973448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 448
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc0d462f8c5b8ea0800000000000000
+      internalID: -5869495919454647044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 393
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddc6868a1a9236f0800000000000000
+      internalID: -706332752826937897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 394
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deb8349aa94156f0800000000000000
+      internalID: -697695470285701416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 393
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca879b2049a3f9e20800000000000000
+      internalID: 3359468254416959660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 394
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ccb62fbdbd946e0800000000000000
+      internalID: -1852708033974776757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3f1d6d489e9c5f0800000000000000
+      internalID: -735800307349326862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 344
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0a2da1d84194400800000000000000
+      internalID: 308800645724545219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 344
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca895fda86fb2a80800000000000000
+      internalID: -8490421596163831089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ab33c6e0c92b280800000000000000
+      internalID: -9028982717165618586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 303
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b0cff229689ebb0800000000000000
+      internalID: -4906242356615050411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 304
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3033f3fbdddd03b0800000000000000
+      internalID: -5544531629462835141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab63f8563aaa76050800000000000000
+      internalID: 5793787064395708090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93ae0fc5668bb50800000000000000
+      internalID: 6609145002531109282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 250
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd79c57047b3280800000000000000
+      internalID: -9062522250185941776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 252
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ace992e423dbed20800000000000000
+      internalID: 3308970506607783072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 239
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e493fab18773a0800000000000000
+      internalID: -6667718083348208311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 240
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa49e80c3443090800000000000000
+      internalID: -8055739339154083948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 202
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba15758247bddb60800000000000000
+      internalID: 7772570028246112953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 205
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434c605ef88c0fde0800000000000000
+      internalID: -1301319771961768908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 203
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb158f45fa26a800800000000000000
+      internalID: 623232831526869965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 202
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806c80ad04575d4b0800000000000000
+      internalID: -5416294055446788600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 160
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f696ce005792d040800000000000000
+      internalID: 4670962133637699314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a326030e88c1d3d0800000000000000
+      internalID: -3183542949312584800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 166
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1acc379a97c251c0800000000000000
+      internalID: -4516328009522951654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonscale_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 167
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d018885884fce0800000000000000
+      internalID: -1372322072619854515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragonscale_0: 3987406867387179846
+      dragonscale_1: -3596210295433448066
+      dragonscale_10: -3155777538572973448
+      dragonscale_11: -5869495919454647044
+      dragonscale_12: -706332752826937897
+      dragonscale_13: -697695470285701416
+      dragonscale_14: 3359468254416959660
+      dragonscale_15: -1852708033974776757
+      dragonscale_16: -735800307349326862
+      dragonscale_17: 308800645724545219
+      dragonscale_18: -8490421596163831089
+      dragonscale_19: -9028982717165618586
+      dragonscale_2: 4633062148992093556
+      dragonscale_20: -4906242356615050411
+      dragonscale_21: -5544531629462835141
+      dragonscale_22: 5793787064395708090
+      dragonscale_23: 6609145002531109282
+      dragonscale_24: -9062522250185941776
+      dragonscale_25: 3308970506607783072
+      dragonscale_26: -6667718083348208311
+      dragonscale_27: -8055739339154083948
+      dragonscale_28: 7772570028246112953
+      dragonscale_29: -1301319771961768908
+      dragonscale_3: 3539336740352409040
+      dragonscale_30: 623232831526869965
+      dragonscale_31: -5416294055446788600
+      dragonscale_32: 4670962133637699314
+      dragonscale_33: -3183542949312584800
+      dragonscale_34: -4516328009522951654
+      dragonscale_35: -1372322072619854515
+      dragonscale_4: 7413921299791904659
+      dragonscale_5: 2320814152540654636
+      dragonscale_6: -3688080042428086046
+      dragonscale_7: -3721674230976288854
+      dragonscale_8: -9112509105559686433
+      dragonscale_9: -7120677073815042610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

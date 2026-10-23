@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 29dbd935645e31b4a9f2925c79727e4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -648837450539662564
+    second: ramboss_0
+  - first:
+      213: -1140551055435104642
+    second: ramboss_1
+  - first:
+      213: 8719296820916616633
+    second: ramboss_2
+  - first:
+      213: -6591295585042178932
+    second: ramboss_3
+  - first:
+      213: -8386446858774593475
+    second: ramboss_4
+  - first:
+      213: 1201285075434338602
+    second: ramboss_5
+  - first:
+      213: -5402438851466606837
+    second: ramboss_6
+  - first:
+      213: -5237457688644716050
+    second: ramboss_7
+  - first:
+      213: 7107457820668699184
+    second: ramboss_8
+  - first:
+      213: -9186282630669304091
+    second: ramboss_9
+  - first:
+      213: -5874139668694066178
+    second: ramboss_10
+  - first:
+      213: -1138993371075306590
+    second: ramboss_11
+  - first:
+      213: -2102029882971171912
+    second: ramboss_12
+  - first:
+      213: -6231266239267931463
+    second: ramboss_13
+  - first:
+      213: -3687377204079871179
+    second: ramboss_14
+  - first:
+      213: 5143722404150740844
+    second: ramboss_15
+  - first:
+      213: -887953655976202787
+    second: ramboss_16
+  - first:
+      213: 1050605145445874316
+    second: ramboss_17
+  - first:
+      213: -2472449448454367132
+    second: ramboss_18
+  - first:
+      213: 2919936152045647513
+    second: ramboss_19
+  - first:
+      213: -3133963776335515208
+    second: ramboss_20
+  - first:
+      213: 3786488871026281584
+    second: ramboss_21
+  - first:
+      213: -4747157191000898455
+    second: ramboss_22
+  - first:
+      213: -5709665952112274619
+    second: ramboss_23
+  - first:
+      213: 6570131762634733986
+    second: ramboss_24
+  - first:
+      213: -2567955737866286484
+    second: ramboss_25
+  - first:
+      213: -3241517303962324412
+    second: ramboss_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ramboss_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 583
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c130d93c6cddef6f0800000000000000
+      internalID: -648837450539662564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 583
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ef794abd2fb20f0800000000000000
+      internalID: -1140551055435104642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 583
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd7de5034a210970800000000000000
+      internalID: 8719296820916616633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 511
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cd5fb66930784a0800000000000000
+      internalID: -6591295585042178932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 511
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30cc07e30b5d9b80800000000000000
+      internalID: -8386446858774593475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 511
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29fd335962dba010800000000000000
+      internalID: 1201285075434338602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 511
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b074099ec7ea605b0800000000000000
+      internalID: -5402438851466606837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 439
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9713e3bffc057b0800000000000000
+      internalID: -5237457688644716050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 439
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032a7012b33c2a260800000000000000
+      internalID: 7107457820668699184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 365
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee7d905e94c38080800000000000000
+      internalID: -9186282630669304091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 365
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb9576081dda7ea0800000000000000
+      internalID: -5874139668694066178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 365
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab188b409b7130f0800000000000000
+      internalID: -1138993371075306590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 293
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b35f3e55f614d2e0800000000000000
+      internalID: -2102029882971171912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 293
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bafc8bbe581689a0800000000000000
+      internalID: -6231266239267931463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 293
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b32fd28fdc3dcc0800000000000000
+      internalID: -3687377204079871179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 293
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c678f92264c226740800000000000000
+      internalID: 5143722404150740844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 221
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd678ebada5da3f0800000000000000
+      internalID: -887953655976202787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 221
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8abf7d30df749e00800000000000000
+      internalID: 1050605145445874316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46854c3835810bdd0800000000000000
+      internalID: -2472449448454367132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 149
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9967085b572b58820800000000000000
+      internalID: 2919936152045647513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 150
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b17494cc8ce184d0800000000000000
+      internalID: -3133963776335515208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ccd77019f4c8430800000000000000
+      internalID: 3786488871026281584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 77
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9644371bfa5be1eb0800000000000000
+      internalID: -4747157191000898455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5439432511133c0b0800000000000000
+      internalID: -5709665952112274619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 77
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ba5f270ccd2b50800000000000000
+      internalID: 6570131762634733986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6acd8dacd9cc5cd0800000000000000
+      internalID: -2567955737866286484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramboss_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4423b04bf21d303d0800000000000000
+      internalID: -3241517303962324412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ramboss_0: -648837450539662564
+      ramboss_1: -1140551055435104642
+      ramboss_10: -5874139668694066178
+      ramboss_11: -1138993371075306590
+      ramboss_12: -2102029882971171912
+      ramboss_13: -6231266239267931463
+      ramboss_14: -3687377204079871179
+      ramboss_15: 5143722404150740844
+      ramboss_16: -887953655976202787
+      ramboss_17: 1050605145445874316
+      ramboss_18: -2472449448454367132
+      ramboss_19: 2919936152045647513
+      ramboss_2: 8719296820916616633
+      ramboss_20: -3133963776335515208
+      ramboss_21: 3786488871026281584
+      ramboss_22: -4747157191000898455
+      ramboss_23: -5709665952112274619
+      ramboss_24: 6570131762634733986
+      ramboss_25: -2567955737866286484
+      ramboss_26: -3241517303962324412
+      ramboss_3: -6591295585042178932
+      ramboss_4: -8386446858774593475
+      ramboss_5: 1201285075434338602
+      ramboss_6: -5402438851466606837
+      ramboss_7: -5237457688644716050
+      ramboss_8: 7107457820668699184
+      ramboss_9: -9186282630669304091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

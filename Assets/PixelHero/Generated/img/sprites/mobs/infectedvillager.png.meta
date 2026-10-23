@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: bd7fe0436bc82a247b43d34b746bcbde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8573659133210952551
+    second: infectedvillager_0
+  - first:
+      213: 3393731969129787775
+    second: infectedvillager_1
+  - first:
+      213: -3874826534251038395
+    second: infectedvillager_2
+  - first:
+      213: 6028147037214315665
+    second: infectedvillager_3
+  - first:
+      213: 8675127484956273095
+    second: infectedvillager_4
+  - first:
+      213: -3579347470783224728
+    second: infectedvillager_5
+  - first:
+      213: -6487814626359338967
+    second: infectedvillager_6
+  - first:
+      213: 4148582920494658090
+    second: infectedvillager_7
+  - first:
+      213: -6087103389832533260
+    second: infectedvillager_8
+  - first:
+      213: 8458377751591045864
+    second: infectedvillager_9
+  - first:
+      213: 7430042741035070896
+    second: infectedvillager_10
+  - first:
+      213: -7327942113843590618
+    second: infectedvillager_11
+  - first:
+      213: -3069735028136539738
+    second: infectedvillager_12
+  - first:
+      213: -8610836624344564421
+    second: infectedvillager_13
+  - first:
+      213: 1195300509298473272
+    second: infectedvillager_14
+  - first:
+      213: 40187378698505917
+    second: infectedvillager_15
+  - first:
+      213: -2571988482797183776
+    second: infectedvillager_16
+  - first:
+      213: -8519620616484554466
+    second: infectedvillager_17
+  - first:
+      213: -7799138958511501840
+    second: infectedvillager_18
+  - first:
+      213: -8305271497059466291
+    second: infectedvillager_19
+  - first:
+      213: -5779023939752733982
+    second: infectedvillager_20
+  - first:
+      213: -8879960844195953592
+    second: infectedvillager_21
+  - first:
+      213: -1290086756787724131
+    second: infectedvillager_22
+  - first:
+      213: -8452634166730435758
+    second: infectedvillager_23
+  - first:
+      213: -3318935303763519560
+    second: infectedvillager_24
+  - first:
+      213: -539366608986744618
+    second: infectedvillager_25
+  - first:
+      213: -7280933066698788266
+    second: infectedvillager_26
+  - first:
+      213: -1229738724169332430
+    second: infectedvillager_27
+  - first:
+      213: 3121154284219536247
+    second: infectedvillager_28
+  - first:
+      213: -64001684992381367
+    second: infectedvillager_29
+  - first:
+      213: 4705218918486142414
+    second: infectedvillager_30
+  - first:
+      213: -8227697840907655394
+    second: infectedvillager_31
+  - first:
+      213: -8502079873303206513
+    second: infectedvillager_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: infectedvillager_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c7dab817e340980800000000000000
+      internalID: -8573659133210952551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f713ed2ce35f81f20800000000000000
+      internalID: 3393731969129787775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 260
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54975bbfbc9d93ac0800000000000000
+      internalID: -3874826534251038395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1949bf6bac748a350800000000000000
+      internalID: 6028147037214315665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 260
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9eb0a1c7e346870800000000000000
+      internalID: 8675127484956273095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864e544807a935ec0800000000000000
+      internalID: -3579347470783224728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9289443a8f6a6f5a0800000000000000
+      internalID: -6487814626359338967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a223651af2ab29930800000000000000
+      internalID: 4148582920494658090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 229
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faa4f1c7b3468ba0800000000000000
+      internalID: -6087103389832533260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 196
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac6ab20c1326570800000000000000
+      internalID: 8458377751591045864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 196
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57d55c180dc1760800000000000000
+      internalID: 7430042741035070896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4ab9f87bed4a90800000000000000
+      internalID: -7327942113843590618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9095d814c1665d0800000000000000
+      internalID: -3069735028136539738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3db40b56b9208880800000000000000
+      internalID: -8610836624344564421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 166
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8393490fa7f869010800000000000000
+      internalID: 1195300509298473272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 165
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe47cf3536ce8000800000000000000
+      internalID: 40187378698505917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec5a741a167e4cd0800000000000000
+      internalID: -2571988482797183776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19f75d203a34c980800000000000000
+      internalID: -8519620616484554466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 133
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd03085074e3c390800000000000000
+      internalID: -7799138958511501840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3089e939fbdbc80800000000000000
+      internalID: -8305271497059466291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e25f8a6858cccfa0800000000000000
+      internalID: -5779023939752733982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844825609aa04c480800000000000000
+      internalID: -8879960844195953592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d906b3c0ee0b81ee0800000000000000
+      internalID: -1290086756787724131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253d3b3620632ba80800000000000000
+      internalID: -8452634166730435758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b71caafce5c0f1d0800000000000000
+      internalID: -3318935303763519560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d853a34de8c388f0800000000000000
+      internalID: -539366608986744618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f50ea3fde4fa90800000000000000
+      internalID: -7280933066698788266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239485355271feee0800000000000000
+      internalID: -1229738724169332430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7731810f841905b20800000000000000
+      internalID: 3121154284219536247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ea00d7ece9c1ff0800000000000000
+      internalID: -64001684992381367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd60d25dab4c4140800000000000000
+      internalID: 4705218918486142414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e176379e76851dd80800000000000000
+      internalID: -8227697840907655394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedvillager_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85a3c3b66b820a80800000000000000
+      internalID: -8502079873303206513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      infectedvillager_0: -8573659133210952551
+      infectedvillager_1: 3393731969129787775
+      infectedvillager_10: 7430042741035070896
+      infectedvillager_11: -7327942113843590618
+      infectedvillager_12: -3069735028136539738
+      infectedvillager_13: -8610836624344564421
+      infectedvillager_14: 1195300509298473272
+      infectedvillager_15: 40187378698505917
+      infectedvillager_16: -2571988482797183776
+      infectedvillager_17: -8519620616484554466
+      infectedvillager_18: -7799138958511501840
+      infectedvillager_19: -8305271497059466291
+      infectedvillager_2: -3874826534251038395
+      infectedvillager_20: -5779023939752733982
+      infectedvillager_21: -8879960844195953592
+      infectedvillager_22: -1290086756787724131
+      infectedvillager_23: -8452634166730435758
+      infectedvillager_24: -3318935303763519560
+      infectedvillager_25: -539366608986744618
+      infectedvillager_26: -7280933066698788266
+      infectedvillager_27: -1229738724169332430
+      infectedvillager_28: 3121154284219536247
+      infectedvillager_29: -64001684992381367
+      infectedvillager_3: 6028147037214315665
+      infectedvillager_30: 4705218918486142414
+      infectedvillager_31: -8227697840907655394
+      infectedvillager_32: -8502079873303206513
+      infectedvillager_4: 8675127484956273095
+      infectedvillager_5: -3579347470783224728
+      infectedvillager_6: -6487814626359338967
+      infectedvillager_7: 4148582920494658090
+      infectedvillager_8: -6087103389832533260
+      infectedvillager_9: 8458377751591045864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

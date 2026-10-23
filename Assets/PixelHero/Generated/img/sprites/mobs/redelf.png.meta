@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: fe3d33d4ff345104980b93fb478e549e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -832388152069203442
+    second: redelf_0
+  - first:
+      213: -3941651542356558312
+    second: redelf_1
+  - first:
+      213: -3961738414608364544
+    second: redelf_2
+  - first:
+      213: 910460658887823757
+    second: redelf_3
+  - first:
+      213: -2004366258359924952
+    second: redelf_4
+  - first:
+      213: -6347047660371324643
+    second: redelf_5
+  - first:
+      213: -2190544001394741903
+    second: redelf_6
+  - first:
+      213: 9061237650662935820
+    second: redelf_7
+  - first:
+      213: -1212576439914013832
+    second: redelf_8
+  - first:
+      213: -3159625712518736047
+    second: redelf_9
+  - first:
+      213: -2859054678517800756
+    second: redelf_10
+  - first:
+      213: 7010853031367746174
+    second: redelf_11
+  - first:
+      213: 4226963683705032197
+    second: redelf_12
+  - first:
+      213: 4620941677559932880
+    second: redelf_13
+  - first:
+      213: -9007030250248360993
+    second: redelf_14
+  - first:
+      213: -7212380769079595641
+    second: redelf_15
+  - first:
+      213: 3138073797222453203
+    second: redelf_16
+  - first:
+      213: -4755755771322236335
+    second: redelf_17
+  - first:
+      213: 7995206689009445674
+    second: redelf_18
+  - first:
+      213: -5371319463837961689
+    second: redelf_19
+  - first:
+      213: 4483838178582750364
+    second: redelf_20
+  - first:
+      213: -2387927490991840114
+    second: redelf_21
+  - first:
+      213: -5603935352385883478
+    second: redelf_22
+  - first:
+      213: 8080405853329660501
+    second: redelf_23
+  - first:
+      213: -7254455162090934539
+    second: redelf_24
+  - first:
+      213: -7673553442704649057
+    second: redelf_25
+  - first:
+      213: -4133740048145723262
+    second: redelf_26
+  - first:
+      213: 2713769005235495599
+    second: redelf_27
+  - first:
+      213: -9055149865661660572
+    second: redelf_28
+  - first:
+      213: 8305982856903184673
+    second: redelf_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redelf_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 262
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0adba8c263c274f0800000000000000
+      internalID: -832388152069203442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e77755ec07c49c0800000000000000
+      internalID: -3941651542356558312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 262
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ccf30f6e31509c0800000000000000
+      internalID: -3961738414608364544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 262
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d811afa352b92ac00800000000000000
+      internalID: 910460658887823757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 230
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8278da2f18f0f24e0800000000000000
+      internalID: -2004366258359924952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11d71fe7c1cae7a0800000000000000
+      internalID: -6347047660371324643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 230
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17de00436df9991e0800000000000000
+      internalID: -2190544001394741903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc82182abffbd70800000000000000
+      internalID: 9061237650662935820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bdae307201c2fe0800000000000000
+      internalID: -1212576439914013832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1575126a721c624d0800000000000000
+      internalID: -3159625712518736047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc02785fae89258d0800000000000000
+      internalID: -2859054678517800756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 173
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72252bdfad8b4160800000000000000
+      internalID: 7010853031367746174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e07bd231139aa30800000000000000
+      internalID: 4226963683705032197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7e1c219f1e02040800000000000000
+      internalID: 4620941677559932880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbafbc65b9900380800000000000000
+      internalID: -9007030250248360993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78de62247e978eb90800000000000000
+      internalID: -7212380769079595641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfc76a0e7dac8b20800000000000000
+      internalID: 3138073797222453203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 139
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15203d3b259200eb0800000000000000
+      internalID: -4755755771322236335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b2c3c8f1ea4fe60800000000000000
+      internalID: 7995206689009445674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722fbc6f76d3575b0800000000000000
+      internalID: -5371319463837961689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9462c8211bc93e30800000000000000
+      internalID: 4483838178582750364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84aa0649906cded0800000000000000
+      internalID: -2387927490991840114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa239c8ec72da32b0800000000000000
+      internalID: -5603935352385883478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a93b0df4e532070800000000000000
+      internalID: 8080405853329660501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe2290477ff25b90800000000000000
+      internalID: -7254455162090934539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f941d92dccf028590800000000000000
+      internalID: -7673553442704649057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280d774e35102a6c0800000000000000
+      internalID: -4133740048145723262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2e687388e39a520800000000000000
+      internalID: 2713769005235495599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4628f456c25a55280800000000000000
+      internalID: -9055149865661660572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redelf_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121d230c667c44370800000000000000
+      internalID: 8305982856903184673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redelf_0: -832388152069203442
+      redelf_1: -3941651542356558312
+      redelf_10: -2859054678517800756
+      redelf_11: 7010853031367746174
+      redelf_12: 4226963683705032197
+      redelf_13: 4620941677559932880
+      redelf_14: -9007030250248360993
+      redelf_15: -7212380769079595641
+      redelf_16: 3138073797222453203
+      redelf_17: -4755755771322236335
+      redelf_18: 7995206689009445674
+      redelf_19: -5371319463837961689
+      redelf_2: -3961738414608364544
+      redelf_20: 4483838178582750364
+      redelf_21: -2387927490991840114
+      redelf_22: -5603935352385883478
+      redelf_23: 8080405853329660501
+      redelf_24: -7254455162090934539
+      redelf_25: -7673553442704649057
+      redelf_26: -4133740048145723262
+      redelf_27: 2713769005235495599
+      redelf_28: -9055149865661660572
+      redelf_29: 8305982856903184673
+      redelf_3: 910460658887823757
+      redelf_4: -2004366258359924952
+      redelf_5: -6347047660371324643
+      redelf_6: -2190544001394741903
+      redelf_7: 9061237650662935820
+      redelf_8: -1212576439914013832
+      redelf_9: -3159625712518736047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

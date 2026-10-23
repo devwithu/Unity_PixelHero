@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 9777dbc8b72e31642890ddf09b5e5b3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3745389767843023065
+    second: magichamberge_0
+  - first:
+      213: 4819013325844724731
+    second: magichamberge_1
+  - first:
+      213: -8918825791757938813
+    second: magichamberge_2
+  - first:
+      213: -5494403845398775571
+    second: magichamberge_3
+  - first:
+      213: 1153916599525268277
+    second: magichamberge_4
+  - first:
+      213: 3136700892887933909
+    second: magichamberge_5
+  - first:
+      213: -4251070878239724309
+    second: magichamberge_6
+  - first:
+      213: 4606276700502765775
+    second: magichamberge_7
+  - first:
+      213: 2250945209401955405
+    second: magichamberge_8
+  - first:
+      213: 707034226596759609
+    second: magichamberge_9
+  - first:
+      213: -83703390975795003
+    second: magichamberge_10
+  - first:
+      213: 264292645504747472
+    second: magichamberge_11
+  - first:
+      213: 8767759884980318089
+    second: magichamberge_12
+  - first:
+      213: -5464309053796800192
+    second: magichamberge_13
+  - first:
+      213: -4965129578102930904
+    second: magichamberge_14
+  - first:
+      213: 6932187043694923740
+    second: magichamberge_15
+  - first:
+      213: -143503475447022645
+    second: magichamberge_16
+  - first:
+      213: -7308988348902498647
+    second: magichamberge_17
+  - first:
+      213: 3787494374721353731
+    second: magichamberge_18
+  - first:
+      213: -3611913181057943242
+    second: magichamberge_19
+  - first:
+      213: -4200097633841012594
+    second: magichamberge_20
+  - first:
+      213: 6231504464021720536
+    second: magichamberge_21
+  - first:
+      213: 3496393673066249290
+    second: magichamberge_22
+  - first:
+      213: -4260329365240340907
+    second: magichamberge_23
+  - first:
+      213: 4815196194627300117
+    second: magichamberge_24
+  - first:
+      213: 2295375981843516472
+    second: magichamberge_25
+  - first:
+      213: -7599603091577560245
+    second: magichamberge_26
+  - first:
+      213: -2651290531148277791
+    second: magichamberge_27
+  - first:
+      213: -7611270729088635702
+    second: magichamberge_28
+  - first:
+      213: -113462573545314568
+    second: magichamberge_29
+  - first:
+      213: -4484477647292324532
+    second: magichamberge_30
+  - first:
+      213: 1495081362554612425
+    second: magichamberge_31
+  - first:
+      213: 7711922459722466304
+    second: magichamberge_32
+  - first:
+      213: -3157627983746040345
+    second: magichamberge_33
+  - first:
+      213: 3845340115899149665
+    second: magichamberge_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magichamberge_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 396
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727755e99d3b50cc0800000000000000
+      internalID: -3745389767843023065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 395
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb39de661390e240800000000000000
+      internalID: 4819013325844724731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 395
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f0da44237f93480800000000000000
+      internalID: -8918825791757938813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 396
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8377e20d4ffb3b0800000000000000
+      internalID: -5494403845398775571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b51279809830010800000000000000
+      internalID: 1153916599525268277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 348
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d36c37d7dcc78b20800000000000000
+      internalID: 3136700892887933909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 348
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec63833f892105c0800000000000000
+      internalID: -4251070878239724309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 349
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc030a60148ccef30800000000000000
+      internalID: 4606276700502765775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 300
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44554fedb6fc3f10800000000000000
+      internalID: 2250945209401955405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 299
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938c75012e3efc900800000000000000
+      internalID: 707034226596759609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 299
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0646a9530a6def0800000000000000
+      internalID: -83703390975795003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 300
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d70f04c2c4faa300800000000000000
+      internalID: 264292645504747472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98feb2c69275da970800000000000000
+      internalID: 8767759884980318089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 252
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049ad71eddfda24b0800000000000000
+      internalID: -5464309053796800192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 251
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822c36184f0581bb0800000000000000
+      internalID: -4965129578102930904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 252
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf40005363143060800000000000000
+      internalID: 6932187043694923740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb32f1795c220ef0800000000000000
+      internalID: -143503475447022645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 203
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae923442d1419a90800000000000000
+      internalID: -7308988348902498647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 203
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3087e0a1112ef8430800000000000000
+      internalID: 3787494374721353731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 204
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6397d7b3918efddc0800000000000000
+      internalID: -3611913181057943242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 155
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80a2f0847146b5c0800000000000000
+      internalID: -4200097633841012594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 156
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd864a4b40ca7650800000000000000
+      internalID: 6231504464021720536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 155
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c790e558fa58030800000000000000
+      internalID: 3496393673066249290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 156
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e1fa6b30540e4c0800000000000000
+      internalID: -4260329365240340907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ba2905d6303d240800000000000000
+      internalID: 4815196194627300117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 110
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c0fb74b40dadf10800000000000000
+      internalID: 2295375981843516472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 95
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b432f8ca049c88690800000000000000
+      internalID: -7599603091577560245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7dc8e1f49b43bd0800000000000000
+      internalID: -2651290531148277791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 60
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acce75f19955f5690800000000000000
+      internalID: -7611270729088635702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 62
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a788f366ec6ef0800000000000000
+      internalID: -113462573545314568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4526fde65fe3c1c0800000000000000
+      internalID: -4484477647292324532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 58
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caef55f3989fb410800000000000000
+      internalID: 1495081362554612425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 61
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0044d1b1e90460b60800000000000000
+      internalID: 7711922459722466304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 13
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edfbff141add24d0800000000000000
+      internalID: -3157627983746040345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magichamberge_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 14
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d6ab046746d5530800000000000000
+      internalID: 3845340115899149665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magichamberge_0: -3745389767843023065
+      magichamberge_1: 4819013325844724731
+      magichamberge_10: -83703390975795003
+      magichamberge_11: 264292645504747472
+      magichamberge_12: 8767759884980318089
+      magichamberge_13: -5464309053796800192
+      magichamberge_14: -4965129578102930904
+      magichamberge_15: 6932187043694923740
+      magichamberge_16: -143503475447022645
+      magichamberge_17: -7308988348902498647
+      magichamberge_18: 3787494374721353731
+      magichamberge_19: -3611913181057943242
+      magichamberge_2: -8918825791757938813
+      magichamberge_20: -4200097633841012594
+      magichamberge_21: 6231504464021720536
+      magichamberge_22: 3496393673066249290
+      magichamberge_23: -4260329365240340907
+      magichamberge_24: 4815196194627300117
+      magichamberge_25: 2295375981843516472
+      magichamberge_26: -7599603091577560245
+      magichamberge_27: -2651290531148277791
+      magichamberge_28: -7611270729088635702
+      magichamberge_29: -113462573545314568
+      magichamberge_3: -5494403845398775571
+      magichamberge_30: -4484477647292324532
+      magichamberge_31: 1495081362554612425
+      magichamberge_32: 7711922459722466304
+      magichamberge_33: -3157627983746040345
+      magichamberge_34: 3845340115899149665
+      magichamberge_4: 1153916599525268277
+      magichamberge_5: 3136700892887933909
+      magichamberge_6: -4251070878239724309
+      magichamberge_7: 4606276700502765775
+      magichamberge_8: 2250945209401955405
+      magichamberge_9: 707034226596759609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

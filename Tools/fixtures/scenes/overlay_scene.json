@@ -1,0 +1,22 @@
+{
+  "description": "Overlay and lights (connection.ts handleOverlay, renderer.ts lights, updater.ts updateLights) in the cave by the three world lamps. Lamps arrive before the overlay (Set resizes them), the main player equips a lantern (inner and outer light bound to the player), another player with a lantern spawns and walks, the main player teleports away (lamps out of view), unequips the lantern, the overlay goes away (removeAllLights) and comes back as 'blank' with a coloured dark mask; then a non-flickering lamp arrives after Set (never resized).",
+  "frames": [
+    { "t": 0, "packets": [[0, null], [1, { "type": "client", "instance": "0-1", "serverId": 1, "serverTime": 5000 }]] },
+    { "t": 32, "packets": [[3, { "instance": "0-1", "type": 0, "name": "Caver", "key": "", "x": 160, "y": 666, "movementSpeed": 220, "orientation": 1, "rank": 0, "level": 5, "hitPoints": 50, "maxHitPoints": 50, "mana": 10, "maxMana": 10, "attackRange": 1, "equipments": [] }]] },
+    { "t": 100, "packets": [
+      [41, 2, { "light": { "instance": "1096", "x": 164, "y": 668, "colour": "rgba(255, 255, 255, 0.1)", "diffuse": 0.3, "distance": 160, "flickerSpeed": 300, "flickerIntensity": 1 } }],
+      [41, 2, { "light": { "instance": "1097", "x": 154, "y": 664, "colour": "rgba(255, 255, 255, 0.1)", "diffuse": 0.4, "distance": 100, "flickerSpeed": 300, "flickerIntensity": 1 } }],
+      [41, 2, { "light": { "instance": "1098", "x": 178, "y": 667, "colour": "rgba(255, 255, 255, 0.1)", "diffuse": 0.3, "distance": 200, "flickerSpeed": -1, "flickerIntensity": -1 } }]
+    ] },
+    { "t": 200, "packets": [[41, 0, { "image": "fog", "colour": "rgba(0, 0, 0, 0.75)" }]] },
+    { "t": 600, "packets": [[8, 1, { "data": { "type": 5, "key": "lantern", "name": "Lantern", "count": 1, "enchantments": {}, "light": { "outer": { "distance": 180, "colour": "rgba(204, 204, 0, 0.1)", "flickerSpeed": 300, "flickerIntensity": 8 }, "inner": { "distance": 100, "colour": "rgba(204, 204, 0, 0.2)", "flickerSpeed": 400, "flickerIntensity": 4 } } } }]] },
+    { "t": 1500, "packets": [[5, { "instance": "0-2", "type": 0, "name": "Lamplighter", "key": "", "x": 157, "y": 667, "movementSpeed": 250, "orientation": 1, "rank": 0, "level": 9, "hitPoints": 60, "maxHitPoints": 60, "mana": 10, "maxMana": 10, "attackRange": 1, "equipments": [{ "type": 5, "key": "lantern2", "name": "Lantern 2", "count": 1, "enchantments": {}, "light": { "outer": { "distance": 250, "colour": "rgba(204, 0, 0, 0.1)", "flickerSpeed": 200, "flickerIntensity": 2 }, "inner": { "distance": 130, "colour": "rgba(204, 0, 0, 0.2)", "flickerSpeed": 400, "flickerIntensity": 1 } } }] }]] },
+    { "t": 2000, "packets": [[11, 4, { "instance": "0-2", "x": 159, "y": 669 }]] },
+    { "t": 4000, "packets": [[12, { "instance": "0-1", "x": 205, "y": 690, "withAnimation": false }]] },
+    { "t": 5000, "packets": [[8, 2, { "type": 5 }]] },
+    { "t": 6000, "packets": [[41, 1, {}]] },
+    { "t": 7000, "packets": [[12, { "instance": "0-1", "x": 162, "y": 666, "withAnimation": false }], [41, 0, { "image": "blank", "colour": "rgba(10, 20, 30, 0.6)" }]] },
+    { "t": 7500, "packets": [[41, 2, { "light": { "instance": "2001", "x": 166, "y": 664, "colour": "rgba(255, 255, 255, 0.1)", "diffuse": 0.2, "distance": 120, "flickerSpeed": -1, "flickerIntensity": -1 } }]] },
+    { "t": 9000, "packets": [] }
+  ]
+}

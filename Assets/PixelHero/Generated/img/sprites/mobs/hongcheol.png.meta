@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 6d687ad9f61cbb54a9a66b4c6bae7408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3964682583288464108
+    second: hongcheol_0
+  - first:
+      213: 4805368398368700541
+    second: hongcheol_1
+  - first:
+      213: 6416429403826994396
+    second: hongcheol_2
+  - first:
+      213: -3333166726225190623
+    second: hongcheol_3
+  - first:
+      213: 7235134669498490942
+    second: hongcheol_4
+  - first:
+      213: 6438853914218445275
+    second: hongcheol_5
+  - first:
+      213: -8109865402262479781
+    second: hongcheol_6
+  - first:
+      213: 8532648939717656954
+    second: hongcheol_7
+  - first:
+      213: -2029420994389388763
+    second: hongcheol_8
+  - first:
+      213: 2778903916883825175
+    second: hongcheol_9
+  - first:
+      213: -2617250856465857831
+    second: hongcheol_10
+  - first:
+      213: 8694832940962632455
+    second: hongcheol_11
+  - first:
+      213: -1640820618377581789
+    second: hongcheol_12
+  - first:
+      213: 7115684439282347921
+    second: hongcheol_13
+  - first:
+      213: 7958924520146743884
+    second: hongcheol_14
+  - first:
+      213: -4075083424748060946
+    second: hongcheol_15
+  - first:
+      213: -4534088897164146575
+    second: hongcheol_16
+  - first:
+      213: -6723088316161609595
+    second: hongcheol_17
+  - first:
+      213: -1900855512031565715
+    second: hongcheol_18
+  - first:
+      213: 2725132061750377267
+    second: hongcheol_19
+  - first:
+      213: -6422734919468131480
+    second: hongcheol_20
+  - first:
+      213: -9178144709384106363
+    second: hongcheol_21
+  - first:
+      213: -7731539078411274660
+    second: hongcheol_22
+  - first:
+      213: -8258056846823783025
+    second: hongcheol_23
+  - first:
+      213: -7846888479447195484
+    second: hongcheol_24
+  - first:
+      213: -2800169749599846154
+    second: hongcheol_25
+  - first:
+      213: -1510963874264862506
+    second: hongcheol_26
+  - first:
+      213: -6614509034793886576
+    second: hongcheol_27
+  - first:
+      213: -1890395521687536187
+    second: hongcheol_28
+  - first:
+      213: 8674859382925735702
+    second: hongcheol_29
+  - first:
+      213: -8244890128071094049
+    second: hongcheol_30
+  - first:
+      213: -8716527948382344708
+    second: hongcheol_31
+  - first:
+      213: 4826930427372983227
+    second: hongcheol_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hongcheol_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 259
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce24610cdc1650730800000000000000
+      internalID: 3964682583288464108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7877af291910b240800000000000000
+      internalID: 4805368398368700541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcba7d0c8cbb0950800000000000000
+      internalID: 6416429403826994396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 260
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121223ab5863eb1d0800000000000000
+      internalID: -3333166726225190623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30229506ac586460800000000000000
+      internalID: 7235134669498490942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9bf9d35876b5950800000000000000
+      internalID: 6438853914218445275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 227
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c1ae17268f37f80800000000000000
+      internalID: -8109865402262479781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 227
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710cf4b00f0a6670800000000000000
+      internalID: 8532648939717656954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52253b1ab5c06d3e0800000000000000
+      internalID: -2029420994389388763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 195
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7125dce9366a09620800000000000000
+      internalID: 2778903916883825175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2044c7638adabd0800000000000000
+      internalID: -2617250856465857831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703517b1e704aa870800000000000000
+      internalID: 8694832940962632455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 166
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ba77d4752aa39e0800000000000000
+      internalID: -1640820618377581789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 165
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fe2390c4dffb260800000000000000
+      internalID: 7115684439282347921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 165
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c423e71dea7c37e60800000000000000
+      internalID: 7958924520146743884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 163
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee3fc547356277c0800000000000000
+      internalID: -4075083424748060946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 131
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1780d70bb2ea311c0800000000000000
+      internalID: -4534088897164146575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 131
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580bb910ccac2b2a0800000000000000
+      internalID: -6723088316161609595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68e304abfdce95e0800000000000000
+      internalID: -1900855512031565715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 131
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb8aafb2d91d520800000000000000
+      internalID: 2725132061750377267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bda9eae9cddd6a0800000000000000
+      internalID: -6422734919468131480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e8704c30ea0a080800000000000000
+      internalID: -9178144709384106363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56be30fb2e04b490800000000000000
+      internalID: -7731539078411274660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8506160d0d756d80800000000000000
+      internalID: -8258056846823783025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0e176a0804a1390800000000000000
+      internalID: -7846888479447195484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f08e4cd27cc329d0800000000000000
+      internalID: -2800169749599846154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 67
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0befd9c5af70be0800000000000000
+      internalID: -1510963874264862506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c9f79f31b8434a0800000000000000
+      internalID: -6614509034793886576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd33dce947f3c5e0800000000000000
+      internalID: -1890395521687536187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617b0cbb5aa436870800000000000000
+      internalID: 8674859382925735702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd09230ac14449d80800000000000000
+      internalID: -8244890128071094049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9e7e9530ca80780800000000000000
+      internalID: -8716527948382344708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongcheol_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3571746a3bcf240800000000000000
+      internalID: 4826930427372983227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hongcheol_0: 3964682583288464108
+      hongcheol_1: 4805368398368700541
+      hongcheol_10: -2617250856465857831
+      hongcheol_11: 8694832940962632455
+      hongcheol_12: -1640820618377581789
+      hongcheol_13: 7115684439282347921
+      hongcheol_14: 7958924520146743884
+      hongcheol_15: -4075083424748060946
+      hongcheol_16: -4534088897164146575
+      hongcheol_17: -6723088316161609595
+      hongcheol_18: -1900855512031565715
+      hongcheol_19: 2725132061750377267
+      hongcheol_2: 6416429403826994396
+      hongcheol_20: -6422734919468131480
+      hongcheol_21: -9178144709384106363
+      hongcheol_22: -7731539078411274660
+      hongcheol_23: -8258056846823783025
+      hongcheol_24: -7846888479447195484
+      hongcheol_25: -2800169749599846154
+      hongcheol_26: -1510963874264862506
+      hongcheol_27: -6614509034793886576
+      hongcheol_28: -1890395521687536187
+      hongcheol_29: 8674859382925735702
+      hongcheol_3: -3333166726225190623
+      hongcheol_30: -8244890128071094049
+      hongcheol_31: -8716527948382344708
+      hongcheol_32: 4826930427372983227
+      hongcheol_4: 7235134669498490942
+      hongcheol_5: 6438853914218445275
+      hongcheol_6: -8109865402262479781
+      hongcheol_7: 8532648939717656954
+      hongcheol_8: -2029420994389388763
+      hongcheol_9: 2778903916883825175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

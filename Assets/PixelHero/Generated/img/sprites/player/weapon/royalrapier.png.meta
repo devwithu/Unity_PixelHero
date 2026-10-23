@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 9ac193715865aff4e8fe2c177158acb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7867851995270966300
+    second: royalrapier_0
+  - first:
+      213: 1427560115967173867
+    second: royalrapier_1
+  - first:
+      213: -2086218398709733213
+    second: royalrapier_2
+  - first:
+      213: -6056747687083052032
+    second: royalrapier_3
+  - first:
+      213: 5053733507069317402
+    second: royalrapier_4
+  - first:
+      213: 1183175050879010272
+    second: royalrapier_5
+  - first:
+      213: -4144599792470307517
+    second: royalrapier_6
+  - first:
+      213: -7665714148043916533
+    second: royalrapier_7
+  - first:
+      213: 2574093851392298036
+    second: royalrapier_8
+  - first:
+      213: 8557012782332057191
+    second: royalrapier_9
+  - first:
+      213: 6565791725487390931
+    second: royalrapier_10
+  - first:
+      213: 4891854844128607300
+    second: royalrapier_11
+  - first:
+      213: 7134138728933480112
+    second: royalrapier_12
+  - first:
+      213: -5964182165975779492
+    second: royalrapier_13
+  - first:
+      213: 7663021876461759783
+    second: royalrapier_14
+  - first:
+      213: 7917391114211870554
+    second: royalrapier_15
+  - first:
+      213: -865466100742644600
+    second: royalrapier_16
+  - first:
+      213: 1189333148213814095
+    second: royalrapier_17
+  - first:
+      213: 4717602031932108549
+    second: royalrapier_18
+  - first:
+      213: 934843092184903262
+    second: royalrapier_19
+  - first:
+      213: -531368736070584385
+    second: royalrapier_20
+  - first:
+      213: 1893353163577798753
+    second: royalrapier_21
+  - first:
+      213: -5318281985813628604
+    second: royalrapier_22
+  - first:
+      213: 2834906743729762599
+    second: royalrapier_23
+  - first:
+      213: -3395474149656643799
+    second: royalrapier_24
+  - first:
+      213: -5908579847590610315
+    second: royalrapier_25
+  - first:
+      213: -6565196410331302914
+    second: royalrapier_26
+  - first:
+      213: -2411232946984963800
+    second: royalrapier_27
+  - first:
+      213: -8395723154056101078
+    second: royalrapier_28
+  - first:
+      213: -4415196968426988155
+    second: royalrapier_29
+  - first:
+      213: 1535769594174744347
+    second: royalrapier_30
+  - first:
+      213: 4150225832638051847
+    second: royalrapier_31
+  - first:
+      213: -8154342227363414256
+    second: royalrapier_32
+  - first:
+      213: -3074622545270932038
+    second: royalrapier_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: royalrapier_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 541
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e39684cb46cfc290800000000000000
+      internalID: -7867851995270966300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 540
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be42db7ac56bfc310800000000000000
+      internalID: 1427560115967173867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 540
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a50d6b634c03e0800000000000000
+      internalID: -2086218398709733213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 541
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004fe31911c12fba0800000000000000
+      internalID: -6056747687083052032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 493
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a111b5e49d7722640800000000000000
+      internalID: 5053733507069317402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 492
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e58fb6a07b7b6010800000000000000
+      internalID: 1183175050879010272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 492
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d46a1a27c6b76c0800000000000000
+      internalID: -4144599792470307517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 493
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bf728d899ed9590800000000000000
+      internalID: -7665714148043916533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 446
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c41ce38b409b320800000000000000
+      internalID: 2574093851392298036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 445
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766116dd9cd90c670800000000000000
+      internalID: 8557012782332057191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 445
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d000ea89c06e1b50800000000000000
+      internalID: 6565791725487390931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 446
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c3f05001c53e340800000000000000
+      internalID: 4891854844128607300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 396
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6df6c206d810360800000000000000
+      internalID: 7134138728933480112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 397
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573b4d6be7fa3da0800000000000000
+      internalID: -5964182165975779492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 396
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dec84dbc5885a60800000000000000
+      internalID: 7663021876461759783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 397
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57ce6e254930ed60800000000000000
+      internalID: 7917391114211870554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c9714ba2f3df3f0800000000000000
+      internalID: -865466100742644600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 348
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43a1ea623c518010800000000000000
+      internalID: 1189333148213814095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f69f89d0a487140800000000000000
+      internalID: 4717602031932108549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ea86ed6da39fc00800000000000000
+      internalID: 934843092184903262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7b3c923f230a8f0800000000000000
+      internalID: -531368736070584385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 302
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ba6dbbaa864a10800000000000000
+      internalID: 1893353163577798753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449383c16baa136b0800000000000000
+      internalID: -5318281985813628604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 302
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7213f57d9ac975720800000000000000
+      internalID: 2834906743729762599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927b1b9304ad0e0d0800000000000000
+      internalID: -3395474149656643799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a74510fe1800ea0800000000000000
+      internalID: -5908579847590610315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 239
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3788116acb3e4a0800000000000000
+      internalID: -6565196410331302914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 240
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8213e34f864998ed0800000000000000
+      internalID: -2411232946984963800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c6f916466c7b80800000000000000
+      internalID: -8395723154056101078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d178bffb11ab2c0800000000000000
+      internalID: -4415196968426988155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 202
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17a1ad1f46205510800000000000000
+      internalID: 1535769594174744347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 206
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7067a0ce760989930800000000000000
+      internalID: 4150225832638051847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 160
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f3901a2f4f5de80800000000000000
+      internalID: -8154342227363414256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royalrapier_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdf7bac51fb455d0800000000000000
+      internalID: -3074622545270932038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      royalrapier_0: -7867851995270966300
+      royalrapier_1: 1427560115967173867
+      royalrapier_10: 6565791725487390931
+      royalrapier_11: 4891854844128607300
+      royalrapier_12: 7134138728933480112
+      royalrapier_13: -5964182165975779492
+      royalrapier_14: 7663021876461759783
+      royalrapier_15: 7917391114211870554
+      royalrapier_16: -865466100742644600
+      royalrapier_17: 1189333148213814095
+      royalrapier_18: 4717602031932108549
+      royalrapier_19: 934843092184903262
+      royalrapier_2: -2086218398709733213
+      royalrapier_20: -531368736070584385
+      royalrapier_21: 1893353163577798753
+      royalrapier_22: -5318281985813628604
+      royalrapier_23: 2834906743729762599
+      royalrapier_24: -3395474149656643799
+      royalrapier_25: -5908579847590610315
+      royalrapier_26: -6565196410331302914
+      royalrapier_27: -2411232946984963800
+      royalrapier_28: -8395723154056101078
+      royalrapier_29: -4415196968426988155
+      royalrapier_3: -6056747687083052032
+      royalrapier_30: 1535769594174744347
+      royalrapier_31: 4150225832638051847
+      royalrapier_32: -8154342227363414256
+      royalrapier_33: -3074622545270932038
+      royalrapier_4: 5053733507069317402
+      royalrapier_5: 1183175050879010272
+      royalrapier_6: -4144599792470307517
+      royalrapier_7: -7665714148043916533
+      royalrapier_8: 2574093851392298036
+      royalrapier_9: 8557012782332057191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

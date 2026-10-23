@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: a21cdba7e4eb0ac4fa2337aefcd070bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2021008361483873978
+    second: swordofliberty_0
+  - first:
+      213: -5887035886062187952
+    second: swordofliberty_1
+  - first:
+      213: -1543253723376280111
+    second: swordofliberty_2
+  - first:
+      213: -4109578481873190093
+    second: swordofliberty_3
+  - first:
+      213: 5624677222587239494
+    second: swordofliberty_4
+  - first:
+      213: 1239585155078968590
+    second: swordofliberty_5
+  - first:
+      213: -5092115893758869652
+    second: swordofliberty_6
+  - first:
+      213: -4787465195233761467
+    second: swordofliberty_7
+  - first:
+      213: 6278200601489489448
+    second: swordofliberty_8
+  - first:
+      213: 2121267598692818062
+    second: swordofliberty_9
+  - first:
+      213: 5759347478139647755
+    second: swordofliberty_10
+  - first:
+      213: -5673569024154155306
+    second: swordofliberty_11
+  - first:
+      213: 5272480208827694853
+    second: swordofliberty_12
+  - first:
+      213: 3352396795732317035
+    second: swordofliberty_13
+  - first:
+      213: -7990271053707370169
+    second: swordofliberty_14
+  - first:
+      213: 1554955369271599552
+    second: swordofliberty_15
+  - first:
+      213: 5984976869448835278
+    second: swordofliberty_16
+  - first:
+      213: -589421211152507595
+    second: swordofliberty_17
+  - first:
+      213: 5183575451273505247
+    second: swordofliberty_18
+  - first:
+      213: 8562050314945983954
+    second: swordofliberty_19
+  - first:
+      213: 2020521767727924383
+    second: swordofliberty_20
+  - first:
+      213: -1216064477134745969
+    second: swordofliberty_21
+  - first:
+      213: -8140711808620627620
+    second: swordofliberty_22
+  - first:
+      213: -3692129236015834890
+    second: swordofliberty_23
+  - first:
+      213: 1442884127412872480
+    second: swordofliberty_24
+  - first:
+      213: 1854992356129139376
+    second: swordofliberty_25
+  - first:
+      213: 6860539214682298396
+    second: swordofliberty_26
+  - first:
+      213: -6207865533231990617
+    second: swordofliberty_27
+  - first:
+      213: -6475720786175753344
+    second: swordofliberty_28
+  - first:
+      213: 4060443184098423775
+    second: swordofliberty_29
+  - first:
+      213: 7791109263034728777
+    second: swordofliberty_30
+  - first:
+      213: -9044183846715648171
+    second: swordofliberty_31
+  - first:
+      213: -7511225108939043976
+    second: swordofliberty_32
+  - first:
+      213: -4986534807323716735
+    second: swordofliberty_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swordofliberty_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 541
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe2752a5601c0c10800000000000000
+      internalID: 2021008361483873978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 540
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a494f6d0c0d4ea0800000000000000
+      internalID: -5887035886062187952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 540
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd9bd34ae2459ae0800000000000000
+      internalID: -1543253723376280111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 541
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3330c5be428d7f6c0800000000000000
+      internalID: -4109578481873190093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c0b84122ede0e40800000000000000
+      internalID: 5624677222587239494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0554558124e33110800000000000000
+      internalID: 1239585155078968590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fb165e29b2559b0800000000000000
+      internalID: -5092115893758869652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547ab8f15c18f8db0800000000000000
+      internalID: -4787465195233761467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 446
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ebc680f26a02750800000000000000
+      internalID: 6278200601489489448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 445
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c91ad54a1407d10800000000000000
+      internalID: 2121267598692818062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 445
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b073e8c54005def40800000000000000
+      internalID: 5759347478139647755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 446
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6c1aa480f6341b0800000000000000
+      internalID: -5673569024154155306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fb37ca0dc9b2940800000000000000
+      internalID: 5272480208827694853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6358cbbf1b168e20800000000000000
+      internalID: 3352396795732317035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741afa89fcadc1190800000000000000
+      internalID: -7990271053707370169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1250b7baf449510800000000000000
+      internalID: 1554955369271599552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec06d64c0c8ee0350800000000000000
+      internalID: 5984976869448835278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d9c260884f1d7f0800000000000000
+      internalID: -589421211152507595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9a79fb862cfe740800000000000000
+      internalID: 5183575451273505247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d57063d56382d670800000000000000
+      internalID: 8562050314945983954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f940e52b7d55a0c10800000000000000
+      internalID: 2020521767727924383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 302
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e89601dcbaf1fe0800000000000000
+      internalID: -1216064477134745969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 301
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f65ccdb1660f80800000000000000
+      internalID: -8140711808620627620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 302
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f81176850ce2ccc0800000000000000
+      internalID: -3692129236015834890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 253
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0256e7a1877260410800000000000000
+      internalID: 1442884127412872480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba642048b14eb910800000000000000
+      internalID: 1854992356129139376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1896ca2118853f50800000000000000
+      internalID: 6860539214682298396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 241
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8f05e203b39d9a0800000000000000
+      internalID: -6207865533231990617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083816b314e9126a0800000000000000
+      internalID: -6475720786175753344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b7d21097995830800000000000000
+      internalID: 4060443184098423775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 200
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941c07d78949f1c60800000000000000
+      internalID: 7791109263034728777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5571035a5ba9c7280800000000000000
+      internalID: -9044183846715648171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b81b14f84c2c790800000000000000
+      internalID: -7511225108939043976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordofliberty_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 160
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183595533054ccab0800000000000000
+      internalID: -4986534807323716735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      swordofliberty_0: 2021008361483873978
+      swordofliberty_1: -5887035886062187952
+      swordofliberty_10: 5759347478139647755
+      swordofliberty_11: -5673569024154155306
+      swordofliberty_12: 5272480208827694853
+      swordofliberty_13: 3352396795732317035
+      swordofliberty_14: -7990271053707370169
+      swordofliberty_15: 1554955369271599552
+      swordofliberty_16: 5984976869448835278
+      swordofliberty_17: -589421211152507595
+      swordofliberty_18: 5183575451273505247
+      swordofliberty_19: 8562050314945983954
+      swordofliberty_2: -1543253723376280111
+      swordofliberty_20: 2020521767727924383
+      swordofliberty_21: -1216064477134745969
+      swordofliberty_22: -8140711808620627620
+      swordofliberty_23: -3692129236015834890
+      swordofliberty_24: 1442884127412872480
+      swordofliberty_25: 1854992356129139376
+      swordofliberty_26: 6860539214682298396
+      swordofliberty_27: -6207865533231990617
+      swordofliberty_28: -6475720786175753344
+      swordofliberty_29: 4060443184098423775
+      swordofliberty_3: -4109578481873190093
+      swordofliberty_30: 7791109263034728777
+      swordofliberty_31: -9044183846715648171
+      swordofliberty_32: -7511225108939043976
+      swordofliberty_33: -4986534807323716735
+      swordofliberty_4: 5624677222587239494
+      swordofliberty_5: 1239585155078968590
+      swordofliberty_6: -5092115893758869652
+      swordofliberty_7: -4787465195233761467
+      swordofliberty_8: 6278200601489489448
+      swordofliberty_9: 2121267598692818062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

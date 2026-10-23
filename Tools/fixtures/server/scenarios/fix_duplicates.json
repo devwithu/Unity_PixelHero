@@ -1,0 +1,94 @@
+{
+ "seed": 159,
+ "end": 8000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "hello twice"
+    ]
+   ]
+  },
+  {
+   "t": 3050,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "hello twice"
+    ]
+   ]
+  },
+  {
+   "t": 3200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "hello twice"
+    ]
+   ]
+  },
+  {
+   "t": 3250,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "something else"
+    ]
+   ]
+  },
+  {
+   "t": 3260,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "hello twice"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 3d424e9a356ae7b4ebc591ef2c1a10a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3922882578432886232
+    second: cobaltspear_0
+  - first:
+      213: -8206774223220042810
+    second: cobaltspear_1
+  - first:
+      213: 7150165189638112961
+    second: cobaltspear_2
+  - first:
+      213: -7803434350194105122
+    second: cobaltspear_3
+  - first:
+      213: 2125228269912235752
+    second: cobaltspear_4
+  - first:
+      213: 2040515011628772913
+    second: cobaltspear_5
+  - first:
+      213: 843832371114078266
+    second: cobaltspear_6
+  - first:
+      213: 1782811869030810837
+    second: cobaltspear_7
+  - first:
+      213: -5382366720255505335
+    second: cobaltspear_8
+  - first:
+      213: -5468673094825680878
+    second: cobaltspear_9
+  - first:
+      213: -5140451514027330382
+    second: cobaltspear_10
+  - first:
+      213: 6835258045964229582
+    second: cobaltspear_11
+  - first:
+      213: 2334868212694322394
+    second: cobaltspear_12
+  - first:
+      213: -4046899840696190950
+    second: cobaltspear_13
+  - first:
+      213: -3407624721980037160
+    second: cobaltspear_14
+  - first:
+      213: -4095219469072835791
+    second: cobaltspear_15
+  - first:
+      213: -2803465154917089636
+    second: cobaltspear_16
+  - first:
+      213: 1985104193546909395
+    second: cobaltspear_17
+  - first:
+      213: -6326760393912129874
+    second: cobaltspear_18
+  - first:
+      213: 8347452716136250387
+    second: cobaltspear_19
+  - first:
+      213: -6315051502297271054
+    second: cobaltspear_20
+  - first:
+      213: -7107830431927588419
+    second: cobaltspear_21
+  - first:
+      213: 4834417033359068578
+    second: cobaltspear_22
+  - first:
+      213: -7175969250217396489
+    second: cobaltspear_23
+  - first:
+      213: -5561045174196994881
+    second: cobaltspear_24
+  - first:
+      213: 2067157597183760792
+    second: cobaltspear_25
+  - first:
+      213: 9212449090982806781
+    second: cobaltspear_26
+  - first:
+      213: 5611528605069255955
+    second: cobaltspear_27
+  - first:
+      213: -1954850098322806867
+    second: cobaltspear_28
+  - first:
+      213: -7883126786639420796
+    second: cobaltspear_29
+  - first:
+      213: -897850016775573104
+    second: cobaltspear_30
+  - first:
+      213: 1549978580103104611
+    second: cobaltspear_31
+  - first:
+      213: -8869798340245017470
+    second: cobaltspear_32
+  - first:
+      213: 4923040065482279195
+    second: cobaltspear_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobaltspear_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d58f07bbe0e07630800000000000000
+      internalID: 3922882578432886232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 403
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c31329435eab1e80800000000000000
+      internalID: -8206774223220042810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 403
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c64eb55b5d7a3360800000000000000
+      internalID: 7150165189638112961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed469988dc1a4b390800000000000000
+      internalID: -7803434350194105122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee9cbef9d35e7d10800000000000000
+      internalID: 2125228269912235752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e2cfa879d515c10800000000000000
+      internalID: 2040515011628772913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30fa3a1215e5bb00800000000000000
+      internalID: 843832371114078266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d48eeaf2f1ddb810800000000000000
+      internalID: 1782811869030810837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 308
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c49442cfdfd45b0800000000000000
+      internalID: -5382366720255505335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210ed266bce5b14b0800000000000000
+      internalID: -5468673094825680878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b43841559279a8b0800000000000000
+      internalID: -5140451514027330382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 308
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb14d16af6bbde50800000000000000
+      internalID: 6835258045964229582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc0ffec44e176020800000000000000
+      internalID: 2334868212694322394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18f7b9490686d7c0800000000000000
+      internalID: -4046899840696190950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 259
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76a86ae5fa5b0d0800000000000000
+      internalID: -3407624721980037160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 260
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b56ac179bda27c0800000000000000
+      internalID: -4095219469072835791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e3bf48b471819d0800000000000000
+      internalID: -2803465154917089636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 211
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6708a1fb18c8b10800000000000000
+      internalID: 1985104193546909395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 211
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea66bdd31f4d238a0800000000000000
+      internalID: -6326760393912129874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cbba4c40c18d370800000000000000
+      internalID: 8347452716136250387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f436430e1e6c58a0800000000000000
+      internalID: -6315051502297271054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9ae3d81e9eb5d90800000000000000
+      internalID: -7107830431927588419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad07719dac471340800000000000000
+      internalID: 4834417033359068578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67aa1acf5d96c90800000000000000
+      internalID: -7175969250217396489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc7614b0e233d2b0800000000000000
+      internalID: -5561045174196994881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89953e2e1e400bc10800000000000000
+      internalID: 2067157597183760792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4866b73a139df70800000000000000
+      internalID: 9212449090982806781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a810098720ed40800000000000000
+      internalID: 5611528605069255955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e45c513afed4e0800000000000000
+      internalID: -1954850098322806867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 70
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482adf244f1899290800000000000000
+      internalID: -7883126786639420796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0917380ba223a83f0800000000000000
+      internalID: -897850016775573104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36882847e41a28510800000000000000
+      internalID: 1549978580103104611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ca85c576528e480800000000000000
+      internalID: -8869798340245017470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltspear_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19461e2bd6225440800000000000000
+      internalID: 4923040065482279195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cobaltspear_0: 3922882578432886232
+      cobaltspear_1: -8206774223220042810
+      cobaltspear_10: -5140451514027330382
+      cobaltspear_11: 6835258045964229582
+      cobaltspear_12: 2334868212694322394
+      cobaltspear_13: -4046899840696190950
+      cobaltspear_14: -3407624721980037160
+      cobaltspear_15: -4095219469072835791
+      cobaltspear_16: -2803465154917089636
+      cobaltspear_17: 1985104193546909395
+      cobaltspear_18: -6326760393912129874
+      cobaltspear_19: 8347452716136250387
+      cobaltspear_2: 7150165189638112961
+      cobaltspear_20: -6315051502297271054
+      cobaltspear_21: -7107830431927588419
+      cobaltspear_22: 4834417033359068578
+      cobaltspear_23: -7175969250217396489
+      cobaltspear_24: -5561045174196994881
+      cobaltspear_25: 2067157597183760792
+      cobaltspear_26: 9212449090982806781
+      cobaltspear_27: 5611528605069255955
+      cobaltspear_28: -1954850098322806867
+      cobaltspear_29: -7883126786639420796
+      cobaltspear_3: -7803434350194105122
+      cobaltspear_30: -897850016775573104
+      cobaltspear_31: 1549978580103104611
+      cobaltspear_32: -8869798340245017470
+      cobaltspear_33: 4923040065482279195
+      cobaltspear_4: 2125228269912235752
+      cobaltspear_5: 2040515011628772913
+      cobaltspear_6: 843832371114078266
+      cobaltspear_7: 1782811869030810837
+      cobaltspear_8: -5382366720255505335
+      cobaltspear_9: -5468673094825680878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

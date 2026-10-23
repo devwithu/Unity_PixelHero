@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 564bef43efbca594fb3cfd50983f78dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7236178336828002282
+    second: ratballoon_0
+  - first:
+      213: 3351841091553043581
+    second: ratballoon_1
+  - first:
+      213: 5068606514134982106
+    second: ratballoon_2
+  - first:
+      213: -6283473050976237874
+    second: ratballoon_3
+  - first:
+      213: 7387904681707384028
+    second: ratballoon_4
+  - first:
+      213: 5000938262667089378
+    second: ratballoon_5
+  - first:
+      213: 4198945535940123084
+    second: ratballoon_6
+  - first:
+      213: 7359675784451466308
+    second: ratballoon_7
+  - first:
+      213: 2290902671294540809
+    second: ratballoon_8
+  - first:
+      213: 1386193002052308932
+    second: ratballoon_9
+  - first:
+      213: 6064848612390775961
+    second: ratballoon_10
+  - first:
+      213: 4937030483559536838
+    second: ratballoon_11
+  - first:
+      213: -6842224648755891618
+    second: ratballoon_12
+  - first:
+      213: -443525544902001788
+    second: ratballoon_13
+  - first:
+      213: -213207551186703237
+    second: ratballoon_14
+  - first:
+      213: -7484786474617490757
+    second: ratballoon_15
+  - first:
+      213: 2314103060613936859
+    second: ratballoon_16
+  - first:
+      213: 8577298744375963162
+    second: ratballoon_17
+  - first:
+      213: 1926632992715139510
+    second: ratballoon_18
+  - first:
+      213: 5136339022853064527
+    second: ratballoon_19
+  - first:
+      213: -5807254661350682750
+    second: ratballoon_20
+  - first:
+      213: -9208554920605231537
+    second: ratballoon_21
+  - first:
+      213: 6135487523048575486
+    second: ratballoon_22
+  - first:
+      213: 8460979373204433584
+    second: ratballoon_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ratballoon_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 253
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6107dfd342ee39b90800000000000000
+      internalID: -7236178336828002282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 253
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74a395c6b1248e20800000000000000
+      internalID: 3351841091553043581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 252
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add1f3d15ce475640800000000000000
+      internalID: 5068606514134982106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 252
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec642d82d8e9cc8a0800000000000000
+      internalID: -6283473050976237874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 203
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc2d9b4a2c178660800000000000000
+      internalID: 7387904681707384028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 203
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e55ee19ad6e66540800000000000000
+      internalID: 5000938262667089378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 204
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc95cecc7b6a54a30800000000000000
+      internalID: 4198945535940123084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 204
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444264af122d22660800000000000000
+      internalID: 7359675784451466308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c218187dbeacf10800000000000000
+      internalID: 2290902671294540809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 151
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfc575e03fbc3310800000000000000
+      internalID: 1386193002052308932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 152
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ca2161eabaa2450800000000000000
+      internalID: 6064848612390775961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c857d9311bd38440800000000000000
+      internalID: 4937030483559536838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52bb710fe88b01a0800000000000000
+      internalID: -6842224648755891618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bfd47edd748d9f0800000000000000
+      internalID: -443525544902001788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce510acd88a0df0800000000000000
+      internalID: -213207551186703237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2b6c08b52b02890800000000000000
+      internalID: -7484786474617490757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 55
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6b98519785d1020800000000000000
+      internalID: 2314103060613936859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eeee673cfa80770800000000000000
+      internalID: 8577298744375963162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 55
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b96557cf76ccba10800000000000000
+      internalID: 1926632992715139510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 55
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f474227b021f74740800000000000000
+      internalID: 5136339022853064527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f06f557ac786fa0800000000000000
+      internalID: -5807254661350682750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4656a6b614a43080800000000000000
+      internalID: -9208554920605231537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1d62f1561a52550800000000000000
+      internalID: 6135487523048575486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratballoon_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bae1c769ef6b6570800000000000000
+      internalID: 8460979373204433584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ratballoon_0: -7236178336828002282
+      ratballoon_1: 3351841091553043581
+      ratballoon_10: 6064848612390775961
+      ratballoon_11: 4937030483559536838
+      ratballoon_12: -6842224648755891618
+      ratballoon_13: -443525544902001788
+      ratballoon_14: -213207551186703237
+      ratballoon_15: -7484786474617490757
+      ratballoon_16: 2314103060613936859
+      ratballoon_17: 8577298744375963162
+      ratballoon_18: 1926632992715139510
+      ratballoon_19: 5136339022853064527
+      ratballoon_2: 5068606514134982106
+      ratballoon_20: -5807254661350682750
+      ratballoon_21: -9208554920605231537
+      ratballoon_22: 6135487523048575486
+      ratballoon_23: 8460979373204433584
+      ratballoon_3: -6283473050976237874
+      ratballoon_4: 7387904681707384028
+      ratballoon_5: 5000938262667089378
+      ratballoon_6: 4198945535940123084
+      ratballoon_7: 7359675784451466308
+      ratballoon_8: 2290902671294540809
+      ratballoon_9: 1386193002052308932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

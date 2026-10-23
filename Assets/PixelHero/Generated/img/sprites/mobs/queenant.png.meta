@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 36542c0beafc2b74d97cde820d91bb66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4614029324742771376
+    second: queenant_0
+  - first:
+      213: 8441897654607591673
+    second: queenant_1
+  - first:
+      213: 3522821301074517298
+    second: queenant_2
+  - first:
+      213: 1923068432133336415
+    second: queenant_3
+  - first:
+      213: -5007362747075507686
+    second: queenant_4
+  - first:
+      213: -3926876826210555007
+    second: queenant_5
+  - first:
+      213: -1892507007134341099
+    second: queenant_6
+  - first:
+      213: -8883077453152791677
+    second: queenant_7
+  - first:
+      213: 7664009483004440397
+    second: queenant_8
+  - first:
+      213: 2923738866532535848
+    second: queenant_9
+  - first:
+      213: -351763367048816562
+    second: queenant_10
+  - first:
+      213: 2205233465247555005
+    second: queenant_11
+  - first:
+      213: 4716229830620714409
+    second: queenant_12
+  - first:
+      213: 2575235416123570359
+    second: queenant_13
+  - first:
+      213: -5224978954960435941
+    second: queenant_14
+  - first:
+      213: 3852539577385155193
+    second: queenant_15
+  - first:
+      213: 6453485555573977739
+    second: queenant_16
+  - first:
+      213: -7980322777637535294
+    second: queenant_17
+  - first:
+      213: -3054601512637571570
+    second: queenant_18
+  - first:
+      213: -82314637405216861
+    second: queenant_19
+  - first:
+      213: -2080310129734463593
+    second: queenant_20
+  - first:
+      213: -1204783510687447728
+    second: queenant_21
+  - first:
+      213: -5061950996967033196
+    second: queenant_22
+  - first:
+      213: 6484938216807807641
+    second: queenant_23
+  - first:
+      213: 7996019214247498852
+    second: queenant_24
+  - first:
+      213: -9168855936534227585
+    second: queenant_25
+  - first:
+      213: -6695811156532327106
+    second: queenant_26
+  - first:
+      213: -379107197914503457
+    second: queenant_27
+  - first:
+      213: -7301812754809669635
+    second: queenant_28
+  - first:
+      213: 5579075100550245365
+    second: queenant_29
+  - first:
+      213: 1235307555450306116
+    second: queenant_30
+  - first:
+      213: 627600021752528726
+    second: queenant_31
+  - first:
+      213: -5652489288215028405
+    second: queenant_32
+  - first:
+      213: -7203904353932135792
+    second: queenant_33
+  - first:
+      213: 9213611982176618869
+    second: queenant_34
+  - first:
+      213: 4919065993390698941
+    second: queenant_35
+  - first:
+      213: -6285768658493781513
+    second: queenant_36
+  - first:
+      213: 1832169533859533762
+    second: queenant_37
+  - first:
+      213: -4552020793652246129
+    second: queenant_38
+  - first:
+      213: 4778888150132228078
+    second: queenant_39
+  - first:
+      213: 68154188611699063
+    second: queenant_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queenant_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 577
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db87b76cca7ffb0800000000000000
+      internalID: -4614029324742771376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 575
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b6159035a72570800000000000000
+      internalID: 8441897654607591673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dd9b10f4393e030800000000000000
+      internalID: 3522821301074517298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 576
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d2318dc8c10ba10800000000000000
+      internalID: 1923068432133336415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 577
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a4a079c16428ab0800000000000000
+      internalID: -5007362747075507686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 503
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba101055ee089c0800000000000000
+      internalID: -3926876826210555007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 505
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518e1d867e67cb5e0800000000000000
+      internalID: -1892507007134341099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 504
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383db84fe18f8b480800000000000000
+      internalID: -8883077453152791677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 503
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f64b5e4080c5a60800000000000000
+      internalID: 7664009483004440397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 505
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eccab2205339820800000000000000
+      internalID: 2923738866532535848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e485f06d4194e1bf0800000000000000
+      internalID: -351763367048816562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 433
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd52ee17209a9e10800000000000000
+      internalID: 2205233465247555005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 433
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a59f351b0a637140800000000000000
+      internalID: 4716229830620714409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 448
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8fc0f77f21db320800000000000000
+      internalID: 2575235416123570359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 364
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1501b6d2552d77b0800000000000000
+      internalID: -5224978954960435941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 365
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97afc218558f67530800000000000000
+      internalID: 3852539577385155193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 365
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82f917bbe26f8950800000000000000
+      internalID: 6453485555573977739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 365
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1c4fd17b2304190800000000000000
+      internalID: -7980322777637535294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 364
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0eddd4bb10eb95d0800000000000000
+      internalID: -3054601512637571570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 292
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af95adf54f8bdef0800000000000000
+      internalID: -82314637405216861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 293
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc78e75f04123e0800000000000000
+      internalID: -2080310129734463593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 293
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0550a3eb7cfb74fe0800000000000000
+      internalID: -1204783510687447728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 292
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496785b336650c9b0800000000000000
+      internalID: -5061950996967033196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 293
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3f2313f02ff950800000000000000
+      internalID: 6484938216807807641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_24
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 293
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4649b625c1197fe60800000000000000
+      internalID: 7996019214247498852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 220
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75552aba1ea1c080800000000000000
+      internalID: -9168855936534227585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d0bc3aa33b313a0800000000000000
+      internalID: -6695811156532327106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 223
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6238813042dbaf0800000000000000
+      internalID: -379107197914503457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df737257cffbaaa90800000000000000
+      internalID: -7301812754809669635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2687ae3bdc6d40800000000000000
+      internalID: 5579075100550245365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 147
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eb8fe3da1b42110800000000000000
+      internalID: 1235307555450306116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f369505eea5b800800000000000000
+      internalID: 627600021752528726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 148
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d1e37c0f25e81b0800000000000000
+      internalID: -5652489288215028405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 76
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0923cf37827960c90800000000000000
+      internalID: -7203904353932135792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5798bef28435ddf70800000000000000
+      internalID: 9213611982176618869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1b1ca6578044440800000000000000
+      internalID: 4919065993390698941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 76
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9c13265b674c8a0800000000000000
+      internalID: -6285768658493781513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 75
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c39df9db7c2d6910800000000000000
+      internalID: 1832169533859533762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f898a20b439f3d0c0800000000000000
+      internalID: -4552020793652246129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef74f1f375025240800000000000000
+      internalID: 4778888150132228078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: queenant_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771c72a9fd122f000800000000000000
+      internalID: 68154188611699063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      queenant_0: -4614029324742771376
+      queenant_1: 8441897654607591673
+      queenant_10: -351763367048816562
+      queenant_11: 2205233465247555005
+      queenant_12: 4716229830620714409
+      queenant_13: 2575235416123570359
+      queenant_14: -5224978954960435941
+      queenant_15: 3852539577385155193
+      queenant_16: 6453485555573977739
+      queenant_17: -7980322777637535294
+      queenant_18: -3054601512637571570
+      queenant_19: -82314637405216861
+      queenant_2: 3522821301074517298
+      queenant_20: -2080310129734463593
+      queenant_21: -1204783510687447728
+      queenant_22: -5061950996967033196
+      queenant_23: 6484938216807807641
+      queenant_24: 7996019214247498852
+      queenant_25: -9168855936534227585
+      queenant_26: -6695811156532327106
+      queenant_27: -379107197914503457
+      queenant_28: -7301812754809669635
+      queenant_29: 5579075100550245365
+      queenant_3: 1923068432133336415
+      queenant_30: 1235307555450306116
+      queenant_31: 627600021752528726
+      queenant_32: -5652489288215028405
+      queenant_33: -7203904353932135792
+      queenant_34: 9213611982176618869
+      queenant_35: 4919065993390698941
+      queenant_36: -6285768658493781513
+      queenant_37: 1832169533859533762
+      queenant_38: -4552020793652246129
+      queenant_39: 4778888150132228078
+      queenant_4: -5007362747075507686
+      queenant_40: 68154188611699063
+      queenant_5: -3926876826210555007
+      queenant_6: -1892507007134341099
+      queenant_7: -8883077453152791677
+      queenant_8: 7664009483004440397
+      queenant_9: 2923738866532535848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

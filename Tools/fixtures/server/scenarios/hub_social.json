@@ -1,0 +1,364 @@
+{
+ "seed": 153,
+ "end": 40000,
+ "database": {
+  "player_info": [
+   {
+    "username": "keeper",
+    "password": "$2a$10$hs.GUSyj3gVHxHLCUFnVduJghMuJapTtpeSpiUUgtOx/d3oM69nla",
+    "email": "",
+    "x": 191,
+    "y": 166,
+    "userAgent": "harness",
+    "rank": 2,
+    "poison": {
+     "type": -1,
+     "remaining": -1
+    },
+    "effects": {},
+    "hitPoints": 69,
+    "mana": 44,
+    "orientation": 1,
+    "ban": 0,
+    "mute": 0,
+    "jail": 0,
+    "lastWarp": 0,
+    "mapVersion": 1695981410504,
+    "regionsLoaded": [],
+    "friends": [],
+    "lastServerId": 1,
+    "lastAddress": "",
+    "lastGlobalChat": 0,
+    "guild": "",
+    "pet": ""
+   },
+   {
+    "username": "helper",
+    "password": "$2a$10$hs.GUSyj3gVHxHLCUFnVduJghMuJapTtpeSpiUUgtOx/d3oM69nla",
+    "email": "",
+    "x": 191,
+    "y": 166,
+    "userAgent": "harness",
+    "rank": 2,
+    "poison": {
+     "type": -1,
+     "remaining": -1
+    },
+    "effects": {},
+    "hitPoints": 69,
+    "mana": 44,
+    "orientation": 1,
+    "ban": 0,
+    "mute": 0,
+    "jail": 0,
+    "lastWarp": 0,
+    "mapVersion": 1695981410504,
+    "regionsLoaded": [],
+    "friends": [],
+    "lastServerId": 1,
+    "lastAddress": "",
+    "lastGlobalChat": 0,
+    "guild": "",
+    "pet": ""
+   }
+  ]
+ },
+ "nodes": [
+  {
+   "name": "hub",
+   "kind": "hub",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret"
+   }
+  },
+  {
+   "name": "s1",
+   "kind": "server",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret",
+    "serverId": 1,
+    "port": 9001,
+    "apiPort": 9002,
+    "tutorialEnabled": false
+   }
+  },
+  {
+   "name": "s2",
+   "kind": "server",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret",
+    "serverId": 2,
+    "port": 9101,
+    "apiPort": 9102,
+    "tutorialEnabled": false
+   }
+  }
+ ],
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.1.1",
+   "node": "s1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "keeper",
+     "password": "secret123"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 2000,
+   "open": 0,
+   "address": "10.0.2.1",
+   "node": "s2"
+  },
+  {
+   "t": 2400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 2700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "helper",
+     "password": "secret123"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 4000,
+   "node": "s1",
+   "conn": 0,
+   "send": [
+    "Friends",
+    {
+     "opcode": 1,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 4300,
+   "node": "s2",
+   "conn": 0,
+   "send": [
+    "Friends",
+    {
+     "opcode": 1,
+     "username": "keeper"
+    }
+   ]
+  },
+  {
+   "t": 5000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn gold 40000"
+    ]
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 6000,
+   "node": "s1",
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 0,
+     "name": "Night Owls",
+     "colour": "grey",
+     "outline": 0,
+     "outlineColour": "red",
+     "crest": "star"
+    }
+   ]
+  },
+  {
+   "t": 7000,
+   "node": "s2",
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 3,
+     "identifier": "night owls"
+    }
+   ]
+  },
+  {
+   "t": 8000,
+   "node": "s1",
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 11,
+     "message": "hello from s1"
+    }
+   ]
+  },
+  {
+   "t": 8500,
+   "node": "s2",
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 11,
+     "message": "hello from s2"
+    }
+   ]
+  },
+  {
+   "t": 9000,
+   "node": "s1",
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 4
+    }
+   ]
+  },
+  {
+   "t": 10000,
+   "close": 0,
+   "node": "s2"
+  },
+  {
+   "t": 13000,
+   "open": 1,
+   "address": "10.0.2.2",
+   "node": "s2"
+  },
+  {
+   "t": 13400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 13700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "helper",
+     "password": "secret123"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 14300,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 16000,
+   "node": "s2",
+   "conn": 1,
+   "send": [
+    "Guild",
+    {
+     "opcode": 4
+    }
+   ]
+  },
+  {
+   "t": 17000,
+   "node": "s1",
+   "conn": 0,
+   "send": [
+    "Friends",
+    {
+     "opcode": 2,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 20000,
+   "close": 0,
+   "node": "s1"
+  },
+  {
+   "t": 21000,
+   "close": 1,
+   "node": "s2"
+  }
+ ]
+}

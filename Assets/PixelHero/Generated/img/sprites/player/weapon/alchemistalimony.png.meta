@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 2fd374c71bbd136448853968d8241673
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6670922100994928453
+    second: alchemistalimony_0
+  - first:
+      213: 204199370393229129
+    second: alchemistalimony_1
+  - first:
+      213: 2284443324578413542
+    second: alchemistalimony_2
+  - first:
+      213: 8204674401108012344
+    second: alchemistalimony_3
+  - first:
+      213: -231636622710071612
+    second: alchemistalimony_4
+  - first:
+      213: 5460147731479380265
+    second: alchemistalimony_5
+  - first:
+      213: 522634876681947424
+    second: alchemistalimony_6
+  - first:
+      213: -5992297228824869689
+    second: alchemistalimony_7
+  - first:
+      213: 3337082784918346713
+    second: alchemistalimony_8
+  - first:
+      213: -4308013010096213401
+    second: alchemistalimony_9
+  - first:
+      213: 1266617372440140803
+    second: alchemistalimony_10
+  - first:
+      213: 4950502622128651166
+    second: alchemistalimony_11
+  - first:
+      213: -6299762431864430563
+    second: alchemistalimony_12
+  - first:
+      213: 2661625051688328878
+    second: alchemistalimony_13
+  - first:
+      213: -1229073806040995472
+    second: alchemistalimony_14
+  - first:
+      213: 5106073849129314611
+    second: alchemistalimony_15
+  - first:
+      213: -379799397653725001
+    second: alchemistalimony_16
+  - first:
+      213: -1329074021947732153
+    second: alchemistalimony_17
+  - first:
+      213: -3965792704210581967
+    second: alchemistalimony_18
+  - first:
+      213: -5183468296779877351
+    second: alchemistalimony_19
+  - first:
+      213: 5556887878341419547
+    second: alchemistalimony_20
+  - first:
+      213: -4822891197762232764
+    second: alchemistalimony_21
+  - first:
+      213: 4479380538716840916
+    second: alchemistalimony_22
+  - first:
+      213: 814624240723482192
+    second: alchemistalimony_23
+  - first:
+      213: 303810028836379520
+    second: alchemistalimony_24
+  - first:
+      213: 8260243160946996692
+    second: alchemistalimony_25
+  - first:
+      213: 5589663701839503264
+    second: alchemistalimony_26
+  - first:
+      213: 6741961106593870969
+    second: alchemistalimony_27
+  - first:
+      213: -3651540382560051932
+    second: alchemistalimony_28
+  - first:
+      213: -7558321013685434204
+    second: alchemistalimony_29
+  - first:
+      213: 7431442587648239036
+    second: alchemistalimony_30
+  - first:
+      213: 5402631199903387606
+    second: alchemistalimony_31
+  - first:
+      213: -1602956638841714463
+    second: alchemistalimony_32
+  - first:
+      213: -1451199186970719257
+    second: alchemistalimony_33
+  - first:
+      213: 1335896315833455437
+    second: alchemistalimony_34
+  - first:
+      213: 3381721636632500637
+    second: alchemistalimony_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alchemistalimony_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 788
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fea1a8e40e39c50800000000000000
+      internalID: 6670922100994928453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 787
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94795a7de3675d200800000000000000
+      internalID: 204199370393229129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 787
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb3207a919f3bf10800000000000000
+      internalID: 2284443324578413542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 788
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83da8c7c5ebdcd170800000000000000
+      internalID: 8204674401108012344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 725
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce156a08bf09ccf0800000000000000
+      internalID: -231636622710071612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921cbf3ce6756cb40800000000000000
+      internalID: 5460147731479380265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0298bdbb6a5c04700800000000000000
+      internalID: 522634876681947424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 725
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4065f3b6517dca0800000000000000
+      internalID: -5992297228824869689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 661
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db112dbc13bf4e20800000000000000
+      internalID: 3337082784918346713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 660
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762347dfdfcd634c0800000000000000
+      internalID: -4308013010096213401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 660
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c12a61acde39110800000000000000
+      internalID: 1266617372440140803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 661
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b3e9be7e7b3b440800000000000000
+      internalID: 4950502622128651166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 595
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ae5f127fb298a0800000000000000
+      internalID: -6299762431864430563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 596
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaed923f1edffe420800000000000000
+      internalID: 2661625051688328878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 595
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0796034a2e371fee0800000000000000
+      internalID: -1229073806040995472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 596
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339a346dc1b6cd640800000000000000
+      internalID: 5106073849129314611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b041f8c57eaabaf0800000000000000
+      internalID: -379799397653725001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0b91083e2e8de0800000000000000
+      internalID: -1329074021947732153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 533
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13641b41c8ca6f8c0800000000000000
+      internalID: -3965792704210581967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914bfe91c0f9018b0800000000000000
+      internalID: -5183468296779877351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12e63d65180e1d40800000000000000
+      internalID: 5556887878341419547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 469
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e16072206a11db0800000000000000
+      internalID: -4822891197762232764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3e3000ed4f92e30800000000000000
+      internalID: 4479380538716840916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 469
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056debd4e602e4b00800000000000000
+      internalID: 814624240723482192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b5eff8c99573400800000000000000
+      internalID: 303810028836379520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 406
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d57896e36742a270800000000000000
+      internalID: 8260243160946996692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 385
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd9028589729d40800000000000000
+      internalID: 5589663701839503264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 386
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f600f7e1409d50800000000000000
+      internalID: 6741961106593870969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 341
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d93866e5f135dc0800000000000000
+      internalID: -3651540382560051932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 342
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c8e075137b1790800000000000000
+      internalID: -7558321013685434204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 337
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5ab75f8a9c12760800000000000000
+      internalID: 7431442587648239036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 342
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df0fa2b3700afa40800000000000000
+      internalID: 5402631199903387606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 278
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e84c770e6721c9e0800000000000000
+      internalID: -1602956638841714463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 278
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb464a370e4cdbe0800000000000000
+      internalID: -1451199186970719257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4391021f9e0a8210800000000000000
+      internalID: 1335896315833455437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alchemistalimony_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d999bb059e94eee20800000000000000
+      internalID: 3381721636632500637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alchemistalimony_0: 6670922100994928453
+      alchemistalimony_1: 204199370393229129
+      alchemistalimony_10: 1266617372440140803
+      alchemistalimony_11: 4950502622128651166
+      alchemistalimony_12: -6299762431864430563
+      alchemistalimony_13: 2661625051688328878
+      alchemistalimony_14: -1229073806040995472
+      alchemistalimony_15: 5106073849129314611
+      alchemistalimony_16: -379799397653725001
+      alchemistalimony_17: -1329074021947732153
+      alchemistalimony_18: -3965792704210581967
+      alchemistalimony_19: -5183468296779877351
+      alchemistalimony_2: 2284443324578413542
+      alchemistalimony_20: 5556887878341419547
+      alchemistalimony_21: -4822891197762232764
+      alchemistalimony_22: 4479380538716840916
+      alchemistalimony_23: 814624240723482192
+      alchemistalimony_24: 303810028836379520
+      alchemistalimony_25: 8260243160946996692
+      alchemistalimony_26: 5589663701839503264
+      alchemistalimony_27: 6741961106593870969
+      alchemistalimony_28: -3651540382560051932
+      alchemistalimony_29: -7558321013685434204
+      alchemistalimony_3: 8204674401108012344
+      alchemistalimony_30: 7431442587648239036
+      alchemistalimony_31: 5402631199903387606
+      alchemistalimony_32: -1602956638841714463
+      alchemistalimony_33: -1451199186970719257
+      alchemistalimony_34: 1335896315833455437
+      alchemistalimony_35: 3381721636632500637
+      alchemistalimony_4: -231636622710071612
+      alchemistalimony_5: 5460147731479380265
+      alchemistalimony_6: 522634876681947424
+      alchemistalimony_7: -5992297228824869689
+      alchemistalimony_8: 3337082784918346713
+      alchemistalimony_9: -4308013010096213401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

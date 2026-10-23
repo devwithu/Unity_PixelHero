@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: a47e3b96d0585d440967d54fdd2bac26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7014775236874643583
+    second: whitemouse_0
+  - first:
+      213: -2259517419935175922
+    second: whitemouse_1
+  - first:
+      213: -2812889601133000782
+    second: whitemouse_2
+  - first:
+      213: 9170860926283292481
+    second: whitemouse_3
+  - first:
+      213: -5811377139595722270
+    second: whitemouse_4
+  - first:
+      213: 1882794887512662622
+    second: whitemouse_5
+  - first:
+      213: 2752693820771282618
+    second: whitemouse_6
+  - first:
+      213: 8639450448572775604
+    second: whitemouse_7
+  - first:
+      213: -6834566074025338023
+    second: whitemouse_8
+  - first:
+      213: -258758080125318444
+    second: whitemouse_9
+  - first:
+      213: -5907632335141991841
+    second: whitemouse_10
+  - first:
+      213: -6626389115452844305
+    second: whitemouse_11
+  - first:
+      213: 4811830334868142759
+    second: whitemouse_12
+  - first:
+      213: -4135462979555419168
+    second: whitemouse_13
+  - first:
+      213: 8420227219486101398
+    second: whitemouse_14
+  - first:
+      213: -1759095061046389448
+    second: whitemouse_15
+  - first:
+      213: -4298272103340108917
+    second: whitemouse_16
+  - first:
+      213: -7000600725157049370
+    second: whitemouse_17
+  - first:
+      213: -8512200043989470642
+    second: whitemouse_18
+  - first:
+      213: 931558445102104358
+    second: whitemouse_19
+  - first:
+      213: 5387880775479244204
+    second: whitemouse_20
+  - first:
+      213: -4776514311050093134
+    second: whitemouse_21
+  - first:
+      213: -2272955751048036386
+    second: whitemouse_22
+  - first:
+      213: -4986266021391959317
+    second: whitemouse_23
+  - first:
+      213: -3107426758532711607
+    second: whitemouse_24
+  - first:
+      213: -4315092767338757687
+    second: whitemouse_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whitemouse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18751e2861386ae90800000000000000
+      internalID: -7014775236874643583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 209
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0be4f4c0e494a0e0800000000000000
+      internalID: -2259517419935175922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 209
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7c314afcb96f8d0800000000000000
+      internalID: -2812889601133000782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f10a35c61754f70800000000000000
+      internalID: 9170860926283292481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 184
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e142921847d95fa0800000000000000
+      internalID: -5811377139595722270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 184
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e522d1789f7012a10800000000000000
+      internalID: 1882794887512662622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe2c721278833620800000000000000
+      internalID: 2752693820771282618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcf4c1c86e75e770800000000000000
+      internalID: 8639450448572775604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b98c3ed5eb621a0800000000000000
+      internalID: -6834566074025338023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da4e57a5e4b86cf0800000000000000
+      internalID: -258758080125318444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a0040f0bfd30ea0800000000000000
+      internalID: -5907632335141991841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe61be525365a04a0800000000000000
+      internalID: -6626389115452844305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab345023e07c240800000000000000
+      internalID: 4811830334868142759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb12d9a452eb96c0800000000000000
+      internalID: -4135462979555419168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f4b893b08aad470800000000000000
+      internalID: 8420227219486101398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8359f20bc507697e0800000000000000
+      internalID: -1759095061046389448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8311749b487954c0800000000000000
+      internalID: -4298272103340108917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb0ca23bbed8de90800000000000000
+      internalID: -7000600725157049370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4271f8d8279ed980800000000000000
+      internalID: -8512200043989470642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f73df587f8dec00800000000000000
+      internalID: 931558445102104358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b892e40995ca40800000000000000
+      internalID: 5387880775479244204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd1a498a8966bdb0800000000000000
+      internalID: -4776514311050093134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 29
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfb99c79c6d470e0800000000000000
+      internalID: -2272955751048036386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaf45fc8793dcab0800000000000000
+      internalID: -4986266021391959317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b3d14b3d330e4d0800000000000000
+      internalID: -3107426758532711607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitemouse_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c18aed8df5bd14c0800000000000000
+      internalID: -4315092767338757687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      whitemouse_0: -7014775236874643583
+      whitemouse_1: -2259517419935175922
+      whitemouse_10: -5907632335141991841
+      whitemouse_11: -6626389115452844305
+      whitemouse_12: 4811830334868142759
+      whitemouse_13: -4135462979555419168
+      whitemouse_14: 8420227219486101398
+      whitemouse_15: -1759095061046389448
+      whitemouse_16: -4298272103340108917
+      whitemouse_17: -7000600725157049370
+      whitemouse_18: -8512200043989470642
+      whitemouse_19: 931558445102104358
+      whitemouse_2: -2812889601133000782
+      whitemouse_20: 5387880775479244204
+      whitemouse_21: -4776514311050093134
+      whitemouse_22: -2272955751048036386
+      whitemouse_23: -4986266021391959317
+      whitemouse_24: -3107426758532711607
+      whitemouse_25: -4315092767338757687
+      whitemouse_3: 9170860926283292481
+      whitemouse_4: -5811377139595722270
+      whitemouse_5: 1882794887512662622
+      whitemouse_6: 2752693820771282618
+      whitemouse_7: 8639450448572775604
+      whitemouse_8: -6834566074025338023
+      whitemouse_9: -258758080125318444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

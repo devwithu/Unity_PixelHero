@@ -1,0 +1,46 @@
+{
+  "description": "Synthetic server frames covering entity drawing cases the recordings lack: equipped player facing up (cape on top), a mob facing left (mirrored) that attacks, a custom-scaled mob, a walking mob, NPCs with both exclamations, an item (sparks), a tree and an exhausted tree (destination-over bases), rocks north and south of the player (entities vs entities-fore), a chest. Text: other players with ranks (two crowns in one frame: drawCrown restores without saving), an item stack, a countdown, and a Rank packet that gives the main player a crown.",
+  "frames": [
+    { "t": 0, "packets": [[0, null], [1, { "type": "client", "instance": "0-1", "serverId": 1, "serverTime": 0 }]] },
+    { "t": 32, "packets": [
+      [8, 0, { "data": { "equipments": [
+        { "type": 4, "key": "bronzebattleaxe", "name": "Bronze Battleaxe", "count": 1, "enchantments": {}, "attackRange": 1 },
+        { "type": 10, "key": "wings", "name": "Wings", "count": 1, "enchantments": {} },
+        { "type": 0, "key": "ironhelmet", "name": "Iron Helmet", "count": 1, "enchantments": {} },
+        { "type": 5, "key": "coppershield", "name": "Copper Shield", "count": 1, "enchantments": {} },
+        { "type": 3, "key": "ironchestplate", "name": "Iron Chestplate", "count": 1, "enchantments": {} },
+        { "type": 9, "key": "ironlegplates", "name": "Iron Legplates", "count": 1, "enchantments": {} }
+      ] } }],
+      [3, { "instance": "0-1", "type": 0, "name": "Tester", "key": "", "x": 373, "y": 919, "movementSpeed": 220, "orientation": 0, "rank": 0, "level": 5, "hitPoints": 50, "maxHitPoints": 50, "mana": 10, "maxMana": 10, "attackRange": 1, "equipments": [] }]
+    ] },
+    { "t": 96, "packets": [
+      [5, { "instance": "3-1", "type": 3, "name": "Rat", "key": "rat", "x": 375, "y": 919, "movementSpeed": 400, "orientation": 2, "hitPoints": 20, "maxHitPoints": 20, "attackRange": 1, "level": 3 }],
+      [5, { "instance": "3-2", "type": 3, "name": "Big Rat", "key": "rat", "x": 371, "y": 918, "movementSpeed": 400, "orientation": 1, "hitPoints": 40, "maxHitPoints": 40, "attackRange": 1, "level": 6 }],
+      [5, { "instance": "3-3", "type": 3, "name": "Rat", "key": "rat", "x": 368, "y": 922, "movementSpeed": 400, "orientation": 3, "hitPoints": 20, "maxHitPoints": 20, "attackRange": 1, "level": 3 }],
+      [5, { "instance": "1-1", "type": 1, "name": "Agent", "key": "agent", "x": 370, "y": 917 }],
+      [5, { "instance": "1-2", "type": 1, "name": "Sponge", "key": "sponge", "x": 376, "y": 917 }],
+      [5, { "instance": "2-1", "type": 2, "name": "Accuracy Potion", "key": "accuracypotion", "x": 374, "y": 921, "count": 1 }],
+      [5, { "instance": "10-1", "type": 10, "name": "Oak", "key": "oak", "x": 369, "y": 920, "state": 0 }],
+      [5, { "instance": "10-2", "type": 10, "name": "Oak", "key": "oak", "x": 378, "y": 917, "state": 1 }],
+      [5, { "instance": "11-1", "type": 11, "name": "Amethyst Rock", "key": "amethystrock", "x": 376, "y": 921, "state": 0 }],
+      [5, { "instance": "11-2", "type": 11, "name": "Beryl Rock", "key": "berylrock", "x": 372, "y": 916, "state": 0 }],
+      [5, { "instance": "4-1", "type": 4, "name": "Chest", "key": "chest", "x": 378, "y": 920 }]
+    ] },
+    { "t": 160, "packets": [[45, [
+      { "instance": "1-1", "colour": "rgb(106, 90, 205)", "exclamation": "blue" },
+      { "instance": "1-2", "exclamation": "achievement" },
+      { "instance": "3-2", "colour": "rgb(255, 64, 64)", "scale": 1.5 }
+    ]]] },
+    { "t": 208, "packets": [
+      [5, { "instance": "0-2", "type": 0, "name": "Patron", "key": "", "x": 377, "y": 919, "movementSpeed": 220, "orientation": 0, "rank": 7, "level": 12, "hitPoints": 50, "maxHitPoints": 50, "mana": 10, "maxMana": 10, "attackRange": 1, "equipments": [] }],
+      [5, { "instance": "0-3", "type": 0, "name": "Painter", "key": "", "x": 370, "y": 921, "movementSpeed": 220, "orientation": 0, "rank": 5, "level": 20, "hitPoints": 50, "maxHitPoints": 50, "mana": 10, "maxMana": 10, "attackRange": 1, "equipments": [] }],
+      [5, { "instance": "0-4", "type": 0, "name": "Admin", "key": "", "x": 375, "y": 923, "movementSpeed": 220, "orientation": 0, "rank": 2, "level": 30, "hitPoints": 50, "maxHitPoints": 50, "mana": 10, "maxMana": 10, "attackRange": 1, "equipments": [] }],
+      [5, { "instance": "2-2", "type": 2, "name": "Coins", "key": "gold", "x": 374, "y": 923, "count": 5 }],
+      [57, { "instance": "3-3", "time": 3 }]
+    ] },
+    { "t": 1600, "packets": [[16, { "instance": "3-1", "action": 1 }], [11, 4, { "instance": "3-3", "x": 372, "y": 922 }]] },
+    { "t": 2400, "packets": [[16, { "instance": "3-1", "action": 1 }], [16, { "instance": "0-1", "action": 1, "resourceInstance": "11-1" }]] },
+    { "t": 3000, "packets": [[50, 9]] },
+    { "t": 4000, "packets": [] }
+  ]
+}

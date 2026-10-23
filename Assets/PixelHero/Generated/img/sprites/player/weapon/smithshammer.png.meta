@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 07d048c7e76c8ca40a6292f8b736e5f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9208129265979051466
+    second: smithshammer_0
+  - first:
+      213: 2187650282469225270
+    second: smithshammer_1
+  - first:
+      213: -2771864326239322391
+    second: smithshammer_2
+  - first:
+      213: -7098624298728888151
+    second: smithshammer_3
+  - first:
+      213: 7368187412443248731
+    second: smithshammer_4
+  - first:
+      213: -5725688854891452785
+    second: smithshammer_5
+  - first:
+      213: 7743145623789555094
+    second: smithshammer_6
+  - first:
+      213: -5546721916325076744
+    second: smithshammer_7
+  - first:
+      213: 2716813678711522042
+    second: smithshammer_8
+  - first:
+      213: 8673112192003553275
+    second: smithshammer_9
+  - first:
+      213: 2192931050686423617
+    second: smithshammer_10
+  - first:
+      213: 7325316154134776644
+    second: smithshammer_11
+  - first:
+      213: -8600712759438426192
+    second: smithshammer_12
+  - first:
+      213: -7537843787882704540
+    second: smithshammer_13
+  - first:
+      213: 4434649015610895493
+    second: smithshammer_14
+  - first:
+      213: -722492607438818407
+    second: smithshammer_15
+  - first:
+      213: -1219370437622791319
+    second: smithshammer_16
+  - first:
+      213: 745922761244637943
+    second: smithshammer_17
+  - first:
+      213: -438924446642583610
+    second: smithshammer_18
+  - first:
+      213: -6951837248094419324
+    second: smithshammer_19
+  - first:
+      213: 4946595258355026068
+    second: smithshammer_20
+  - first:
+      213: 1990914408523113444
+    second: smithshammer_21
+  - first:
+      213: -4206306090111126128
+    second: smithshammer_22
+  - first:
+      213: 5145795172459439110
+    second: smithshammer_23
+  - first:
+      213: 5765331094882541924
+    second: smithshammer_24
+  - first:
+      213: 6391591557545081007
+    second: smithshammer_25
+  - first:
+      213: 4974249150333001277
+    second: smithshammer_26
+  - first:
+      213: -5864382917331588588
+    second: smithshammer_27
+  - first:
+      213: 3671683636996678515
+    second: smithshammer_28
+  - first:
+      213: -3886904894799603695
+    second: smithshammer_29
+  - first:
+      213: -1363547165900249189
+    second: smithshammer_30
+  - first:
+      213: 8442859316813153590
+    second: smithshammer_31
+  - first:
+      213: 2604986397820642638
+    second: smithshammer_32
+  - first:
+      213: -9096916797335452242
+    second: smithshammer_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smithshammer_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b0772837263080800000000000000
+      internalID: -9208129265979051466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 537
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6337c5b57581c5e10800000000000000
+      internalID: 2187650282469225270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 537
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee7decc41c5889d0800000000000000
+      internalID: -2771864326239322391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 538
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8ee487fce9c7d90800000000000000
+      internalID: -7098624298728888151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 490
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b583f2dc96f014660800000000000000
+      internalID: 7368187412443248731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8628cd82544a80b0800000000000000
+      internalID: -5725688854891452785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dc81e7bed257b60800000000000000
+      internalID: 7743145623789555094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 490
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0e19d0ec51603b0800000000000000
+      internalID: -5546721916325076744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2c58085af04b520800000000000000
+      internalID: 2716813678711522042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf73b7526951d5870800000000000000
+      internalID: 8673112192003553275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142a6150c2bde6e10800000000000000
+      internalID: 2192931050686423617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b42a22b30c8a560800000000000000
+      internalID: 7325316154134776644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfb086505124a880800000000000000
+      internalID: -8600712759438426192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 394
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461ddda1303346790800000000000000
+      internalID: -7537843787882704540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ce50fa8c90b8d30800000000000000
+      internalID: 4434649015610895493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 394
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99373cc2dc039f5f0800000000000000
+      internalID: -722492607438818407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 346
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96381e72c0de31fe0800000000000000
+      internalID: -1219370437622791319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa7ddd9ccc0a5a00800000000000000
+      internalID: 745922761244637943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c742a29a80a8e9f0800000000000000
+      internalID: -438924446642583610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 346
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c003fadc168f90800000000000000
+      internalID: -6951837248094419324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 302
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49802e5ed26d5a440800000000000000
+      internalID: 4946595258355026068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e32a323b1621ab10800000000000000
+      internalID: 1990914408523113444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0953d52a5e230a5c0800000000000000
+      internalID: -4206306090111126128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 303
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6046d5d1279896740800000000000000
+      internalID: 5145795172459439110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461ecf2b512920050800000000000000
+      internalID: 5765331094882541924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 252
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83cd058ae73b850800000000000000
+      internalID: 6391591557545081007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e13ed5f35180540800000000000000
+      internalID: 4974249150333001277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae499bec68d9ea0800000000000000
+      internalID: -5864382917331588588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 203
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3732dce70d074f230800000000000000
+      internalID: 3671683636996678515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 204
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1181eb58790fe0ac0800000000000000
+      internalID: -3886904894799603695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 199
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b976606b315b31de0800000000000000
+      internalID: -1363547165900249189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 203
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635ce3301df0b2570800000000000000
+      internalID: 8442859316813153590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 159
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45e2d6b355c62420800000000000000
+      internalID: 2604986397820642638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smithshammer_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5498fce5241c180800000000000000
+      internalID: -9096916797335452242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smithshammer_0: -9208129265979051466
+      smithshammer_1: 2187650282469225270
+      smithshammer_10: 2192931050686423617
+      smithshammer_11: 7325316154134776644
+      smithshammer_12: -8600712759438426192
+      smithshammer_13: -7537843787882704540
+      smithshammer_14: 4434649015610895493
+      smithshammer_15: -722492607438818407
+      smithshammer_16: -1219370437622791319
+      smithshammer_17: 745922761244637943
+      smithshammer_18: -438924446642583610
+      smithshammer_19: -6951837248094419324
+      smithshammer_2: -2771864326239322391
+      smithshammer_20: 4946595258355026068
+      smithshammer_21: 1990914408523113444
+      smithshammer_22: -4206306090111126128
+      smithshammer_23: 5145795172459439110
+      smithshammer_24: 5765331094882541924
+      smithshammer_25: 6391591557545081007
+      smithshammer_26: 4974249150333001277
+      smithshammer_27: -5864382917331588588
+      smithshammer_28: 3671683636996678515
+      smithshammer_29: -3886904894799603695
+      smithshammer_3: -7098624298728888151
+      smithshammer_30: -1363547165900249189
+      smithshammer_31: 8442859316813153590
+      smithshammer_32: 2604986397820642638
+      smithshammer_33: -9096916797335452242
+      smithshammer_4: 7368187412443248731
+      smithshammer_5: -5725688854891452785
+      smithshammer_6: 7743145623789555094
+      smithshammer_7: -5546721916325076744
+      smithshammer_8: 2716813678711522042
+      smithshammer_9: 8673112192003553275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

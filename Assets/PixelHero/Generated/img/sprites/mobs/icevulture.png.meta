@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 2419b700385f46944bfab8a7e1902e7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6301549715506028801
+    second: icevulture_0
+  - first:
+      213: 7197502908564365968
+    second: icevulture_1
+  - first:
+      213: 6073514195269894210
+    second: icevulture_2
+  - first:
+      213: 8309910329584218257
+    second: icevulture_3
+  - first:
+      213: 7284809021504209583
+    second: icevulture_4
+  - first:
+      213: 5131975812212728188
+    second: icevulture_5
+  - first:
+      213: 8057560514123634690
+    second: icevulture_6
+  - first:
+      213: 639590419224901946
+    second: icevulture_7
+  - first:
+      213: -9139598468938414561
+    second: icevulture_8
+  - first:
+      213: 4507774453383583954
+    second: icevulture_9
+  - first:
+      213: 4834773693134217035
+    second: icevulture_10
+  - first:
+      213: -8771905256776488008
+    second: icevulture_11
+  - first:
+      213: 7147082648799503771
+    second: icevulture_12
+  - first:
+      213: -2306677232741977943
+    second: icevulture_13
+  - first:
+      213: -4260137270686717461
+    second: icevulture_14
+  - first:
+      213: -2643800191155724748
+    second: icevulture_15
+  - first:
+      213: -96456769842689019
+    second: icevulture_16
+  - first:
+      213: -3066914050668579762
+    second: icevulture_17
+  - first:
+      213: -6904448884010658684
+    second: icevulture_18
+  - first:
+      213: 1701978174351316963
+    second: icevulture_19
+  - first:
+      213: -8114167407323681724
+    second: icevulture_20
+  - first:
+      213: 5130640555321411618
+    second: icevulture_21
+  - first:
+      213: -159391474495900408
+    second: icevulture_22
+  - first:
+      213: -5050317921816379319
+    second: icevulture_23
+  - first:
+      213: -1335619243298018789
+    second: icevulture_24
+  - first:
+      213: -2284878360888490540
+    second: icevulture_25
+  - first:
+      213: -2493508321243721085
+    second: icevulture_26
+  - first:
+      213: -2370171246210712034
+    second: icevulture_27
+  - first:
+      213: -2842596172457903011
+    second: icevulture_28
+  - first:
+      213: 462079741889909457
+    second: icevulture_29
+  - first:
+      213: 2792013565451200912
+    second: icevulture_30
+  - first:
+      213: -4431473970413177778
+    second: icevulture_31
+  - first:
+      213: 2406212921124023086
+    second: icevulture_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icevulture_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 394
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1016337441a937750800000000000000
+      internalID: 6301549715506028801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 392
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e1d6e2caa2e360800000000000000
+      internalID: 7197502908564365968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 422
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240ca535bf4794450800000000000000
+      internalID: 6073514195269894210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 391
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190773eba6bb25370800000000000000
+      internalID: 8309910329584218257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 346
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c15f5537d81560800000000000000
+      internalID: 7284809021504209583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 344
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7126d29fc0783740800000000000000
+      internalID: 5131975812212728188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 343
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2089d88c89432df60800000000000000
+      internalID: 8057560514123634690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 344
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39b4abf81840e800800000000000000
+      internalID: 639590419224901946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 346
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16c83dbd9f992180800000000000000
+      internalID: -9139598468938414561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 344
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8528d6bf4de8e30800000000000000
+      internalID: 4507774453383583954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 296
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f1ba4ee01981340800000000000000
+      internalID: 4834773693134217035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 296
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bba47ef4aee34680800000000000000
+      internalID: -8771905256776488008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b956d0e5dc98f2360800000000000000
+      internalID: 7147082648799503771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 247
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0fee237490dffd0800000000000000
+      internalID: -2306677232741977943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9e05639b3f0e4c0800000000000000
+      internalID: -4260137270686717461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e9d0dcbb55f4bd0800000000000000
+      internalID: -2643800191155724748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 199
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c4851341159aef0800000000000000
+      internalID: -96456769842689019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 199
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44be3d8be12075d0800000000000000
+      internalID: -3066914050668579762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 199
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484d3b242587e20a0800000000000000
+      internalID: -6904448884010658684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 198
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e79da1d124ae9710800000000000000
+      internalID: 1701978174351316963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 152
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6b66dbbfa46f80800000000000000
+      internalID: -8114167407323681724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 152
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228452ad662b33740800000000000000
+      internalID: 5130640555321411618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80532766c4ab9cdf0800000000000000
+      internalID: -159391474495900408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 105
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940885b9b9aa9e9b0800000000000000
+      internalID: -5050317921816379319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aab08ef5de67de0800000000000000
+      internalID: -1335619243298018789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c3409c3b7a40e0800000000000000
+      internalID: -2284878360888490540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 56
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38299cb9467456dd0800000000000000
+      internalID: -2493508321243721085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 54
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ef3cc2fc57b1fd0800000000000000
+      internalID: -2370171246210712034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cf2c487d11d88d0800000000000000
+      internalID: -2842596172457903011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 55
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d29049b313a96600800000000000000
+      internalID: 462079741889909457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 55
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0996ac88b893fb620800000000000000
+      internalID: 2792013565451200912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44f12227ed3082c0800000000000000
+      internalID: -4431473970413177778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icevulture_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6d8137e5946120800000000000000
+      internalID: 2406212921124023086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icevulture_0: 6301549715506028801
+      icevulture_1: 7197502908564365968
+      icevulture_10: 4834773693134217035
+      icevulture_11: -8771905256776488008
+      icevulture_12: 7147082648799503771
+      icevulture_13: -2306677232741977943
+      icevulture_14: -4260137270686717461
+      icevulture_15: -2643800191155724748
+      icevulture_16: -96456769842689019
+      icevulture_17: -3066914050668579762
+      icevulture_18: -6904448884010658684
+      icevulture_19: 1701978174351316963
+      icevulture_2: 6073514195269894210
+      icevulture_20: -8114167407323681724
+      icevulture_21: 5130640555321411618
+      icevulture_22: -159391474495900408
+      icevulture_23: -5050317921816379319
+      icevulture_24: -1335619243298018789
+      icevulture_25: -2284878360888490540
+      icevulture_26: -2493508321243721085
+      icevulture_27: -2370171246210712034
+      icevulture_28: -2842596172457903011
+      icevulture_29: 462079741889909457
+      icevulture_3: 8309910329584218257
+      icevulture_30: 2792013565451200912
+      icevulture_31: -4431473970413177778
+      icevulture_32: 2406212921124023086
+      icevulture_4: 7284809021504209583
+      icevulture_5: 5131975812212728188
+      icevulture_6: 8057560514123634690
+      icevulture_7: 639590419224901946
+      icevulture_8: -9139598468938414561
+      icevulture_9: 4507774453383583954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

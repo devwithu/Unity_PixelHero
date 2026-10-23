@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: b96b53aba515afe49be867915cf5c034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3557657481529362390
+    second: cobaltbattleaxe_0
+  - first:
+      213: -8857168707618137368
+    second: cobaltbattleaxe_1
+  - first:
+      213: -8502951722531384719
+    second: cobaltbattleaxe_2
+  - first:
+      213: 7805724016049849040
+    second: cobaltbattleaxe_3
+  - first:
+      213: 622628027218392248
+    second: cobaltbattleaxe_4
+  - first:
+      213: -4730048372433607493
+    second: cobaltbattleaxe_5
+  - first:
+      213: -369944929792551099
+    second: cobaltbattleaxe_6
+  - first:
+      213: -3642345021926287539
+    second: cobaltbattleaxe_7
+  - first:
+      213: 8173974484850275310
+    second: cobaltbattleaxe_8
+  - first:
+      213: -4025430812224849783
+    second: cobaltbattleaxe_9
+  - first:
+      213: -3523101321867662870
+    second: cobaltbattleaxe_10
+  - first:
+      213: 1923881924387295249
+    second: cobaltbattleaxe_11
+  - first:
+      213: 5464467762495595261
+    second: cobaltbattleaxe_12
+  - first:
+      213: 6053598439204177185
+    second: cobaltbattleaxe_13
+  - first:
+      213: -130967946794082222
+    second: cobaltbattleaxe_14
+  - first:
+      213: -831512093504332263
+    second: cobaltbattleaxe_15
+  - first:
+      213: -8852028470323310834
+    second: cobaltbattleaxe_16
+  - first:
+      213: 8623347043614530402
+    second: cobaltbattleaxe_17
+  - first:
+      213: -4514399933602973724
+    second: cobaltbattleaxe_18
+  - first:
+      213: 6968241243628052923
+    second: cobaltbattleaxe_19
+  - first:
+      213: 6217530458469082066
+    second: cobaltbattleaxe_20
+  - first:
+      213: 1523575242226662013
+    second: cobaltbattleaxe_21
+  - first:
+      213: 1748485897399339694
+    second: cobaltbattleaxe_22
+  - first:
+      213: 3663647600735572097
+    second: cobaltbattleaxe_23
+  - first:
+      213: 629867259580290223
+    second: cobaltbattleaxe_24
+  - first:
+      213: -6952824810276610321
+    second: cobaltbattleaxe_25
+  - first:
+      213: -8189540152566333431
+    second: cobaltbattleaxe_26
+  - first:
+      213: -1054905687668213186
+    second: cobaltbattleaxe_27
+  - first:
+      213: -3564110837074962251
+    second: cobaltbattleaxe_28
+  - first:
+      213: -345836300793269863
+    second: cobaltbattleaxe_29
+  - first:
+      213: 1891384744022489587
+    second: cobaltbattleaxe_30
+  - first:
+      213: 2157644149597613364
+    second: cobaltbattleaxe_31
+  - first:
+      213: 8201331257372894857
+    second: cobaltbattleaxe_32
+  - first:
+      213: -4774969746790899795
+    second: cobaltbattleaxe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobaltbattleaxe_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a287eecae59a0aec0800000000000000
+      internalID: -3557657481529362390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea17badcf3051580800000000000000
+      internalID: -8857168707618137368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172983c75727ff980800000000000000
+      internalID: -8502951722531384719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d20367d2a0835c60800000000000000
+      internalID: 7805724016049849040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4fd8554e404a800800000000000000
+      internalID: 622628027218392248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb42eaee01e7b5eb0800000000000000
+      internalID: -4730048372433607493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5471241eb01bddaf0800000000000000
+      internalID: -369944929792551099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47dba2208ac37dc0800000000000000
+      internalID: -3642345021926287539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 300
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee37b948c7acf6170800000000000000
+      internalID: 8173974484850275310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988fc61010cc228c0800000000000000
+      internalID: -4025430812224849783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 300
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae96e52930e6b1fc0800000000000000
+      internalID: -3523101321867662870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11056e4ca6003ba10800000000000000
+      internalID: 1923881924387295249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 252
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2af1e5a70b5db40800000000000000
+      internalID: 5464467762495595261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125cf9505b3b20450800000000000000
+      internalID: 6053598439204177185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2506066a855be2ef0800000000000000
+      internalID: -130967946794082222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 253
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e9b301820e574f0800000000000000
+      internalID: -831512093504332263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f0cbc9107472580800000000000000
+      internalID: -8852028470323310834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b1f8d92784ca770800000000000000
+      internalID: 8623347043614530402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e73c8fbd21a951c0800000000000000
+      internalID: -4514399933602973724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 205
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb12da3ed7a24b060800000000000000
+      internalID: 6968241243628052923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3a835920b194650800000000000000
+      internalID: 6217530458469082066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aff7d4c93d42510800000000000000
+      internalID: 1523575242226662013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 156
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa8449e8aed34810800000000000000
+      internalID: 1748485897399339694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 157
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1805e000514e7d230800000000000000
+      internalID: 3663647600735572097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa49ee67fecbdb800800000000000000
+      internalID: 629867259580290223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee90f53caa928f90800000000000000
+      internalID: -6952824810276610321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004c7c0f98e85e80800000000000000
+      internalID: -8189540152566333431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a3ffebdd83c51f0800000000000000
+      internalID: -1054905687668213186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d600c31cb98ec0800000000000000
+      internalID: -3564110837074962251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99138cc77b7533bf0800000000000000
+      internalID: -345836300793269863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9bd09576c8f3a10800000000000000
+      internalID: 1891384744022489587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d27702ced71fd10800000000000000
+      internalID: 2157644149597613364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986e409735bf0d170800000000000000
+      internalID: 8201331257372894857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltbattleaxe_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf9a4d6056ebbdb0800000000000000
+      internalID: -4774969746790899795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cobaltbattleaxe_0: -3557657481529362390
+      cobaltbattleaxe_1: -8857168707618137368
+      cobaltbattleaxe_10: -3523101321867662870
+      cobaltbattleaxe_11: 1923881924387295249
+      cobaltbattleaxe_12: 5464467762495595261
+      cobaltbattleaxe_13: 6053598439204177185
+      cobaltbattleaxe_14: -130967946794082222
+      cobaltbattleaxe_15: -831512093504332263
+      cobaltbattleaxe_16: -8852028470323310834
+      cobaltbattleaxe_17: 8623347043614530402
+      cobaltbattleaxe_18: -4514399933602973724
+      cobaltbattleaxe_19: 6968241243628052923
+      cobaltbattleaxe_2: -8502951722531384719
+      cobaltbattleaxe_20: 6217530458469082066
+      cobaltbattleaxe_21: 1523575242226662013
+      cobaltbattleaxe_22: 1748485897399339694
+      cobaltbattleaxe_23: 3663647600735572097
+      cobaltbattleaxe_24: 629867259580290223
+      cobaltbattleaxe_25: -6952824810276610321
+      cobaltbattleaxe_26: -8189540152566333431
+      cobaltbattleaxe_27: -1054905687668213186
+      cobaltbattleaxe_28: -3564110837074962251
+      cobaltbattleaxe_29: -345836300793269863
+      cobaltbattleaxe_3: 7805724016049849040
+      cobaltbattleaxe_30: 1891384744022489587
+      cobaltbattleaxe_31: 2157644149597613364
+      cobaltbattleaxe_32: 8201331257372894857
+      cobaltbattleaxe_33: -4774969746790899795
+      cobaltbattleaxe_4: 622628027218392248
+      cobaltbattleaxe_5: -4730048372433607493
+      cobaltbattleaxe_6: -369944929792551099
+      cobaltbattleaxe_7: -3642345021926287539
+      cobaltbattleaxe_8: 8173974484850275310
+      cobaltbattleaxe_9: -4025430812224849783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

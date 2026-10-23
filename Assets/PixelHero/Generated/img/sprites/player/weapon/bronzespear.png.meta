@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 5bb0bbb2a6f49714192af5f98ec7f39b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3018504115392218448
+    second: bronzespear_0
+  - first:
+      213: -5863853704904090372
+    second: bronzespear_1
+  - first:
+      213: 7008770766713989091
+    second: bronzespear_2
+  - first:
+      213: 8595044717930146119
+    second: bronzespear_3
+  - first:
+      213: -6736148209491383729
+    second: bronzespear_4
+  - first:
+      213: 9047543103804543033
+    second: bronzespear_5
+  - first:
+      213: 5220050480907484960
+    second: bronzespear_6
+  - first:
+      213: -7335181879524372723
+    second: bronzespear_7
+  - first:
+      213: -3756733242703255737
+    second: bronzespear_8
+  - first:
+      213: -2799825459010138546
+    second: bronzespear_9
+  - first:
+      213: -3274800072892129673
+    second: bronzespear_10
+  - first:
+      213: 7192414558192831938
+    second: bronzespear_11
+  - first:
+      213: -5755131348978221495
+    second: bronzespear_12
+  - first:
+      213: 3334651424894036748
+    second: bronzespear_13
+  - first:
+      213: -6653698971633832139
+    second: bronzespear_14
+  - first:
+      213: 4865694254132703601
+    second: bronzespear_15
+  - first:
+      213: 8926748382910600798
+    second: bronzespear_16
+  - first:
+      213: -2117987389723335862
+    second: bronzespear_17
+  - first:
+      213: -4348155479550650757
+    second: bronzespear_18
+  - first:
+      213: -4363255837278194206
+    second: bronzespear_19
+  - first:
+      213: 4670005069694319517
+    second: bronzespear_20
+  - first:
+      213: 6763877570377450703
+    second: bronzespear_21
+  - first:
+      213: -7744757768920787957
+    second: bronzespear_22
+  - first:
+      213: -5549332130640594611
+    second: bronzespear_23
+  - first:
+      213: -3358383337181717210
+    second: bronzespear_24
+  - first:
+      213: -3839324635439830460
+    second: bronzespear_25
+  - first:
+      213: 955293366492809588
+    second: bronzespear_26
+  - first:
+      213: -3031410230303347302
+    second: bronzespear_27
+  - first:
+      213: -668861175187288292
+    second: bronzespear_28
+  - first:
+      213: 2390673529123023959
+    second: bronzespear_29
+  - first:
+      213: -1252518802681055935
+    second: bronzespear_30
+  - first:
+      213: 4211338181726752124
+    second: bronzespear_31
+  - first:
+      213: 325594210096797758
+    second: bronzespear_32
+  - first:
+      213: -736035542641473395
+    second: bronzespear_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bronzespear_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bafdf0ff7e1c16d0800000000000000
+      internalID: -3018504115392218448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 403
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc55589f186f9ea0800000000000000
+      internalID: -5863853704904090372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 403
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e72126d0e7244160800000000000000
+      internalID: 7008770766713989091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749e2d8e1abb74770800000000000000
+      internalID: 8595044717930146119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ae1e2a4e46482a0800000000000000
+      internalID: -6736148209491383729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9301e4854845f8d70800000000000000
+      internalID: 9047543103804543033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff8106148517840800000000000000
+      internalID: 5220050480907484960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f411ca1f2343a90800000000000000
+      internalID: -7335181879524372723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 308
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74765c015076ddbc0800000000000000
+      internalID: -3756733242703255737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e0b9244950529d0800000000000000
+      internalID: -2799825459010138546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e57d03fa29d82d0800000000000000
+      internalID: -3274800072892129673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 308
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd8e620fe690d360800000000000000
+      internalID: 7192414558192831938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3074b78aa120b0800000000000000
+      internalID: -5755131348978221495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b2f8e9dcf074e20800000000000000
+      internalID: 3334651424894036748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 259
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2261c90059a3a0800000000000000
+      internalID: -6653698971633832139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 260
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1713d33052b668340800000000000000
+      internalID: 4865694254132703601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ddaabb5e22eb70800000000000000
+      internalID: 8926748382910600798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 211
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a8ccc0b56b92e0800000000000000
+      internalID: -2117987389723335862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 211
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76173df0af38a3c0800000000000000
+      internalID: -4348155479550650757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e532eafee99273c0800000000000000
+      internalID: -4363255837278194206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b376e3ed03fc040800000000000000
+      internalID: 4670005069694319517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4849e40de1edd50800000000000000
+      internalID: 6763877570377450703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b049708b7d7158490800000000000000
+      internalID: -7744757768920787957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49718c24dfccf2b0800000000000000
+      internalID: -5549332130640594611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d51b7f520a461d0800000000000000
+      internalID: -3358383337181717210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae33fe59af7bac0800000000000000
+      internalID: -3839324635439830460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47947166142e14d00800000000000000
+      internalID: 955293366492809588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9da846e4744ee5d0800000000000000
+      internalID: -3031410230303347302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f49e01e4ab7b6f0800000000000000
+      internalID: -668861175187288292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 70
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cae4d88e06d2120800000000000000
+      internalID: 2390673529123023959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145b2bbf8c82e9ee0800000000000000
+      internalID: -1252518802681055935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dccde73cda17a30800000000000000
+      internalID: 4211338181726752124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385eb1853eb48400800000000000000
+      internalID: 325594210096797758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzespear_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d880bcad29319c5f0800000000000000
+      internalID: -736035542641473395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bronzespear_0: -3018504115392218448
+      bronzespear_1: -5863853704904090372
+      bronzespear_10: -3274800072892129673
+      bronzespear_11: 7192414558192831938
+      bronzespear_12: -5755131348978221495
+      bronzespear_13: 3334651424894036748
+      bronzespear_14: -6653698971633832139
+      bronzespear_15: 4865694254132703601
+      bronzespear_16: 8926748382910600798
+      bronzespear_17: -2117987389723335862
+      bronzespear_18: -4348155479550650757
+      bronzespear_19: -4363255837278194206
+      bronzespear_2: 7008770766713989091
+      bronzespear_20: 4670005069694319517
+      bronzespear_21: 6763877570377450703
+      bronzespear_22: -7744757768920787957
+      bronzespear_23: -5549332130640594611
+      bronzespear_24: -3358383337181717210
+      bronzespear_25: -3839324635439830460
+      bronzespear_26: 955293366492809588
+      bronzespear_27: -3031410230303347302
+      bronzespear_28: -668861175187288292
+      bronzespear_29: 2390673529123023959
+      bronzespear_3: 8595044717930146119
+      bronzespear_30: -1252518802681055935
+      bronzespear_31: 4211338181726752124
+      bronzespear_32: 325594210096797758
+      bronzespear_33: -736035542641473395
+      bronzespear_4: -6736148209491383729
+      bronzespear_5: 9047543103804543033
+      bronzespear_6: 5220050480907484960
+      bronzespear_7: -7335181879524372723
+      bronzespear_8: -3756733242703255737
+      bronzespear_9: -2799825459010138546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

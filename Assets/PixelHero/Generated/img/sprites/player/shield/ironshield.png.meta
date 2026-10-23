@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 7c2de56b6c58809489aaa97ed8dc2e4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4930900017609664499
+    second: ironshield_0
+  - first:
+      213: 6476552954875050895
+    second: ironshield_1
+  - first:
+      213: 7728985114832828726
+    second: ironshield_2
+  - first:
+      213: 7468314484003735593
+    second: ironshield_3
+  - first:
+      213: 6727780338902705967
+    second: ironshield_4
+  - first:
+      213: -3492163887446429220
+    second: ironshield_5
+  - first:
+      213: 368799228004786107
+    second: ironshield_6
+  - first:
+      213: 8945342108289004049
+    second: ironshield_7
+  - first:
+      213: 6030307783652749388
+    second: ironshield_8
+  - first:
+      213: -5848460796594733883
+    second: ironshield_9
+  - first:
+      213: -4320527763650033786
+    second: ironshield_10
+  - first:
+      213: 202051771062250718
+    second: ironshield_11
+  - first:
+      213: 7831386129591887079
+    second: ironshield_12
+  - first:
+      213: 2924089603400293593
+    second: ironshield_13
+  - first:
+      213: -5337061360353920459
+    second: ironshield_14
+  - first:
+      213: -8848980534343360595
+    second: ironshield_15
+  - first:
+      213: 8468606031962477249
+    second: ironshield_16
+  - first:
+      213: 8070489961997628158
+    second: ironshield_17
+  - first:
+      213: 2599932074942212658
+    second: ironshield_18
+  - first:
+      213: -3448801762214771694
+    second: ironshield_19
+  - first:
+      213: -6334451870128437331
+    second: ironshield_20
+  - first:
+      213: 7284027475222874269
+    second: ironshield_21
+  - first:
+      213: -4414964077047504389
+    second: ironshield_22
+  - first:
+      213: 8811805699475076520
+    second: ironshield_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ironshield_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 537
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08986b1f8ce19bb0800000000000000
+      internalID: -4930900017609664499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 536
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b7554299651e950800000000000000
+      internalID: 6476552954875050895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 536
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63974e3130fd24b60800000000000000
+      internalID: 7728985114832828726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 537
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92882f15478c4a760800000000000000
+      internalID: 7468314484003735593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 442
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27272ba290ed5d50800000000000000
+      internalID: 6727780338902705967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 441
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1fe475277598fc0800000000000000
+      internalID: -3492163887446429220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 441
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd9a2a1fc3e1500800000000000000
+      internalID: 368799228004786107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 442
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f8e6c04d342c70800000000000000
+      internalID: 8945342108289004049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 392
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4035e2baf4ffa350800000000000000
+      internalID: 6030307783652749388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 393
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc3c2854e716dea0800000000000000
+      internalID: -5848460796594733883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 392
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6874d6dd3e66a04c0800000000000000
+      internalID: -4320527763650033786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 393
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc6768e305ddc200800000000000000
+      internalID: 202051771062250718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 297
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ee31413caeac60800000000000000
+      internalID: 7831386129591887079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 298
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc56167004749820800000000000000
+      internalID: 2924089603400293593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 297
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a34af38f2fee5b0800000000000000
+      internalID: -5337061360353920459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 298
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf1e12861b123580800000000000000
+      internalID: -8848980534343360595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 249
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c29ad54158868570800000000000000
+      internalID: 8468606031962477249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 249
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef279347cd3200070800000000000000
+      internalID: 8070489961997628158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 247
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a23177270d41420800000000000000
+      internalID: 2599932074942212658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 248
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214827ed1156320d0800000000000000
+      internalID: -3448801762214771694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 154
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da78f22e5918718a0800000000000000
+      internalID: -6334451870128437331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 155
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9848d27560161560800000000000000
+      internalID: 7284027475222874269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1297b3095eab2c0800000000000000
+      internalID: -4414964077047504389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 155
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a579f2c892d94a70800000000000000
+      internalID: 8811805699475076520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ironshield_0: -4930900017609664499
+      ironshield_1: 6476552954875050895
+      ironshield_10: -4320527763650033786
+      ironshield_11: 202051771062250718
+      ironshield_12: 7831386129591887079
+      ironshield_13: 2924089603400293593
+      ironshield_14: -5337061360353920459
+      ironshield_15: -8848980534343360595
+      ironshield_16: 8468606031962477249
+      ironshield_17: 8070489961997628158
+      ironshield_18: 2599932074942212658
+      ironshield_19: -3448801762214771694
+      ironshield_2: 7728985114832828726
+      ironshield_20: -6334451870128437331
+      ironshield_21: 7284027475222874269
+      ironshield_22: -4414964077047504389
+      ironshield_23: 8811805699475076520
+      ironshield_3: 7468314484003735593
+      ironshield_4: 6727780338902705967
+      ironshield_5: -3492163887446429220
+      ironshield_6: 368799228004786107
+      ironshield_7: 8945342108289004049
+      ironshield_8: 6030307783652749388
+      ironshield_9: -5848460796594733883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

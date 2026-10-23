@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 9ab9ee20c98abf94990200a38c41b260
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 554459212959277377
+    second: poisonball_0
+  - first:
+      213: 2849596053417161298
+    second: poisonball_1
+  - first:
+      213: -925554179317381040
+    second: poisonball_2
+  - first:
+      213: 362103319885839172
+    second: poisonball_3
+  - first:
+      213: -305764736857413100
+    second: poisonball_4
+  - first:
+      213: 8122847328033234821
+    second: poisonball_5
+  - first:
+      213: -1620436271400416943
+    second: poisonball_6
+  - first:
+      213: 7168768787054006645
+    second: poisonball_7
+  - first:
+      213: 7077757177481143677
+    second: poisonball_8
+  - first:
+      213: 1556775162465480886
+    second: poisonball_9
+  - first:
+      213: 2699048236104903152
+    second: poisonball_10
+  - first:
+      213: 3694063584380269356
+    second: poisonball_11
+  - first:
+      213: 7043814016717304602
+    second: poisonball_12
+  - first:
+      213: 4657172589420245152
+    second: poisonball_13
+  - first:
+      213: -4152617722151872222
+    second: poisonball_14
+  - first:
+      213: 1718790380119298447
+    second: poisonball_15
+  - first:
+      213: -1239872230425839384
+    second: poisonball_16
+  - first:
+      213: -2234084525620855873
+    second: poisonball_17
+  - first:
+      213: -4751191733320437374
+    second: poisonball_18
+  - first:
+      213: 5488686203343600126
+    second: poisonball_19
+  - first:
+      213: 7722160664907326443
+    second: poisonball_20
+  - first:
+      213: 1281623316403127684
+    second: poisonball_21
+  - first:
+      213: -6716936026105104755
+    second: poisonball_22
+  - first:
+      213: -7864472521420186329
+    second: poisonball_23
+  - first:
+      213: -3191256434876870237
+    second: poisonball_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poisonball_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14161ee67b5d1b700800000000000000
+      internalID: 554459212959277377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f845438ccb8720800000000000000
+      internalID: 2849596053417161298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 25
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058c861b065c723f0800000000000000
+      internalID: -925554179317381040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bf8c90d03760500800000000000000
+      internalID: 362103319885839172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae5c28794b1cbf0800000000000000
+      internalID: -305764736857413100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fd620bb962ab070800000000000000
+      internalID: 8122847328033234821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159050eebcd0389e0800000000000000
+      internalID: -1620436271400416943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5711345ea359c7360800000000000000
+      internalID: 7168768787054006645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 11
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d752c3247ae393260800000000000000
+      internalID: 7077757177481143677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 16
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0f7e913c6ca9510800000000000000
+      internalID: 1556775162465480886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f96da01212f47520800000000000000
+      internalID: 2699048236104903152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2331bc0243f34330800000000000000
+      internalID: 3694063584380269356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133a5a4787a0c160800000000000000
+      internalID: 7043814016717304602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0741a9bc991a040800000000000000
+      internalID: 4657172589420245152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 21
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2295527ee20fe56c0800000000000000
+      internalID: -4152617722151872222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f819e528ebe5ad710800000000000000
+      internalID: 1718790380119298447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b89a86c61bcee0800000000000000
+      internalID: -1239872230425839384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbfb2ce5ffeef0e0800000000000000
+      internalID: -2234084525620855873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281b9ab9a40601eb0800000000000000
+      internalID: -4751191733320437374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9f1e9850bbb2c40800000000000000
+      internalID: 5488686203343600126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3ab420630aa2b60800000000000000
+      internalID: 7722160664907326443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485011ead9d39c110800000000000000
+      internalID: 1281623316403127684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d863bf8a546a8c2a0800000000000000
+      internalID: -6716936026105104755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ddde6d8e7cbd290800000000000000
+      internalID: -7864472521420186329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonball_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a11cf33e2166b3d0800000000000000
+      internalID: -3191256434876870237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      poisonball_0: 554459212959277377
+      poisonball_1: 2849596053417161298
+      poisonball_10: 2699048236104903152
+      poisonball_11: 3694063584380269356
+      poisonball_12: 7043814016717304602
+      poisonball_13: 4657172589420245152
+      poisonball_14: -4152617722151872222
+      poisonball_15: 1718790380119298447
+      poisonball_16: -1239872230425839384
+      poisonball_17: -2234084525620855873
+      poisonball_18: -4751191733320437374
+      poisonball_19: 5488686203343600126
+      poisonball_2: -925554179317381040
+      poisonball_20: 7722160664907326443
+      poisonball_21: 1281623316403127684
+      poisonball_22: -6716936026105104755
+      poisonball_23: -7864472521420186329
+      poisonball_24: -3191256434876870237
+      poisonball_3: 362103319885839172
+      poisonball_4: -305764736857413100
+      poisonball_5: 8122847328033234821
+      poisonball_6: -1620436271400416943
+      poisonball_7: 7168768787054006645
+      poisonball_8: 7077757177481143677
+      poisonball_9: 1556775162465480886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

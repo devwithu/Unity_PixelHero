@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: d34bd29d05bc89148944623b8c7e8940
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8103615160707909751
+    second: ironspear_0
+  - first:
+      213: -3217273186347895636
+    second: ironspear_1
+  - first:
+      213: -9199255488879118909
+    second: ironspear_2
+  - first:
+      213: 3252621128150560235
+    second: ironspear_3
+  - first:
+      213: 429765626053537248
+    second: ironspear_4
+  - first:
+      213: 4815480813662425212
+    second: ironspear_5
+  - first:
+      213: -7260858076859650900
+    second: ironspear_6
+  - first:
+      213: -9128792796893376867
+    second: ironspear_7
+  - first:
+      213: -8403957084272097202
+    second: ironspear_8
+  - first:
+      213: -7824368735210779276
+    second: ironspear_9
+  - first:
+      213: 3192054565773820323
+    second: ironspear_10
+  - first:
+      213: -1393433979426937111
+    second: ironspear_11
+  - first:
+      213: 4773102166332565619
+    second: ironspear_12
+  - first:
+      213: -8783123459079570047
+    second: ironspear_13
+  - first:
+      213: -4193180128691414328
+    second: ironspear_14
+  - first:
+      213: 431579189979601481
+    second: ironspear_15
+  - first:
+      213: -5375269175560184232
+    second: ironspear_16
+  - first:
+      213: -6876861783521879272
+    second: ironspear_17
+  - first:
+      213: 2618077806181866045
+    second: ironspear_18
+  - first:
+      213: 1084164011117240290
+    second: ironspear_19
+  - first:
+      213: -6933399266356536545
+    second: ironspear_20
+  - first:
+      213: 2214655191394169721
+    second: ironspear_21
+  - first:
+      213: 5536311180941004455
+    second: ironspear_22
+  - first:
+      213: -8572715871931945496
+    second: ironspear_23
+  - first:
+      213: -7060203276664530953
+    second: ironspear_24
+  - first:
+      213: 783307370784450281
+    second: ironspear_25
+  - first:
+      213: 5042479522229602081
+    second: ironspear_26
+  - first:
+      213: 3850468862540190876
+    second: ironspear_27
+  - first:
+      213: -8810272763893026598
+    second: ironspear_28
+  - first:
+      213: 118896327703291978
+    second: ironspear_29
+  - first:
+      213: -5606170791850610410
+    second: ironspear_30
+  - first:
+      213: -7665012657548344887
+    second: ironspear_31
+  - first:
+      213: 4881181099958128097
+    second: ironspear_32
+  - first:
+      213: 7857608599183751023
+    second: ironspear_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ironspear_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987f88532fc2a8f80800000000000000
+      internalID: -8103615160707909751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 403
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca438563513f953d0800000000000000
+      internalID: -3217273186347895636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 403
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c53c436fdda55080800000000000000
+      internalID: -9199255488879118909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed2854dea1a32d20800000000000000
+      internalID: 3252621128150560235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed28955f85d6f500800000000000000
+      internalID: 429765626053537248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70de09594604d240800000000000000
+      internalID: 4815480813662425212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac214c7c004c3b90800000000000000
+      internalID: -7260858076859650900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e86015153005180800000000000000
+      internalID: -9128792796893376867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 308
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e488554de852f5b80800000000000000
+      internalID: -8403957084272097202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dc61237124a6390800000000000000
+      internalID: -7824368735210779276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1cc9027b47c4c20800000000000000
+      internalID: 3192054565773820323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 308
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e66c4ead2789ace0800000000000000
+      internalID: -1393433979426937111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37866ec91277d3240800000000000000
+      internalID: 4773102166332565619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d792bbfb31c1680800000000000000
+      internalID: -8783123459079570047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 259
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1f1ea3e4dec5c0800000000000000
+      internalID: -4193180128691414328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 260
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a5f279cf64df500800000000000000
+      internalID: 431579189979601481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ed0aa0a253765b0800000000000000
+      internalID: -5375269175560184232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 211
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b18bf94aa7090a0800000000000000
+      internalID: -6876861783521879272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 211
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3addcfb4e7455420800000000000000
+      internalID: 2618077806181866045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efd7e88c69bb0f00800000000000000
+      internalID: 1084164011117240290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b5dda1a1e97cf90800000000000000
+      internalID: -6933399266356536545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973360fa9290cbe10800000000000000
+      internalID: 2214655191394169721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae030abfade4dc40800000000000000
+      internalID: 5536311180941004455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eda42da558970980800000000000000
+      internalID: -8572715871931945496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f79c54c68e150e90800000000000000
+      internalID: -7060203276664530953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e66d8157eddeda00800000000000000
+      internalID: 783307370784450281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1274da5c86c7af540800000000000000
+      internalID: 5042479522229602081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c941962a70d9f6530800000000000000
+      internalID: 3850468862540190876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad07bdd999f9bb580800000000000000
+      internalID: -8810272763893026598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 70
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486ad1849766a100800000000000000
+      internalID: 118896327703291978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f2991e51e232b0800000000000000
+      internalID: -5606170791850610410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c145f3599760a590800000000000000
+      internalID: -7665012657548344887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edca5b49507db340800000000000000
+      internalID: 4881181099958128097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironspear_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67f66ab365db0d60800000000000000
+      internalID: 7857608599183751023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ironspear_0: -8103615160707909751
+      ironspear_1: -3217273186347895636
+      ironspear_10: 3192054565773820323
+      ironspear_11: -1393433979426937111
+      ironspear_12: 4773102166332565619
+      ironspear_13: -8783123459079570047
+      ironspear_14: -4193180128691414328
+      ironspear_15: 431579189979601481
+      ironspear_16: -5375269175560184232
+      ironspear_17: -6876861783521879272
+      ironspear_18: 2618077806181866045
+      ironspear_19: 1084164011117240290
+      ironspear_2: -9199255488879118909
+      ironspear_20: -6933399266356536545
+      ironspear_21: 2214655191394169721
+      ironspear_22: 5536311180941004455
+      ironspear_23: -8572715871931945496
+      ironspear_24: -7060203276664530953
+      ironspear_25: 783307370784450281
+      ironspear_26: 5042479522229602081
+      ironspear_27: 3850468862540190876
+      ironspear_28: -8810272763893026598
+      ironspear_29: 118896327703291978
+      ironspear_3: 3252621128150560235
+      ironspear_30: -5606170791850610410
+      ironspear_31: -7665012657548344887
+      ironspear_32: 4881181099958128097
+      ironspear_33: 7857608599183751023
+      ironspear_4: 429765626053537248
+      ironspear_5: 4815480813662425212
+      ironspear_6: -7260858076859650900
+      ironspear_7: -9128792796893376867
+      ironspear_8: -8403957084272097202
+      ironspear_9: -7824368735210779276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 8003169143018924ea8737e3a1039ce1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1284119738260556843
+    second: tigerboss_0
+  - first:
+      213: -6809343887574064602
+    second: tigerboss_1
+  - first:
+      213: -6220658827565115955
+    second: tigerboss_2
+  - first:
+      213: 9136572030605586810
+    second: tigerboss_3
+  - first:
+      213: -8472361630117611589
+    second: tigerboss_4
+  - first:
+      213: -2830909511075499207
+    second: tigerboss_5
+  - first:
+      213: 707419343630007535
+    second: tigerboss_6
+  - first:
+      213: -504736247721217180
+    second: tigerboss_7
+  - first:
+      213: 7419363483135854242
+    second: tigerboss_8
+  - first:
+      213: -7322763117559253160
+    second: tigerboss_9
+  - first:
+      213: 5576458227387164983
+    second: tigerboss_10
+  - first:
+      213: 3072591585958263294
+    second: tigerboss_11
+  - first:
+      213: -4232860305925366411
+    second: tigerboss_12
+  - first:
+      213: 9060213323551865253
+    second: tigerboss_13
+  - first:
+      213: -314164746854417386
+    second: tigerboss_14
+  - first:
+      213: 7264275220386041241
+    second: tigerboss_15
+  - first:
+      213: 2189167143500616460
+    second: tigerboss_16
+  - first:
+      213: 6145622049777441547
+    second: tigerboss_17
+  - first:
+      213: -9138697377693977408
+    second: tigerboss_18
+  - first:
+      213: 7716114919387332566
+    second: tigerboss_19
+  - first:
+      213: 2044072287533630708
+    second: tigerboss_20
+  - first:
+      213: -7854746543306575960
+    second: tigerboss_21
+  - first:
+      213: 1838400506634373560
+    second: tigerboss_22
+  - first:
+      213: 4082877703807539304
+    second: tigerboss_23
+  - first:
+      213: 6578434458153075551
+    second: tigerboss_24
+  - first:
+      213: 1498540018924641404
+    second: tigerboss_25
+  - first:
+      213: 2176340300341883227
+    second: tigerboss_26
+  - first:
+      213: -3075880524623636620
+    second: tigerboss_27
+  - first:
+      213: 6494311609567798186
+    second: tigerboss_28
+  - first:
+      213: -2785063544305692139
+    second: tigerboss_29
+  - first:
+      213: -1467939691839571372
+    second: tigerboss_30
+  - first:
+      213: 4787077944448998801
+    second: tigerboss_31
+  - first:
+      213: 2939339024890601522
+    second: tigerboss_32
+  - first:
+      213: -5866529599620971668
+    second: tigerboss_33
+  - first:
+      213: 6466148291858409401
+    second: tigerboss_34
+  - first:
+      213: 4826226555425263570
+    second: tigerboss_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tigerboss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d379efc6e3ed2ee0800000000000000
+      internalID: -1284119738260556843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 581
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622ababcfc95081a0800000000000000
+      internalID: -6809343887574064602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 581
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5551a31c7cba9a0800000000000000
+      internalID: -6220658827565115955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 581
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71f30daadf9bce70800000000000000
+      internalID: 9136572030605586810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 509
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b0346cff1c6a80800000000000000
+      internalID: -8472361630117611589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 507
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f1196cc696b8d0800000000000000
+      internalID: -2830909511075499207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 508
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec7e4c152241d900800000000000000
+      internalID: 707419343630007535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 509
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46330519e01def8f0800000000000000
+      internalID: -504736247721217180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 508
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a641d747cfd6f660800000000000000
+      internalID: 7419363483135854242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 509
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8577c830eb1506a90800000000000000
+      internalID: -7322763117559253160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 437
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7396734663f836d40800000000000000
+      internalID: 5576458227387164983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 437
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef975e4a4c904aa20800000000000000
+      internalID: 3072591585958263294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 366
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d97797afbd145c0800000000000000
+      internalID: -4232860305925366411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 366
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9f193c3085cbd70800000000000000
+      internalID: 9060213323551865253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 365
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cbac6c3dcd3abf0800000000000000
+      internalID: -314164746854417386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 365
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d48cd33d3efc460800000000000000
+      internalID: 7264275220386041241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 294
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c039f461beb716e10800000000000000
+      internalID: 2189167143500616460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 292
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bdac081b2a94550800000000000000
+      internalID: 6145622049777441547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 293
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b1c46723dc2180800000000000000
+      internalID: -9138697377693977408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 294
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df7c2033a5251b60800000000000000
+      internalID: 7716114919387332566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 292
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f489a16ae00e5c10800000000000000
+      internalID: 2044072287533630708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 293
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afeb7592a55ef290800000000000000
+      internalID: -7854746543306575960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 222
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b907d0458f438910800000000000000
+      internalID: 1838400506634373560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 222
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8689fccb3ab49a830800000000000000
+      internalID: 4082877703807539304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f534760294b4b4b50800000000000000
+      internalID: 6578434458153075551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 150
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd5b52532ebc410800000000000000
+      internalID: 1498540018924641404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 148
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51be30f8f9e33e10800000000000000
+      internalID: 2176340300341883227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 148
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4771446a5f64055d0800000000000000
+      internalID: -3075880524623636620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3ebf4200e602a50800000000000000
+      internalID: 6494311609567798186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 76
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d4cc56777959d0800000000000000
+      internalID: -2785063544305692139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ab434b0a4d0abe0800000000000000
+      internalID: -1467939691839571372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 78
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d5df6070e1f6240800000000000000
+      internalID: 4787077944448998801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 76
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2302c051541aac820800000000000000
+      internalID: 2939339024890601522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 77
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63074e4966e59ea0800000000000000
+      internalID: -5866529599620971668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b72831cc9f5cb950800000000000000
+      internalID: 6466148291858409401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerboss_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df0ea15b733af240800000000000000
+      internalID: 4826226555425263570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tigerboss_0: -1284119738260556843
+      tigerboss_1: -6809343887574064602
+      tigerboss_10: 5576458227387164983
+      tigerboss_11: 3072591585958263294
+      tigerboss_12: -4232860305925366411
+      tigerboss_13: 9060213323551865253
+      tigerboss_14: -314164746854417386
+      tigerboss_15: 7264275220386041241
+      tigerboss_16: 2189167143500616460
+      tigerboss_17: 6145622049777441547
+      tigerboss_18: -9138697377693977408
+      tigerboss_19: 7716114919387332566
+      tigerboss_2: -6220658827565115955
+      tigerboss_20: 2044072287533630708
+      tigerboss_21: -7854746543306575960
+      tigerboss_22: 1838400506634373560
+      tigerboss_23: 4082877703807539304
+      tigerboss_24: 6578434458153075551
+      tigerboss_25: 1498540018924641404
+      tigerboss_26: 2176340300341883227
+      tigerboss_27: -3075880524623636620
+      tigerboss_28: 6494311609567798186
+      tigerboss_29: -2785063544305692139
+      tigerboss_3: 9136572030605586810
+      tigerboss_30: -1467939691839571372
+      tigerboss_31: 4787077944448998801
+      tigerboss_32: 2939339024890601522
+      tigerboss_33: -5866529599620971668
+      tigerboss_34: 6466148291858409401
+      tigerboss_35: 4826226555425263570
+      tigerboss_4: -8472361630117611589
+      tigerboss_5: -2830909511075499207
+      tigerboss_6: 707419343630007535
+      tigerboss_7: -504736247721217180
+      tigerboss_8: 7419363483135854242
+      tigerboss_9: -7322763117559253160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

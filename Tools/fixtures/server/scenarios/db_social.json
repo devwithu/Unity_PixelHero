@@ -1,0 +1,456 @@
+{
+ "seed": 131,
+ "database": {
+  "player_info": [
+   {
+    "username": "keeper",
+    "password": "$2a$10$hs.GUSyj3gVHxHLCUFnVduJghMuJapTtpeSpiUUgtOx/d3oM69nla",
+    "email": "",
+    "x": 191,
+    "y": 166,
+    "userAgent": "harness",
+    "rank": 2,
+    "poison": {
+     "type": -1,
+     "remaining": -1
+    },
+    "effects": {},
+    "hitPoints": 69,
+    "mana": 44,
+    "orientation": 1,
+    "ban": 0,
+    "mute": 0,
+    "jail": 0,
+    "lastWarp": 0,
+    "mapVersion": 1695981410504,
+    "regionsLoaded": [],
+    "friends": [],
+    "lastServerId": 1,
+    "lastAddress": "",
+    "lastGlobalChat": 0,
+    "guild": "",
+    "pet": ""
+   },
+   {
+    "username": "helper",
+    "password": "$2a$10$hs.GUSyj3gVHxHLCUFnVduJghMuJapTtpeSpiUUgtOx/d3oM69nla",
+    "email": "",
+    "x": 191,
+    "y": 166,
+    "userAgent": "harness",
+    "rank": 2,
+    "poison": {
+     "type": -1,
+     "remaining": -1
+    },
+    "effects": {},
+    "hitPoints": 69,
+    "mana": 44,
+    "orientation": 1,
+    "ban": 0,
+    "mute": 0,
+    "jail": 0,
+    "lastWarp": 0,
+    "mapVersion": 1695981410504,
+    "regionsLoaded": [],
+    "friends": [],
+    "lastServerId": 1,
+    "lastAddress": "",
+    "lastGlobalChat": 0,
+    "guild": "",
+    "pet": ""
+   }
+  ]
+ },
+ "end": 40000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.0.1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "keeper",
+     "password": "secret123"
+    }
+   ]
+  },
+  {
+   "t": 2500,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 2000,
+   "open": 1,
+   "address": "10.0.0.2"
+  },
+  {
+   "t": 2400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 2700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "helper",
+     "password": "secret123"
+    }
+   ]
+  },
+  {
+   "t": 3500,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 4000,
+   "conn": 0,
+   "send": [
+    "Friends",
+    {
+     "opcode": 1,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 4300,
+   "conn": 0,
+   "send": [
+    "Friends",
+    {
+     "opcode": 1,
+     "username": "nobody"
+    }
+   ]
+  },
+  {
+   "t": 4600,
+   "conn": 0,
+   "send": [
+    "Friends",
+    {
+     "opcode": 1,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 4900,
+   "conn": 1,
+   "send": [
+    "Friends",
+    {
+     "opcode": 1,
+     "username": "keeper"
+    }
+   ]
+  },
+  {
+   "t": 5200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn gold 40000"
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 0,
+     "name": "Night Owls",
+     "colour": "grey",
+     "outline": 0,
+     "outlineColour": "red",
+     "crest": "star"
+    }
+   ]
+  },
+  {
+   "t": 6500,
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 0,
+     "name": "Night Owls",
+     "colour": "grey",
+     "outline": 0,
+     "outlineColour": "red",
+     "crest": "star"
+    }
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 1,
+   "send": [
+    "Guild",
+    {
+     "opcode": 0,
+     "name": "Larks",
+     "colour": "grey",
+     "outline": 0,
+     "outlineColour": "red",
+     "crest": "star"
+    }
+   ]
+  },
+  {
+   "t": 7500,
+   "conn": 1,
+   "send": [
+    "Guild",
+    {
+     "opcode": 3,
+     "identifier": "night owls"
+    }
+   ]
+  },
+  {
+   "t": 8000,
+   "conn": 1,
+   "send": [
+    "Guild",
+    {
+     "opcode": 3,
+     "identifier": "nothing"
+    }
+   ]
+  },
+  {
+   "t": 8500,
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 9,
+     "from": 0,
+     "to": 10
+    }
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 11,
+     "message": "hello guild"
+    }
+   ]
+  },
+  {
+   "t": 9500,
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 12,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 10000,
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 13,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 10500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/guild rank 3 helper"
+    ]
+   ]
+  },
+  {
+   "t": 10800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/guild rank 7 helper"
+    ]
+   ]
+  },
+  {
+   "t": 11100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/guild rank 2 nobody"
+    ]
+   ]
+  },
+  {
+   "t": 11400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/guild kick"
+    ]
+   ]
+  },
+  {
+   "t": 12000,
+   "close": 1
+  },
+  {
+   "t": 18000,
+   "open": 2,
+   "address": "10.0.0.3"
+  },
+  {
+   "t": 18400,
+   "conn": 2,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 18700,
+   "conn": 2,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "helper",
+     "password": "secret123"
+    }
+   ]
+  },
+  {
+   "t": 19500,
+   "conn": 2,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 21000,
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 14,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 21500,
+   "conn": 2,
+   "send": [
+    "Guild",
+    {
+     "opcode": 4
+    }
+   ]
+  },
+  {
+   "t": 22000,
+   "conn": 0,
+   "send": [
+    "Guild",
+    {
+     "opcode": 4
+    }
+   ]
+  },
+  {
+   "t": 22500,
+   "conn": 0,
+   "send": [
+    "Friends",
+    {
+     "opcode": 2,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 22800,
+   "conn": 0,
+   "send": [
+    "Friends",
+    {
+     "opcode": 2,
+     "username": "helper"
+    }
+   ]
+  },
+  {
+   "t": 25000,
+   "close": 0
+  },
+  {
+   "t": 26000,
+   "close": 2
+  }
+ ]
+}

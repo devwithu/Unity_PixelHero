@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: c5dec5535f483f64d9e8718e0d9aa197
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6074525071244019893
+    second: miniiceknight5_0
+  - first:
+      213: -1486330216815920041
+    second: miniiceknight5_1
+  - first:
+      213: 6266094718701515775
+    second: miniiceknight5_2
+  - first:
+      213: 6190287635324740761
+    second: miniiceknight5_3
+  - first:
+      213: 1380700762296419938
+    second: miniiceknight5_4
+  - first:
+      213: 70531465690192754
+    second: miniiceknight5_5
+  - first:
+      213: 7475792187438829093
+    second: miniiceknight5_6
+  - first:
+      213: 1102692965050944969
+    second: miniiceknight5_7
+  - first:
+      213: -3225919672540022482
+    second: miniiceknight5_8
+  - first:
+      213: -5671871870041516911
+    second: miniiceknight5_9
+  - first:
+      213: -5194588463224488857
+    second: miniiceknight5_10
+  - first:
+      213: 4335081907066258351
+    second: miniiceknight5_11
+  - first:
+      213: 1446650002725275414
+    second: miniiceknight5_12
+  - first:
+      213: -7421553070703422606
+    second: miniiceknight5_13
+  - first:
+      213: -2147112416089732514
+    second: miniiceknight5_14
+  - first:
+      213: -637035535081426347
+    second: miniiceknight5_15
+  - first:
+      213: -4054686959790755414
+    second: miniiceknight5_16
+  - first:
+      213: -5501583500246380718
+    second: miniiceknight5_17
+  - first:
+      213: -2891319682916196979
+    second: miniiceknight5_18
+  - first:
+      213: 6144600496671186578
+    second: miniiceknight5_19
+  - first:
+      213: 3568580954829446986
+    second: miniiceknight5_20
+  - first:
+      213: 9010594771585363350
+    second: miniiceknight5_21
+  - first:
+      213: -261383510347740013
+    second: miniiceknight5_22
+  - first:
+      213: -5973516068700884510
+    second: miniiceknight5_23
+  - first:
+      213: -7870873648049116410
+    second: miniiceknight5_24
+  - first:
+      213: -2261852764593058966
+    second: miniiceknight5_25
+  - first:
+      213: -4016129092097935959
+    second: miniiceknight5_26
+  - first:
+      213: -9060257044152387899
+    second: miniiceknight5_27
+  - first:
+      213: 5434702045614891797
+    second: miniiceknight5_28
+  - first:
+      213: 5360463024872874806
+    second: miniiceknight5_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniiceknight5_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 261
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b844ba3e5c0d4450800000000000000
+      internalID: 6074525071244019893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 261
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cf1cfea8e7f5be0800000000000000
+      internalID: -1486330216815920041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 261
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3b72d82f3a5f650800000000000000
+      internalID: 6266094718701515775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 261
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99426098ec158e550800000000000000
+      internalID: 6190287635324740761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 229
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2660acd270c392310800000000000000
+      internalID: 1380700762296419938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b93fd8ef39af000800000000000000
+      internalID: 70531465690192754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 229
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e8ee2d2695fb760800000000000000
+      internalID: 7475792187438829093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 230
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd0f2ec86d8d4f00800000000000000
+      internalID: 1102692965050944969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29be44462b3b33d0800000000000000
+      internalID: -3225919672540022482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 197
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19415a6c5967941b0800000000000000
+      internalID: -5671871870041516911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c7927905d19e7b0800000000000000
+      internalID: -5194588463224488857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 172
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa348e6b60e492c30800000000000000
+      internalID: 4335081907066258351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61702c64388831410800000000000000
+      internalID: 1446650002725275414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 171
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2735303adc8510990800000000000000
+      internalID: -7421553070703422606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a042a22ace332e0800000000000000
+      internalID: -2147112416089732514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 137
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552bb265e8bc827f0800000000000000
+      internalID: -637035535081426347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1734651bbdab7c0800000000000000
+      internalID: -4054686959790755414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f0aa584f276a3b0800000000000000
+      internalID: -5501583500246380718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d5fa73118ffd7d0800000000000000
+      internalID: -2891319682916196979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e56c2a891064550800000000000000
+      internalID: 6144600496671186578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f55d4a875268130800000000000000
+      internalID: 3568580954829446986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d665f54301c0d70800000000000000
+      internalID: 9010594771585363350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c049b05116f5cf0800000000000000
+      internalID: -261383510347740013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1fef8d8cec91da0800000000000000
+      internalID: -5973516068700884510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bac086e1a05c290800000000000000
+      internalID: -7870873648049116410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 37
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0238f4e84c90e0800000000000000
+      internalID: -2261852764593058966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5f36d7ed7d348c0800000000000000
+      internalID: -4016129092097935959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 37
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6f09db830834280800000000000000
+      internalID: -9060257044152387899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513e6f857b0fb6b40800000000000000
+      internalID: 5434702045614891797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniiceknight5_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633e92d58b0346a40800000000000000
+      internalID: 5360463024872874806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miniiceknight5_0: 6074525071244019893
+      miniiceknight5_1: -1486330216815920041
+      miniiceknight5_10: -5194588463224488857
+      miniiceknight5_11: 4335081907066258351
+      miniiceknight5_12: 1446650002725275414
+      miniiceknight5_13: -7421553070703422606
+      miniiceknight5_14: -2147112416089732514
+      miniiceknight5_15: -637035535081426347
+      miniiceknight5_16: -4054686959790755414
+      miniiceknight5_17: -5501583500246380718
+      miniiceknight5_18: -2891319682916196979
+      miniiceknight5_19: 6144600496671186578
+      miniiceknight5_2: 6266094718701515775
+      miniiceknight5_20: 3568580954829446986
+      miniiceknight5_21: 9010594771585363350
+      miniiceknight5_22: -261383510347740013
+      miniiceknight5_23: -5973516068700884510
+      miniiceknight5_24: -7870873648049116410
+      miniiceknight5_25: -2261852764593058966
+      miniiceknight5_26: -4016129092097935959
+      miniiceknight5_27: -9060257044152387899
+      miniiceknight5_28: 5434702045614891797
+      miniiceknight5_29: 5360463024872874806
+      miniiceknight5_3: 6190287635324740761
+      miniiceknight5_4: 1380700762296419938
+      miniiceknight5_5: 70531465690192754
+      miniiceknight5_6: 7475792187438829093
+      miniiceknight5_7: 1102692965050944969
+      miniiceknight5_8: -3225919672540022482
+      miniiceknight5_9: -5671871870041516911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

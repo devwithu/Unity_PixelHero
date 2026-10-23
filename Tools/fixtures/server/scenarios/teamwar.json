@@ -1,0 +1,193 @@
+{
+ "seed": 127,
+ "end": 500000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.2.1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 2000,
+   "open": 1,
+   "address": "10.0.2.2"
+  },
+  {
+   "t": 2400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 2700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "open": 2,
+   "address": "10.0.2.3"
+  },
+  {
+   "t": 3400,
+   "conn": 2,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 3700,
+   "conn": 2,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 4300,
+   "conn": 2,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 4000,
+   "open": 3,
+   "address": "10.0.2.4"
+  },
+  {
+   "t": 4400,
+   "conn": 3,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 4700,
+   "conn": 3,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 5300,
+   "conn": 3,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 369 917"
+    ]
+   ]
+  },
+  {
+   "t": 6100,
+   "conn": 1,
+   "send": [
+    "Chat",
+    [
+     "/teleport 370 917"
+    ]
+   ]
+  },
+  {
+   "t": 6200,
+   "conn": 2,
+   "send": [
+    "Chat",
+    [
+     "/teleport 371 917"
+    ]
+   ]
+  },
+  {
+   "t": 6300,
+   "conn": 3,
+   "send": [
+    "Chat",
+    [
+     "/teleport 372 917"
+    ]
+   ]
+  }
+ ]
+}

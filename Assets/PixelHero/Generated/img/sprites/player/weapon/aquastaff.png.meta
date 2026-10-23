@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: be79a154c64770245ae5573ae096569c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5923335089792728380
+    second: aquastaff_0
+  - first:
+      213: -3183863360505880717
+    second: aquastaff_1
+  - first:
+      213: 3148185502980352597
+    second: aquastaff_2
+  - first:
+      213: 9129181036430258100
+    second: aquastaff_3
+  - first:
+      213: -4214570046590328758
+    second: aquastaff_4
+  - first:
+      213: -6062246738279961766
+    second: aquastaff_5
+  - first:
+      213: 7695885810657122900
+    second: aquastaff_6
+  - first:
+      213: 4244805248268624923
+    second: aquastaff_7
+  - first:
+      213: -2764779512676856212
+    second: aquastaff_8
+  - first:
+      213: -8896258362893556458
+    second: aquastaff_9
+  - first:
+      213: -436054281330746292
+    second: aquastaff_10
+  - first:
+      213: 2306272691848933255
+    second: aquastaff_11
+  - first:
+      213: -8890869825082595119
+    second: aquastaff_12
+  - first:
+      213: -5574270538902989361
+    second: aquastaff_13
+  - first:
+      213: -4627518074906877806
+    second: aquastaff_14
+  - first:
+      213: 903353207647840195
+    second: aquastaff_15
+  - first:
+      213: 7943183643580641511
+    second: aquastaff_16
+  - first:
+      213: 7078408195443899463
+    second: aquastaff_17
+  - first:
+      213: -1633663425213502156
+    second: aquastaff_18
+  - first:
+      213: -196779753461818904
+    second: aquastaff_19
+  - first:
+      213: -651727106311621529
+    second: aquastaff_20
+  - first:
+      213: -2670800295117661529
+    second: aquastaff_21
+  - first:
+      213: -1458587715071624438
+    second: aquastaff_22
+  - first:
+      213: 7820206969419070997
+    second: aquastaff_23
+  - first:
+      213: -7079318056056364493
+    second: aquastaff_24
+  - first:
+      213: -4233910293273656706
+    second: aquastaff_25
+  - first:
+      213: 1527775982697944015
+    second: aquastaff_26
+  - first:
+      213: 5182889296631596034
+    second: aquastaff_27
+  - first:
+      213: -1379425644970061536
+    second: aquastaff_28
+  - first:
+      213: -2646819117334918715
+    second: aquastaff_29
+  - first:
+      213: 6481492262243374313
+    second: aquastaff_30
+  - first:
+      213: -6460479992922784051
+    second: aquastaff_31
+  - first:
+      213: 7901810642233663153
+    second: aquastaff_32
+  - first:
+      213: -8020492415276868265
+    second: aquastaff_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aquastaff_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c24c477e161ccda0800000000000000
+      internalID: -5923335089792728380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 399
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f5aa77425a0d3d0800000000000000
+      internalID: -3183863360505880717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 399
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aad20090a90bb20800000000000000
+      internalID: 3148185502980352597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 400
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf68aeb8cd51be70800000000000000
+      internalID: 9129181036430258100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 352
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a406bf35fd6d285c0800000000000000
+      internalID: -4214570046590328758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6d00f5b29edba0800000000000000
+      internalID: -6062246738279961766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45adf28ce574dca60800000000000000
+      internalID: 7695885810657122900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14e3c322e398ea30800000000000000
+      internalID: 4244805248268624923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e4e908ea781a9d0800000000000000
+      internalID: -2764779512676856212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a1a147242a8480800000000000000
+      internalID: -8896258362893556458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c1e7201f2d2f9f0800000000000000
+      internalID: -436054281330746292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fe6d84bc6810020800000000000000
+      internalID: 2306272691848933255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d866bbfff84d9480800000000000000
+      internalID: -8890869825082595119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc513c68a7634a2b0800000000000000
+      internalID: -5574270538902989361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e97914d0c7cfb0800000000000000
+      internalID: -4627518074906877806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c72f88c4fa598c00800000000000000
+      internalID: 903353207647840195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 195
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e03155607bdb3e60800000000000000
+      internalID: 7943183643580641511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb5a030ce8b3260800000000000000
+      internalID: 7078408195443899463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de99135cf0459e0800000000000000
+      internalID: -1633663425213502156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 208
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e95be75bd5e44df0800000000000000
+      internalID: -196779753461818904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7647dc956a994f6f0800000000000000
+      internalID: -651727106311621529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad08738496fead0800000000000000
+      internalID: -2670800295117661529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3869733e02cbe0800000000000000
+      internalID: -1458587715071624438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef1423ec4f68c60800000000000000
+      internalID: 7820206969419070997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33260c06cb531cd90800000000000000
+      internalID: -7079318056056364493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72cd8e35012e35c0800000000000000
+      internalID: -4233910293273656706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc395196920c33510800000000000000
+      internalID: 1527775982697944015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20486ebea525de740800000000000000
+      internalID: 5182889296631596034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021de753fab4bdce0800000000000000
+      internalID: -1379425644970061536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c90a86490c944bd0800000000000000
+      internalID: -2646819117334918715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 62
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e495714fd2e2f950800000000000000
+      internalID: 6481492262243374313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb15feca3c756a0800000000000000
+      internalID: -6460479992922784051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be1dbcd9eed8ad60800000000000000
+      internalID: 7901810642233663153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquastaff_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d15b784ac71b090800000000000000
+      internalID: -8020492415276868265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aquastaff_0: -5923335089792728380
+      aquastaff_1: -3183863360505880717
+      aquastaff_10: -436054281330746292
+      aquastaff_11: 2306272691848933255
+      aquastaff_12: -8890869825082595119
+      aquastaff_13: -5574270538902989361
+      aquastaff_14: -4627518074906877806
+      aquastaff_15: 903353207647840195
+      aquastaff_16: 7943183643580641511
+      aquastaff_17: 7078408195443899463
+      aquastaff_18: -1633663425213502156
+      aquastaff_19: -196779753461818904
+      aquastaff_2: 3148185502980352597
+      aquastaff_20: -651727106311621529
+      aquastaff_21: -2670800295117661529
+      aquastaff_22: -1458587715071624438
+      aquastaff_23: 7820206969419070997
+      aquastaff_24: -7079318056056364493
+      aquastaff_25: -4233910293273656706
+      aquastaff_26: 1527775982697944015
+      aquastaff_27: 5182889296631596034
+      aquastaff_28: -1379425644970061536
+      aquastaff_29: -2646819117334918715
+      aquastaff_3: 9129181036430258100
+      aquastaff_30: 6481492262243374313
+      aquastaff_31: -6460479992922784051
+      aquastaff_32: 7901810642233663153
+      aquastaff_33: -8020492415276868265
+      aquastaff_4: -4214570046590328758
+      aquastaff_5: -6062246738279961766
+      aquastaff_6: 7695885810657122900
+      aquastaff_7: 4244805248268624923
+      aquastaff_8: -2764779512676856212
+      aquastaff_9: -8896258362893556458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

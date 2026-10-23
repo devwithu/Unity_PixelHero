@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: e4670879184f7c04684f4355f5959276
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5265399281094078660
+    second: redmouse_0
+  - first:
+      213: -5203156924177168049
+    second: redmouse_1
+  - first:
+      213: 5968964463988668744
+    second: redmouse_2
+  - first:
+      213: 9123028239769157613
+    second: redmouse_3
+  - first:
+      213: -3849119296848841800
+    second: redmouse_4
+  - first:
+      213: 146750178845988284
+    second: redmouse_5
+  - first:
+      213: -4743497143503413848
+    second: redmouse_6
+  - first:
+      213: 7273936541518129033
+    second: redmouse_7
+  - first:
+      213: -2232810960537231728
+    second: redmouse_8
+  - first:
+      213: 3030481806952869727
+    second: redmouse_9
+  - first:
+      213: -1940665325615575260
+    second: redmouse_10
+  - first:
+      213: -5568864674820609933
+    second: redmouse_11
+  - first:
+      213: 6324741634779570089
+    second: redmouse_12
+  - first:
+      213: 997081426889207244
+    second: redmouse_13
+  - first:
+      213: 710802280915859127
+    second: redmouse_14
+  - first:
+      213: -931407523145793602
+    second: redmouse_15
+  - first:
+      213: 4408739702609874206
+    second: redmouse_16
+  - first:
+      213: -8897219941029771066
+    second: redmouse_17
+  - first:
+      213: -3433864321721305911
+    second: redmouse_18
+  - first:
+      213: -8479190188351340878
+    second: redmouse_19
+  - first:
+      213: 5549112574759984758
+    second: redmouse_20
+  - first:
+      213: 4497361956487862423
+    second: redmouse_21
+  - first:
+      213: 3573822569512847825
+    second: redmouse_22
+  - first:
+      213: 7754360894903623587
+    second: redmouse_23
+  - first:
+      213: -696497044010388002
+    second: redmouse_24
+  - first:
+      213: -850750374140490831
+    second: redmouse_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redmouse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0b536bfb4721940800000000000000
+      internalID: 5265399281094078660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 209
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f494ecf485caac7b0800000000000000
+      internalID: -5203156924177168049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 209
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84979f81e8506d250800000000000000
+      internalID: 5968964463988668744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def3c4329d18b9e70800000000000000
+      internalID: 9123028239769157613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 184
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3393d946e259ac0800000000000000
+      internalID: -3849119296848841800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 184
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb517d8928c590200800000000000000
+      internalID: 146750178845988284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad1668ea76bb2eb0800000000000000
+      internalID: -4743497143503413848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ebebdeb632f460800000000000000
+      internalID: 7273936541518129033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e5496e2467301e0800000000000000
+      internalID: -2232810960537231728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fa5b1b52f6e0a20800000000000000
+      internalID: 3030481806952869727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f04ce1b2f5115e0800000000000000
+      internalID: -1940665325615575260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378a817551b67b2b0800000000000000
+      internalID: -5568864674820609933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afd825c10ff5c750800000000000000
+      internalID: 6324741634779570089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdeed5664856dd00800000000000000
+      internalID: 997081426889207244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6f68398e64dd900800000000000000
+      internalID: 710802280915859127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb4c1eac9f213f0800000000000000
+      internalID: -931407523145793602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0939a66dfe2d30800000000000000
+      internalID: 4408739702609874206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c806666a99b68480800000000000000
+      internalID: -8897219941029771066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4f9e0c7967850d0800000000000000
+      internalID: -3433864321721305911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be3758c27dd35a80800000000000000
+      internalID: -8479190188351340878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed83d7c78620d40800000000000000
+      internalID: 5549112574759984758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79890d21fd6d96e30800000000000000
+      internalID: 4497361956487862423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 29
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9461a21b4c89130800000000000000
+      internalID: 3573822569512847825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af19e846260d9b60800000000000000
+      internalID: 7754360894903623587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5b6a0f0ab8556f0800000000000000
+      internalID: -696497044010388002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmouse_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb43dcca078134f0800000000000000
+      internalID: -850750374140490831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redmouse_0: 5265399281094078660
+      redmouse_1: -5203156924177168049
+      redmouse_10: -1940665325615575260
+      redmouse_11: -5568864674820609933
+      redmouse_12: 6324741634779570089
+      redmouse_13: 997081426889207244
+      redmouse_14: 710802280915859127
+      redmouse_15: -931407523145793602
+      redmouse_16: 4408739702609874206
+      redmouse_17: -8897219941029771066
+      redmouse_18: -3433864321721305911
+      redmouse_19: -8479190188351340878
+      redmouse_2: 5968964463988668744
+      redmouse_20: 5549112574759984758
+      redmouse_21: 4497361956487862423
+      redmouse_22: 3573822569512847825
+      redmouse_23: 7754360894903623587
+      redmouse_24: -696497044010388002
+      redmouse_25: -850750374140490831
+      redmouse_3: 9123028239769157613
+      redmouse_4: -3849119296848841800
+      redmouse_5: 146750178845988284
+      redmouse_6: -4743497143503413848
+      redmouse_7: 7273936541518129033
+      redmouse_8: -2232810960537231728
+      redmouse_9: 3030481806952869727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

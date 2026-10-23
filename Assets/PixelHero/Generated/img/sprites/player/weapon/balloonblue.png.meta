@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: d23af786c92d8c342bd32f46df7b69a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -134790888130735178
+    second: balloonblue_0
+  - first:
+      213: 2278746299444811743
+    second: balloonblue_1
+  - first:
+      213: 2673198932458030688
+    second: balloonblue_2
+  - first:
+      213: 8023045720726925108
+    second: balloonblue_3
+  - first:
+      213: -7830755589635442716
+    second: balloonblue_4
+  - first:
+      213: 756697660227786691
+    second: balloonblue_5
+  - first:
+      213: 7677826261639260498
+    second: balloonblue_6
+  - first:
+      213: 7825024388989040745
+    second: balloonblue_7
+  - first:
+      213: 3519861304240980799
+    second: balloonblue_8
+  - first:
+      213: -4810847336695766580
+    second: balloonblue_9
+  - first:
+      213: 4496173100463575117
+    second: balloonblue_10
+  - first:
+      213: 7539830475210024153
+    second: balloonblue_11
+  - first:
+      213: 7426741558505215016
+    second: balloonblue_12
+  - first:
+      213: 4658576374023943365
+    second: balloonblue_13
+  - first:
+      213: -4878549905674792642
+    second: balloonblue_14
+  - first:
+      213: -4947076253220828710
+    second: balloonblue_15
+  - first:
+      213: 314047702496014741
+    second: balloonblue_16
+  - first:
+      213: -3810043446116333327
+    second: balloonblue_17
+  - first:
+      213: 6352024789083541425
+    second: balloonblue_18
+  - first:
+      213: 4162268360026690351
+    second: balloonblue_19
+  - first:
+      213: -7397771522474385331
+    second: balloonblue_20
+  - first:
+      213: -7273460306267672249
+    second: balloonblue_21
+  - first:
+      213: 9207855947255502022
+    second: balloonblue_22
+  - first:
+      213: -4091155051691009293
+    second: balloonblue_23
+  - first:
+      213: -5972094321775162541
+    second: balloonblue_24
+  - first:
+      213: -3947874615898534574
+    second: balloonblue_25
+  - first:
+      213: -2137633705560706651
+    second: balloonblue_26
+  - first:
+      213: -782701299861313164
+    second: balloonblue_27
+  - first:
+      213: -6168728828642824637
+    second: balloonblue_28
+  - first:
+      213: 7808849342333744632
+    second: balloonblue_29
+  - first:
+      213: -5370637515917376755
+    second: balloonblue_30
+  - first:
+      213: -5499254347387482230
+    second: balloonblue_31
+  - first:
+      213: 1611135001506992436
+    second: balloonblue_32
+  - first:
+      213: 5734807823525592020
+    second: balloonblue_33
+  - first:
+      213: 640248334241493617
+    second: balloonblue_34
+  - first:
+      213: -3604882148269577153
+    second: balloonblue_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balloonblue_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 544
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b31202c660212ef0800000000000000
+      internalID: -134790888130735178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 543
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7d4af9fabbf9f10800000000000000
+      internalID: 2278746299444811743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 543
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0664d1f044c191520800000000000000
+      internalID: 2673198932458030688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 544
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f65a83395975f60800000000000000
+      internalID: 8023045720726925108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 495
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7ffd4c741935390800000000000000
+      internalID: -7830755589635442716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 494
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c71f384384508a00800000000000000
+      internalID: 756697660227786691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 494
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2596c2c5e4e1d8a60800000000000000
+      internalID: 7677826261639260498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 495
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b5781932189c60800000000000000
+      internalID: 7825024388989040745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 448
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f334de9053f09d030800000000000000
+      internalID: 3519861304240980799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 447
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc16d9316df6c3db0800000000000000
+      internalID: -4810847336695766580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 447
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d405cc5fc9d956e30800000000000000
+      internalID: 4496173100463575117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 448
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4ee859edbd2a860800000000000000
+      internalID: 7539830475210024153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 399
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82495515916111760800000000000000
+      internalID: 7426741558505215016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c479bca78696a040800000000000000
+      internalID: 4658576374023943365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 399
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e311d3d55b8eb4cb0800000000000000
+      internalID: -4878549905674792642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad98002cb54785bb0800000000000000
+      internalID: -4947076253220828710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 351
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917dc5b8b8bb5400800000000000000
+      internalID: 314047702496014741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 350
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f84e671ca1002bc0800000000000000
+      internalID: -3810043446116333327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfccc524ece62850800000000000000
+      internalID: 6352024789083541425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 351
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f231d33550953c930800000000000000
+      internalID: 4162268360026690351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40e961def5d55990800000000000000
+      internalID: -7397771522474385331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741f20d436a7f0b90800000000000000
+      internalID: -7273460306267672249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4d12fd230e8cf70800000000000000
+      internalID: 9207855947255502022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa99e6082c4937c0800000000000000
+      internalID: -4091155051691009293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bc6791bdbde1da0800000000000000
+      internalID: -5972094321775162541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 258
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d069d14f45639c0800000000000000
+      internalID: -3947874615898534574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 254
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1f62078799552e0800000000000000
+      internalID: -2137633705560706651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 255
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479a78090594325f0800000000000000
+      internalID: -782701299861313164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 207
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e680d40d5446aa0800000000000000
+      internalID: -6168728828642824637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 210
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f578529a1b9e5c60800000000000000
+      internalID: 7808849342333744632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 208
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03cb5652a9a775b0800000000000000
+      internalID: -5370637515917376755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 209
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f427eae49bea3b0800000000000000
+      internalID: -5499254347387482230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d50a6fb6eb5610800000000000000
+      internalID: 1611135001506992436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbbf58c451269f40800000000000000
+      internalID: 5734807823525592020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 159
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172ff72c77e92e800800000000000000
+      internalID: 640248334241493617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonblue_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cae3f19c2e8fdc0800000000000000
+      internalID: -3604882148269577153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balloonblue_0: -134790888130735178
+      balloonblue_1: 2278746299444811743
+      balloonblue_10: 4496173100463575117
+      balloonblue_11: 7539830475210024153
+      balloonblue_12: 7426741558505215016
+      balloonblue_13: 4658576374023943365
+      balloonblue_14: -4878549905674792642
+      balloonblue_15: -4947076253220828710
+      balloonblue_16: 314047702496014741
+      balloonblue_17: -3810043446116333327
+      balloonblue_18: 6352024789083541425
+      balloonblue_19: 4162268360026690351
+      balloonblue_2: 2673198932458030688
+      balloonblue_20: -7397771522474385331
+      balloonblue_21: -7273460306267672249
+      balloonblue_22: 9207855947255502022
+      balloonblue_23: -4091155051691009293
+      balloonblue_24: -5972094321775162541
+      balloonblue_25: -3947874615898534574
+      balloonblue_26: -2137633705560706651
+      balloonblue_27: -782701299861313164
+      balloonblue_28: -6168728828642824637
+      balloonblue_29: 7808849342333744632
+      balloonblue_3: 8023045720726925108
+      balloonblue_30: -5370637515917376755
+      balloonblue_31: -5499254347387482230
+      balloonblue_32: 1611135001506992436
+      balloonblue_33: 5734807823525592020
+      balloonblue_34: 640248334241493617
+      balloonblue_35: -3604882148269577153
+      balloonblue_4: -7830755589635442716
+      balloonblue_5: 756697660227786691
+      balloonblue_6: 7677826261639260498
+      balloonblue_7: 7825024388989040745
+      balloonblue_8: 3519861304240980799
+      balloonblue_9: -4810847336695766580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

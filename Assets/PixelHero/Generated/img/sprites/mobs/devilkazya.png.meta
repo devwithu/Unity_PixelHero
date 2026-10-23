@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 557da4045df597548a61ae53b2ec71af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3412097985143874056
+    second: devilkazya_0
+  - first:
+      213: -2150152502767398089
+    second: devilkazya_1
+  - first:
+      213: 201108360361520301
+    second: devilkazya_2
+  - first:
+      213: -4267870765277497238
+    second: devilkazya_3
+  - first:
+      213: -4033676102609505331
+    second: devilkazya_4
+  - first:
+      213: 6398734905573869637
+    second: devilkazya_5
+  - first:
+      213: 7559442558060591412
+    second: devilkazya_6
+  - first:
+      213: 4564041703474179938
+    second: devilkazya_7
+  - first:
+      213: 8212212104513549976
+    second: devilkazya_8
+  - first:
+      213: -7266857012726569313
+    second: devilkazya_9
+  - first:
+      213: 3742366277626362443
+    second: devilkazya_10
+  - first:
+      213: 7808511342055222546
+    second: devilkazya_11
+  - first:
+      213: -4843430414047903681
+    second: devilkazya_12
+  - first:
+      213: -6453667680512470085
+    second: devilkazya_13
+  - first:
+      213: 3165072412714257999
+    second: devilkazya_14
+  - first:
+      213: -1547398455447236440
+    second: devilkazya_15
+  - first:
+      213: 4164632525360628985
+    second: devilkazya_16
+  - first:
+      213: 4593888584510508265
+    second: devilkazya_17
+  - first:
+      213: -3662636704485350530
+    second: devilkazya_18
+  - first:
+      213: -4613579473935045798
+    second: devilkazya_19
+  - first:
+      213: 3903114686765096295
+    second: devilkazya_20
+  - first:
+      213: 4199130059464823301
+    second: devilkazya_21
+  - first:
+      213: 7792360671627583789
+    second: devilkazya_22
+  - first:
+      213: -8724594798814558680
+    second: devilkazya_23
+  - first:
+      213: -878130788096971153
+    second: devilkazya_24
+  - first:
+      213: 8428714440929411871
+    second: devilkazya_25
+  - first:
+      213: 2535568034373918317
+    second: devilkazya_26
+  - first:
+      213: -901049706272431519
+    second: devilkazya_27
+  - first:
+      213: -3185779246258356361
+    second: devilkazya_28
+  - first:
+      213: 9220852726913997478
+    second: devilkazya_29
+  - first:
+      213: -2881627309852316162
+    second: devilkazya_30
+  - first:
+      213: 9006530336819166897
+    second: devilkazya_31
+  - first:
+      213: -3414786891162452318
+    second: devilkazya_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: devilkazya_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 260
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd5ca8e5fac5a0d0800000000000000
+      internalID: -3412097985143874056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 260
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733d1a3d0bf1922e0800000000000000
+      internalID: -2150152502767398089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 260
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daca5bcfcfa7ac200800000000000000
+      internalID: 201108360361520301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 260
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a683c50b62a75c4c0800000000000000
+      internalID: -4267870765277497238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 260
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37afcb4f08508c0800000000000000
+      internalID: -4033676102609505331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5488f92ae7fdcc850800000000000000
+      internalID: 6398734905573869637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 229
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439fb2574f888e860800000000000000
+      internalID: 7559442558060591412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa5ab7fbbb65f30800000000000000
+      internalID: 4564041703474179938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 229
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89671bd1663a7f170800000000000000
+      internalID: 8212212104513549976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9660e26c00f62b90800000000000000
+      internalID: -7266857012726569313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 196
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4af1553d4e8fe330800000000000000
+      internalID: 3742366277626362443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 165
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6fcfb1b76d5c60800000000000000
+      internalID: 7808511342055222546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 166
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f300a5433bda8ccb0800000000000000
+      internalID: -4843430414047903681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 166
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb392a40077ff66a0800000000000000
+      internalID: -6453667680512470085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ec83017989ceb20800000000000000
+      internalID: 3165072412714257999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 165
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a05411ad49868ae0800000000000000
+      internalID: -1547398455447236440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 132
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f48826773fbbc930800000000000000
+      internalID: 4164632525360628985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 134
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec88710455c0cf30800000000000000
+      internalID: 4593888584510508265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73e7df9253bb2dc0800000000000000
+      internalID: -3662636704485350530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 133
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b611989e549ffb0800000000000000
+      internalID: -4613579473935045798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d5e36c026aa2630800000000000000
+      internalID: 3903114686765096295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502d0188a8e464a30800000000000000
+      internalID: 4199130059464823301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d212612ceb6042c60800000000000000
+      internalID: 7792360671627583789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826007f51430ce680800000000000000
+      internalID: -8724594798814558680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 66
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e652563b040d3f0800000000000000
+      internalID: -878130788096971153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f138dc4702fc8f470800000000000000
+      internalID: 8428714440929411871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e51b871b5203320800000000000000
+      internalID: 2535568034373918317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16269ace014de73f0800000000000000
+      internalID: -901049706272431519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f75fd87a6d9c3d0800000000000000
+      internalID: -3185779246258356361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa96e173bc07ff70800000000000000
+      internalID: 9220852726913997478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 37
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd203daa376208d0800000000000000
+      internalID: -2881627309852316162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beb2e86f9f9dfc70800000000000000
+      internalID: 9006530336819166897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilkazya_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef9903a6d3c90d0800000000000000
+      internalID: -3414786891162452318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      devilkazya_0: -3412097985143874056
+      devilkazya_1: -2150152502767398089
+      devilkazya_10: 3742366277626362443
+      devilkazya_11: 7808511342055222546
+      devilkazya_12: -4843430414047903681
+      devilkazya_13: -6453667680512470085
+      devilkazya_14: 3165072412714257999
+      devilkazya_15: -1547398455447236440
+      devilkazya_16: 4164632525360628985
+      devilkazya_17: 4593888584510508265
+      devilkazya_18: -3662636704485350530
+      devilkazya_19: -4613579473935045798
+      devilkazya_2: 201108360361520301
+      devilkazya_20: 3903114686765096295
+      devilkazya_21: 4199130059464823301
+      devilkazya_22: 7792360671627583789
+      devilkazya_23: -8724594798814558680
+      devilkazya_24: -878130788096971153
+      devilkazya_25: 8428714440929411871
+      devilkazya_26: 2535568034373918317
+      devilkazya_27: -901049706272431519
+      devilkazya_28: -3185779246258356361
+      devilkazya_29: 9220852726913997478
+      devilkazya_3: -4267870765277497238
+      devilkazya_30: -2881627309852316162
+      devilkazya_31: 9006530336819166897
+      devilkazya_32: -3414786891162452318
+      devilkazya_4: -4033676102609505331
+      devilkazya_5: 6398734905573869637
+      devilkazya_6: 7559442558060591412
+      devilkazya_7: 4564041703474179938
+      devilkazya_8: 8212212104513549976
+      devilkazya_9: -7266857012726569313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

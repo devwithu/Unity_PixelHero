@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 170cfca5bca6fb74493645161fef229d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4242309475464582328
+    second: santa_0
+  - first:
+      213: -1270362465186426481
+    second: santa_1
+  - first:
+      213: 6557261384163323045
+    second: santa_2
+  - first:
+      213: 5299246613525076316
+    second: santa_3
+  - first:
+      213: -3652236508549989360
+    second: santa_4
+  - first:
+      213: -7235390321113677736
+    second: santa_5
+  - first:
+      213: 1390370736723374429
+    second: santa_6
+  - first:
+      213: 748289779837629681
+    second: santa_7
+  - first:
+      213: -8218115254982685131
+    second: santa_8
+  - first:
+      213: -4580371358240421366
+    second: santa_9
+  - first:
+      213: -5494995103718856018
+    second: santa_10
+  - first:
+      213: 1798254540001818473
+    second: santa_11
+  - first:
+      213: 2080209359867319172
+    second: santa_12
+  - first:
+      213: 6392749342735979526
+    second: santa_13
+  - first:
+      213: -2873350679582085326
+    second: santa_14
+  - first:
+      213: 8976676841135112446
+    second: santa_15
+  - first:
+      213: 4052595787489772626
+    second: santa_16
+  - first:
+      213: -1892213244759954086
+    second: santa_17
+  - first:
+      213: -3560793204997016604
+    second: santa_18
+  - first:
+      213: 678703371066013436
+    second: santa_19
+  - first:
+      213: -5246122657142221213
+    second: santa_20
+  - first:
+      213: -891665627181512307
+    second: santa_21
+  - first:
+      213: -6317342262961025427
+    second: santa_22
+  - first:
+      213: -7223828774242659950
+    second: santa_23
+  - first:
+      213: -1792941220911521601
+    second: santa_24
+  - first:
+      213: 4453195371440130251
+    second: santa_25
+  - first:
+      213: 6816202064153719301
+    second: santa_26
+  - first:
+      213: -2789237806200407441
+    second: santa_27
+  - first:
+      213: -4554688010419408946
+    second: santa_28
+  - first:
+      213: 8446848486160765828
+    second: santa_29
+  - first:
+      213: -5197020435630532273
+    second: santa_30
+  - first:
+      213: -7599374141828220471
+    second: santa_31
+  - first:
+      213: -7941025264526256370
+    second: santa_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: santa_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 578
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b41750cdf5bfda30800000000000000
+      internalID: 4242309475464582328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 578
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81d29e8114ce5ee0800000000000000
+      internalID: -1270362465186426481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 583
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ace07eac72100b50800000000000000
+      internalID: 6557261384163323045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 506
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c599a58e7b4ba8940800000000000000
+      internalID: 5299246613525076316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 506
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c3a20fe36a05dc0800000000000000
+      internalID: -3652236508549989360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 511
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85048b276dab69b90800000000000000
+      internalID: -7235390321113677736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 506
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51be7c81d69b4310800000000000000
+      internalID: 1390370736723374429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 504
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4f6441795726a00800000000000000
+      internalID: 748289779837629681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 508
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ec98f87b363fd80800000000000000
+      internalID: -8218115254982685131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 434
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ac4bc74804f60c0800000000000000
+      internalID: -4580371358240421366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 434
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa350211bddb3b0800000000000000
+      internalID: -5494995103718856018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967ba800afea4f810800000000000000
+      internalID: 1798254540001818473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 363
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483955134636edc10800000000000000
+      internalID: 2080209359867319172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d3ef28ab97b850800000000000000
+      internalID: 6392749342735979526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fe164d7cecf18d0800000000000000
+      internalID: -2873350679582085326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 291
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0855bc600939c70800000000000000
+      internalID: 8976676841135112446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254829ba566bd3830800000000000000
+      internalID: 4052595787489772626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 292
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d2bca44128db5e0800000000000000
+      internalID: -1892213244759954086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 291
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e337892275859ec0800000000000000
+      internalID: -3560793204997016604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 291
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6ff3cbe1d3b6900800000000000000
+      internalID: 678703371066013436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 220
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366d8ec0d370237b0800000000000000
+      internalID: -5246122657142221213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 220
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d898b6916da20a3f0800000000000000
+      internalID: -891665627181512307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e45abbeaa4458a0800000000000000
+      internalID: -6317342262961025427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2915509d00ecfbb90800000000000000
+      internalID: -7223828774242659950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 143
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0e96085713e17e0800000000000000
+      internalID: -1792941220911521601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc84a16a89deccd30800000000000000
+      internalID: 4453195371440130251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 73
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ba2fd9a3089e50800000000000000
+      internalID: 6816202064153719301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 71
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ab5574ef2aa49d0800000000000000
+      internalID: -2789237806200407441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 76
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6834e26f7ac0c0800000000000000
+      internalID: -4554688010419408946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 72
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4839821e1fb393570800000000000000
+      internalID: 8446848486160765828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 71
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49dbc3e27970e7b0800000000000000
+      internalID: -5197020435630532273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c93a013b79998690800000000000000
+      internalID: -7599374141828220471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e079283689fcbc190800000000000000
+      internalID: -7941025264526256370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      santa_0: 4242309475464582328
+      santa_1: -1270362465186426481
+      santa_10: -5494995103718856018
+      santa_11: 1798254540001818473
+      santa_12: 2080209359867319172
+      santa_13: 6392749342735979526
+      santa_14: -2873350679582085326
+      santa_15: 8976676841135112446
+      santa_16: 4052595787489772626
+      santa_17: -1892213244759954086
+      santa_18: -3560793204997016604
+      santa_19: 678703371066013436
+      santa_2: 6557261384163323045
+      santa_20: -5246122657142221213
+      santa_21: -891665627181512307
+      santa_22: -6317342262961025427
+      santa_23: -7223828774242659950
+      santa_24: -1792941220911521601
+      santa_25: 4453195371440130251
+      santa_26: 6816202064153719301
+      santa_27: -2789237806200407441
+      santa_28: -4554688010419408946
+      santa_29: 8446848486160765828
+      santa_3: 5299246613525076316
+      santa_30: -5197020435630532273
+      santa_31: -7599374141828220471
+      santa_32: -7941025264526256370
+      santa_4: -3652236508549989360
+      santa_5: -7235390321113677736
+      santa_6: 1390370736723374429
+      santa_7: 748289779837629681
+      santa_8: -8218115254982685131
+      santa_9: -4580371358240421366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

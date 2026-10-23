@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: ac8cabd3df0f9f746b1ff8b652937b41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4954986833374113214
+    second: hammerman_0
+  - first:
+      213: 4576522792275787778
+    second: hammerman_1
+  - first:
+      213: -7812856461084604068
+    second: hammerman_2
+  - first:
+      213: -7397083320371386892
+    second: hammerman_3
+  - first:
+      213: 4883642880267493276
+    second: hammerman_4
+  - first:
+      213: 3465599525494744383
+    second: hammerman_5
+  - first:
+      213: 8842762318429971659
+    second: hammerman_6
+  - first:
+      213: -4048519256901077743
+    second: hammerman_7
+  - first:
+      213: 3144134546261230823
+    second: hammerman_8
+  - first:
+      213: -2587440887914429551
+    second: hammerman_9
+  - first:
+      213: -5110118932741704104
+    second: hammerman_10
+  - first:
+      213: 7198792499405368956
+    second: hammerman_11
+  - first:
+      213: 4915335896455676412
+    second: hammerman_12
+  - first:
+      213: 7265240785377179047
+    second: hammerman_13
+  - first:
+      213: -1695245787666800264
+    second: hammerman_14
+  - first:
+      213: -6627313547262792266
+    second: hammerman_15
+  - first:
+      213: -3922381357267780658
+    second: hammerman_16
+  - first:
+      213: -6169493669385628674
+    second: hammerman_17
+  - first:
+      213: -8559220168193165133
+    second: hammerman_18
+  - first:
+      213: 8756971551260892531
+    second: hammerman_19
+  - first:
+      213: -4512270127637408691
+    second: hammerman_20
+  - first:
+      213: -6486869424765601731
+    second: hammerman_21
+  - first:
+      213: -1937704208911887348
+    second: hammerman_22
+  - first:
+      213: -2328923182731391377
+    second: hammerman_23
+  - first:
+      213: -5717597596720697259
+    second: hammerman_24
+  - first:
+      213: 354490204764649879
+    second: hammerman_25
+  - first:
+      213: 5729053487755466778
+    second: hammerman_26
+  - first:
+      213: -7020327151949731548
+    second: hammerman_27
+  - first:
+      213: -2768325552519468738
+    second: hammerman_28
+  - first:
+      213: -8334295870541117005
+    second: hammerman_29
+  - first:
+      213: -6154096507836170420
+    second: hammerman_30
+  - first:
+      213: 3878228758300731633
+    second: hammerman_31
+  - first:
+      213: -3021313484017749332
+    second: hammerman_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hammerman_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2429ff94ab95c3bb0800000000000000
+      internalID: -4954986833374113214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200c31c6b33138f30800000000000000
+      internalID: 4576522792275787778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 260
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59cfe36178239390800000000000000
+      internalID: -7812856461084604068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5eb4b59e7485990800000000000000
+      internalID: -7397083320371386892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 259
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9530335f26c340800000000000000
+      internalID: 4883642880267493276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 227
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3560ea2868481030800000000000000
+      internalID: 3465599525494744383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 227
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc46a374a7dc7ba70800000000000000
+      internalID: 8842762318429971659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 227
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11535129f25c0d7c0800000000000000
+      internalID: -4048519256901077743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 228
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44fe326b532ab20800000000000000
+      internalID: 3144134546261230823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 195
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1930a86a830971cd0800000000000000
+      internalID: -2587440887914429551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 194
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856beedb7e53519b0800000000000000
+      internalID: -5110118932741704104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eadca23af37e360800000000000000
+      internalID: 7198792499405368956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 165
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf187fb84f7c63440800000000000000
+      internalID: 4915335896455676412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 165
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5361c500253d460800000000000000
+      internalID: 7265240785377179047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 165
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871a42b10f64978e0800000000000000
+      internalID: -1695245787666800264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 165
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6448117d0704a0800000000000000
+      internalID: -6627313547262792266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 132
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb707eefe6e099c0800000000000000
+      internalID: -3922381357267780658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 131
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef39f30f13e816aa0800000000000000
+      internalID: -6169493669385628674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 132
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8bc701b9a873980800000000000000
+      internalID: -8559220168193165133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 131
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d5b1dba33078970800000000000000
+      internalID: 8756971551260892531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 98
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d097d9323161c0800000000000000
+      internalID: -4512270127637408691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38f08880a20af5a0800000000000000
+      internalID: -6486869424765601731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 68
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c041704d944eb15e0800000000000000
+      internalID: -1937704208911887348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e8f1854b00eafd0800000000000000
+      internalID: -2328923182731391377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f5d6674307a0b0800000000000000
+      internalID: -5717597596720697259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 66
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7993a5b86f66be400800000000000000
+      internalID: 354490204764649879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 68
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1890e41bcfa18f40800000000000000
+      internalID: 5729053487755466778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429a10d86a9c29e90800000000000000
+      internalID: -7020327151949731548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39a073c39ee499d0800000000000000
+      internalID: -2768325552519468738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9446f0012a65c80800000000000000
+      internalID: -8334295870541117005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff3f8f4d1489aa0800000000000000
+      internalID: -6154096507836170420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82838028c32d530800000000000000
+      internalID: 3878228758300731633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerman_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca23606d4632216d0800000000000000
+      internalID: -3021313484017749332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hammerman_0: -4954986833374113214
+      hammerman_1: 4576522792275787778
+      hammerman_10: -5110118932741704104
+      hammerman_11: 7198792499405368956
+      hammerman_12: 4915335896455676412
+      hammerman_13: 7265240785377179047
+      hammerman_14: -1695245787666800264
+      hammerman_15: -6627313547262792266
+      hammerman_16: -3922381357267780658
+      hammerman_17: -6169493669385628674
+      hammerman_18: -8559220168193165133
+      hammerman_19: 8756971551260892531
+      hammerman_2: -7812856461084604068
+      hammerman_20: -4512270127637408691
+      hammerman_21: -6486869424765601731
+      hammerman_22: -1937704208911887348
+      hammerman_23: -2328923182731391377
+      hammerman_24: -5717597596720697259
+      hammerman_25: 354490204764649879
+      hammerman_26: 5729053487755466778
+      hammerman_27: -7020327151949731548
+      hammerman_28: -2768325552519468738
+      hammerman_29: -8334295870541117005
+      hammerman_3: -7397083320371386892
+      hammerman_30: -6154096507836170420
+      hammerman_31: 3878228758300731633
+      hammerman_32: -3021313484017749332
+      hammerman_4: 4883642880267493276
+      hammerman_5: 3465599525494744383
+      hammerman_6: 8842762318429971659
+      hammerman_7: -4048519256901077743
+      hammerman_8: 3144134546261230823
+      hammerman_9: -2587440887914429551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

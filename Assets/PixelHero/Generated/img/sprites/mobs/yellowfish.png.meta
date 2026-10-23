@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 9accf52425334ed40ac6f2172027d58f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8932427975281140482
+    second: yellowfish_0
+  - first:
+      213: 3712931490938480062
+    second: yellowfish_1
+  - first:
+      213: 770626563151070962
+    second: yellowfish_2
+  - first:
+      213: 3615542760833010031
+    second: yellowfish_3
+  - first:
+      213: -8549423986697987327
+    second: yellowfish_4
+  - first:
+      213: -8161763482034996076
+    second: yellowfish_5
+  - first:
+      213: 312054993347066647
+    second: yellowfish_6
+  - first:
+      213: -4142650064353155575
+    second: yellowfish_7
+  - first:
+      213: 6266387451630613308
+    second: yellowfish_8
+  - first:
+      213: 4026063268669323533
+    second: yellowfish_9
+  - first:
+      213: 8906174974733445891
+    second: yellowfish_10
+  - first:
+      213: -8005078434558637167
+    second: yellowfish_11
+  - first:
+      213: 3430102045002843225
+    second: yellowfish_12
+  - first:
+      213: -1681383556064050032
+    second: yellowfish_13
+  - first:
+      213: -5773199798329217532
+    second: yellowfish_14
+  - first:
+      213: -6646138116562340744
+    second: yellowfish_15
+  - first:
+      213: -1350462044127934195
+    second: yellowfish_16
+  - first:
+      213: -8191236779615174387
+    second: yellowfish_17
+  - first:
+      213: -5135023811003436374
+    second: yellowfish_18
+  - first:
+      213: 973704772577250966
+    second: yellowfish_19
+  - first:
+      213: -778924841044656298
+    second: yellowfish_20
+  - first:
+      213: 5996483129548931096
+    second: yellowfish_21
+  - first:
+      213: -1002034595980000607
+    second: yellowfish_22
+  - first:
+      213: 7028777028406528342
+    second: yellowfish_23
+  - first:
+      213: -5657537323650034595
+    second: yellowfish_24
+  - first:
+      213: -7523003122298605274
+    second: yellowfish_25
+  - first:
+      213: -405074866344466140
+    second: yellowfish_26
+  - first:
+      213: -6561280675098478459
+    second: yellowfish_27
+  - first:
+      213: 9015608551889296774
+    second: yellowfish_28
+  - first:
+      213: -6146429441116508461
+    second: yellowfish_29
+  - first:
+      213: 8908814600072016285
+    second: yellowfish_30
+  - first:
+      213: -4700701793463559395
+    second: yellowfish_31
+  - first:
+      213: -7440147635034700562
+    second: yellowfish_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellowfish_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 271
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc1b9f1514a90480800000000000000
+      internalID: -8932427975281140482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 269
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5efb0e48bf68330800000000000000
+      internalID: 3712931490938480062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 269
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f68917b6c0d1ba00800000000000000
+      internalID: 770626563151070962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 269
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69cfa92cfcfc2230800000000000000
+      internalID: 3615542760833010031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 270
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b99ae4e285a5980800000000000000
+      internalID: -8549423986697987327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c7c802b579bbe80800000000000000
+      internalID: -8161763482034996076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 240
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bb6d4fc54a45400800000000000000
+      internalID: 312054993347066647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 239
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062b7517b95286c0800000000000000
+      internalID: -4142650064353155575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 240
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33786fbf2ea6f650800000000000000
+      internalID: 6266387451630613308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 207
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09784c36337fd730800000000000000
+      internalID: 4026063268669323533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 206
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30be57cd3f6199b70800000000000000
+      internalID: 8906174974733445891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 169
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b0ef4939f38e090800000000000000
+      internalID: -8005078434558637167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 171
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9544cbfe2ab2a9f20800000000000000
+      internalID: 3430102045002843225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0948e9960968aa8e0800000000000000
+      internalID: -1681383556064050032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 170
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eea330f5971efa0800000000000000
+      internalID: -5773199798329217532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 170
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8743e12889c24c3a0800000000000000
+      internalID: -6646138116562340744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 137
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d094b190de1324de0800000000000000
+      internalID: -1350462044127934195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 138
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d014ce74c81e25e80800000000000000
+      internalID: -8191236779615174387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2b7f7ec0bbcb8b0800000000000000
+      internalID: -5135023811003436374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ec19de45b438d00800000000000000
+      internalID: 973704772577250966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3ec6ebf3b035f0800000000000000
+      internalID: -778924841044656298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8100366b2a9c73350800000000000000
+      internalID: 5996483129548931096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 74
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2c5fd08de0812f0800000000000000
+      internalID: -1002034595980000607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 73
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659c89f977b3b8160800000000000000
+      internalID: 7028777028406528342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54535077c36c71b0800000000000000
+      internalID: -5657537323650034595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621bc33d48ce89790800000000000000
+      internalID: -7523003122298605274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42969142e82e06af0800000000000000
+      internalID: -405074866344466140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 42
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588be193df5a1f4a0800000000000000
+      internalID: -6561280675098478459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dd5511630ed1d70800000000000000
+      internalID: 9015608551889296774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 42
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de6f3d0dfe73baa0800000000000000
+      internalID: -6146429441116508461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d913b178da772ab70800000000000000
+      internalID: 8908814600072016285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b109dcf90c3ceb0800000000000000
+      internalID: -4700701793463559395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowfish_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee44b4145294fb890800000000000000
+      internalID: -7440147635034700562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yellowfish_0: -8932427975281140482
+      yellowfish_1: 3712931490938480062
+      yellowfish_10: 8906174974733445891
+      yellowfish_11: -8005078434558637167
+      yellowfish_12: 3430102045002843225
+      yellowfish_13: -1681383556064050032
+      yellowfish_14: -5773199798329217532
+      yellowfish_15: -6646138116562340744
+      yellowfish_16: -1350462044127934195
+      yellowfish_17: -8191236779615174387
+      yellowfish_18: -5135023811003436374
+      yellowfish_19: 973704772577250966
+      yellowfish_2: 770626563151070962
+      yellowfish_20: -778924841044656298
+      yellowfish_21: 5996483129548931096
+      yellowfish_22: -1002034595980000607
+      yellowfish_23: 7028777028406528342
+      yellowfish_24: -5657537323650034595
+      yellowfish_25: -7523003122298605274
+      yellowfish_26: -405074866344466140
+      yellowfish_27: -6561280675098478459
+      yellowfish_28: 9015608551889296774
+      yellowfish_29: -6146429441116508461
+      yellowfish_3: 3615542760833010031
+      yellowfish_30: 8908814600072016285
+      yellowfish_31: -4700701793463559395
+      yellowfish_32: -7440147635034700562
+      yellowfish_4: -8549423986697987327
+      yellowfish_5: -8161763482034996076
+      yellowfish_6: 312054993347066647
+      yellowfish_7: -4142650064353155575
+      yellowfish_8: 6266387451630613308
+      yellowfish_9: 4026063268669323533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

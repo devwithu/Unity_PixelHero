@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: eafaec96e37a8ea489a66ea3b2aa0d2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1954762121041990966
+    second: balloonpink_0
+  - first:
+      213: -9056382465018832252
+    second: balloonpink_1
+  - first:
+      213: -1673816474026395629
+    second: balloonpink_2
+  - first:
+      213: -288603613067900933
+    second: balloonpink_3
+  - first:
+      213: -8650508599359606364
+    second: balloonpink_4
+  - first:
+      213: 74822576807035198
+    second: balloonpink_5
+  - first:
+      213: 7067403992551636917
+    second: balloonpink_6
+  - first:
+      213: 2971501407883396374
+    second: balloonpink_7
+  - first:
+      213: -4164295008833366874
+    second: balloonpink_8
+  - first:
+      213: 4049296494296688814
+    second: balloonpink_9
+  - first:
+      213: -3651432497482230406
+    second: balloonpink_10
+  - first:
+      213: -7415478410707543804
+    second: balloonpink_11
+  - first:
+      213: 6315838337534495822
+    second: balloonpink_12
+  - first:
+      213: -3014098088401147805
+    second: balloonpink_13
+  - first:
+      213: -5659667313142682955
+    second: balloonpink_14
+  - first:
+      213: -6411471559796634002
+    second: balloonpink_15
+  - first:
+      213: -2066536328444488592
+    second: balloonpink_16
+  - first:
+      213: 4130095184176641054
+    second: balloonpink_17
+  - first:
+      213: 3084667693602708383
+    second: balloonpink_18
+  - first:
+      213: -8622217947232654426
+    second: balloonpink_19
+  - first:
+      213: -8406181254701730138
+    second: balloonpink_20
+  - first:
+      213: -5963703692420945403
+    second: balloonpink_21
+  - first:
+      213: 8640985126317299432
+    second: balloonpink_22
+  - first:
+      213: 6221551073642107808
+    second: balloonpink_23
+  - first:
+      213: -1940493301389304480
+    second: balloonpink_24
+  - first:
+      213: 5438823246672947859
+    second: balloonpink_25
+  - first:
+      213: -5658401424684686306
+    second: balloonpink_26
+  - first:
+      213: -482780295170621829
+    second: balloonpink_27
+  - first:
+      213: 4080558421276726377
+    second: balloonpink_28
+  - first:
+      213: 1009526615811446434
+    second: balloonpink_29
+  - first:
+      213: -715477625620932353
+    second: balloonpink_30
+  - first:
+      213: 523008194543954342
+    second: balloonpink_31
+  - first:
+      213: 3463421571027476207
+    second: balloonpink_32
+  - first:
+      213: -5865643979567745228
+    second: balloonpink_33
+  - first:
+      213: -8507160717243366459
+    second: balloonpink_34
+  - first:
+      213: -8690646319207147707
+    second: balloonpink_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balloonpink_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 544
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca27ea253a4fd4e0800000000000000
+      internalID: -1954762121041990966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 543
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ad97e7124415280800000000000000
+      internalID: -9056382465018832252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 543
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b57ef8c865c8e0800000000000000
+      internalID: -1673816474026395629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 544
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf781320b8caefbf0800000000000000
+      internalID: -288603613067900933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 495
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a175b0e24833f780800000000000000
+      internalID: -8650508599359606364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 494
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3143c7bcb2d90100800000000000000
+      internalID: 74822576807035198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 494
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb73c8c76741260800000000000000
+      internalID: 7067403992551636917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 495
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615867a69c4ec3920800000000000000
+      internalID: 2971501407883396374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 448
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a41e8ab0c37536c0800000000000000
+      internalID: -4164295008833366874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 447
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8e9cc15bdf13830800000000000000
+      internalID: 4049296494296688814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 447
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75114a5d71835dc0800000000000000
+      internalID: -3651432497482230406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 448
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409d232acade61990800000000000000
+      internalID: -7415478410707543804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 399
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c8987518d56a750800000000000000
+      internalID: 6315838337534495822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3686aaa02c5cb26d0800000000000000
+      internalID: -3014098088401147805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 399
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baad3d9092d471b0800000000000000
+      internalID: -5659667313142682955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e4dc6f590e507a0800000000000000
+      internalID: -6411471559796634002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 351
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07450a388203253e0800000000000000
+      internalID: -2066536328444488592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 350
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14766510bb015930800000000000000
+      internalID: 4130095184176641054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b105f8ce0feca20800000000000000
+      internalID: 3084667693602708383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 351
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab233f957ab75880800000000000000
+      internalID: -8622217947232654426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6b4fbcfae375b80800000000000000
+      internalID: -8406181254701730138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a609bb61bac3da0800000000000000
+      internalID: -5963703692420945403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e69393c032fae770800000000000000
+      internalID: 8640985126317299432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a353600db3675650800000000000000
+      internalID: 6221551073642107808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d5aa1af9bf115e0800000000000000
+      internalID: -1940493301389304480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 258
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ae31e3de49a7b40800000000000000
+      internalID: 5438823246672947859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 254
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14ea1d32e15971b0800000000000000
+      internalID: -5658401424684686306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 255
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7efbc121e1dc49f0800000000000000
+      internalID: -482780295170621829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 207
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9649d61b34e01a830800000000000000
+      internalID: 4080558421276726377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 210
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a65ebebb1f820e00800000000000000
+      internalID: 1009526615811446434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 208
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8df18e3ec1216f0800000000000000
+      internalID: -715477625620932353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 209
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a929629e29124700800000000000000
+      internalID: 523008194543954342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee9480a19b801030800000000000000
+      internalID: 3463421571027476207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437b4fac0eb099ea0800000000000000
+      internalID: -5865643979567745228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 159
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c34d89866e70f980800000000000000
+      internalID: -8507160717243366459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonpink_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5471a1bb73f946780800000000000000
+      internalID: -8690646319207147707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balloonpink_0: -1954762121041990966
+      balloonpink_1: -9056382465018832252
+      balloonpink_10: -3651432497482230406
+      balloonpink_11: -7415478410707543804
+      balloonpink_12: 6315838337534495822
+      balloonpink_13: -3014098088401147805
+      balloonpink_14: -5659667313142682955
+      balloonpink_15: -6411471559796634002
+      balloonpink_16: -2066536328444488592
+      balloonpink_17: 4130095184176641054
+      balloonpink_18: 3084667693602708383
+      balloonpink_19: -8622217947232654426
+      balloonpink_2: -1673816474026395629
+      balloonpink_20: -8406181254701730138
+      balloonpink_21: -5963703692420945403
+      balloonpink_22: 8640985126317299432
+      balloonpink_23: 6221551073642107808
+      balloonpink_24: -1940493301389304480
+      balloonpink_25: 5438823246672947859
+      balloonpink_26: -5658401424684686306
+      balloonpink_27: -482780295170621829
+      balloonpink_28: 4080558421276726377
+      balloonpink_29: 1009526615811446434
+      balloonpink_3: -288603613067900933
+      balloonpink_30: -715477625620932353
+      balloonpink_31: 523008194543954342
+      balloonpink_32: 3463421571027476207
+      balloonpink_33: -5865643979567745228
+      balloonpink_34: -8507160717243366459
+      balloonpink_35: -8690646319207147707
+      balloonpink_4: -8650508599359606364
+      balloonpink_5: 74822576807035198
+      balloonpink_6: 7067403992551636917
+      balloonpink_7: 2971501407883396374
+      balloonpink_8: -4164295008833366874
+      balloonpink_9: 4049296494296688814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

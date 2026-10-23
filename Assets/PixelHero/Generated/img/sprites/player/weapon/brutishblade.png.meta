@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: a78244c5fb217c64d9f38e0cadf3ee71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8426810933585400683
+    second: brutishblade_0
+  - first:
+      213: 8260421099092776240
+    second: brutishblade_1
+  - first:
+      213: -1910901220155584783
+    second: brutishblade_2
+  - first:
+      213: -2775663383133629282
+    second: brutishblade_3
+  - first:
+      213: -665790553254454961
+    second: brutishblade_4
+  - first:
+      213: -3401926378142162928
+    second: brutishblade_5
+  - first:
+      213: 5562761659575117213
+    second: brutishblade_6
+  - first:
+      213: 5463664369994145349
+    second: brutishblade_7
+  - first:
+      213: -2261725912107894302
+    second: brutishblade_8
+  - first:
+      213: -937024156232064778
+    second: brutishblade_9
+  - first:
+      213: 8357007474168728946
+    second: brutishblade_10
+  - first:
+      213: 437334361833617066
+    second: brutishblade_11
+  - first:
+      213: -5352182640460321630
+    second: brutishblade_12
+  - first:
+      213: -7680308617851554942
+    second: brutishblade_13
+  - first:
+      213: 3463062273666084859
+    second: brutishblade_14
+  - first:
+      213: -370087404047841088
+    second: brutishblade_15
+  - first:
+      213: -937848417090453652
+    second: brutishblade_16
+  - first:
+      213: 1613724024801363089
+    second: brutishblade_17
+  - first:
+      213: -1588787123523506783
+    second: brutishblade_18
+  - first:
+      213: 1438381112697140429
+    second: brutishblade_19
+  - first:
+      213: 5186798791717089604
+    second: brutishblade_20
+  - first:
+      213: -6348217233708408212
+    second: brutishblade_21
+  - first:
+      213: -5791229941480377823
+    second: brutishblade_22
+  - first:
+      213: -3714408158926625719
+    second: brutishblade_23
+  - first:
+      213: 3374440303313320474
+    second: brutishblade_24
+  - first:
+      213: -4138341415054408077
+    second: brutishblade_25
+  - first:
+      213: 8513780237883745888
+    second: brutishblade_26
+  - first:
+      213: 6019639900155386173
+    second: brutishblade_27
+  - first:
+      213: 3173015906586835606
+    second: brutishblade_28
+  - first:
+      213: -4798252236118495006
+    second: brutishblade_29
+  - first:
+      213: 1704499704319510961
+    second: brutishblade_30
+  - first:
+      213: -3603041567005795061
+    second: brutishblade_31
+  - first:
+      213: 490899989206711437
+    second: brutishblade_32
+  - first:
+      213: 7248033007630236159
+    second: brutishblade_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brutishblade_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 540
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b635cbd95eb02f470800000000000000
+      internalID: 8426810933585400683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 539
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035119a5939e2a270800000000000000
+      internalID: 8260421099092776240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 539
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe04c3f67d1b75e0800000000000000
+      internalID: -1910901220155584783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 540
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d240fbdcda79d0800000000000000
+      internalID: -2775663383133629282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 492
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f491572f403a2c6f0800000000000000
+      internalID: -665790553254454961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 491
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0102ec6bbfde9c0d0800000000000000
+      internalID: -3401926378142162928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 491
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d952321b146e23d40800000000000000
+      internalID: 5562761659575117213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 492
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e9579fbc5d2db40800000000000000
+      internalID: 5463664369994145349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 448
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9338d144cbc90e0800000000000000
+      internalID: -2261725912107894302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0e3d59e750ff2f0800000000000000
+      internalID: -937024156232064778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 447
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d8c1b350e0af370800000000000000
+      internalID: 8357007474168728946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 448
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa63a25f849b11600800000000000000
+      internalID: 437334361833617066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 395
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aca95ede3a39b5b0800000000000000
+      internalID: -5352182640460321630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 396
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283369b01001a6590800000000000000
+      internalID: -7680308617851554942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 395
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff6ce03ac44f0030800000000000000
+      internalID: 3463062273666084859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 396
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8c1e1877f2ddaf0800000000000000
+      internalID: -370087404047841088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 348
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f392665d71cf2f0800000000000000
+      internalID: -937848417090453652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 347
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1948ccf5379156610800000000000000
+      internalID: 1613724024801363089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 347
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adaaa6678e73f9e0800000000000000
+      internalID: -1588787123523506783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 348
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4b1f9400826f310800000000000000
+      internalID: 1438381112697140429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 303
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441f8bd25063bf740800000000000000
+      internalID: 5186798791717089604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 304
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c622ccb6f0a96e7a0800000000000000
+      internalID: -6348217233708408212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122b47d2d0b61afa0800000000000000
+      internalID: -5791229941480377823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944ad509575c37cc0800000000000000
+      internalID: -3714408158926625719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a70cac39b64de20800000000000000
+      internalID: 3374440303313320474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 254
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376056ca868a196c0800000000000000
+      internalID: -4138341415054408077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 240
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0662dc6b406072670800000000000000
+      internalID: 8513780237883745888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 241
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399784889e0a8350800000000000000
+      internalID: 6019639900155386173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 205
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ab5cad721d80c20800000000000000
+      internalID: 3173015906586835606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 206
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0fe63730f296db0800000000000000
+      internalID: -4798252236118495006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 204
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b909b3437997a710800000000000000
+      internalID: 1704499704319510961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 205
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d17a7d8cc6ffdc0800000000000000
+      internalID: -3603041567005795061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 161
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb8e470f600d600800000000000000
+      internalID: 490899989206711437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brutishblade_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 162
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff93b146e9f269460800000000000000
+      internalID: 7248033007630236159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brutishblade_0: 8426810933585400683
+      brutishblade_1: 8260421099092776240
+      brutishblade_10: 8357007474168728946
+      brutishblade_11: 437334361833617066
+      brutishblade_12: -5352182640460321630
+      brutishblade_13: -7680308617851554942
+      brutishblade_14: 3463062273666084859
+      brutishblade_15: -370087404047841088
+      brutishblade_16: -937848417090453652
+      brutishblade_17: 1613724024801363089
+      brutishblade_18: -1588787123523506783
+      brutishblade_19: 1438381112697140429
+      brutishblade_2: -1910901220155584783
+      brutishblade_20: 5186798791717089604
+      brutishblade_21: -6348217233708408212
+      brutishblade_22: -5791229941480377823
+      brutishblade_23: -3714408158926625719
+      brutishblade_24: 3374440303313320474
+      brutishblade_25: -4138341415054408077
+      brutishblade_26: 8513780237883745888
+      brutishblade_27: 6019639900155386173
+      brutishblade_28: 3173015906586835606
+      brutishblade_29: -4798252236118495006
+      brutishblade_3: -2775663383133629282
+      brutishblade_30: 1704499704319510961
+      brutishblade_31: -3603041567005795061
+      brutishblade_32: 490899989206711437
+      brutishblade_33: 7248033007630236159
+      brutishblade_4: -665790553254454961
+      brutishblade_5: -3401926378142162928
+      brutishblade_6: 5562761659575117213
+      brutishblade_7: 5463664369994145349
+      brutishblade_8: -2261725912107894302
+      brutishblade_9: -937024156232064778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: e90a0e44af7870c4898bf46d3b00b910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7420058379314531101
+    second: cinnabarsword_0
+  - first:
+      213: 4919141567114635372
+    second: cinnabarsword_1
+  - first:
+      213: 3935882550870970510
+    second: cinnabarsword_2
+  - first:
+      213: -7119938409312219349
+    second: cinnabarsword_3
+  - first:
+      213: -347171553605094670
+    second: cinnabarsword_4
+  - first:
+      213: -3579422452728738220
+    second: cinnabarsword_5
+  - first:
+      213: -8147299073833215812
+    second: cinnabarsword_6
+  - first:
+      213: 8275606545848183813
+    second: cinnabarsword_7
+  - first:
+      213: 7208633231554711535
+    second: cinnabarsword_8
+  - first:
+      213: 5326373100956678216
+    second: cinnabarsword_9
+  - first:
+      213: 3079127719475585510
+    second: cinnabarsword_10
+  - first:
+      213: 3286268114069517882
+    second: cinnabarsword_11
+  - first:
+      213: 7760484526417082241
+    second: cinnabarsword_12
+  - first:
+      213: -2978445134833070410
+    second: cinnabarsword_13
+  - first:
+      213: -3444266639932611364
+    second: cinnabarsword_14
+  - first:
+      213: 843251446701078886
+    second: cinnabarsword_15
+  - first:
+      213: 740786213896341847
+    second: cinnabarsword_16
+  - first:
+      213: 5527871261107917312
+    second: cinnabarsword_17
+  - first:
+      213: 6039905979936892114
+    second: cinnabarsword_18
+  - first:
+      213: 6738034939931067513
+    second: cinnabarsword_19
+  - first:
+      213: -8111173697574691747
+    second: cinnabarsword_20
+  - first:
+      213: 451877109550046667
+    second: cinnabarsword_21
+  - first:
+      213: 7720403686282468767
+    second: cinnabarsword_22
+  - first:
+      213: -5573510456969515245
+    second: cinnabarsword_23
+  - first:
+      213: -1492147833526769937
+    second: cinnabarsword_24
+  - first:
+      213: -6478187520107339261
+    second: cinnabarsword_25
+  - first:
+      213: 7275227917385656912
+    second: cinnabarsword_26
+  - first:
+      213: 2755857511260444075
+    second: cinnabarsword_27
+  - first:
+      213: -3500777580595623949
+    second: cinnabarsword_28
+  - first:
+      213: -8857554858663497157
+    second: cinnabarsword_29
+  - first:
+      213: -4964970164642963266
+    second: cinnabarsword_30
+  - first:
+      213: -6643905584697758389
+    second: cinnabarsword_31
+  - first:
+      213: 6380520399004734042
+    second: cinnabarsword_32
+  - first:
+      213: 5718365267467001061
+    second: cinnabarsword_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cinnabarsword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b04b768c759f660800000000000000
+      internalID: 7420058379314531101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68e9bb413d444440800000000000000
+      internalID: 4919141567114635372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80925aa3501f9630800000000000000
+      internalID: 3935882550870970510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f09426db5e03d90800000000000000
+      internalID: -7119938409312219349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f27f37bf499e2bf0800000000000000
+      internalID: -347171553605094670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ecb0c6e36535ec0800000000000000
+      internalID: -3579422452728738220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb85d4998aafeee80800000000000000
+      internalID: -8147299073833215812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cad22be4cd8d270800000000000000
+      internalID: 8275606545848183813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef05ea2bb53a0460800000000000000
+      internalID: 7208633231554711535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848f7bf6d141be940800000000000000
+      internalID: 5326373100956678216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1a661d8524bba20800000000000000
+      internalID: 3079127719475585510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367ec7307b2b9d20800000000000000
+      internalID: 3286268114069517882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187710a5f87c2bb60800000000000000
+      internalID: 7760484526417082241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bec84b2eef6aa6d0800000000000000
+      internalID: -2978445134833070410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4a61f4db18330d0800000000000000
+      internalID: -3444266639932611364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669b3f819b4d3bb00800000000000000
+      internalID: 843251446701078886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594ccdf22dc74a00800000000000000
+      internalID: 740786213896341847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0029d62cf91f6bc40800000000000000
+      internalID: 5527871261107917312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d465eaec7e02d350800000000000000
+      internalID: 6039905979936892114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97403c6041f428d50800000000000000
+      internalID: 6738034939931067513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c91943f725f6f80800000000000000
+      internalID: -8111173697574691747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd5cd446d3654600800000000000000
+      internalID: 451877109550046667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d9b7b8f32642b60800000000000000
+      internalID: 7720403686282468767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f2864e4c9e6a2b0800000000000000
+      internalID: -5573510456969515245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6a44e7373da4be0800000000000000
+      internalID: -1492147833526769937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30222abf5cad816a0800000000000000
+      internalID: -6478187520107339261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae6cbbe3dc6f460800000000000000
+      internalID: 7275227917385656912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5554a2ec5ce3620800000000000000
+      internalID: 2755857511260444075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f742fe965dba6fc0800000000000000
+      internalID: -3500777580595623949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32b3de09c4a31580800000000000000
+      internalID: -8857554858663497157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 59
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02b08d0f1e81bb0800000000000000
+      internalID: -4964970164642963266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 62
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d2bd6521b1cc3a0800000000000000
+      internalID: -6643905584697758389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529fc85f792c8850800000000000000
+      internalID: 6380520399004734042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinnabarsword_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec5d4fd9e6bb5f40800000000000000
+      internalID: 5718365267467001061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cinnabarsword_0: 7420058379314531101
+      cinnabarsword_1: 4919141567114635372
+      cinnabarsword_10: 3079127719475585510
+      cinnabarsword_11: 3286268114069517882
+      cinnabarsword_12: 7760484526417082241
+      cinnabarsword_13: -2978445134833070410
+      cinnabarsword_14: -3444266639932611364
+      cinnabarsword_15: 843251446701078886
+      cinnabarsword_16: 740786213896341847
+      cinnabarsword_17: 5527871261107917312
+      cinnabarsword_18: 6039905979936892114
+      cinnabarsword_19: 6738034939931067513
+      cinnabarsword_2: 3935882550870970510
+      cinnabarsword_20: -8111173697574691747
+      cinnabarsword_21: 451877109550046667
+      cinnabarsword_22: 7720403686282468767
+      cinnabarsword_23: -5573510456969515245
+      cinnabarsword_24: -1492147833526769937
+      cinnabarsword_25: -6478187520107339261
+      cinnabarsword_26: 7275227917385656912
+      cinnabarsword_27: 2755857511260444075
+      cinnabarsword_28: -3500777580595623949
+      cinnabarsword_29: -8857554858663497157
+      cinnabarsword_3: -7119938409312219349
+      cinnabarsword_30: -4964970164642963266
+      cinnabarsword_31: -6643905584697758389
+      cinnabarsword_32: 6380520399004734042
+      cinnabarsword_33: 5718365267467001061
+      cinnabarsword_4: -347171553605094670
+      cinnabarsword_5: -3579422452728738220
+      cinnabarsword_6: -8147299073833215812
+      cinnabarsword_7: 8275606545848183813
+      cinnabarsword_8: 7208633231554711535
+      cinnabarsword_9: 5326373100956678216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

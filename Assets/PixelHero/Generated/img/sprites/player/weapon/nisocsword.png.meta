@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 82b6d581bc8d78b479ffa8ab649e7831
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7921891678614647377
+    second: nisocsword_0
+  - first:
+      213: -1975537599885332675
+    second: nisocsword_1
+  - first:
+      213: -8257831007696753173
+    second: nisocsword_2
+  - first:
+      213: 4619924360888192145
+    second: nisocsword_3
+  - first:
+      213: -7403522852167908993
+    second: nisocsword_4
+  - first:
+      213: 1301338164213420988
+    second: nisocsword_5
+  - first:
+      213: -6347220975258574960
+    second: nisocsword_6
+  - first:
+      213: 6618079417547026608
+    second: nisocsword_7
+  - first:
+      213: -7171314260180294666
+    second: nisocsword_8
+  - first:
+      213: -5253627518608812357
+    second: nisocsword_9
+  - first:
+      213: 6307682393389309827
+    second: nisocsword_10
+  - first:
+      213: 5090555016044598483
+    second: nisocsword_11
+  - first:
+      213: -9132345158509105748
+    second: nisocsword_12
+  - first:
+      213: -5086599957812850242
+    second: nisocsword_13
+  - first:
+      213: 3038470111573652880
+    second: nisocsword_14
+  - first:
+      213: 2788087551861919710
+    second: nisocsword_15
+  - first:
+      213: 5755793518401515595
+    second: nisocsword_16
+  - first:
+      213: -3495606583291000251
+    second: nisocsword_17
+  - first:
+      213: 5119032839601623004
+    second: nisocsword_18
+  - first:
+      213: 6729617906694838445
+    second: nisocsword_19
+  - first:
+      213: 2887940273651003677
+    second: nisocsword_20
+  - first:
+      213: 1175355995883912713
+    second: nisocsword_21
+  - first:
+      213: 5092620937367917898
+    second: nisocsword_22
+  - first:
+      213: -2584909424255107815
+    second: nisocsword_23
+  - first:
+      213: 1732946612401841651
+    second: nisocsword_24
+  - first:
+      213: 6197762265033209129
+    second: nisocsword_25
+  - first:
+      213: -7257246462145224726
+    second: nisocsword_26
+  - first:
+      213: -8844658334070450254
+    second: nisocsword_27
+  - first:
+      213: 2148715408142280813
+    second: nisocsword_28
+  - first:
+      213: -3399913380236175939
+    second: nisocsword_29
+  - first:
+      213: 3605991069586178436
+    second: nisocsword_30
+  - first:
+      213: 6616523523427785623
+    second: nisocsword_31
+  - first:
+      213: 2474568342912029883
+    second: nisocsword_32
+  - first:
+      213: -330383580514146192
+    second: nisocsword_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nisocsword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152f2fc728630fd60800000000000000
+      internalID: 7921891678614647377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f286e050b7594e0800000000000000
+      internalID: -1975537599885332675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 396
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed670b437a466d80800000000000000
+      internalID: -8257831007696753173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0ae39ab44d1040800000000000000
+      internalID: 4619924360888192145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f718b060137614990800000000000000
+      internalID: -7403522852167908993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb399926a284f0210800000000000000
+      internalID: 1301338164213420988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fddcae6242ae7a0800000000000000
+      internalID: -6347220975258574960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0f63a8a2428db50800000000000000
+      internalID: 6618079417547026608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a245fcaf5a7c90800000000000000
+      internalID: -7171314260180294666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6da135b9d5717b0800000000000000
+      internalID: -5253627518608812357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f94fd97b3698750800000000000000
+      internalID: 6307682393389309827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4dbe0f0d845a640800000000000000
+      internalID: 5090555016044598483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad6ecca674634180800000000000000
+      internalID: -9132345158509105748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb15c00d944c869b0800000000000000
+      internalID: -5086599957812850242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0953dfcc770da2a20800000000000000
+      internalID: 3038470111573652880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0b634bd641b620800000000000000
+      internalID: 2788087551861919710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4071d0a5bfa0ef40800000000000000
+      internalID: 5755793518401515595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a4c60455c1d7fc0800000000000000
+      internalID: -3495606583291000251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf830eee357a0740800000000000000
+      internalID: 5119032839601623004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da857a2c4d7646d50800000000000000
+      internalID: 6729617906694838445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11338fb066041820800000000000000
+      internalID: 2887940273651003677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e394b0d04bf4010800000000000000
+      internalID: 1175355995883912713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45188bb2cf9ca640800000000000000
+      internalID: 5092620937367917898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91df6b6f29e802cd0800000000000000
+      internalID: -2584909424255107815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5adee23c9ac0810800000000000000
+      internalID: 1732946612401841651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925ff9161ffd20650800000000000000
+      internalID: 6197762265033209129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef9f501bc4194b90800000000000000
+      internalID: -7257246462145224726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7580e2b16714580800000000000000
+      internalID: -8844658334070450254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68aab18745c1dd10800000000000000
+      internalID: 2148715408142280813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5dcef4bc411d0d0800000000000000
+      internalID: -3399913380236175939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 59
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4814aedb5cd0b0230800000000000000
+      internalID: 3605991069586178436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 62
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bdde5b61d92db50800000000000000
+      internalID: 6616523523427785623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4d2bb0cce675220800000000000000
+      internalID: 2474568342912029883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nisocsword_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07825db42ed3a6bf0800000000000000
+      internalID: -330383580514146192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nisocsword_0: 7921891678614647377
+      nisocsword_1: -1975537599885332675
+      nisocsword_10: 6307682393389309827
+      nisocsword_11: 5090555016044598483
+      nisocsword_12: -9132345158509105748
+      nisocsword_13: -5086599957812850242
+      nisocsword_14: 3038470111573652880
+      nisocsword_15: 2788087551861919710
+      nisocsword_16: 5755793518401515595
+      nisocsword_17: -3495606583291000251
+      nisocsword_18: 5119032839601623004
+      nisocsword_19: 6729617906694838445
+      nisocsword_2: -8257831007696753173
+      nisocsword_20: 2887940273651003677
+      nisocsword_21: 1175355995883912713
+      nisocsword_22: 5092620937367917898
+      nisocsword_23: -2584909424255107815
+      nisocsword_24: 1732946612401841651
+      nisocsword_25: 6197762265033209129
+      nisocsword_26: -7257246462145224726
+      nisocsword_27: -8844658334070450254
+      nisocsword_28: 2148715408142280813
+      nisocsword_29: -3399913380236175939
+      nisocsword_3: 4619924360888192145
+      nisocsword_30: 3605991069586178436
+      nisocsword_31: 6616523523427785623
+      nisocsword_32: 2474568342912029883
+      nisocsword_33: -330383580514146192
+      nisocsword_4: -7403522852167908993
+      nisocsword_5: 1301338164213420988
+      nisocsword_6: -6347220975258574960
+      nisocsword_7: 6618079417547026608
+      nisocsword_8: -7171314260180294666
+      nisocsword_9: -5253627518608812357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

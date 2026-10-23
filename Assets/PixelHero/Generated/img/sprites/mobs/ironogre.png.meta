@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 8740e85de35b48443995aa2f3152bda4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2795240079815388651
+    second: ironogre_0
+  - first:
+      213: -1500329977826956230
+    second: ironogre_1
+  - first:
+      213: 3485442926427869501
+    second: ironogre_2
+  - first:
+      213: 4034845524240829043
+    second: ironogre_3
+  - first:
+      213: -7329196323310608756
+    second: ironogre_4
+  - first:
+      213: 2529869261092337492
+    second: ironogre_5
+  - first:
+      213: 2390693750728476609
+    second: ironogre_6
+  - first:
+      213: 7170890021232381460
+    second: ironogre_7
+  - first:
+      213: 3218446589540285220
+    second: ironogre_8
+  - first:
+      213: 4603685600958101863
+    second: ironogre_9
+  - first:
+      213: 7413308677324961678
+    second: ironogre_10
+  - first:
+      213: 482981336274687919
+    second: ironogre_11
+  - first:
+      213: 3062552628690858578
+    second: ironogre_12
+  - first:
+      213: 8895447151913722366
+    second: ironogre_13
+  - first:
+      213: 5010447243234902771
+    second: ironogre_14
+  - first:
+      213: 6335532097890354911
+    second: ironogre_15
+  - first:
+      213: -5915753771537188237
+    second: ironogre_16
+  - first:
+      213: -3121815181254307519
+    second: ironogre_17
+  - first:
+      213: 3109074809099880849
+    second: ironogre_18
+  - first:
+      213: -7021098087524903750
+    second: ironogre_19
+  - first:
+      213: 8340822056392983489
+    second: ironogre_20
+  - first:
+      213: 2694065660907832655
+    second: ironogre_21
+  - first:
+      213: 7207472718486367832
+    second: ironogre_22
+  - first:
+      213: 1003290617949445026
+    second: ironogre_23
+  - first:
+      213: -546299277140312442
+    second: ironogre_24
+  - first:
+      213: -3153232447499041996
+    second: ironogre_25
+  - first:
+      213: 7978511724327983454
+    second: ironogre_26
+  - first:
+      213: 4694256610078155456
+    second: ironogre_27
+  - first:
+      213: -5399999282312673432
+    second: ironogre_28
+  - first:
+      213: 2210675986449704091
+    second: ironogre_29
+  - first:
+      213: 6214776656350164335
+    second: ironogre_30
+  - first:
+      213: 991754595864704612
+    second: ironogre_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ironogre_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 392
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda453fa00bac620800000000000000
+      internalID: 2795240079815388651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 392
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c21c195d1cd2be0800000000000000
+      internalID: -1500329977826956230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 392
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3191aaffd7ce5030800000000000000
+      internalID: 3485442926427869501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 344
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a03f370a6aef730800000000000000
+      internalID: 4034845524240829043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 346
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed8f396c6794a90800000000000000
+      internalID: -7329196323310608756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 346
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b69b60b6eb1320800000000000000
+      internalID: 2529869261092337492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 344
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7cae2cc437d2120800000000000000
+      internalID: 2390693750728476609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 346
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e03f63b7e148360800000000000000
+      internalID: 7170890021232381460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 346
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bbd120f183aac20800000000000000
+      internalID: 3218446589540285220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 296
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76930b6a9a393ef30800000000000000
+      internalID: 4603685600958101863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 296
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877642f6fc51e660800000000000000
+      internalID: 7413308677324961678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 248
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7dbc567f4e3b600800000000000000
+      internalID: 482981336274687919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 248
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252be03c36f508a20800000000000000
+      internalID: 3062552628690858578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e318fd0af27b70800000000000000
+      internalID: 8895447151913722366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f20ad2a83fa88540800000000000000
+      internalID: 5010447243234902771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd607dd30e45ce750800000000000000
+      internalID: 6335532097890354911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a39dca94507eda0800000000000000
+      internalID: -5915753771537188237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 201
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1415aeaf1a51da4d0800000000000000
+      internalID: -3121815181254307519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 200
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1998388f017a52b20800000000000000
+      internalID: 3109074809099880849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab457ef1d7c009e90800000000000000
+      internalID: -7021098087524903750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c30c0ef77d80c370800000000000000
+      internalID: 8340822056392983489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 104
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454dffd17e336520800000000000000
+      internalID: 2694065660907832655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 104
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ee2b92046160460800000000000000
+      internalID: 7207472718486367832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 104
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abdb5950876ced00800000000000000
+      internalID: 1003290617949445026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 56
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ebffca3b72b68f0800000000000000
+      internalID: -546299277140312442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4338598abc77d34d0800000000000000
+      internalID: -3153232447499041996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 57
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59dbdc242e59be60800000000000000
+      internalID: 7978511724327983454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 56
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2ec300489552140800000000000000
+      internalID: 4694256610078155456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 57
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867836e53495f05b0800000000000000
+      internalID: -5399999282312673432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 56
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9422d5d816edae10800000000000000
+      internalID: 2210675986449704091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65342011725f3650800000000000000
+      internalID: 6214776656350164335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironogre_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46670e6ec8b63cd00800000000000000
+      internalID: 991754595864704612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ironogre_0: 2795240079815388651
+      ironogre_1: -1500329977826956230
+      ironogre_10: 7413308677324961678
+      ironogre_11: 482981336274687919
+      ironogre_12: 3062552628690858578
+      ironogre_13: 8895447151913722366
+      ironogre_14: 5010447243234902771
+      ironogre_15: 6335532097890354911
+      ironogre_16: -5915753771537188237
+      ironogre_17: -3121815181254307519
+      ironogre_18: 3109074809099880849
+      ironogre_19: -7021098087524903750
+      ironogre_2: 3485442926427869501
+      ironogre_20: 8340822056392983489
+      ironogre_21: 2694065660907832655
+      ironogre_22: 7207472718486367832
+      ironogre_23: 1003290617949445026
+      ironogre_24: -546299277140312442
+      ironogre_25: -3153232447499041996
+      ironogre_26: 7978511724327983454
+      ironogre_27: 4694256610078155456
+      ironogre_28: -5399999282312673432
+      ironogre_29: 2210675986449704091
+      ironogre_3: 4034845524240829043
+      ironogre_30: 6214776656350164335
+      ironogre_31: 991754595864704612
+      ironogre_4: -7329196323310608756
+      ironogre_5: 2529869261092337492
+      ironogre_6: 2390693750728476609
+      ironogre_7: 7170890021232381460
+      ironogre_8: 3218446589540285220
+      ironogre_9: 4603685600958101863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

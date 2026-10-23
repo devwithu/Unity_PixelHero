@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 9031949de3b3e424d9919ddb51ad678d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1851059845122954503
+    second: cobaltaxe_0
+  - first:
+      213: 8910468945669196186
+    second: cobaltaxe_1
+  - first:
+      213: -4116315487770923407
+    second: cobaltaxe_2
+  - first:
+      213: 127301037046204901
+    second: cobaltaxe_3
+  - first:
+      213: 2343622152470305086
+    second: cobaltaxe_4
+  - first:
+      213: 4074318127655518918
+    second: cobaltaxe_5
+  - first:
+      213: -2990020764564711475
+    second: cobaltaxe_6
+  - first:
+      213: -7293921664715952591
+    second: cobaltaxe_7
+  - first:
+      213: -432430740257954997
+    second: cobaltaxe_8
+  - first:
+      213: -9156872761502902927
+    second: cobaltaxe_9
+  - first:
+      213: -8471201545116391989
+    second: cobaltaxe_10
+  - first:
+      213: -2966972103477065768
+    second: cobaltaxe_11
+  - first:
+      213: -5419253902631603380
+    second: cobaltaxe_12
+  - first:
+      213: -8363960314673533903
+    second: cobaltaxe_13
+  - first:
+      213: 6074341128815942554
+    second: cobaltaxe_14
+  - first:
+      213: -4920946386048260795
+    second: cobaltaxe_15
+  - first:
+      213: -1819898983047828871
+    second: cobaltaxe_16
+  - first:
+      213: -5491160103902678575
+    second: cobaltaxe_17
+  - first:
+      213: 3313351012691574541
+    second: cobaltaxe_18
+  - first:
+      213: 4807611769546261338
+    second: cobaltaxe_19
+  - first:
+      213: 4731234432702828173
+    second: cobaltaxe_20
+  - first:
+      213: 5960246912484709335
+    second: cobaltaxe_21
+  - first:
+      213: 7704579398805614661
+    second: cobaltaxe_22
+  - first:
+      213: 2349063346578821130
+    second: cobaltaxe_23
+  - first:
+      213: -1013209744626251922
+    second: cobaltaxe_24
+  - first:
+      213: -7781156672877319887
+    second: cobaltaxe_25
+  - first:
+      213: 684652149977247093
+    second: cobaltaxe_26
+  - first:
+      213: -3536146018216839336
+    second: cobaltaxe_27
+  - first:
+      213: -2556279283319119365
+    second: cobaltaxe_28
+  - first:
+      213: 850827537541440008
+    second: cobaltaxe_29
+  - first:
+      213: 2559906426673910536
+    second: cobaltaxe_30
+  - first:
+      213: 598858691761597112
+    second: cobaltaxe_31
+  - first:
+      213: 7676431057232783622
+    second: cobaltaxe_32
+  - first:
+      213: -1559947558097281976
+    second: cobaltaxe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobaltaxe_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 397
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051b8e2f1940b910800000000000000
+      internalID: 1851059845122954503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 396
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9903c0eb4858ab70800000000000000
+      internalID: 8910468945669196186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 396
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ea9ff7fd8efd6c0800000000000000
+      internalID: -4116315487770923407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 397
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e98da46e9344c100800000000000000
+      internalID: 127301037046204901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 349
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e399abd3ee7368020800000000000000
+      internalID: 2343622152470305086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 348
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c287dc10c2ea8830800000000000000
+      internalID: 4074318127655518918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 348
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71419d4ff4186d0800000000000000
+      internalID: -2990020764564711475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e641b04e8c6ca90800000000000000
+      internalID: -7293921664715952591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4327f86882bff9f0800000000000000
+      internalID: -432430740257954997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1755b251db04ce080800000000000000
+      internalID: -9156872761502902927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e89ab31f307a80800000000000000
+      internalID: -8471201545116391989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 301
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d781c1779233d6d0800000000000000
+      internalID: -2966972103477065768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 252
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c437ef9b941fac4b0800000000000000
+      internalID: -5419253902631603380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c6b60786e3deb80800000000000000
+      internalID: -8363960314673533903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b9e9bc2156c4450800000000000000
+      internalID: 6074341128815942554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 253
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545e9dc855945bbb0800000000000000
+      internalID: -4920946386048260795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae654648b6eb6e0800000000000000
+      internalID: -1819898983047828871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1751a9afa7bc3b0800000000000000
+      internalID: -5491160103902678575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f79afe0336bfd20800000000000000
+      internalID: 3313351012691574541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 205
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53cacdbe6118b240800000000000000
+      internalID: 4807611769546261338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e495e36a8b8a140800000000000000
+      internalID: 4731234432702828173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d31548fcfc07b250800000000000000
+      internalID: 5960246912484709335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f991842a2cea60800000000000000
+      internalID: 7704579398805614661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0098b7faac899020800000000000000
+      internalID: 2349063346578821130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6786900b1b50f1f0800000000000000
+      internalID: -1013209744626251922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139ac7b7b37c30490800000000000000
+      internalID: -7781156672877319887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57de912c08f508900800000000000000
+      internalID: 684652149977247093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 101
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f5468ee51deec0800000000000000
+      internalID: -3536146018216839336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1e21b1985468cd0800000000000000
+      internalID: -2556279283319119365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8022744332fbecb00800000000000000
+      internalID: 850827537541440008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8035324055d968320800000000000000
+      internalID: 2559906426673910536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baea19aec29f4800800000000000000
+      internalID: 598858691761597112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609e2250069288a60800000000000000
+      internalID: 7676431057232783622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobaltaxe_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 15
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c9f5bf5f3f95ae0800000000000000
+      internalID: -1559947558097281976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cobaltaxe_0: 1851059845122954503
+      cobaltaxe_1: 8910468945669196186
+      cobaltaxe_10: -8471201545116391989
+      cobaltaxe_11: -2966972103477065768
+      cobaltaxe_12: -5419253902631603380
+      cobaltaxe_13: -8363960314673533903
+      cobaltaxe_14: 6074341128815942554
+      cobaltaxe_15: -4920946386048260795
+      cobaltaxe_16: -1819898983047828871
+      cobaltaxe_17: -5491160103902678575
+      cobaltaxe_18: 3313351012691574541
+      cobaltaxe_19: 4807611769546261338
+      cobaltaxe_2: -4116315487770923407
+      cobaltaxe_20: 4731234432702828173
+      cobaltaxe_21: 5960246912484709335
+      cobaltaxe_22: 7704579398805614661
+      cobaltaxe_23: 2349063346578821130
+      cobaltaxe_24: -1013209744626251922
+      cobaltaxe_25: -7781156672877319887
+      cobaltaxe_26: 684652149977247093
+      cobaltaxe_27: -3536146018216839336
+      cobaltaxe_28: -2556279283319119365
+      cobaltaxe_29: 850827537541440008
+      cobaltaxe_3: 127301037046204901
+      cobaltaxe_30: 2559906426673910536
+      cobaltaxe_31: 598858691761597112
+      cobaltaxe_32: 7676431057232783622
+      cobaltaxe_33: -1559947558097281976
+      cobaltaxe_4: 2343622152470305086
+      cobaltaxe_5: 4074318127655518918
+      cobaltaxe_6: -2990020764564711475
+      cobaltaxe_7: -7293921664715952591
+      cobaltaxe_8: -432430740257954997
+      cobaltaxe_9: -9156872761502902927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

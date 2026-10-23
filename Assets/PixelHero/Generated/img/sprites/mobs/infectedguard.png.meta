@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 6af5ad2c33d3f85478ccd78a56e825bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8376542545679827460
+    second: infectedguard_0
+  - first:
+      213: 1579898129703032949
+    second: infectedguard_1
+  - first:
+      213: -3951679746694902591
+    second: infectedguard_2
+  - first:
+      213: -4036866230639387221
+    second: infectedguard_3
+  - first:
+      213: -8992237689307851367
+    second: infectedguard_4
+  - first:
+      213: -2443067391965637896
+    second: infectedguard_5
+  - first:
+      213: 2571782100299039710
+    second: infectedguard_6
+  - first:
+      213: 6147738944713453196
+    second: infectedguard_7
+  - first:
+      213: -145493470025538406
+    second: infectedguard_8
+  - first:
+      213: -4412848791300273821
+    second: infectedguard_9
+  - first:
+      213: 6192915824975566349
+    second: infectedguard_10
+  - first:
+      213: 6061207506874058347
+    second: infectedguard_11
+  - first:
+      213: 2348302125648204776
+    second: infectedguard_12
+  - first:
+      213: -3959347961523515983
+    second: infectedguard_13
+  - first:
+      213: 118705645824494127
+    second: infectedguard_14
+  - first:
+      213: -4744849808500661116
+    second: infectedguard_15
+  - first:
+      213: -40127760504372174
+    second: infectedguard_16
+  - first:
+      213: 8665976941499881420
+    second: infectedguard_17
+  - first:
+      213: -2894473053929474283
+    second: infectedguard_18
+  - first:
+      213: -9159646707986788939
+    second: infectedguard_19
+  - first:
+      213: 3687860016365231535
+    second: infectedguard_20
+  - first:
+      213: -8480541395030079235
+    second: infectedguard_21
+  - first:
+      213: 3077450192032734528
+    second: infectedguard_22
+  - first:
+      213: -7548551375995953338
+    second: infectedguard_23
+  - first:
+      213: 3970338538198194121
+    second: infectedguard_24
+  - first:
+      213: 6070784356039825260
+    second: infectedguard_25
+  - first:
+      213: 7116603306610293650
+    second: infectedguard_26
+  - first:
+      213: -6029122889893475902
+    second: infectedguard_27
+  - first:
+      213: -7832234334925864101
+    second: infectedguard_28
+  - first:
+      213: -6219487500952608890
+    second: infectedguard_29
+  - first:
+      213: -4907693685578233060
+    second: infectedguard_30
+  - first:
+      213: 2216760974538118400
+    second: infectedguard_31
+  - first:
+      213: -6725562608244792033
+    second: infectedguard_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: infectedguard_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdbece7fea80cb80800000000000000
+      internalID: -8376542545679827460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578d0427afcece510800000000000000
+      internalID: 1579898129703032949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 260
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc05201530d829c0800000000000000
+      internalID: -3951679746694902591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad18fc2d8b2af7c0800000000000000
+      internalID: -4036866230639387221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 260
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9951de8e677253380800000000000000
+      internalID: -8992237689307851367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25c83a62b781ed0800000000000000
+      internalID: -2443067391965637896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed34800c13ec0b320800000000000000
+      internalID: 2571782100299039710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eea738ff7215550800000000000000
+      internalID: 6147738944713453196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 229
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a942df9b57a1bfdf0800000000000000
+      internalID: -145493470025538406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 196
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3690903976962c2c0800000000000000
+      internalID: -4412848791300273821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 196
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06509f9128a1f550800000000000000
+      internalID: 6192915824975566349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 165
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c8252d1cbd1450800000000000000
+      internalID: 6061207506874058347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 166
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e35e886758d69020800000000000000
+      internalID: 2348302125648204776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd493ba1029d09c0800000000000000
+      internalID: -3959347961523515983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ac33ce72ab5a100800000000000000
+      internalID: 118705645824494127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 166
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484ecbb0d38e62eb0800000000000000
+      internalID: -4744849808500661116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2344181b300717ff0800000000000000
+      internalID: -40127760504372174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc793dd2d1cb34870800000000000000
+      internalID: 8665976941499881420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f790d714c4d7d0800000000000000
+      internalID: -2894473053929474283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 134
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd0f5659d562e080800000000000000
+      internalID: -9159646707986788939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadd0d05529ed2330800000000000000
+      internalID: 3687860016365231535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df88c3678801f4a80800000000000000
+      internalID: -8480541395030079235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d911605ac45ba20800000000000000
+      internalID: 3077450192032734528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f99f874882e3790800000000000000
+      internalID: -7548551375995953338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7d85f5dd9791730800000000000000
+      internalID: 3970338538198194121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6790c91532cf3450800000000000000
+      internalID: 6070784356039825260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 68
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b70e1800143c260800000000000000
+      internalID: 7116603306610293650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 35
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c909b0eca0445ca0800000000000000
+      internalID: -6029122889893475902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 37
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53402d8e505e4390800000000000000
+      internalID: -7832234334925864101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fdcb4f111ffa9a0800000000000000
+      internalID: -6219487500952608890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8ea4589e54ebb0800000000000000
+      internalID: -4907693685578233060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0051b478c5483ce10800000000000000
+      internalID: 2216760974538118400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectedguard_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156becf0700aa2a0800000000000000
+      internalID: -6725562608244792033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      infectedguard_0: -8376542545679827460
+      infectedguard_1: 1579898129703032949
+      infectedguard_10: 6192915824975566349
+      infectedguard_11: 6061207506874058347
+      infectedguard_12: 2348302125648204776
+      infectedguard_13: -3959347961523515983
+      infectedguard_14: 118705645824494127
+      infectedguard_15: -4744849808500661116
+      infectedguard_16: -40127760504372174
+      infectedguard_17: 8665976941499881420
+      infectedguard_18: -2894473053929474283
+      infectedguard_19: -9159646707986788939
+      infectedguard_2: -3951679746694902591
+      infectedguard_20: 3687860016365231535
+      infectedguard_21: -8480541395030079235
+      infectedguard_22: 3077450192032734528
+      infectedguard_23: -7548551375995953338
+      infectedguard_24: 3970338538198194121
+      infectedguard_25: 6070784356039825260
+      infectedguard_26: 7116603306610293650
+      infectedguard_27: -6029122889893475902
+      infectedguard_28: -7832234334925864101
+      infectedguard_29: -6219487500952608890
+      infectedguard_3: -4036866230639387221
+      infectedguard_30: -4907693685578233060
+      infectedguard_31: 2216760974538118400
+      infectedguard_32: -6725562608244792033
+      infectedguard_4: -8992237689307851367
+      infectedguard_5: -2443067391965637896
+      infectedguard_6: 2571782100299039710
+      infectedguard_7: 6147738944713453196
+      infectedguard_8: -145493470025538406
+      infectedguard_9: -4412848791300273821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

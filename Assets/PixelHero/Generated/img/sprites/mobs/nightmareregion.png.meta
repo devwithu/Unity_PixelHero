@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: a7b4fa8cda4415041b0c07d724eb7a10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1950157121236751124
+    second: nightmareregion_0
+  - first:
+      213: -7304402775294435093
+    second: nightmareregion_1
+  - first:
+      213: 1925233385331843688
+    second: nightmareregion_2
+  - first:
+      213: -4091020340350848633
+    second: nightmareregion_3
+  - first:
+      213: 4340112246411005587
+    second: nightmareregion_4
+  - first:
+      213: -3262363710016293568
+    second: nightmareregion_5
+  - first:
+      213: -4476635425090060546
+    second: nightmareregion_6
+  - first:
+      213: 353113502039583483
+    second: nightmareregion_7
+  - first:
+      213: 1839552209881705458
+    second: nightmareregion_8
+  - first:
+      213: -2936247029324403470
+    second: nightmareregion_9
+  - first:
+      213: 831277214219966648
+    second: nightmareregion_10
+  - first:
+      213: 3333944897673776666
+    second: nightmareregion_11
+  - first:
+      213: -6577891443159100448
+    second: nightmareregion_12
+  - first:
+      213: -6131582308806005398
+    second: nightmareregion_13
+  - first:
+      213: 4071415357106952202
+    second: nightmareregion_14
+  - first:
+      213: -3819981387340158843
+    second: nightmareregion_15
+  - first:
+      213: -2208187250792548141
+    second: nightmareregion_16
+  - first:
+      213: 7698846557029048069
+    second: nightmareregion_17
+  - first:
+      213: 6334455459222343831
+    second: nightmareregion_18
+  - first:
+      213: 724329639744379672
+    second: nightmareregion_19
+  - first:
+      213: 2320032428426408586
+    second: nightmareregion_20
+  - first:
+      213: -440629222742432267
+    second: nightmareregion_21
+  - first:
+      213: 3229643191080804902
+    second: nightmareregion_22
+  - first:
+      213: -1594572186016033984
+    second: nightmareregion_23
+  - first:
+      213: 2924446506684712398
+    second: nightmareregion_24
+  - first:
+      213: 493745196681738761
+    second: nightmareregion_25
+  - first:
+      213: 206286649574955635
+    second: nightmareregion_26
+  - first:
+      213: 8981596360526355567
+    second: nightmareregion_27
+  - first:
+      213: 516610831396448775
+    second: nightmareregion_28
+  - first:
+      213: -7258746312011710158
+    second: nightmareregion_29
+  - first:
+      213: -2127743447616592327
+    second: nightmareregion_30
+  - first:
+      213: -5222189726519600177
+    second: nightmareregion_31
+  - first:
+      213: -9223088810477838245
+    second: nightmareregion_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nightmareregion_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 342
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec2c7c3e66afe4e0800000000000000
+      internalID: -1950157121236751124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 342
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0a232506c81aa90800000000000000
+      internalID: -7304402775294435093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 342
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8626d6a409dc7ba10800000000000000
+      internalID: 1925233385331843688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 334
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7817d74fca6c937c0800000000000000
+      internalID: -4091020340350848633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 333
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e86acd71d2b3c30800000000000000
+      internalID: 4340112246411005587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 298
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0457a509d71c9b2d0800000000000000
+      internalID: -3262363710016293568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 298
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeb3929ccbcfd1c0800000000000000
+      internalID: -4476635425090060546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 298
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaa676fbd286e400800000000000000
+      internalID: 353113502039583483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 298
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fba8cf0df6678910800000000000000
+      internalID: 1839552209881705458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca25c32ea5047d0800000000000000
+      internalID: -2936247029324403470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 256
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81577d83a498b00800000000000000
+      internalID: 831277214219966648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 216
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e429e683d844e20800000000000000
+      internalID: 3333944897673776666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39b676592a6b4a0800000000000000
+      internalID: -6577891443159100448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 216
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d6c8c606e38eaa0800000000000000
+      internalID: -6131582308806005398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 216
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a081e6d22b2908830800000000000000
+      internalID: 4071415357106952202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 214
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5886cf6da23bcfac0800000000000000
+      internalID: -3819981387340158843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 174
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8b6f61561fa51e0800000000000000
+      internalID: -2208187250792548141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 175
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f94f3472cc7da60800000000000000
+      internalID: 7698846557029048069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7905b74cda188e750800000000000000
+      internalID: 6334455459222343831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 175
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b104d38f55d0a00800000000000000
+      internalID: 724329639744379672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a823ebb9339623020800000000000000
+      internalID: 2320032428426408586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 130
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e7c47e0292e9f0800000000000000
+      internalID: -440629222742432267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 89
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62261a3fe5ff1dc20800000000000000
+      internalID: 3229643191080804902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 90
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043dbc39b01fed9e0800000000000000
+      internalID: -1594572186016033984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 88
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5039b7a98b59820800000000000000
+      internalID: 2924446506684712398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 82
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a35c1f3a22ad600800000000000000
+      internalID: 493745196681738761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a12d56d90ecd200800000000000000
+      internalID: 206286649574955635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c5d19ad4a05ac70800000000000000
+      internalID: 8981596360526355567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 46
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a218460de5b2700800000000000000
+      internalID: 516610831396448775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 48
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2318ddd00b0c34b90800000000000000
+      internalID: -7258746312011710158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 46
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936e5af8b9cb872e0800000000000000
+      internalID: -2127743447616592327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbda11bc1e0787b0800000000000000
+      internalID: -5222189726519600177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmareregion_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50a697c791010080800000000000000
+      internalID: -9223088810477838245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nightmareregion_0: -1950157121236751124
+      nightmareregion_1: -7304402775294435093
+      nightmareregion_10: 831277214219966648
+      nightmareregion_11: 3333944897673776666
+      nightmareregion_12: -6577891443159100448
+      nightmareregion_13: -6131582308806005398
+      nightmareregion_14: 4071415357106952202
+      nightmareregion_15: -3819981387340158843
+      nightmareregion_16: -2208187250792548141
+      nightmareregion_17: 7698846557029048069
+      nightmareregion_18: 6334455459222343831
+      nightmareregion_19: 724329639744379672
+      nightmareregion_2: 1925233385331843688
+      nightmareregion_20: 2320032428426408586
+      nightmareregion_21: -440629222742432267
+      nightmareregion_22: 3229643191080804902
+      nightmareregion_23: -1594572186016033984
+      nightmareregion_24: 2924446506684712398
+      nightmareregion_25: 493745196681738761
+      nightmareregion_26: 206286649574955635
+      nightmareregion_27: 8981596360526355567
+      nightmareregion_28: 516610831396448775
+      nightmareregion_29: -7258746312011710158
+      nightmareregion_3: -4091020340350848633
+      nightmareregion_30: -2127743447616592327
+      nightmareregion_31: -5222189726519600177
+      nightmareregion_32: -9223088810477838245
+      nightmareregion_4: 4340112246411005587
+      nightmareregion_5: -3262363710016293568
+      nightmareregion_6: -4476635425090060546
+      nightmareregion_7: 353113502039583483
+      nightmareregion_8: 1839552209881705458
+      nightmareregion_9: -2936247029324403470
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

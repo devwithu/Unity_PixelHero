@@ -1,0 +1,115 @@
+{
+ "seed": 23,
+ "end": 70000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/tp home"
+    ]
+   ]
+  },
+  {
+   "t": 4000,
+   "walk": 0,
+   "from": [
+    191,
+    166
+   ],
+   "path": [
+    [
+     192,
+     166
+    ],
+    [
+     193,
+     166
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/mob wizard"
+    ]
+   ]
+  },
+  {
+   "t": 6500,
+   "walk": 0,
+   "from": [
+    193,
+    166
+   ],
+   "path": [
+    [
+     192,
+     166
+    ],
+    [
+     191,
+     166
+    ],
+    [
+     190,
+     166
+    ],
+    [
+     189,
+     166
+    ]
+   ]
+  },
+  {
+   "t": 50000,
+   "conn": 0,
+   "send": [
+    "Respawn"
+   ]
+  }
+ ]
+}

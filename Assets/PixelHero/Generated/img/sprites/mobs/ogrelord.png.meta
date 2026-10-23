@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 427829ef5d3ef244ebd3a7381a3373e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6900802704237843993
+    second: ogrelord_0
+  - first:
+      213: 569755734471204950
+    second: ogrelord_1
+  - first:
+      213: -6969725535284715473
+    second: ogrelord_2
+  - first:
+      213: 8940641991791397834
+    second: ogrelord_3
+  - first:
+      213: -2792556736955356067
+    second: ogrelord_4
+  - first:
+      213: 1973536650028563750
+    second: ogrelord_5
+  - first:
+      213: -1130319312689881624
+    second: ogrelord_6
+  - first:
+      213: 2794559831958210378
+    second: ogrelord_7
+  - first:
+      213: 3783952550277193954
+    second: ogrelord_8
+  - first:
+      213: -2274407659588141913
+    second: ogrelord_9
+  - first:
+      213: -6156452436371723605
+    second: ogrelord_10
+  - first:
+      213: 5428822919698113822
+    second: ogrelord_11
+  - first:
+      213: -6615364770101764013
+    second: ogrelord_12
+  - first:
+      213: -958778312360738401
+    second: ogrelord_13
+  - first:
+      213: 6342369896380696441
+    second: ogrelord_14
+  - first:
+      213: 2930778103087394429
+    second: ogrelord_15
+  - first:
+      213: -4636284144768419187
+    second: ogrelord_16
+  - first:
+      213: 6386504898139176126
+    second: ogrelord_17
+  - first:
+      213: -4252567634185044908
+    second: ogrelord_18
+  - first:
+      213: -6845008312727874214
+    second: ogrelord_19
+  - first:
+      213: 7775389386076501330
+    second: ogrelord_20
+  - first:
+      213: 3195051381474513124
+    second: ogrelord_21
+  - first:
+      213: -8842119528505643062
+    second: ogrelord_22
+  - first:
+      213: -7348503667482227697
+    second: ogrelord_23
+  - first:
+      213: 311684610028361264
+    second: ogrelord_24
+  - first:
+      213: -4804070192507164914
+    second: ogrelord_25
+  - first:
+      213: -3764810707704381829
+    second: ogrelord_26
+  - first:
+      213: 4689223387935825008
+    second: ogrelord_27
+  - first:
+      213: -6835316909456561186
+    second: ogrelord_28
+  - first:
+      213: 4489523701693769998
+    second: ogrelord_29
+  - first:
+      213: 7559457490212354793
+    second: ogrelord_30
+  - first:
+      213: -7739481140741287344
+    second: ogrelord_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ogrelord_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 392
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e929d4a08c6b30a0800000000000000
+      internalID: -6900802704237843993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 392
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e5e162dd28e700800000000000000
+      internalID: 569755734471204950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 392
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a2678d8f864f90800000000000000
+      internalID: -6969725535284715473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 344
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbcaa0a58a831c70800000000000000
+      internalID: 8940641991791397834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 346
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce6ae7178de39d0800000000000000
+      internalID: -2792556736955356067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 346
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dba208029636b10800000000000000
+      internalID: 1973536650028563750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 344
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed1b54e29c4050f0800000000000000
+      internalID: -1130319312689881624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 346
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c1776c5548c620800000000000000
+      internalID: 2794559831958210378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 346
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0a436dbcc438430800000000000000
+      internalID: 3783952550277193954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 296
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac32dfa84eaf60e0800000000000000
+      internalID: -2274407659588141913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 296
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaa97d9023ef8aa0800000000000000
+      internalID: -6156452436371723605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 248
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15ea1daead075b40800000000000000
+      internalID: 5428822919698113822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 248
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35063729ac08134a0800000000000000
+      internalID: -6615364770101764013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91c369643cb1b2f0800000000000000
+      internalID: -958778312360738401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97707e341df940850800000000000000
+      internalID: 6342369896380696441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e640628273ca820800000000000000
+      internalID: 2930778103087394429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7d49622c98afb0800000000000000
+      internalID: -4636284144768419187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 201
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcb0e12e5c61a850800000000000000
+      internalID: 6386504898139176126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 200
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cb31d8448dbf4c0800000000000000
+      internalID: -4252567634185044908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55524bb435a101a0800000000000000
+      internalID: -6845008312727874214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255be6b637bb7eb60800000000000000
+      internalID: 7775389386076501330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 104
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0d8e7ad4a175c20800000000000000
+      internalID: 3195051381474513124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 104
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf60e9e22b7a4580800000000000000
+      internalID: -8842119528505643062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 104
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c011539ded40a90800000000000000
+      internalID: -7348503667482227697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 56
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03652be5083535400800000000000000
+      internalID: 311684610028361264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07619bec93845db0800000000000000
+      internalID: -4804070192507164914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 57
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e71b0bb94b0cbc0800000000000000
+      internalID: -3764810707704381829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 56
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c5e56a3d7731140800000000000000
+      internalID: 4689223387935825008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 57
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbee946c731421a0800000000000000
+      internalID: -6835316909456561186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 56
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09672a250efd4e30800000000000000
+      internalID: 4489523701693769998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaf5ce198698e860800000000000000
+      internalID: 7559457490212354793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogrelord_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d74478e6d79490800000000000000
+      internalID: -7739481140741287344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ogrelord_0: -6900802704237843993
+      ogrelord_1: 569755734471204950
+      ogrelord_10: -6156452436371723605
+      ogrelord_11: 5428822919698113822
+      ogrelord_12: -6615364770101764013
+      ogrelord_13: -958778312360738401
+      ogrelord_14: 6342369896380696441
+      ogrelord_15: 2930778103087394429
+      ogrelord_16: -4636284144768419187
+      ogrelord_17: 6386504898139176126
+      ogrelord_18: -4252567634185044908
+      ogrelord_19: -6845008312727874214
+      ogrelord_2: -6969725535284715473
+      ogrelord_20: 7775389386076501330
+      ogrelord_21: 3195051381474513124
+      ogrelord_22: -8842119528505643062
+      ogrelord_23: -7348503667482227697
+      ogrelord_24: 311684610028361264
+      ogrelord_25: -4804070192507164914
+      ogrelord_26: -3764810707704381829
+      ogrelord_27: 4689223387935825008
+      ogrelord_28: -6835316909456561186
+      ogrelord_29: 4489523701693769998
+      ogrelord_3: 8940641991791397834
+      ogrelord_30: 7559457490212354793
+      ogrelord_31: -7739481140741287344
+      ogrelord_4: -2792556736955356067
+      ogrelord_5: 1973536650028563750
+      ogrelord_6: -1130319312689881624
+      ogrelord_7: 2794559831958210378
+      ogrelord_8: 3783952550277193954
+      ogrelord_9: -2274407659588141913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

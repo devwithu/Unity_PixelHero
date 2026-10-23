@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 67902938924656e4487297a91b932878
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8453715261029695701
+    second: firestaff_0
+  - first:
+      213: -6137489195392178965
+    second: firestaff_1
+  - first:
+      213: -5900790947830146984
+    second: firestaff_2
+  - first:
+      213: -9129923737519372112
+    second: firestaff_3
+  - first:
+      213: 1228541740863317781
+    second: firestaff_4
+  - first:
+      213: -8655148329919833605
+    second: firestaff_5
+  - first:
+      213: -8030840909363221914
+    second: firestaff_6
+  - first:
+      213: -1129627366669536881
+    second: firestaff_7
+  - first:
+      213: 7054431240430728712
+    second: firestaff_8
+  - first:
+      213: -2834289449850537876
+    second: firestaff_9
+  - first:
+      213: 6588741431036156894
+    second: firestaff_10
+  - first:
+      213: 290156813662736136
+    second: firestaff_11
+  - first:
+      213: 1240612732195259963
+    second: firestaff_12
+  - first:
+      213: 1686268801220931028
+    second: firestaff_13
+  - first:
+      213: -295714577947437721
+    second: firestaff_14
+  - first:
+      213: 3648288376648250904
+    second: firestaff_15
+  - first:
+      213: -9137386055073960566
+    second: firestaff_16
+  - first:
+      213: -6614097648638854671
+    second: firestaff_17
+  - first:
+      213: -2281261646409750098
+    second: firestaff_18
+  - first:
+      213: -5395060129649615172
+    second: firestaff_19
+  - first:
+      213: 2147141684288720037
+    second: firestaff_20
+  - first:
+      213: -9195125387156297415
+    second: firestaff_21
+  - first:
+      213: 6858732121780722044
+    second: firestaff_22
+  - first:
+      213: -4434739836076133757
+    second: firestaff_23
+  - first:
+      213: 1703397071571017380
+    second: firestaff_24
+  - first:
+      213: 4784694589216338645
+    second: firestaff_25
+  - first:
+      213: 6287007410795978407
+    second: firestaff_26
+  - first:
+      213: 5403256374883501507
+    second: firestaff_27
+  - first:
+      213: -6840966463664601101
+    second: firestaff_28
+  - first:
+      213: 433407231143393445
+    second: firestaff_29
+  - first:
+      213: 7513271831698138595
+    second: firestaff_30
+  - first:
+      213: 340712868777952207
+    second: firestaff_31
+  - first:
+      213: 1975172121385241203
+    second: firestaff_32
+  - first:
+      213: -4850732833109229454
+    second: firestaff_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: firestaff_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb60282ce5eaa80800000000000000
+      internalID: -8453715261029695701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 399
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4e9d7381243daa0800000000000000
+      internalID: -6137489195392178965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 399
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8585ebc85ed2c1ea0800000000000000
+      internalID: -5900790947830146984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 400
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b840ceabbefb4180800000000000000
+      internalID: -9129923737519372112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 352
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e5e74438ac0110800000000000000
+      internalID: 1228541740863317781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf910dc637cb2e780800000000000000
+      internalID: -8655148329919833605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aeabdfdb8bc8090800000000000000
+      internalID: -8030840909363221914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f813a1125e1c250f0800000000000000
+      internalID: -1129627366669536881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ba4256df56e160800000000000000
+      internalID: 7054431240430728712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68750713c49aa8d0800000000000000
+      internalID: -2834289449850537876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb1fc14c69ef6b50800000000000000
+      internalID: 6588741431036156894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fc68fa518d60400800000000000000
+      internalID: 290156813662736136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b364356f4ba873110800000000000000
+      internalID: 1240612732195259963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde89c5a84d66710800000000000000
+      internalID: 1686268801220931028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765d98a782965ebf0800000000000000
+      internalID: -295714577947437721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8163e48f2f251a230800000000000000
+      internalID: 3648288376648250904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 195
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d65bb7bcb713180800000000000000
+      internalID: -9137386055073960566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f972274b310634a0800000000000000
+      internalID: -6614097648638854671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea926068e945750e0800000000000000
+      internalID: -2281261646409750098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 208
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe9c567565e025b0800000000000000
+      internalID: -5395060129649615172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac867e5cfd2ccd10800000000000000
+      internalID: 2147141684288720037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9396f51ad2a546080800000000000000
+      internalID: -9195125387156297415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791d40968c1f2f50800000000000000
+      internalID: 6858732121780722044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38278678d93a472c0800000000000000
+      internalID: -4434739836076133757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae5e629c9ea3a710800000000000000
+      internalID: 1703397071571017380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d239f4e066a66240800000000000000
+      internalID: 4784694589216338645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1ebc1eefef3750800000000000000
+      internalID: 6287007410795978407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5cb479b093cfa40800000000000000
+      internalID: 5403256374883501507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f749ec0f310011a0800000000000000
+      internalID: -6840966463664601101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a833679495c30600800000000000000
+      internalID: 433407231143393445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 62
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5e0558ce0844860800000000000000
+      internalID: 7513271831698138595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc30ae98c847ab400800000000000000
+      internalID: 340712868777952207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a0c695498396b10800000000000000
+      internalID: 1975172121385241203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestaff_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2704336403cbeacb0800000000000000
+      internalID: -4850732833109229454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      firestaff_0: -8453715261029695701
+      firestaff_1: -6137489195392178965
+      firestaff_10: 6588741431036156894
+      firestaff_11: 290156813662736136
+      firestaff_12: 1240612732195259963
+      firestaff_13: 1686268801220931028
+      firestaff_14: -295714577947437721
+      firestaff_15: 3648288376648250904
+      firestaff_16: -9137386055073960566
+      firestaff_17: -6614097648638854671
+      firestaff_18: -2281261646409750098
+      firestaff_19: -5395060129649615172
+      firestaff_2: -5900790947830146984
+      firestaff_20: 2147141684288720037
+      firestaff_21: -9195125387156297415
+      firestaff_22: 6858732121780722044
+      firestaff_23: -4434739836076133757
+      firestaff_24: 1703397071571017380
+      firestaff_25: 4784694589216338645
+      firestaff_26: 6287007410795978407
+      firestaff_27: 5403256374883501507
+      firestaff_28: -6840966463664601101
+      firestaff_29: 433407231143393445
+      firestaff_3: -9129923737519372112
+      firestaff_30: 7513271831698138595
+      firestaff_31: 340712868777952207
+      firestaff_32: 1975172121385241203
+      firestaff_33: -4850732833109229454
+      firestaff_4: 1228541740863317781
+      firestaff_5: -8655148329919833605
+      firestaff_6: -8030840909363221914
+      firestaff_7: -1129627366669536881
+      firestaff_8: 7054431240430728712
+      firestaff_9: -2834289449850537876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

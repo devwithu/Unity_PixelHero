@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 846dbf625f1de1e45a52884eee207b22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8488094853682651589
+    second: picklemob_0
+  - first:
+      213: 6082308270052772755
+    second: picklemob_1
+  - first:
+      213: -6654890020500791520
+    second: picklemob_2
+  - first:
+      213: 4103319345301208783
+    second: picklemob_3
+  - first:
+      213: -2003755558437255584
+    second: picklemob_4
+  - first:
+      213: -2823647365240356112
+    second: picklemob_5
+  - first:
+      213: -4720155948424752608
+    second: picklemob_6
+  - first:
+      213: 5725313316493800901
+    second: picklemob_7
+  - first:
+      213: 7879584882039528577
+    second: picklemob_8
+  - first:
+      213: -7078776394166215840
+    second: picklemob_9
+  - first:
+      213: -1681119851484895759
+    second: picklemob_10
+  - first:
+      213: 4453372156085229149
+    second: picklemob_11
+  - first:
+      213: -480244429792034507
+    second: picklemob_12
+  - first:
+      213: -8574068935601911168
+    second: picklemob_13
+  - first:
+      213: 1240334599585680889
+    second: picklemob_14
+  - first:
+      213: -4079126014745497803
+    second: picklemob_15
+  - first:
+      213: 4005069745362033723
+    second: picklemob_16
+  - first:
+      213: -1974427964418239019
+    second: picklemob_17
+  - first:
+      213: 6528758876031909860
+    second: picklemob_18
+  - first:
+      213: 3662626533218673950
+    second: picklemob_19
+  - first:
+      213: -3701569701759154059
+    second: picklemob_20
+  - first:
+      213: -7210689736706031014
+    second: picklemob_21
+  - first:
+      213: 6527012608749535964
+    second: picklemob_22
+  - first:
+      213: -1452758364178440431
+    second: picklemob_23
+  - first:
+      213: 2460492006083936827
+    second: picklemob_24
+  - first:
+      213: 1594382533811689272
+    second: picklemob_25
+  - first:
+      213: 2831862547124519658
+    second: picklemob_26
+  - first:
+      213: 4920661015152797780
+    second: picklemob_27
+  - first:
+      213: -6350625926184038594
+    second: picklemob_28
+  - first:
+      213: 2520290604640104683
+    second: picklemob_29
+  - first:
+      213: -432820908078060604
+    second: picklemob_30
+  - first:
+      213: -3443591359632941150
+    second: picklemob_31
+  - first:
+      213: 7849557929072416746
+    second: picklemob_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: picklemob_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1639d2c45cbc570800000000000000
+      internalID: 8488094853682651589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 261
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b8aea6523b86450800000000000000
+      internalID: 6082308270052772755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 260
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f12c419c415a3a0800000000000000
+      internalID: -6654890020500791520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 260
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcebaa8443be1f830800000000000000
+      internalID: 4103319345301208783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 260
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06602aa9fea3134e0800000000000000
+      internalID: -2003755558437255584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f281ef7ea360d8d0800000000000000
+      internalID: -2823647365240356112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 229
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02212b16c23ae7eb0800000000000000
+      internalID: -4720155948424752608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c53d699026647f40800000000000000
+      internalID: 5725313316493800901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 227
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c118fc3b8e95d60800000000000000
+      internalID: 7879584882039528577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 196
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b5d4ddf5223cd90800000000000000
+      internalID: -7078776394166215840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 196
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5a26be6667ba8e0800000000000000
+      internalID: -1681119851484895759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d565318816e8dcd30800000000000000
+      internalID: 4453372156085229149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531c2ec4c34d559f0800000000000000
+      internalID: -480244429792034507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a8cbdfab9c20980800000000000000
+      internalID: -8574068935601911168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd4eea2fbd863110800000000000000
+      internalID: 1240334599585680889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 165
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2a0170880467c0800000000000000
+      internalID: -4079126014745497803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cd7f0b6bdd49730800000000000000
+      internalID: 4005069745362033723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5d0423a3c6994e0800000000000000
+      internalID: -1974427964418239019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 133
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef7f0e5b9fca9a50800000000000000
+      internalID: 6528758876031909860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 134
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e156b613d6344d230800000000000000
+      internalID: 3662626533218673950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5780c4fc7f161acc0800000000000000
+      internalID: -3701569701759154059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52051a63eb7eeb90800000000000000
+      internalID: -7210689736706031014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd20305d26b949a50800000000000000
+      internalID: 6527012608749535964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f9aaef6f3c6dbe0800000000000000
+      internalID: -1452758364178440431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32425b717c652220800000000000000
+      internalID: 2460492006083936827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837dee39772602610800000000000000
+      internalID: 1594382533811689272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae207169bfbcc4720800000000000000
+      internalID: 2831862547124519658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ab4c5f13b94440800000000000000
+      internalID: 4920661015152797780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f0a600e5b0ed7a0800000000000000
+      internalID: -6350625926184038594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0f35ca3fed9f220800000000000000
+      internalID: 2520290604640104683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 35
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb25a26daf4ef9f0800000000000000
+      internalID: -432820908078060604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af597147e7e530d0800000000000000
+      internalID: -3443591359632941150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picklemob_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae75636095b3fec60800000000000000
+      internalID: 7849557929072416746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      picklemob_0: 8488094853682651589
+      picklemob_1: 6082308270052772755
+      picklemob_10: -1681119851484895759
+      picklemob_11: 4453372156085229149
+      picklemob_12: -480244429792034507
+      picklemob_13: -8574068935601911168
+      picklemob_14: 1240334599585680889
+      picklemob_15: -4079126014745497803
+      picklemob_16: 4005069745362033723
+      picklemob_17: -1974427964418239019
+      picklemob_18: 6528758876031909860
+      picklemob_19: 3662626533218673950
+      picklemob_2: -6654890020500791520
+      picklemob_20: -3701569701759154059
+      picklemob_21: -7210689736706031014
+      picklemob_22: 6527012608749535964
+      picklemob_23: -1452758364178440431
+      picklemob_24: 2460492006083936827
+      picklemob_25: 1594382533811689272
+      picklemob_26: 2831862547124519658
+      picklemob_27: 4920661015152797780
+      picklemob_28: -6350625926184038594
+      picklemob_29: 2520290604640104683
+      picklemob_3: 4103319345301208783
+      picklemob_30: -432820908078060604
+      picklemob_31: -3443591359632941150
+      picklemob_32: 7849557929072416746
+      picklemob_4: -2003755558437255584
+      picklemob_5: -2823647365240356112
+      picklemob_6: -4720155948424752608
+      picklemob_7: 5725313316493800901
+      picklemob_8: 7879584882039528577
+      picklemob_9: -7078776394166215840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

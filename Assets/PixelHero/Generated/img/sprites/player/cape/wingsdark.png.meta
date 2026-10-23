@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: 111b3920610591749aaa191b41f988f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2786061834618570099
+    second: wingsdark_0
+  - first:
+      213: -4745340251993563273
+    second: wingsdark_1
+  - first:
+      213: 9085257374608912721
+    second: wingsdark_2
+  - first:
+      213: -3039703469451723006
+    second: wingsdark_3
+  - first:
+      213: 3015582999695733244
+    second: wingsdark_4
+  - first:
+      213: 2335179141884669927
+    second: wingsdark_5
+  - first:
+      213: -6326538045943344555
+    second: wingsdark_6
+  - first:
+      213: -8242246065307109978
+    second: wingsdark_7
+  - first:
+      213: 5581828039645920021
+    second: wingsdark_8
+  - first:
+      213: 5182885437137303330
+    second: wingsdark_9
+  - first:
+      213: 4585007112056376196
+    second: wingsdark_10
+  - first:
+      213: -7161627310974471719
+    second: wingsdark_11
+  - first:
+      213: 6890191146960306331
+    second: wingsdark_12
+  - first:
+      213: -6384701659303929149
+    second: wingsdark_13
+  - first:
+      213: -9063388419954136246
+    second: wingsdark_14
+  - first:
+      213: -7401499164593056185
+    second: wingsdark_15
+  - first:
+      213: -1622502723586473703
+    second: wingsdark_16
+  - first:
+      213: 1214547847765221204
+    second: wingsdark_17
+  - first:
+      213: -6606638571273392896
+    second: wingsdark_18
+  - first:
+      213: -144444510408273749
+    second: wingsdark_19
+  - first:
+      213: 9049530242269205617
+    second: wingsdark_20
+  - first:
+      213: 7872946852957633528
+    second: wingsdark_21
+  - first:
+      213: -5378959961101580282
+    second: wingsdark_22
+  - first:
+      213: 8675598395242512886
+    second: wingsdark_23
+  - first:
+      213: 8982487477106703627
+    second: wingsdark_24
+  - first:
+      213: -4619722410331337737
+    second: wingsdark_25
+  - first:
+      213: -8543213113092532833
+    second: wingsdark_26
+  - first:
+      213: -477526833478737205
+    second: wingsdark_27
+  - first:
+      213: 9048935105485536278
+    second: wingsdark_28
+  - first:
+      213: -6077740363691415145
+    second: wingsdark_29
+  - first:
+      213: -1957750430423921097
+    second: wingsdark_30
+  - first:
+      213: 7445392038598209773
+    second: wingsdark_31
+  - first:
+      213: -3714799252955730269
+    second: wingsdark_32
+  - first:
+      213: 36119480373523476
+    second: wingsdark_33
+  - first:
+      213: 586951319205015104
+    second: wingsdark_34
+  - first:
+      213: -4352696351572169410
+    second: wingsdark_35
+  - first:
+      213: 1447005015685179786
+    second: wingsdark_36
+  - first:
+      213: 987659213277969236
+    second: wingsdark_37
+  - first:
+      213: 5240934171531910486
+    second: wingsdark_38
+  - first:
+      213: -7913489411467904219
+    second: wingsdark_39
+  - first:
+      213: 8069176451214012304
+    second: wingsdark_40
+  - first:
+      213: 2301452969941561537
+    second: wingsdark_41
+  - first:
+      213: -7847161103008739589
+    second: wingsdark_42
+  - first:
+      213: 1113254028214954930
+    second: wingsdark_43
+  - first:
+      213: 1299617609189825138
+    second: wingsdark_44
+  - first:
+      213: 1510813014579548134
+    second: wingsdark_45
+  - first:
+      213: -8970922966071307400
+    second: wingsdark_46
+  - first:
+      213: -4103132172024745457
+    second: wingsdark_47
+  - first:
+      213: -5694562624437764567
+    second: wingsdark_48
+  - first:
+      213: -5680060048748658671
+    second: wingsdark_49
+  - first:
+      213: -7065236827925028727
+    second: wingsdark_50
+  - first:
+      213: -8777001548102168709
+    second: wingsdark_51
+  - first:
+      213: 8346361211529219172
+    second: wingsdark_52
+  - first:
+      213: 7234776213921063188
+    second: wingsdark_53
+  - first:
+      213: -821612502270965173
+    second: wingsdark_54
+  - first:
+      213: 1825076392678659274
+    second: wingsdark_55
+  - first:
+      213: -3975344537407454575
+    second: wingsdark_56
+  - first:
+      213: 8064469171320236414
+    second: wingsdark_57
+  - first:
+      213: 1772388195508666782
+    second: wingsdark_58
+  - first:
+      213: 73442631747557781
+    second: wingsdark_59
+  - first:
+      213: -8625395333027930849
+    second: wingsdark_60
+  - first:
+      213: 9141727096400918928
+    second: wingsdark_61
+  - first:
+      213: 3381034002739274429
+    second: wingsdark_62
+  - first:
+      213: -7487400706551244317
+    second: wingsdark_63
+  - first:
+      213: 926349300451050721
+    second: wingsdark_64
+  - first:
+      213: 6279144264279869754
+    second: wingsdark_65
+  - first:
+      213: -3619094292914994283
+    second: wingsdark_66
+  - first:
+      213: 3123073655444422609
+    second: wingsdark_67
+  - first:
+      213: -5138154713543436094
+    second: wingsdark_68
+  - first:
+      213: 2808821785875419396
+    second: wingsdark_69
+  - first:
+      213: -1633006917868530881
+    second: wingsdark_70
+  - first:
+      213: -8896654046784606412
+    second: wingsdark_71
+  - first:
+      213: 5722578695018993411
+    second: wingsdark_72
+  - first:
+      213: 3421315326060652471
+    second: wingsdark_73
+  - first:
+      213: -8810208400623792132
+    second: wingsdark_74
+  - first:
+      213: -1630884631679139605
+    second: wingsdark_75
+  - first:
+      213: -2698511075908877206
+    second: wingsdark_76
+  - first:
+      213: -2622603386350466914
+    second: wingsdark_77
+  - first:
+      213: -5946069264953883204
+    second: wingsdark_78
+  - first:
+      213: 8615192295167630442
+    second: wingsdark_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wingsdark_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 359
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37586b63a741aa620800000000000000
+      internalID: 2786061834618570099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 360
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f9f85ce2a252eb0800000000000000
+      internalID: -4745340251993563273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 359
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151ff8a4271551e70800000000000000
+      internalID: 9085257374608912721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 359
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fbec0bccdc0d5d0800000000000000
+      internalID: -3039703469451723006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 360
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1329fc2c089d920800000000000000
+      internalID: 3015582999695733244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 360
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efefe6ae09386020800000000000000
+      internalID: 2335179141884669927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 360
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5529d89aa2f9338a0800000000000000
+      internalID: -6326538045943344555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 360
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a532067fd8ad9d80800000000000000
+      internalID: -8242246065307109978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 327
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bf86c3703a67d40800000000000000
+      internalID: 5581828039645920021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 327
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2273d1058de4de740800000000000000
+      internalID: 5182885437137303330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 329
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b82ce0da731af30800000000000000
+      internalID: 4585007112056376196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 328
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d171a397e9cc9c90800000000000000
+      internalID: -7161627310974471719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 294
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b904c15a750ee9f50800000000000000
+      internalID: 6890191146960306331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 293
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca97502babf467a0800000000000000
+      internalID: -6384701659303929149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 293
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bae3f7040683280800000000000000
+      internalID: -9063388419954136246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 293
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746941189b7984990800000000000000
+      internalID: -7401499164593056185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 293
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91146898e56bb79e0800000000000000
+      internalID: -1622502723586473703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 293
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fd2c425d0fad010800000000000000
+      internalID: 1214547847765221204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 294
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00deadf09318054a0800000000000000
+      internalID: -6606638571273392896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 294
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba01c5bab74defdf0800000000000000
+      internalID: -144444510408273749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 262
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1745c921fc3669d70800000000000000
+      internalID: 9049530242269205617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbb11a3373524d60800000000000000
+      internalID: 7872946852957633528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 263
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608cd711a681a55b0800000000000000
+      internalID: -5378959961101580282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 263
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1016276cae56870800000000000000
+      internalID: 8675598395242512886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 264
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df658e4c438ac70800000000000000
+      internalID: 8982487477106703627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 264
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb0a43b1f273efb0800000000000000
+      internalID: -4619722410331337737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 264
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9519a100f8607980800000000000000
+      internalID: -8543213113092532833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 264
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc268cfffdb7f59f0800000000000000
+      internalID: -477526833478737205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 231
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf60ef886449d70800000000000000
+      internalID: 9048935105485536278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 230
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ae19275787aba0800000000000000
+      internalID: -6077740363691415145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ec6bb2b5ca4d4e0800000000000000
+      internalID: -1957750430423921097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 230
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0fa2a9c98535760800000000000000
+      internalID: 7445392038598209773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeefa3e2c1627cc0800000000000000
+      internalID: -3714799252955730269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 197
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414b22dd972508000800000000000000
+      internalID: 36119480373523476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 199
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e69a17d15452800800000000000000
+      internalID: 586951319205015104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 199
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3de665dabd1893c0800000000000000
+      internalID: -4352696351572169410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 198
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89af1c256bc41410800000000000000
+      internalID: 1447005015685179786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 198
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b339652ded4bd00800000000000000
+      internalID: 987659213277969236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 199
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d9d518cd98bb840800000000000000
+      internalID: 5240934171531910486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 199
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bf3a7ce43ad2290800000000000000
+      internalID: -7913489411467904219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fee84ea397bff60800000000000000
+      internalID: 8069176451214012304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 168
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c072a4584760ff10800000000000000
+      internalID: 2301452969941561537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 169
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfec6e78d88491390800000000000000
+      internalID: -7847161103008739589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 168
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb6680f3a2137f00800000000000000
+      internalID: 1113254028214954930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 166
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a1a93745b290210800000000000000
+      internalID: 1299617609189825138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 166
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef0d00ae6c77f410800000000000000
+      internalID: 1510813014579548134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 167
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8731de3a711e08380800000000000000
+      internalID: -8970922966071307400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 168
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02fcf3670fbe07c0800000000000000
+      internalID: -4103132172024745457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ebb23d679d8f0b0800000000000000
+      internalID: -5694562624437764567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c27bda7f5c21b0800000000000000
+      internalID: -5680060048748658671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 134
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9806589c98c33fd90800000000000000
+      internalID: -7065236827925028727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 134
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f01543893d13680800000000000000
+      internalID: -8777001548102168709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c4c4c0d4b34d370800000000000000
+      internalID: 8346361211529219172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 102
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e53492a6176460800000000000000
+      internalID: 7234776213921063188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a8e1348cb0994f0800000000000000
+      internalID: -821612502270965173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac410993f49f35910800000000000000
+      internalID: 1825076392678659274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 102
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1920a0c943db4d8c0800000000000000
+      internalID: -3975344537407454575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 102
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79a1a2ebffbaef60800000000000000
+      internalID: 8064469171320236414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 103
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91c36d5ca9c89810800000000000000
+      internalID: 1772388195508666782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 103
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599dea83fabe40100800000000000000
+      internalID: 73442631747557781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dde87d4a07c4880800000000000000
+      internalID: -8625395333027930849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 72
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0993a86fb50fdde70800000000000000
+      internalID: 9141727096400918928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_62
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2aac21388dbee20800000000000000
+      internalID: 3381034002739274429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e911033ab8671890800000000000000
+      internalID: -7487400706551244317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4015fd7cd0bdc00800000000000000
+      internalID: 926349300451050721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 73
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3945d5a070042750800000000000000
+      internalID: 6279144264279869754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_66
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59388265ae466cdc0800000000000000
+      internalID: -3619094292914994283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_67
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df352061f2675b20800000000000000
+      internalID: 3123073655444422609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c89e3ad28b91b8b0800000000000000
+      internalID: -5138154713543436094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4019b705880faf620800000000000000
+      internalID: 2808821785875419396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33d0b83cd46659e0800000000000000
+      internalID: -1633006917868530881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43facdbe74cb88480800000000000000
+      internalID: -8896654046784606412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30753dbe00faa6f40800000000000000
+      internalID: 5722578695018993411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7e1728924fa7f20800000000000000
+      internalID: 3421315326060652471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_74
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff08ab532adbb580800000000000000
+      internalID: -8810208400623792132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be00f1b711fed59e0800000000000000
+      internalID: -1630884631679139605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_76
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 7
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a648ef94976fc8ad0800000000000000
+      internalID: -2698511075908877206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9808d18d14aa9bd0800000000000000
+      internalID: -2622603386350466914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 8
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54e84d1815b7da0800000000000000
+      internalID: -5946069264953883204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingsdark_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c16294fbf4f8770800000000000000
+      internalID: 8615192295167630442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wingsdark_0: 2786061834618570099
+      wingsdark_1: -4745340251993563273
+      wingsdark_10: 4585007112056376196
+      wingsdark_11: -7161627310974471719
+      wingsdark_12: 6890191146960306331
+      wingsdark_13: -6384701659303929149
+      wingsdark_14: -9063388419954136246
+      wingsdark_15: -7401499164593056185
+      wingsdark_16: -1622502723586473703
+      wingsdark_17: 1214547847765221204
+      wingsdark_18: -6606638571273392896
+      wingsdark_19: -144444510408273749
+      wingsdark_2: 9085257374608912721
+      wingsdark_20: 9049530242269205617
+      wingsdark_21: 7872946852957633528
+      wingsdark_22: -5378959961101580282
+      wingsdark_23: 8675598395242512886
+      wingsdark_24: 8982487477106703627
+      wingsdark_25: -4619722410331337737
+      wingsdark_26: -8543213113092532833
+      wingsdark_27: -477526833478737205
+      wingsdark_28: 9048935105485536278
+      wingsdark_29: -6077740363691415145
+      wingsdark_3: -3039703469451723006
+      wingsdark_30: -1957750430423921097
+      wingsdark_31: 7445392038598209773
+      wingsdark_32: -3714799252955730269
+      wingsdark_33: 36119480373523476
+      wingsdark_34: 586951319205015104
+      wingsdark_35: -4352696351572169410
+      wingsdark_36: 1447005015685179786
+      wingsdark_37: 987659213277969236
+      wingsdark_38: 5240934171531910486
+      wingsdark_39: -7913489411467904219
+      wingsdark_4: 3015582999695733244
+      wingsdark_40: 8069176451214012304
+      wingsdark_41: 2301452969941561537
+      wingsdark_42: -7847161103008739589
+      wingsdark_43: 1113254028214954930
+      wingsdark_44: 1299617609189825138
+      wingsdark_45: 1510813014579548134
+      wingsdark_46: -8970922966071307400
+      wingsdark_47: -4103132172024745457
+      wingsdark_48: -5694562624437764567
+      wingsdark_49: -5680060048748658671
+      wingsdark_5: 2335179141884669927
+      wingsdark_50: -7065236827925028727
+      wingsdark_51: -8777001548102168709
+      wingsdark_52: 8346361211529219172
+      wingsdark_53: 7234776213921063188
+      wingsdark_54: -821612502270965173
+      wingsdark_55: 1825076392678659274
+      wingsdark_56: -3975344537407454575
+      wingsdark_57: 8064469171320236414
+      wingsdark_58: 1772388195508666782
+      wingsdark_59: 73442631747557781
+      wingsdark_6: -6326538045943344555
+      wingsdark_60: -8625395333027930849
+      wingsdark_61: 9141727096400918928
+      wingsdark_62: 3381034002739274429
+      wingsdark_63: -7487400706551244317
+      wingsdark_64: 926349300451050721
+      wingsdark_65: 6279144264279869754
+      wingsdark_66: -3619094292914994283
+      wingsdark_67: 3123073655444422609
+      wingsdark_68: -5138154713543436094
+      wingsdark_69: 2808821785875419396
+      wingsdark_7: -8242246065307109978
+      wingsdark_70: -1633006917868530881
+      wingsdark_71: -8896654046784606412
+      wingsdark_72: 5722578695018993411
+      wingsdark_73: 3421315326060652471
+      wingsdark_74: -8810208400623792132
+      wingsdark_75: -1630884631679139605
+      wingsdark_76: -2698511075908877206
+      wingsdark_77: -2622603386350466914
+      wingsdark_78: -5946069264953883204
+      wingsdark_79: 8615192295167630442
+      wingsdark_8: 5581828039645920021
+      wingsdark_9: 5182885437137303330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

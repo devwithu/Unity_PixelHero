@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 1bc6ab1204444ed40a97aab109911c38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5348326800157359197
+    second: darkregion_0
+  - first:
+      213: 9021523322224229718
+    second: darkregion_1
+  - first:
+      213: 1462266907343628554
+    second: darkregion_2
+  - first:
+      213: -8791926420321849117
+    second: darkregion_3
+  - first:
+      213: -2057648764948796005
+    second: darkregion_4
+  - first:
+      213: 5542141350866701774
+    second: darkregion_5
+  - first:
+      213: -4362053763759203451
+    second: darkregion_6
+  - first:
+      213: 2175114747555577720
+    second: darkregion_7
+  - first:
+      213: -1909337258056366527
+    second: darkregion_8
+  - first:
+      213: -2880026820993344736
+    second: darkregion_9
+  - first:
+      213: 2416558480712711907
+    second: darkregion_10
+  - first:
+      213: -2114282698254063297
+    second: darkregion_11
+  - first:
+      213: 6937167155944617516
+    second: darkregion_12
+  - first:
+      213: 4734346738823282345
+    second: darkregion_13
+  - first:
+      213: 107126862616939689
+    second: darkregion_14
+  - first:
+      213: 8168006033163033988
+    second: darkregion_15
+  - first:
+      213: -7217371310831184559
+    second: darkregion_16
+  - first:
+      213: 8586837703813756656
+    second: darkregion_17
+  - first:
+      213: -1035237158562581071
+    second: darkregion_18
+  - first:
+      213: -7133359425346391440
+    second: darkregion_19
+  - first:
+      213: 1803463783724431193
+    second: darkregion_20
+  - first:
+      213: 4386905599049491868
+    second: darkregion_21
+  - first:
+      213: -6958650688118198523
+    second: darkregion_22
+  - first:
+      213: 5552282725666427194
+    second: darkregion_23
+  - first:
+      213: -603594241891352833
+    second: darkregion_24
+  - first:
+      213: 8765834817491052238
+    second: darkregion_25
+  - first:
+      213: -8204743037408292851
+    second: darkregion_26
+  - first:
+      213: -1034306977019254115
+    second: darkregion_27
+  - first:
+      213: -3621048215923415666
+    second: darkregion_28
+  - first:
+      213: -3585854964937362307
+    second: darkregion_29
+  - first:
+      213: 6699897938492903393
+    second: darkregion_30
+  - first:
+      213: 312277818210994826
+    second: darkregion_31
+  - first:
+      213: -8722799312547143342
+    second: darkregion_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkregion_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 345
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb41a53e2193a40800000000000000
+      internalID: 5348326800157359197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 345
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db31ad9a3e23d70800000000000000
+      internalID: 9021523322224229718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 344
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a60b31040b4410800000000000000
+      internalID: 1462266907343628554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 345
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03859908dccf580800000000000000
+      internalID: -8791926420321849117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 345
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da4b4a953c173e0800000000000000
+      internalID: -2057648764948796005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 303
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdc961f134a9ec40800000000000000
+      internalID: 5542141350866701774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 303
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b1af7863fd673c0800000000000000
+      internalID: -4362053763759203451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 303
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f73c1b65f8f2e10800000000000000
+      internalID: 2175114747555577720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 303
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146c12141eba085e0800000000000000
+      internalID: -1909337258056366527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 260
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b18178dd61808d0800000000000000
+      internalID: -2880026820993344736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 260
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eeb6dd7227598120800000000000000
+      internalID: 2416558480712711907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 218
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39efcf761f88a2e0800000000000000
+      internalID: -2114282698254063297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 219
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26f59d06c4c54060800000000000000
+      internalID: 6937167155944617516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae371b7647c3b140800000000000000
+      internalID: 4734346738823282345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 219
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac4f2060579c7100800000000000000
+      internalID: 107126862616939689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 218
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d1ee116369a5170800000000000000
+      internalID: 8168006033163033988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 176
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155dfc5380fb6db90800000000000000
+      internalID: -7217371310831184559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6ffb785639a2770800000000000000
+      internalID: 8586837703813756656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 176
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5b7990a4912a1f0800000000000000
+      internalID: -1035237158562581071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0723b059567310d90800000000000000
+      internalID: -7133359425346391440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9573d2291c0370910800000000000000
+      internalID: 1803463783724431193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 133
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c956486466b61ec30800000000000000
+      internalID: 4386905599049491868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 93
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fefa25118ed6f90800000000000000
+      internalID: -6958650688118198523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3192e3c8bbad0d40800000000000000
+      internalID: 5552282725666427194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 91
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe38972c3a9f97f0800000000000000
+      internalID: -603594241891352833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 93
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec62e48b25086a970800000000000000
+      internalID: 8765834817491052238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 93
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d005be59da5e22e80800000000000000
+      internalID: -8204743037408292851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a2f0ec84765a1f0800000000000000
+      internalID: -1034306977019254115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85a25f25d37fbdc0800000000000000
+      internalID: -3621048215923415666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7476d678eb7c3ec0800000000000000
+      internalID: -3585854964937362307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 52
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efcd3f6da1dafc50800000000000000
+      internalID: 6699897938492903393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a43b9650f655400800000000000000
+      internalID: 312277818210994826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregion_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2512b989d3462f680800000000000000
+      internalID: -8722799312547143342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkregion_0: 5348326800157359197
+      darkregion_1: 9021523322224229718
+      darkregion_10: 2416558480712711907
+      darkregion_11: -2114282698254063297
+      darkregion_12: 6937167155944617516
+      darkregion_13: 4734346738823282345
+      darkregion_14: 107126862616939689
+      darkregion_15: 8168006033163033988
+      darkregion_16: -7217371310831184559
+      darkregion_17: 8586837703813756656
+      darkregion_18: -1035237158562581071
+      darkregion_19: -7133359425346391440
+      darkregion_2: 1462266907343628554
+      darkregion_20: 1803463783724431193
+      darkregion_21: 4386905599049491868
+      darkregion_22: -6958650688118198523
+      darkregion_23: 5552282725666427194
+      darkregion_24: -603594241891352833
+      darkregion_25: 8765834817491052238
+      darkregion_26: -8204743037408292851
+      darkregion_27: -1034306977019254115
+      darkregion_28: -3621048215923415666
+      darkregion_29: -3585854964937362307
+      darkregion_3: -8791926420321849117
+      darkregion_30: 6699897938492903393
+      darkregion_31: 312277818210994826
+      darkregion_32: -8722799312547143342
+      darkregion_4: -2057648764948796005
+      darkregion_5: 5542141350866701774
+      darkregion_6: -4362053763759203451
+      darkregion_7: 2175114747555577720
+      darkregion_8: -1909337258056366527
+      darkregion_9: -2880026820993344736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

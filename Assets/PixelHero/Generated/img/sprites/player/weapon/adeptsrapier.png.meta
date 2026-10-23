@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 388243c30617e4d449e58f61f43984dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1321847622135183071
+    second: adeptsrapier_0
+  - first:
+      213: -2965761229546586461
+    second: adeptsrapier_1
+  - first:
+      213: -1976809561039415661
+    second: adeptsrapier_2
+  - first:
+      213: 7308342001228280867
+    second: adeptsrapier_3
+  - first:
+      213: -3210767407164195091
+    second: adeptsrapier_4
+  - first:
+      213: -2527147768770902442
+    second: adeptsrapier_5
+  - first:
+      213: -4990180629524824249
+    second: adeptsrapier_6
+  - first:
+      213: 1462477424227016956
+    second: adeptsrapier_7
+  - first:
+      213: -6474719266109871302
+    second: adeptsrapier_8
+  - first:
+      213: 5418069492444072774
+    second: adeptsrapier_9
+  - first:
+      213: -6578743823708800700
+    second: adeptsrapier_10
+  - first:
+      213: 6258733286530939066
+    second: adeptsrapier_11
+  - first:
+      213: 2578948611050604251
+    second: adeptsrapier_12
+  - first:
+      213: 3234392028658995502
+    second: adeptsrapier_13
+  - first:
+      213: -293203417253558990
+    second: adeptsrapier_14
+  - first:
+      213: -7617373275968059566
+    second: adeptsrapier_15
+  - first:
+      213: -501937698482511113
+    second: adeptsrapier_16
+  - first:
+      213: 7266055933667216889
+    second: adeptsrapier_17
+  - first:
+      213: 1323251097242107212
+    second: adeptsrapier_18
+  - first:
+      213: -8621178429846916380
+    second: adeptsrapier_19
+  - first:
+      213: 1938433000050061047
+    second: adeptsrapier_20
+  - first:
+      213: -7542062143451164930
+    second: adeptsrapier_21
+  - first:
+      213: 7743509532712867381
+    second: adeptsrapier_22
+  - first:
+      213: 4929772143176353405
+    second: adeptsrapier_23
+  - first:
+      213: -79848961022598973
+    second: adeptsrapier_24
+  - first:
+      213: -3376737207111421010
+    second: adeptsrapier_25
+  - first:
+      213: 4646428465971704611
+    second: adeptsrapier_26
+  - first:
+      213: -2786980774066424164
+    second: adeptsrapier_27
+  - first:
+      213: 5255106716706776908
+    second: adeptsrapier_28
+  - first:
+      213: 1269359631342675198
+    second: adeptsrapier_29
+  - first:
+      213: 3305607515802849013
+    second: adeptsrapier_30
+  - first:
+      213: -9151873811348598359
+    second: adeptsrapier_31
+  - first:
+      213: -5382392170920603701
+    second: adeptsrapier_32
+  - first:
+      213: -1159882821081610307
+    second: adeptsrapier_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adeptsrapier_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1290073579ad7ade0800000000000000
+      internalID: -1321847622135183071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 539
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeff3000ef77d6d0800000000000000
+      internalID: -2965761229546586461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 539
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39656a58d26f094e0800000000000000
+      internalID: -1976809561039415661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 540
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324774034527c6560800000000000000
+      internalID: 7308342001228280867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 492
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee7397fd001173d0800000000000000
+      internalID: -3210767407164195091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 491
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6564d736e74cdecd0800000000000000
+      internalID: -2527147768770902442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 491
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f332418215fbab0800000000000000
+      internalID: -4990180629524824249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 492
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf064130873cb4410800000000000000
+      internalID: 1462477424227016956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 446
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ba42bc12d2526a0800000000000000
+      internalID: -6474719266109871302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 445
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b82894f79d03b40800000000000000
+      internalID: 5418069492444072774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 445
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ba87195b93b4a0800000000000000
+      internalID: -6578743823708800700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 446
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f69f83cc7bd650800000000000000
+      internalID: 6258733286530939066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 395
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd688af09144ac320800000000000000
+      internalID: 2578948611050604251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21139cd96ed2ec20800000000000000
+      internalID: 3234392028658995502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 395
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235cba3ab055eebf0800000000000000
+      internalID: -293203417253558990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ce543d57a94690800000000000000
+      internalID: -7617373275968059566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 348
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2a2969252c809f0800000000000000
+      internalID: -501937698482511113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 347
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd8a5cdf5736d460800000000000000
+      internalID: 7266055933667216889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 347
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4df2cfacd12d5210800000000000000
+      internalID: 1323251097242107212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 348
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2f6bf15eb6b5880800000000000000
+      internalID: -8621178429846916380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fee0e41b82b6ea10800000000000000
+      internalID: 1938433000050061047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 302
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe0ca9a076355790800000000000000
+      internalID: -7542062143451164930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 301
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369334a4e8767b60800000000000000
+      internalID: 7743509532712867381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 302
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7684a925a11a6440800000000000000
+      internalID: 4929772143176353405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c060920bc154eef0800000000000000
+      internalID: -79848961022598973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 254
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3774e966b6321d0800000000000000
+      internalID: -3376737207111421010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 239
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b18c621e6b7040800000000000000
+      internalID: 4646428465971704611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c967de580c7a259d0800000000000000
+      internalID: -2786980774066424164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 205
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47a31257b3ede840800000000000000
+      internalID: 5255106716706776908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 206
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4a66efbdbad9110800000000000000
+      internalID: 1269359631342675198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 201
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe4a429580efdd20800000000000000
+      internalID: 3305607515802849013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 205
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1dd5dd1430ef080800000000000000
+      internalID: -9151873811348598359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 159
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf0f6276d6ed45b0800000000000000
+      internalID: -5382392170920603701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adeptsrapier_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 160
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db74a5438b447efe0800000000000000
+      internalID: -1159882821081610307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adeptsrapier_0: -1321847622135183071
+      adeptsrapier_1: -2965761229546586461
+      adeptsrapier_10: -6578743823708800700
+      adeptsrapier_11: 6258733286530939066
+      adeptsrapier_12: 2578948611050604251
+      adeptsrapier_13: 3234392028658995502
+      adeptsrapier_14: -293203417253558990
+      adeptsrapier_15: -7617373275968059566
+      adeptsrapier_16: -501937698482511113
+      adeptsrapier_17: 7266055933667216889
+      adeptsrapier_18: 1323251097242107212
+      adeptsrapier_19: -8621178429846916380
+      adeptsrapier_2: -1976809561039415661
+      adeptsrapier_20: 1938433000050061047
+      adeptsrapier_21: -7542062143451164930
+      adeptsrapier_22: 7743509532712867381
+      adeptsrapier_23: 4929772143176353405
+      adeptsrapier_24: -79848961022598973
+      adeptsrapier_25: -3376737207111421010
+      adeptsrapier_26: 4646428465971704611
+      adeptsrapier_27: -2786980774066424164
+      adeptsrapier_28: 5255106716706776908
+      adeptsrapier_29: 1269359631342675198
+      adeptsrapier_3: 7308342001228280867
+      adeptsrapier_30: 3305607515802849013
+      adeptsrapier_31: -9151873811348598359
+      adeptsrapier_32: -5382392170920603701
+      adeptsrapier_33: -1159882821081610307
+      adeptsrapier_4: -3210767407164195091
+      adeptsrapier_5: -2527147768770902442
+      adeptsrapier_6: -4990180629524824249
+      adeptsrapier_7: 1462477424227016956
+      adeptsrapier_8: -6474719266109871302
+      adeptsrapier_9: 5418069492444072774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

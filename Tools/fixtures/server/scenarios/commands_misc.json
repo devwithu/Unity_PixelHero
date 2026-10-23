@@ -1,0 +1,984 @@
+{
+ "seed": 19,
+ "end": 76000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/coords"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/players"
+    ]
+   ]
+  },
+  {
+   "t": 3600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/getregion"
+    ]
+   ]
+  },
+  {
+   "t": 3900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/noclip"
+    ]
+   ]
+  },
+  {
+   "t": 4200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/noclip"
+    ]
+   ]
+  },
+  {
+   "t": 4500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/distance 140 570"
+    ]
+   ]
+  },
+  {
+   "t": 4800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/distance 0 5"
+    ]
+   ]
+  },
+  {
+   "t": 5100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/find coder"
+    ]
+   ]
+  },
+  {
+   "t": 5400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/find nobody"
+    ]
+   ]
+  },
+  {
+   "t": 5700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/collision"
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/collision 0 0"
+    ]
+   ]
+  },
+  {
+   "t": 6300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/popup"
+    ]
+   ]
+  },
+  {
+   "t": 6600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/countdown 10"
+    ]
+   ]
+  },
+  {
+   "t": 6900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/debug"
+    ]
+   ]
+  },
+  {
+   "t": 7200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pointer 140 562"
+    ]
+   ]
+  },
+  {
+   "t": 7500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pointer $coder@133,559"
+    ]
+   ]
+  },
+  {
+   "t": 7800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pointer"
+    ]
+   ]
+  },
+  {
+   "t": 8100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/ms 100"
+    ]
+   ]
+  },
+  {
+   "t": 8400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/ms 20"
+    ]
+   ]
+  },
+  {
+   "t": 8700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/ms 99999"
+    ]
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/ms x"
+    ]
+   ]
+  },
+  {
+   "t": 9300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/invincible"
+    ]
+   ]
+  },
+  {
+   "t": 9600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/nohit"
+    ]
+   ]
+  },
+  {
+   "t": 9900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle cold"
+    ]
+   ]
+  },
+  {
+   "t": 10200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle fire"
+    ]
+   ]
+  },
+  {
+   "t": 10500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle terror"
+    ]
+   ]
+  },
+  {
+   "t": 10800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle stun"
+    ]
+   ]
+  },
+  {
+   "t": 11100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle cold"
+    ]
+   ]
+  },
+  {
+   "t": 11400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle hide"
+    ]
+   ]
+  },
+  {
+   "t": 11700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle"
+    ]
+   ]
+  },
+  {
+   "t": 12000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/toggle burn"
+    ]
+   ]
+  },
+  {
+   "t": 12300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/attackrange"
+    ]
+   ]
+  },
+  {
+   "t": 12600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/unknown 1 2"
+    ]
+   ]
+  },
+  {
+   "t": 12900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 140 560"
+    ]
+   ]
+  },
+  {
+   "t": 13200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 0 1"
+    ]
+   ]
+  },
+  {
+   "t": 13500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 190 160 1"
+    ]
+   ]
+  },
+  {
+   "t": 13800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/tp nowhere"
+    ]
+   ]
+  },
+  {
+   "t": 14100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/tp home"
+    ]
+   ]
+  },
+  {
+   "t": 14400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/hide"
+    ]
+   ]
+  },
+  {
+   "t": 14700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/hide"
+    ]
+   ]
+  },
+  {
+   "t": 15000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/resetregions"
+    ]
+   ]
+  },
+  {
+   "t": 15300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/kill $coder@133,559"
+    ]
+   ]
+  },
+  {
+   "t": 15600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/nvn $coder@133,559 x"
+    ]
+   ]
+  },
+  {
+   "t": 15900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/talk $coder@133,559"
+    ]
+   ]
+  },
+  {
+   "t": 16200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/movenpc"
+    ]
+   ]
+  },
+  {
+   "t": 16500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/movenpc nobody 1 1"
+    ]
+   ]
+  },
+  {
+   "t": 16800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/poison"
+    ]
+   ]
+  },
+  {
+   "t": 17100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/poison"
+    ]
+   ]
+  },
+  {
+   "t": 17400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/poison $coder@133,559"
+    ]
+   ]
+  },
+  {
+   "t": 17700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/poison nobody"
+    ]
+   ]
+  },
+  {
+   "t": 18000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addexp strength 5000"
+    ]
+   ]
+  },
+  {
+   "t": 18300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addexp 1 5"
+    ]
+   ]
+  },
+  {
+   "t": 18600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addexp toString 5"
+    ]
+   ]
+  },
+  {
+   "t": 18900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addexp nothing"
+    ]
+   ]
+  },
+  {
+   "t": 19200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setlevel"
+    ]
+   ]
+  },
+  {
+   "t": 19500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setlevel accuracy 5 nobody"
+    ]
+   ]
+  },
+  {
+   "t": 19800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setrank"
+    ]
+   ]
+  },
+  {
+   "t": 20100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setrank Admin nobody"
+    ]
+   ]
+  },
+  {
+   "t": 20400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/store startshop"
+    ]
+   ]
+  },
+  {
+   "t": 20700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/bank"
+    ]
+   ]
+  },
+  {
+   "t": 21000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/openbank nobody"
+    ]
+   ]
+  },
+  {
+   "t": 21300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setpet"
+    ]
+   ]
+  },
+  {
+   "t": 21600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/opencrafting"
+    ]
+   ]
+  },
+  {
+   "t": 21900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/mute"
+    ]
+   ]
+  },
+  {
+   "t": 22200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/ban 1 nobody"
+    ]
+   ]
+  },
+  {
+   "t": 22500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/jail"
+    ]
+   ]
+  },
+  {
+   "t": 22800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/unjail nobody"
+    ]
+   ]
+  },
+  {
+   "t": 23100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/kick"
+    ]
+   ]
+  },
+  {
+   "t": 23400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/kick nobody"
+    ]
+   ]
+  },
+  {
+   "t": 23700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/g hello all"
+    ]
+   ]
+  },
+  {
+   "t": 24000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pm"
+    ]
+   ]
+  },
+  {
+   "t": 24300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/ping"
+    ]
+   ]
+  },
+  {
+   "t": 24600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/guild"
+    ]
+   ]
+  },
+  {
+   "t": 24900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/guild kick x"
+    ]
+   ]
+  },
+  {
+   "t": 25200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest"
+    ]
+   ]
+  },
+  {
+   "t": 25500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishquest nope"
+    ]
+   ]
+  },
+  {
+   "t": 25800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/finishachievement nope"
+    ]
+   ]
+  },
+  {
+   "t": 26100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/undostage"
+    ]
+   ]
+  },
+  {
+   "t": 26400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/undostage nope"
+    ]
+   ]
+  },
+  {
+   "t": 26700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/resetquest"
+    ]
+   ]
+  },
+  {
+   "t": 27000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/takeitem"
+    ]
+   ]
+  },
+  {
+   "t": 27300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/take"
+    ]
+   ]
+  },
+  {
+   "t": 27600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/copybank"
+    ]
+   ]
+  },
+  {
+   "t": 27900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/copybank nobody"
+    ]
+   ]
+  },
+  {
+   "t": 28200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/ipban nobody"
+    ]
+   ]
+  },
+  {
+   "t": 28500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/countdown"
+    ]
+   ]
+  },
+  {
+   "t": 28800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/addability"
+    ]
+   ]
+  },
+  {
+   "t": 29100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setability"
+    ]
+   ]
+  },
+  {
+   "t": 29400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setquickslot"
+    ]
+   ]
+  },
+  {
+   "t": 29700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/resetabilities"
+    ]
+   ]
+  },
+  {
+   "t": 30000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/allattack"
+    ]
+   ]
+  },
+  {
+   "t": 30300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/allattack nobody"
+    ]
+   ]
+  },
+  {
+   "t": 70000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/unmute nobody"
+    ]
+   ]
+  },
+  {
+   "t": 71000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/timeout"
+    ]
+   ]
+  }
+ ]
+}

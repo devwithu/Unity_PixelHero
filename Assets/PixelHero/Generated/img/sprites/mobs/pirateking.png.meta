@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: c2c9f763aa0f31d489e86d63a7a4ff4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3507614167506799353
+    second: pirateking_0
+  - first:
+      213: -1452599998466700969
+    second: pirateking_1
+  - first:
+      213: -2303085781687961684
+    second: pirateking_2
+  - first:
+      213: -7356223096000347697
+    second: pirateking_3
+  - first:
+      213: 2839493647310866394
+    second: pirateking_4
+  - first:
+      213: 6009844394598687831
+    second: pirateking_5
+  - first:
+      213: 3473826835486823289
+    second: pirateking_6
+  - first:
+      213: -1049157815534251042
+    second: pirateking_7
+  - first:
+      213: 8198467965557623547
+    second: pirateking_8
+  - first:
+      213: -3979864656655856534
+    second: pirateking_9
+  - first:
+      213: -486518314253556213
+    second: pirateking_10
+  - first:
+      213: -3422717654892235803
+    second: pirateking_11
+  - first:
+      213: -5392610192481611905
+    second: pirateking_12
+  - first:
+      213: -8864836739666610374
+    second: pirateking_13
+  - first:
+      213: -2896902895346821448
+    second: pirateking_14
+  - first:
+      213: -7458430530177484539
+    second: pirateking_15
+  - first:
+      213: -7012824383271542909
+    second: pirateking_16
+  - first:
+      213: 5808855548338159304
+    second: pirateking_17
+  - first:
+      213: -196192339864026575
+    second: pirateking_18
+  - first:
+      213: 2829013300131616530
+    second: pirateking_19
+  - first:
+      213: 4970241039835100021
+    second: pirateking_20
+  - first:
+      213: -8746815940060937617
+    second: pirateking_21
+  - first:
+      213: -8537540523373112351
+    second: pirateking_22
+  - first:
+      213: -2134905110816557842
+    second: pirateking_23
+  - first:
+      213: -4201891996793607577
+    second: pirateking_24
+  - first:
+      213: -4289270812313952611
+    second: pirateking_25
+  - first:
+      213: -406855934165456929
+    second: pirateking_26
+  - first:
+      213: -2742854653025262168
+    second: pirateking_27
+  - first:
+      213: 6037939307467121629
+    second: pirateking_28
+  - first:
+      213: 7617749817586163264
+    second: pirateking_29
+  - first:
+      213: 1697063540050404709
+    second: pirateking_30
+  - first:
+      213: 5011906921771531273
+    second: pirateking_31
+  - first:
+      213: 604627759877595428
+    second: pirateking_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirateking_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70531a0bf73725fc0800000000000000
+      internalID: -3507614167506799353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759c8a26ff357dbe0800000000000000
+      internalID: -1452599998466700969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 260
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca77c3f0fabc900e0800000000000000
+      internalID: -2303085781687961684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 260
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc10062b11279e990800000000000000
+      internalID: -7356223096000347697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 260
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad741fd8d68e76720800000000000000
+      internalID: 2839493647310866394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7546d67a2a1476350800000000000000
+      internalID: 6009844394598687831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 228
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973596c0a13853030800000000000000
+      internalID: 3473826835486823289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 227
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed391c38684a071f0800000000000000
+      internalID: -1049157815534251042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 229
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa4b756d2fc6c170800000000000000
+      internalID: 8198467965557623547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 195
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c45e55e2ea4c8c0800000000000000
+      internalID: -3979864656655856534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06e13ebb2a8f39f0800000000000000
+      internalID: -486518314253556213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3b0bd5d601080d0800000000000000
+      internalID: -3422717654892235803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 165
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f8bf8e9999925b0800000000000000
+      internalID: -5392610192481611905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 165
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37f65404f5c9f480800000000000000
+      internalID: -8864836739666610374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 165
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b65d064a222cc7d0800000000000000
+      internalID: -2896902895346821448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509b7d203f45e7890800000000000000
+      internalID: -7458430530177484539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 132
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd6e201617dae90800000000000000
+      internalID: -7012824383271542909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 133
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceb04638533d9050800000000000000
+      internalID: 5808855548338159304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13280ca3b1cf64df0800000000000000
+      internalID: -196192339864026575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 133
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21753339b9ca24720800000000000000
+      internalID: 2829013300131616530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573707b64e7d9f440800000000000000
+      internalID: 4970241039835100021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6281f0ce311d9680800000000000000
+      internalID: -8746815940060937617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 67
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3d7d8b020948980800000000000000
+      internalID: -8537540523373112351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4fc98ec1b4f52e0800000000000000
+      internalID: -2134905110816557842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a6f82dd71efa5c0800000000000000
+      internalID: -4201891996793607577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e5396fbe27974c0800000000000000
+      internalID: -4289270812313952611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 67
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7ee49feae8a5af0800000000000000
+      internalID: -406855934165456929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5e6efa93c6fe9d0800000000000000
+      internalID: -2742854653025262168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd322fc4fc11bc350800000000000000
+      internalID: 6037939307467121629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e1509391fa7b960800000000000000
+      internalID: 7617749817586163264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565a8f95c4e2d8710800000000000000
+      internalID: 1697063540050404709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c73878acedd8540800000000000000
+      internalID: 5011906921771531273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateking_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42128d08eb1146800800000000000000
+      internalID: 604627759877595428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pirateking_0: -3507614167506799353
+      pirateking_1: -1452599998466700969
+      pirateking_10: -486518314253556213
+      pirateking_11: -3422717654892235803
+      pirateking_12: -5392610192481611905
+      pirateking_13: -8864836739666610374
+      pirateking_14: -2896902895346821448
+      pirateking_15: -7458430530177484539
+      pirateking_16: -7012824383271542909
+      pirateking_17: 5808855548338159304
+      pirateking_18: -196192339864026575
+      pirateking_19: 2829013300131616530
+      pirateking_2: -2303085781687961684
+      pirateking_20: 4970241039835100021
+      pirateking_21: -8746815940060937617
+      pirateking_22: -8537540523373112351
+      pirateking_23: -2134905110816557842
+      pirateking_24: -4201891996793607577
+      pirateking_25: -4289270812313952611
+      pirateking_26: -406855934165456929
+      pirateking_27: -2742854653025262168
+      pirateking_28: 6037939307467121629
+      pirateking_29: 7617749817586163264
+      pirateking_3: -7356223096000347697
+      pirateking_30: 1697063540050404709
+      pirateking_31: 5011906921771531273
+      pirateking_32: 604627759877595428
+      pirateking_4: 2839493647310866394
+      pirateking_5: 6009844394598687831
+      pirateking_6: 3473826835486823289
+      pirateking_7: -1049157815534251042
+      pirateking_8: 8198467965557623547
+      pirateking_9: -3979864656655856534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

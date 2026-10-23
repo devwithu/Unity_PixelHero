@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 656f1c618a5a6344c9659bac676effb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -397665899603548294
+    second: greencockroach_0
+  - first:
+      213: -6431229872850399455
+    second: greencockroach_1
+  - first:
+      213: -1221027228535069769
+    second: greencockroach_2
+  - first:
+      213: -8515309765067010731
+    second: greencockroach_3
+  - first:
+      213: 4235759605916953826
+    second: greencockroach_4
+  - first:
+      213: -335632100766148626
+    second: greencockroach_5
+  - first:
+      213: 1786879694216205454
+    second: greencockroach_6
+  - first:
+      213: 5980972149996354421
+    second: greencockroach_7
+  - first:
+      213: 7737590601281192286
+    second: greencockroach_8
+  - first:
+      213: 7327063574792492474
+    second: greencockroach_9
+  - first:
+      213: -4276460914412531500
+    second: greencockroach_10
+  - first:
+      213: -2281347632619428246
+    second: greencockroach_11
+  - first:
+      213: -3895217686011861618
+    second: greencockroach_12
+  - first:
+      213: -6187346347855024834
+    second: greencockroach_13
+  - first:
+      213: -3564811274624959947
+    second: greencockroach_14
+  - first:
+      213: -6185331152264835496
+    second: greencockroach_15
+  - first:
+      213: -1431520874628553127
+    second: greencockroach_16
+  - first:
+      213: -5021788437109299651
+    second: greencockroach_17
+  - first:
+      213: 634904092059012305
+    second: greencockroach_18
+  - first:
+      213: -2321992067630937026
+    second: greencockroach_19
+  - first:
+      213: -3753435866511996219
+    second: greencockroach_20
+  - first:
+      213: -8428763631607231057
+    second: greencockroach_21
+  - first:
+      213: 7067087612196906767
+    second: greencockroach_22
+  - first:
+      213: 1620831315607804921
+    second: greencockroach_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greencockroach_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 344
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7728d2a8f43b7af0800000000000000
+      internalID: -397665899603548294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 344
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f0fd7318eafb6a0800000000000000
+      internalID: -6431229872850399455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 344
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b36616743a0e0fe0800000000000000
+      internalID: -1221027228535069769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 302
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d04cc72ea83d980800000000000000
+      internalID: -8515309765067010731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 302
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ece0a86be078ca30800000000000000
+      internalID: 4235759605916953826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 302
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee79d92f168975bf0800000000000000
+      internalID: -335632100766148626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e849d165d954cc810800000000000000
+      internalID: 1786879694216205454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 260
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b790c5b7ea00350800000000000000
+      internalID: 5980972149996354421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 217
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5144c608a1716b60800000000000000
+      internalID: 7737590601281192286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 217
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5d5363085fea560800000000000000
+      internalID: 7327063574792492474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 217
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0599cb475f6a4c0800000000000000
+      internalID: -4276460914412531500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 175
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a666a8c4a660750e0800000000000000
+      internalID: -2281347632619428246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 175
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85a17ef62861f9c0800000000000000
+      internalID: -3895217686011861618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 175
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6ac15741222aa0800000000000000
+      internalID: -6187346347855024834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53afbac680f378ec0800000000000000
+      internalID: -3564811274624959947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ec81b961a492aa0800000000000000
+      internalID: -6185331152264835496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956653b5957322ce0800000000000000
+      internalID: -1431520874628553127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 87
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36afe4e5060f4ab0800000000000000
+      internalID: -5021788437109299651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 83
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc8e9968e1afc800800000000000000
+      internalID: 634904092059012305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c45955480a6cfd0800000000000000
+      internalID: -2321992067630937026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca875947fd19ebc0800000000000000
+      internalID: -3753435866511996219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadc1527224070b80800000000000000
+      internalID: -8428763631607231057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f076f818db6531260800000000000000
+      internalID: 7067087612196906767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greencockroach_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd1a77e795e7610800000000000000
+      internalID: 1620831315607804921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      greencockroach_0: -397665899603548294
+      greencockroach_1: -6431229872850399455
+      greencockroach_10: -4276460914412531500
+      greencockroach_11: -2281347632619428246
+      greencockroach_12: -3895217686011861618
+      greencockroach_13: -6187346347855024834
+      greencockroach_14: -3564811274624959947
+      greencockroach_15: -6185331152264835496
+      greencockroach_16: -1431520874628553127
+      greencockroach_17: -5021788437109299651
+      greencockroach_18: 634904092059012305
+      greencockroach_19: -2321992067630937026
+      greencockroach_2: -1221027228535069769
+      greencockroach_20: -3753435866511996219
+      greencockroach_21: -8428763631607231057
+      greencockroach_22: 7067087612196906767
+      greencockroach_23: 1620831315607804921
+      greencockroach_3: -8515309765067010731
+      greencockroach_4: 4235759605916953826
+      greencockroach_5: -335632100766148626
+      greencockroach_6: 1786879694216205454
+      greencockroach_7: 5980972149996354421
+      greencockroach_8: 7737590601281192286
+      greencockroach_9: 7327063574792492474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

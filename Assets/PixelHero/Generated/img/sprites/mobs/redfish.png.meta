@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 7fcf829273407294287347773a9f0df3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3369175301551193935
+    second: redfish_0
+  - first:
+      213: -4617156475502381172
+    second: redfish_1
+  - first:
+      213: -4263205986018264883
+    second: redfish_2
+  - first:
+      213: 3608368037372470893
+    second: redfish_3
+  - first:
+      213: -7054912004873841492
+    second: redfish_4
+  - first:
+      213: 2993789379959036031
+    second: redfish_5
+  - first:
+      213: -7429034587155185151
+    second: redfish_6
+  - first:
+      213: 1275547560823355761
+    second: redfish_7
+  - first:
+      213: -5439175118139243009
+    second: redfish_8
+  - first:
+      213: 6964320348747270300
+    second: redfish_9
+  - first:
+      213: -8161424706678107109
+    second: redfish_10
+  - first:
+      213: -6962327607352190262
+    second: redfish_11
+  - first:
+      213: -1563872045059753101
+    second: redfish_12
+  - first:
+      213: -2288714395787499582
+    second: redfish_13
+  - first:
+      213: -4528346475652153592
+    second: redfish_14
+  - first:
+      213: -8135111674575665901
+    second: redfish_15
+  - first:
+      213: -5988475131033252483
+    second: redfish_16
+  - first:
+      213: 2397210726719951964
+    second: redfish_17
+  - first:
+      213: 7337488634083048029
+    second: redfish_18
+  - first:
+      213: -9144139413196397499
+    second: redfish_19
+  - first:
+      213: 9025868051841674039
+    second: redfish_20
+  - first:
+      213: -7987746530957324219
+    second: redfish_21
+  - first:
+      213: -2358297884821553348
+    second: redfish_22
+  - first:
+      213: 5048304726720448189
+    second: redfish_23
+  - first:
+      213: -6681830925807515421
+    second: redfish_24
+  - first:
+      213: -6966068747110152971
+    second: redfish_25
+  - first:
+      213: 8117782718244587318
+    second: redfish_26
+  - first:
+      213: 8381343253141816846
+    second: redfish_27
+  - first:
+      213: 3267345735719230157
+    second: redfish_28
+  - first:
+      213: -4091402674460658189
+    second: redfish_29
+  - first:
+      213: 9159572988770051204
+    second: redfish_30
+  - first:
+      213: 2014028972903444952
+    second: redfish_31
+  - first:
+      213: -4227945574614789786
+    second: redfish_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redfish_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 271
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f7afa0617b1ce20800000000000000
+      internalID: 3369175301551193935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 269
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873945f5a09cefb0800000000000000
+      internalID: -4617156475502381172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 269
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8ff0f3ebc06d4c0800000000000000
+      internalID: -4263205986018264883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 269
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a57eac9f731230800000000000000
+      internalID: 3608368037372470893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 270
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca41bdbf8eae71e90800000000000000
+      internalID: -7054912004873841492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f789bcc44931c8920800000000000000
+      internalID: 2993789379959036031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 240
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10246885764c6e890800000000000000
+      internalID: -7429034587155185151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 239
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179fdf89fb7a3b110800000000000000
+      internalID: 1275547560823355761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 240
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5ca2c4c0b2484b0800000000000000
+      internalID: -5439175118139243009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 207
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c980b19657c36a060800000000000000
+      internalID: 6964320348747270300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 206
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14da59687bccbe80800000000000000
+      internalID: -8161424706678107109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 169
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca90e9dde7d06f90800000000000000
+      internalID: -6962327607352190262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 171
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bbc0829a20c4ae0800000000000000
+      internalID: -1563872045059753101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c763c6126adc30e0800000000000000
+      internalID: -2288714395787499582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 170
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f7cd26fd41821c0800000000000000
+      internalID: -4528346475652153592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 170
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c8cc98074a1f80800000000000000
+      internalID: -8135111674575665901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 137
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d808cb899a4eca0800000000000000
+      internalID: -5988475131033252483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 138
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5416e9747a944120800000000000000
+      internalID: 2397210726719951964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a7cf9790ff3d560800000000000000
+      internalID: 7337488634083048029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544a7c3c6ad791180800000000000000
+      internalID: -9144139413196397499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73be19b0c23524d70800000000000000
+      internalID: 9025868051841674039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5401e6ad9d2d52190800000000000000
+      internalID: -7987746530957324219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 74
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ff7ac8194a54fd0800000000000000
+      internalID: -2358297884821553348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 73
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db60912e66e2f0640800000000000000
+      internalID: 5048304726720448189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80602cc2e5543a0800000000000000
+      internalID: -6681830925807515421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f48c8fd16d835f90800000000000000
+      internalID: -6966068747110152971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63706c45f5828a070800000000000000
+      internalID: 8117782718244587318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 42
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0682205843805470800000000000000
+      internalID: 8381343253141816846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca9eefa2a1f75d20800000000000000
+      internalID: 3267345735719230157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 42
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f570bbd1fa6837c0800000000000000
+      internalID: -4091402674460658189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484e6e19a175d1f70800000000000000
+      internalID: 9159572988770051204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d131491ea443fb10800000000000000
+      internalID: 2014028972903444952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfish_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661966786e15355c0800000000000000
+      internalID: -4227945574614789786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redfish_0: 3369175301551193935
+      redfish_1: -4617156475502381172
+      redfish_10: -8161424706678107109
+      redfish_11: -6962327607352190262
+      redfish_12: -1563872045059753101
+      redfish_13: -2288714395787499582
+      redfish_14: -4528346475652153592
+      redfish_15: -8135111674575665901
+      redfish_16: -5988475131033252483
+      redfish_17: 2397210726719951964
+      redfish_18: 7337488634083048029
+      redfish_19: -9144139413196397499
+      redfish_2: -4263205986018264883
+      redfish_20: 9025868051841674039
+      redfish_21: -7987746530957324219
+      redfish_22: -2358297884821553348
+      redfish_23: 5048304726720448189
+      redfish_24: -6681830925807515421
+      redfish_25: -6966068747110152971
+      redfish_26: 8117782718244587318
+      redfish_27: 8381343253141816846
+      redfish_28: 3267345735719230157
+      redfish_29: -4091402674460658189
+      redfish_3: 3608368037372470893
+      redfish_30: 9159572988770051204
+      redfish_31: 2014028972903444952
+      redfish_32: -4227945574614789786
+      redfish_4: -7054912004873841492
+      redfish_5: 2993789379959036031
+      redfish_6: -7429034587155185151
+      redfish_7: 1275547560823355761
+      redfish_8: -5439175118139243009
+      redfish_9: 6964320348747270300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

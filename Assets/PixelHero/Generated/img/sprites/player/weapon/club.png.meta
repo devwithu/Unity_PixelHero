@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: babdde1b17162c448a73675ed189de1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2852610726315664299
+    second: club_0
+  - first:
+      213: -5199083151792348287
+    second: club_1
+  - first:
+      213: 670465804713597845
+    second: club_2
+  - first:
+      213: 1687977934941291287
+    second: club_3
+  - first:
+      213: -3607356432403043281
+    second: club_4
+  - first:
+      213: 7202533319848863053
+    second: club_5
+  - first:
+      213: -3120235851655540928
+    second: club_6
+  - first:
+      213: -3514323661035511513
+    second: club_7
+  - first:
+      213: -5614248818816647809
+    second: club_8
+  - first:
+      213: 7883150905138521882
+    second: club_9
+  - first:
+      213: 5340703965763632610
+    second: club_10
+  - first:
+      213: -2926414249993182927
+    second: club_11
+  - first:
+      213: -5112711567675332642
+    second: club_12
+  - first:
+      213: 4864197353851964874
+    second: club_13
+  - first:
+      213: 3257175516185551289
+    second: club_14
+  - first:
+      213: 152318604053876332
+    second: club_15
+  - first:
+      213: -3506064515333915815
+    second: club_16
+  - first:
+      213: 625045092035783738
+    second: club_17
+  - first:
+      213: -3044343649251951888
+    second: club_18
+  - first:
+      213: -3956821182614861245
+    second: club_19
+  - first:
+      213: 243569895819383556
+    second: club_20
+  - first:
+      213: 5929029551299417247
+    second: club_21
+  - first:
+      213: 7589666453950568602
+    second: club_22
+  - first:
+      213: 6802571841111518506
+    second: club_23
+  - first:
+      213: 7647270611432105061
+    second: club_24
+  - first:
+      213: 872001730452292972
+    second: club_25
+  - first:
+      213: 2313244065009768696
+    second: club_26
+  - first:
+      213: 2190871664614049625
+    second: club_27
+  - first:
+      213: -7960452540698324955
+    second: club_28
+  - first:
+      213: -8609059288721662748
+    second: club_29
+  - first:
+      213: 6919964420499165088
+    second: club_30
+  - first:
+      213: 7289447871178833816
+    second: club_31
+  - first:
+      213: 738278925968167384
+    second: club_32
+  - first:
+      213: 57305207431705384
+    second: club_33
+  - first:
+      213: -6733906210299112603
+    second: club_34
+  - first:
+      213: 2409149863454953698
+    second: club_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: club_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3a3808752869720800000000000000
+      internalID: 2852610726315664299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 539
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183e2bb5b6529d7b0800000000000000
+      internalID: -5199083151792348287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 539
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b100cd819fd4900800000000000000
+      internalID: 670465804713597845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 540
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7138fd01df6ec6710800000000000000
+      internalID: 1687977934941291287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 492
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c6564ff6810fdc0800000000000000
+      internalID: -3607356432403043281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 491
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a18cc4e984f360800000000000000
+      internalID: 7202533319848863053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 491
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f02ae4602b2b4d0800000000000000
+      internalID: -3120235851655540928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 492
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7216a3eff3d9a3fc0800000000000000
+      internalID: -3514323661035511513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7df6c1e17e2612b0800000000000000
+      internalID: -5614248818816647809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 446
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a4934bf3966d60800000000000000
+      internalID: 7883150905138521882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 446
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed7cd9e5fdfd1a40800000000000000
+      internalID: 5340703965763632610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131e3839eb94367d0800000000000000
+      internalID: -2926414249993182927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 395
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed76ea1eaeffb09b0800000000000000
+      internalID: -5112711567675332642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdcdb1c8b9118340800000000000000
+      internalID: 4864197353851964874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 395
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1e65defdfc33d20800000000000000
+      internalID: 3257175516185551289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e805f96f42d1200800000000000000
+      internalID: 152318604053876332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 348
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b7be336e4f75fc0800000000000000
+      internalID: -3506064515333915815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 347
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce467133b9ca800800000000000000
+      internalID: 625045092035783738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 347
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fafe14a49150c5d0800000000000000
+      internalID: -3044343649251951888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 348
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a008a391c8619c0800000000000000
+      internalID: -3956821182614861245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 302
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4031b4e9785516300800000000000000
+      internalID: 243569895819383556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94defba6f4284250800000000000000
+      internalID: 5929029551299417247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 302
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a981c679d69e35960800000000000000
+      internalID: 7589666453950568602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 303
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de6844c07976e50800000000000000
+      internalID: 6802571841111518506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e1b7aa10902a60800000000000000
+      internalID: 7647270611432105061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 254
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65822b24f8f91c00800000000000000
+      internalID: 872001730452292972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f810b5983b4a1020800000000000000
+      internalID: 2313244065009768696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9570ac5db2a876e10800000000000000
+      internalID: 2190871664614049625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 205
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520125c279ac68190800000000000000
+      internalID: -7960452540698324955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 206
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecd77d803a768880800000000000000
+      internalID: -8609059288721662748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 202
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afc1361af6a80060800000000000000
+      internalID: 6919964420499165088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 205
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f775ab732592560800000000000000
+      internalID: 7289447871178833816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d15d7785c4ee3a00800000000000000
+      internalID: 738278925968167384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233fb458c69bc000800000000000000
+      internalID: 57305207431705384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 166
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5631350cafb5c82a0800000000000000
+      internalID: -6733906210299112603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 167
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0d9ed59050f6120800000000000000
+      internalID: 2409149863454953698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      club_0: 2852610726315664299
+      club_1: -5199083151792348287
+      club_10: 5340703965763632610
+      club_11: -2926414249993182927
+      club_12: -5112711567675332642
+      club_13: 4864197353851964874
+      club_14: 3257175516185551289
+      club_15: 152318604053876332
+      club_16: -3506064515333915815
+      club_17: 625045092035783738
+      club_18: -3044343649251951888
+      club_19: -3956821182614861245
+      club_2: 670465804713597845
+      club_20: 243569895819383556
+      club_21: 5929029551299417247
+      club_22: 7589666453950568602
+      club_23: 6802571841111518506
+      club_24: 7647270611432105061
+      club_25: 872001730452292972
+      club_26: 2313244065009768696
+      club_27: 2190871664614049625
+      club_28: -7960452540698324955
+      club_29: -8609059288721662748
+      club_3: 1687977934941291287
+      club_30: 6919964420499165088
+      club_31: 7289447871178833816
+      club_32: 738278925968167384
+      club_33: 57305207431705384
+      club_34: -6733906210299112603
+      club_35: 2409149863454953698
+      club_4: -3607356432403043281
+      club_5: 7202533319848863053
+      club_6: -3120235851655540928
+      club_7: -3514323661035511513
+      club_8: -5614248818816647809
+      club_9: 7883150905138521882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

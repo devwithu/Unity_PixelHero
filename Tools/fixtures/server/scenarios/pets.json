@@ -1,0 +1,182 @@
+{
+ "seed": 109,
+ "end": 20000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/tp home"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn ratpet"
+    ]
+   ]
+  },
+  {
+   "t": 3600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn rathatpet"
+    ]
+   ]
+  },
+  {
+   "t": 4500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 2,
+     "type": 1,
+     "fromIndex": 0,
+     "value": 1
+    }
+   ]
+  },
+  {
+   "t": 5000,
+   "walk": 0,
+   "from": [
+    191,
+    166
+   ],
+   "path": [
+    [
+     192,
+     166
+    ],
+    [
+     193,
+     166
+    ],
+    [
+     194,
+     166
+    ],
+    [
+     195,
+     166
+    ]
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 2,
+     "type": 1,
+     "fromIndex": 1,
+     "value": 1
+    }
+   ]
+  },
+  {
+   "t": 8000,
+   "conn": 0,
+   "send": [
+    "Pet",
+    {
+     "opcode": 0
+    }
+   ]
+  },
+  {
+   "t": 8300,
+   "conn": 0,
+   "send": [
+    "Pet",
+    {
+     "opcode": 0
+    }
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/setpet rat"
+    ]
+   ]
+  },
+  {
+   "t": 10000,
+   "walk": 0,
+   "from": [
+    195,
+    166
+   ],
+   "path": [
+    [
+     194,
+     166
+    ],
+    [
+     193,
+     166
+    ],
+    [
+     192,
+     166
+    ]
+   ]
+  },
+  {
+   "t": 13000,
+   "close": 0
+  }
+ ]
+}

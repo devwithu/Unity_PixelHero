@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 58f4cc23f11cc6641a132e31309d6ae5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7412653949322879369
+    second: sycophant_0
+  - first:
+      213: 3295576483250068658
+    second: sycophant_1
+  - first:
+      213: -1008727773677481466
+    second: sycophant_2
+  - first:
+      213: 6113845166015959592
+    second: sycophant_3
+  - first:
+      213: 4045541519311508902
+    second: sycophant_4
+  - first:
+      213: -3122160883665677494
+    second: sycophant_5
+  - first:
+      213: -8268494089122465843
+    second: sycophant_6
+  - first:
+      213: -2650665020994253485
+    second: sycophant_7
+  - first:
+      213: 2308031551199496009
+    second: sycophant_8
+  - first:
+      213: -6361318959728891957
+    second: sycophant_9
+  - first:
+      213: -3859834519311526877
+    second: sycophant_10
+  - first:
+      213: -3678901962759942745
+    second: sycophant_11
+  - first:
+      213: 8859596890677709711
+    second: sycophant_12
+  - first:
+      213: -2814907342118858730
+    second: sycophant_13
+  - first:
+      213: -6267134660469182363
+    second: sycophant_14
+  - first:
+      213: 8925814273682208896
+    second: sycophant_15
+  - first:
+      213: -4249602559660799463
+    second: sycophant_16
+  - first:
+      213: 485474449026763890
+    second: sycophant_17
+  - first:
+      213: -1164142888481382874
+    second: sycophant_18
+  - first:
+      213: 312245621906346508
+    second: sycophant_19
+  - first:
+      213: -7357346683502846525
+    second: sycophant_20
+  - first:
+      213: 1064990924201234234
+    second: sycophant_21
+  - first:
+      213: -3235595905177824629
+    second: sycophant_22
+  - first:
+      213: -8914784097133098468
+    second: sycophant_23
+  - first:
+      213: -6146840833599846873
+    second: sycophant_24
+  - first:
+      213: 6644257665600917008
+    second: sycophant_25
+  - first:
+      213: -3482349722311574810
+    second: sycophant_26
+  - first:
+      213: -5649197144826803872
+    second: sycophant_27
+  - first:
+      213: 1440828928659446082
+    second: sycophant_28
+  - first:
+      213: -4896042275634096202
+    second: sycophant_29
+  - first:
+      213: -449783970737254201
+    second: sycophant_30
+  - first:
+      213: -1383710973985385423
+    second: sycophant_31
+  - first:
+      213: 7989857117766547323
+    second: sycophant_32
+  - first:
+      213: -1606103902703832443
+    second: sycophant_33
+  - first:
+      213: 4604368698771006922
+    second: sycophant_34
+  - first:
+      213: -8284066097172933851
+    second: sycophant_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sycophant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e96bbc186f02990800000000000000
+      internalID: -7412653949322879369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 538
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc504ec95d3cbd20800000000000000
+      internalID: 3295576483250068658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 538
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60212ee2f674002f0800000000000000
+      internalID: -1008727773677481466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 539
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822de1439cdb8d450800000000000000
+      internalID: 6113845166015959592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 490
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a518aed396a42830800000000000000
+      internalID: 4045541519311508902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 489
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43dc7dd73bdba4d0800000000000000
+      internalID: -3122160883665677494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 489
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7307e2f68604d80800000000000000
+      internalID: -8268494089122465843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 490
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d851d0532f63bd0800000000000000
+      internalID: -2650665020994253485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 446
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947c3a3a776c70020800000000000000
+      internalID: 2308031551199496009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 445
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e66e1c1e08b7a0800000000000000
+      internalID: -6361318959728891957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 445
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32455a874fc1f6ac0800000000000000
+      internalID: -3859834519311526877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 446
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adc432182ae1fcc0800000000000000
+      internalID: -3678901962759942745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b00029e6c93fa70800000000000000
+      internalID: 8859596890677709711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 395
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610dd55bfa07fe8d0800000000000000
+      internalID: -2814907342118858730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 394
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56032332b3aa609a0800000000000000
+      internalID: -6267134660469182363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 395
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08870f97accdedb70800000000000000
+      internalID: 8925814273682208896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 346
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ac3d2ccf06605c0800000000000000
+      internalID: -4249602559660799463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 345
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cc4c17070ccb600800000000000000
+      internalID: 485474449026763890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 345
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e1548f53228dfe0800000000000000
+      internalID: -1164142888481382874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 346
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0216602db1555400800000000000000
+      internalID: 312245621906346508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd1a681c2475e990800000000000000
+      internalID: -7357346683502846525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 302
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f870e5a9b97ce00800000000000000
+      internalID: 1064990924201234234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 301
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82da2bcaaad813d0800000000000000
+      internalID: -3235595905177824629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 302
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8411a813584480800000000000000
+      internalID: -8914784097133098468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264a6644d802baa0800000000000000
+      internalID: -6146840833599846873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 253
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e0f42e425253c50800000000000000
+      internalID: 6644257665600917008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea30f9b0653cafc0800000000000000
+      internalID: -3482349722311574810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0698274a0250a91b0800000000000000
+      internalID: -5649197144826803872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 203
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2495adad64adef310800000000000000
+      internalID: 1440828928659446082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 205
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d88b9d73cd0cb0800000000000000
+      internalID: -4896042275634096202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 198
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c09a869cdb02c9f0800000000000000
+      internalID: -449783970737254201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 203
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1349acb43321ccce0800000000000000
+      internalID: -1383710973985385423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 158
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f99e67bca1ee60800000000000000
+      internalID: 7989857117766547323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 159
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58238fe8209f5b9e0800000000000000
+      internalID: -1606103902703832443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 158
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac56c21cfe006ef30800000000000000
+      internalID: 4604368698771006922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycophant_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523962686c5190d80800000000000000
+      internalID: -8284066097172933851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sycophant_0: -7412653949322879369
+      sycophant_1: 3295576483250068658
+      sycophant_10: -3859834519311526877
+      sycophant_11: -3678901962759942745
+      sycophant_12: 8859596890677709711
+      sycophant_13: -2814907342118858730
+      sycophant_14: -6267134660469182363
+      sycophant_15: 8925814273682208896
+      sycophant_16: -4249602559660799463
+      sycophant_17: 485474449026763890
+      sycophant_18: -1164142888481382874
+      sycophant_19: 312245621906346508
+      sycophant_2: -1008727773677481466
+      sycophant_20: -7357346683502846525
+      sycophant_21: 1064990924201234234
+      sycophant_22: -3235595905177824629
+      sycophant_23: -8914784097133098468
+      sycophant_24: -6146840833599846873
+      sycophant_25: 6644257665600917008
+      sycophant_26: -3482349722311574810
+      sycophant_27: -5649197144826803872
+      sycophant_28: 1440828928659446082
+      sycophant_29: -4896042275634096202
+      sycophant_3: 6113845166015959592
+      sycophant_30: -449783970737254201
+      sycophant_31: -1383710973985385423
+      sycophant_32: 7989857117766547323
+      sycophant_33: -1606103902703832443
+      sycophant_34: 4604368698771006922
+      sycophant_35: -8284066097172933851
+      sycophant_4: 4045541519311508902
+      sycophant_5: -3122160883665677494
+      sycophant_6: -8268494089122465843
+      sycophant_7: -2650665020994253485
+      sycophant_8: 2308031551199496009
+      sycophant_9: -6361318959728891957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

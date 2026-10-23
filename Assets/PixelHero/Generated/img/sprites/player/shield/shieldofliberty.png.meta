@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: becdc883dc257734eb281615c85ef7a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3946820748640262268
+    second: shieldofliberty_0
+  - first:
+      213: -4005326940099983735
+    second: shieldofliberty_1
+  - first:
+      213: 4119212823065793996
+    second: shieldofliberty_2
+  - first:
+      213: -165492853471748865
+    second: shieldofliberty_3
+  - first:
+      213: 1314988676005806863
+    second: shieldofliberty_4
+  - first:
+      213: -3653986114434493466
+    second: shieldofliberty_5
+  - first:
+      213: 1024228553347423603
+    second: shieldofliberty_6
+  - first:
+      213: -3648131193797834722
+    second: shieldofliberty_7
+  - first:
+      213: -478424056025941384
+    second: shieldofliberty_8
+  - first:
+      213: 4029569033619815311
+    second: shieldofliberty_9
+  - first:
+      213: -4468581775967999282
+    second: shieldofliberty_10
+  - first:
+      213: -4970185531071251500
+    second: shieldofliberty_11
+  - first:
+      213: -2691224449513715059
+    second: shieldofliberty_12
+  - first:
+      213: 1187182074033449597
+    second: shieldofliberty_13
+  - first:
+      213: -4095838084961077
+    second: shieldofliberty_14
+  - first:
+      213: -4390830347021597677
+    second: shieldofliberty_15
+  - first:
+      213: 6472407663894924054
+    second: shieldofliberty_16
+  - first:
+      213: -5527635929531440812
+    second: shieldofliberty_17
+  - first:
+      213: -4826408809615081438
+    second: shieldofliberty_18
+  - first:
+      213: -5507472259148884514
+    second: shieldofliberty_19
+  - first:
+      213: -370429634396190989
+    second: shieldofliberty_20
+  - first:
+      213: 3280154420097499268
+    second: shieldofliberty_21
+  - first:
+      213: -8091362360780686775
+    second: shieldofliberty_22
+  - first:
+      213: -2798776748310527231
+    second: shieldofliberty_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shieldofliberty_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 536
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7818da4f8ce5c630800000000000000
+      internalID: 3946820748640262268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 535
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986c90e7e583a68c0800000000000000
+      internalID: -4005326940099983735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 535
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc51211fc326a2930800000000000000
+      internalID: 4119212823065793996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 536
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc53f7602d04bdf0800000000000000
+      internalID: -165492853471748865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 440
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ccf4db37cf3210800000000000000
+      internalID: 1314988676005806863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 439
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e31ce21dfe6a4dc0800000000000000
+      internalID: -3653986114434493466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 439
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dd513517ac63e00800000000000000
+      internalID: 1024228553347423603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 440
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1888a3020c3f5dc0800000000000000
+      internalID: -3648131193797834722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 391
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a72981bdb4c59f0800000000000000
+      internalID: -478424056025941384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 392
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bb2debfa7ebe730800000000000000
+      internalID: 4029569033619815311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 393
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa4a1ec886cf1c0800000000000000
+      internalID: -4468581775967999282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 392
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db36b8b79a560bb0800000000000000
+      internalID: -4970185531071251500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a83e33f99d6aad0800000000000000
+      internalID: -2691224449513715059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 296
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa97e6ec7b97010800000000000000
+      internalID: 1187182074033449597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 295
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc63e16bd271fff0800000000000000
+      internalID: -4095838084961077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 296
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314c5c02013a013c0800000000000000
+      internalID: -4390830347021597677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 248
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b09ff5a7c92d950800000000000000
+      internalID: 6472407663894924054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 249
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451a794a864e943b0800000000000000
+      internalID: -5527635929531440812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 247
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220c31252c6250db0800000000000000
+      internalID: -4826408809615081438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 248
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5dc1ff8278193b0800000000000000
+      internalID: -5507472259148884514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 152
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6898bc538fbdaf0800000000000000
+      internalID: -370429634396190989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 153
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c65ae013758d20800000000000000
+      internalID: 3280154420097499268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 152
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a73b08dc4b5bf80800000000000000
+      internalID: -8091362360780686775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldofliberty_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 153
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103045f306fb829d0800000000000000
+      internalID: -2798776748310527231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shieldofliberty_0: 3946820748640262268
+      shieldofliberty_1: -4005326940099983735
+      shieldofliberty_10: -4468581775967999282
+      shieldofliberty_11: -4970185531071251500
+      shieldofliberty_12: -2691224449513715059
+      shieldofliberty_13: 1187182074033449597
+      shieldofliberty_14: -4095838084961077
+      shieldofliberty_15: -4390830347021597677
+      shieldofliberty_16: 6472407663894924054
+      shieldofliberty_17: -5527635929531440812
+      shieldofliberty_18: -4826408809615081438
+      shieldofliberty_19: -5507472259148884514
+      shieldofliberty_2: 4119212823065793996
+      shieldofliberty_20: -370429634396190989
+      shieldofliberty_21: 3280154420097499268
+      shieldofliberty_22: -8091362360780686775
+      shieldofliberty_23: -2798776748310527231
+      shieldofliberty_3: -165492853471748865
+      shieldofliberty_4: 1314988676005806863
+      shieldofliberty_5: -3653986114434493466
+      shieldofliberty_6: 1024228553347423603
+      shieldofliberty_7: -3648131193797834722
+      shieldofliberty_8: -478424056025941384
+      shieldofliberty_9: 4029569033619815311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

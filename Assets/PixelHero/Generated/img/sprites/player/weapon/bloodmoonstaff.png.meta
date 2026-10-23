@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 1b0d860685683cb4390cdb650d99e367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7776351386099018990
+    second: bloodmoonstaff_0
+  - first:
+      213: -7792304240468177746
+    second: bloodmoonstaff_1
+  - first:
+      213: 1277351978817757732
+    second: bloodmoonstaff_2
+  - first:
+      213: -7746349002067448156
+    second: bloodmoonstaff_3
+  - first:
+      213: -1814089268265747923
+    second: bloodmoonstaff_4
+  - first:
+      213: 8146784935564950662
+    second: bloodmoonstaff_5
+  - first:
+      213: -8323241250608097671
+    second: bloodmoonstaff_6
+  - first:
+      213: -6462763817687609903
+    second: bloodmoonstaff_7
+  - first:
+      213: -7502546591712985535
+    second: bloodmoonstaff_8
+  - first:
+      213: 4321249654865711903
+    second: bloodmoonstaff_9
+  - first:
+      213: -1061031628413387705
+    second: bloodmoonstaff_10
+  - first:
+      213: -4735425657338382321
+    second: bloodmoonstaff_11
+  - first:
+      213: -4669894242771987547
+    second: bloodmoonstaff_12
+  - first:
+      213: 5844158117404512475
+    second: bloodmoonstaff_13
+  - first:
+      213: 5733723610322694405
+    second: bloodmoonstaff_14
+  - first:
+      213: 7905821184880828259
+    second: bloodmoonstaff_15
+  - first:
+      213: 1464119254350331825
+    second: bloodmoonstaff_16
+  - first:
+      213: 7703521431145371673
+    second: bloodmoonstaff_17
+  - first:
+      213: -756777498714196146
+    second: bloodmoonstaff_18
+  - first:
+      213: -2211817585749847448
+    second: bloodmoonstaff_19
+  - first:
+      213: -4405607008416506518
+    second: bloodmoonstaff_20
+  - first:
+      213: 5326298194244636183
+    second: bloodmoonstaff_21
+  - first:
+      213: -1377481939454440138
+    second: bloodmoonstaff_22
+  - first:
+      213: 2803436052705371890
+    second: bloodmoonstaff_23
+  - first:
+      213: 3675969693171479520
+    second: bloodmoonstaff_24
+  - first:
+      213: -5130120784064954902
+    second: bloodmoonstaff_25
+  - first:
+      213: -4754025980398829957
+    second: bloodmoonstaff_26
+  - first:
+      213: -7053606730765058887
+    second: bloodmoonstaff_27
+  - first:
+      213: 2309314226369567531
+    second: bloodmoonstaff_28
+  - first:
+      213: 8852332707030539203
+    second: bloodmoonstaff_29
+  - first:
+      213: -4574158342204159923
+    second: bloodmoonstaff_30
+  - first:
+      213: -5282655991794846812
+    second: bloodmoonstaff_31
+  - first:
+      213: 8886966636651237858
+    second: bloodmoonstaff_32
+  - first:
+      213: -5788645675654753512
+    second: bloodmoonstaff_33
+  - first:
+      213: 1496957797150776149
+    second: bloodmoonstaff_34
+  - first:
+      213: -3983924860148514768
+    second: bloodmoonstaff_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloodmoonstaff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21393fe7d99d41490800000000000000
+      internalID: -7776351386099018990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaccf15249c2cd390800000000000000
+      internalID: -7792304240468177746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42223966bd01ab110800000000000000
+      internalID: 1277351978817757732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae6191ef907f7490800000000000000
+      internalID: -7746349002067448156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 488
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2afb260c6f03d6e0800000000000000
+      internalID: -1814089268265747923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c3ad14cb13f0170800000000000000
+      internalID: 8146784935564950662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97650a55e28ed7c80800000000000000
+      internalID: -8323241250608097671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 488
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd8b7b8c86af46a0800000000000000
+      internalID: -6462763817687609903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e312200a991e790800000000000000
+      internalID: -7502546591712985535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13dc088aa928fb30800000000000000
+      internalID: 4321249654865711903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 447
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c37f40b557641f0800000000000000
+      internalID: -1061031628413387705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08331a3473684eb0800000000000000
+      internalID: -4735425657338382321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a31fe8ade3313fb0800000000000000
+      internalID: -4669894242771987547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 392
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd09c1718de9a1150800000000000000
+      internalID: 5844158117404512475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501fd89be37429f40800000000000000
+      internalID: 5733723610322694405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 392
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f54961b7e17bd60800000000000000
+      internalID: 7905821184880828259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 344
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf7c5064b8915410800000000000000
+      internalID: 1464119254350331825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91857073de768ea60800000000000000
+      internalID: 7703521431145371673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47b12fdfd26f75f0800000000000000
+      internalID: -756777498714196146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 344
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8621b6ddf9b0e41e0800000000000000
+      internalID: -2211817585749847448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ddc5b84c32cd2c0800000000000000
+      internalID: -4405607008416506518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e81cbdcffcae940800000000000000
+      internalID: 5326298194244636183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d4d4a697332ece0800000000000000
+      internalID: -1377481939454440138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e6089c3ec7e620800000000000000
+      internalID: 2803436052705371890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e37696b5faa30330800000000000000
+      internalID: 3675969693171479520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 250
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedb5f2d3562ec8b0800000000000000
+      internalID: -5130120784064954902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 239
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e79590f8e460eb0800000000000000
+      internalID: -4754025980398829957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 240
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcb17bcc0e8c1e90800000000000000
+      internalID: -7053606730765058887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 201
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b9389bd055c0020800000000000000
+      internalID: 2309314226369567531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 202
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb902402bdc9da70800000000000000
+      internalID: 8852332707030539203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48088209335580c0800000000000000
+      internalID: -4574158342204159923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3ba7a3d5c30b6b0800000000000000
+      internalID: -5282655991794846812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e158542219d45b70800000000000000
+      internalID: 8886966636651237858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8135ff37d699aafa0800000000000000
+      internalID: -5788645675654753512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b5cee6f2346c410800000000000000
+      internalID: 1496957797150776149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodmoonstaff_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030000b827146b8c0800000000000000
+      internalID: -3983924860148514768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bloodmoonstaff_0: -7776351386099018990
+      bloodmoonstaff_1: -7792304240468177746
+      bloodmoonstaff_10: -1061031628413387705
+      bloodmoonstaff_11: -4735425657338382321
+      bloodmoonstaff_12: -4669894242771987547
+      bloodmoonstaff_13: 5844158117404512475
+      bloodmoonstaff_14: 5733723610322694405
+      bloodmoonstaff_15: 7905821184880828259
+      bloodmoonstaff_16: 1464119254350331825
+      bloodmoonstaff_17: 7703521431145371673
+      bloodmoonstaff_18: -756777498714196146
+      bloodmoonstaff_19: -2211817585749847448
+      bloodmoonstaff_2: 1277351978817757732
+      bloodmoonstaff_20: -4405607008416506518
+      bloodmoonstaff_21: 5326298194244636183
+      bloodmoonstaff_22: -1377481939454440138
+      bloodmoonstaff_23: 2803436052705371890
+      bloodmoonstaff_24: 3675969693171479520
+      bloodmoonstaff_25: -5130120784064954902
+      bloodmoonstaff_26: -4754025980398829957
+      bloodmoonstaff_27: -7053606730765058887
+      bloodmoonstaff_28: 2309314226369567531
+      bloodmoonstaff_29: 8852332707030539203
+      bloodmoonstaff_3: -7746349002067448156
+      bloodmoonstaff_30: -4574158342204159923
+      bloodmoonstaff_31: -5282655991794846812
+      bloodmoonstaff_32: 8886966636651237858
+      bloodmoonstaff_33: -5788645675654753512
+      bloodmoonstaff_34: 1496957797150776149
+      bloodmoonstaff_35: -3983924860148514768
+      bloodmoonstaff_4: -1814089268265747923
+      bloodmoonstaff_5: 8146784935564950662
+      bloodmoonstaff_6: -8323241250608097671
+      bloodmoonstaff_7: -6462763817687609903
+      bloodmoonstaff_8: -7502546591712985535
+      bloodmoonstaff_9: 4321249654865711903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

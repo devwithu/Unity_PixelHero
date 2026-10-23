@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 1600dd7f0d2551d4f92ca3f10deb39f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -896409297765244098
+    second: nightsword_0
+  - first:
+      213: -2996542713226779953
+    second: nightsword_1
+  - first:
+      213: -3494078462359107460
+    second: nightsword_2
+  - first:
+      213: -5426813646532675746
+    second: nightsword_3
+  - first:
+      213: 121234924419253122
+    second: nightsword_4
+  - first:
+      213: -8301624978189482424
+    second: nightsword_5
+  - first:
+      213: -139860693695524023
+    second: nightsword_6
+  - first:
+      213: 768206886768575548
+    second: nightsword_7
+  - first:
+      213: -2002632349109383710
+    second: nightsword_8
+  - first:
+      213: 5632562609664771492
+    second: nightsword_9
+  - first:
+      213: 2575616317370299618
+    second: nightsword_10
+  - first:
+      213: -1796635507175421197
+    second: nightsword_11
+  - first:
+      213: -3723524418550108731
+    second: nightsword_12
+  - first:
+      213: -2304352970767647513
+    second: nightsword_13
+  - first:
+      213: 8839064276007895432
+    second: nightsword_14
+  - first:
+      213: -372808111408776208
+    second: nightsword_15
+  - first:
+      213: 4048608441649830236
+    second: nightsword_16
+  - first:
+      213: -352607699377877122
+    second: nightsword_17
+  - first:
+      213: -3789729059271120859
+    second: nightsword_18
+  - first:
+      213: -3980744495723168650
+    second: nightsword_19
+  - first:
+      213: 291608616515276892
+    second: nightsword_20
+  - first:
+      213: 692850788866887451
+    second: nightsword_21
+  - first:
+      213: 7251633305214294690
+    second: nightsword_22
+  - first:
+      213: 5779118420388358238
+    second: nightsword_23
+  - first:
+      213: -2310095893162909377
+    second: nightsword_24
+  - first:
+      213: -4792158080822181728
+    second: nightsword_25
+  - first:
+      213: -3405680626459436736
+    second: nightsword_26
+  - first:
+      213: 6679725523439036434
+    second: nightsword_27
+  - first:
+      213: -1870431511198221668
+    second: nightsword_28
+  - first:
+      213: 7624323697935031736
+    second: nightsword_29
+  - first:
+      213: -991256476634554399
+    second: nightsword_30
+  - first:
+      213: -5217433191655365592
+    second: nightsword_31
+  - first:
+      213: 6219918801612962831
+    second: nightsword_32
+  - first:
+      213: -5744933341423534436
+    second: nightsword_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nightsword_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 542
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3368593e705f83f0800000000000000
+      internalID: -896409297765244098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 541
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc225d757442a66d0800000000000000
+      internalID: -2996542713226779953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 541
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c780eb1a62a828fc0800000000000000
+      internalID: -3494078462359107460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 542
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e577d20bdb510b4b0800000000000000
+      internalID: -5426813646532675746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 493
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283816c7586bea100800000000000000
+      internalID: 121234924419253122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8468184f014bacc80800000000000000
+      internalID: -8301624978189482424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9431d3aa07d1f0ef0800000000000000
+      internalID: -139860693695524023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 493
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3489d7e71839aa00800000000000000
+      internalID: 768206886768575548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 446
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed01a72d783534e0800000000000000
+      internalID: -2002632349109383710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a54734d9d1ea2e40800000000000000
+      internalID: 5632562609664771492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47e8af46d6eb320800000000000000
+      internalID: 2575616317370299618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 446
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa84f376811117e0800000000000000
+      internalID: -1796635507175421197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 397
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cde3d7f442635cc0800000000000000
+      internalID: -3723524418550108731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 399
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec374c9e2b4500e0800000000000000
+      internalID: -2304352970767647513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881cb4ea02aaaaa70800000000000000
+      internalID: 8839064276007895432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 398
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb78167ff483daf0800000000000000
+      internalID: -372808111408776208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c599f2f5deb8f2830800000000000000
+      internalID: 4048608441649830236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f83856a294b1bf0800000000000000
+      internalID: -352607699377877122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 350
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5286b2bdf7d286bc0800000000000000
+      internalID: -3789729059271120859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c34d6d8fd81c8c0800000000000000
+      internalID: -3980744495723168650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 301
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5016d0ed700c0400800000000000000
+      internalID: 291608616515276892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f82c02f108d9900800000000000000
+      internalID: 692850788866887451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa90bef11af2a460800000000000000
+      internalID: 7251633305214294690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 302
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e582a22959d833050800000000000000
+      internalID: 5779118420388358238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31afea4604e0ffd0800000000000000
+      internalID: -2310095893162909377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 257
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0831d8d95de7db0800000000000000
+      internalID: -4792158080822181728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 240
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0499479a3879cb0d0800000000000000
+      internalID: -3405680626459436736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218a1bd09f623bc50800000000000000
+      internalID: 6679725523439036434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a35565374ea06e0800000000000000
+      internalID: -1870431511198221668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd9204020a0fc960800000000000000
+      internalID: 7624323697935031736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef54e48c795e32f0800000000000000
+      internalID: -991256476634554399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 160
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ac04c724f797b0800000000000000
+      internalID: -5217433191655365592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 161
+        width: 19
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cf9ed0237915650800000000000000
+      internalID: 6219918801612962831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightsword_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef62e5095e540b0800000000000000
+      internalID: -5744933341423534436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nightsword_0: -896409297765244098
+      nightsword_1: -2996542713226779953
+      nightsword_10: 2575616317370299618
+      nightsword_11: -1796635507175421197
+      nightsword_12: -3723524418550108731
+      nightsword_13: -2304352970767647513
+      nightsword_14: 8839064276007895432
+      nightsword_15: -372808111408776208
+      nightsword_16: 4048608441649830236
+      nightsword_17: -352607699377877122
+      nightsword_18: -3789729059271120859
+      nightsword_19: -3980744495723168650
+      nightsword_2: -3494078462359107460
+      nightsword_20: 291608616515276892
+      nightsword_21: 692850788866887451
+      nightsword_22: 7251633305214294690
+      nightsword_23: 5779118420388358238
+      nightsword_24: -2310095893162909377
+      nightsword_25: -4792158080822181728
+      nightsword_26: -3405680626459436736
+      nightsword_27: 6679725523439036434
+      nightsword_28: -1870431511198221668
+      nightsword_29: 7624323697935031736
+      nightsword_3: -5426813646532675746
+      nightsword_30: -991256476634554399
+      nightsword_31: -5217433191655365592
+      nightsword_32: 6219918801612962831
+      nightsword_33: -5744933341423534436
+      nightsword_4: 121234924419253122
+      nightsword_5: -8301624978189482424
+      nightsword_6: -139860693695524023
+      nightsword_7: 768206886768575548
+      nightsword_8: -2002632349109383710
+      nightsword_9: 5632562609664771492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

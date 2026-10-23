@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 598769ad63606ff4e9869546b1e8839b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7197852199463603995
+    second: rabbitboss_0
+  - first:
+      213: 6074103798397721811
+    second: rabbitboss_1
+  - first:
+      213: -4725815553219950013
+    second: rabbitboss_2
+  - first:
+      213: -4878242506929011343
+    second: rabbitboss_3
+  - first:
+      213: -877929669651350388
+    second: rabbitboss_4
+  - first:
+      213: 8214351712635908117
+    second: rabbitboss_5
+  - first:
+      213: -6203125361024203218
+    second: rabbitboss_6
+  - first:
+      213: 3835582834710999256
+    second: rabbitboss_7
+  - first:
+      213: -4912928202707946021
+    second: rabbitboss_8
+  - first:
+      213: -4098917207309189800
+    second: rabbitboss_9
+  - first:
+      213: -7547000597137933971
+    second: rabbitboss_10
+  - first:
+      213: -4716458113930828225
+    second: rabbitboss_11
+  - first:
+      213: -2605145351066255171
+    second: rabbitboss_12
+  - first:
+      213: -251430189257880644
+    second: rabbitboss_13
+  - first:
+      213: -6352875360810704177
+    second: rabbitboss_14
+  - first:
+      213: -808993678641319137
+    second: rabbitboss_15
+  - first:
+      213: 4432395985652313538
+    second: rabbitboss_16
+  - first:
+      213: 4375360468053121093
+    second: rabbitboss_17
+  - first:
+      213: -7739801513285952919
+    second: rabbitboss_18
+  - first:
+      213: 1411203953083399562
+    second: rabbitboss_19
+  - first:
+      213: -2109464100757964350
+    second: rabbitboss_20
+  - first:
+      213: -1513009235051196333
+    second: rabbitboss_21
+  - first:
+      213: -2612347266467210041
+    second: rabbitboss_22
+  - first:
+      213: 6252695096980250394
+    second: rabbitboss_23
+  - first:
+      213: 6350745366122673874
+    second: rabbitboss_24
+  - first:
+      213: -4309601844301657999
+    second: rabbitboss_25
+  - first:
+      213: 2553276747495084458
+    second: rabbitboss_26
+  - first:
+      213: 5330300496564140239
+    second: rabbitboss_27
+  - first:
+      213: 3989829939088039653
+    second: rabbitboss_28
+  - first:
+      213: 5059577216589602158
+    second: rabbitboss_29
+  - first:
+      213: 6053541216980522932
+    second: rabbitboss_30
+  - first:
+      213: 4478918635778624403
+    second: rabbitboss_31
+  - first:
+      213: -2103394000193577172
+    second: rabbitboss_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rabbitboss_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 581
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fcac68078e3e360800000000000000
+      internalID: 7197852199463603995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 581
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcd850093d8b4450800000000000000
+      internalID: 6074103798397721811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 581
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a0f44fac78a6eb0800000000000000
+      internalID: -4725815553219950013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 509
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175094639400d4cb0800000000000000
+      internalID: -4878242506929011343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 509
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cb7aeed97f0d3f0800000000000000
+      internalID: -877929669651350388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 509
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f8c37c5d3ff170800000000000000
+      internalID: 8214351712635908117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 509
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268fe689521ae9a0800000000000000
+      internalID: -6203125361024203218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 509
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0f881344aba3530800000000000000
+      internalID: 3835582834710999256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 509
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5389654d5c1dbb0800000000000000
+      internalID: -4912928202707946021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 437
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d79965488bd17c0800000000000000
+      internalID: -4098917207309189800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 437
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69beef41faa34790800000000000000
+      internalID: -7547000597137933971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 366
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36e4219556cb8eb0800000000000000
+      internalID: -4716458113930828225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 367
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08f691b1aa8dbd0800000000000000
+      internalID: -2605145351066255171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 366
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb8973339db28cf0800000000000000
+      internalID: -251430189257880644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2eb80b48d06d7a0800000000000000
+      internalID: -6352875360810704177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 293
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f133c071980e5c4f0800000000000000
+      internalID: -808993678641319137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 294
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd6ca44aa8038d30800000000000000
+      internalID: 4432395985652313538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 295
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d79ef92768bc30800000000000000
+      internalID: 4375360468053121093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 293
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a5f88e783b69490800000000000000
+      internalID: -7739801513285952919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 294
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8db929b48a959310800000000000000
+      internalID: 1411203953083399562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9f1e7a39da9b2e0800000000000000
+      internalID: -2109464100757964350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35053e2fd16b00be0800000000000000
+      internalID: -1513009235051196333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 150
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc524080041fbbd0800000000000000
+      internalID: -2612347266467210041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 151
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9550001906c650800000000000000
+      internalID: 6252695096980250394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 150
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d633b64341622850800000000000000
+      internalID: 6350745366122673874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 79
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1780803b4f73134c0800000000000000
+      internalID: -4309601844301657999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 77
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa195bb8caf0f6320800000000000000
+      internalID: 2553276747495084458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 78
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc83bcb7f0809f940800000000000000
+      internalID: 5330300496564140239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 79
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee9f89c039be5730800000000000000
+      internalID: 3989829939088039653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 77
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d9b74fbaa373640800000000000000
+      internalID: 5059577216589602158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 78
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b75f4fe9af720450800000000000000
+      internalID: 6053541216980522932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b4677d4c0582e30800000000000000
+      internalID: 4478918635778624403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbitboss_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f16c31d4e3fc2e0800000000000000
+      internalID: -2103394000193577172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rabbitboss_0: 7197852199463603995
+      rabbitboss_1: 6074103798397721811
+      rabbitboss_10: -7547000597137933971
+      rabbitboss_11: -4716458113930828225
+      rabbitboss_12: -2605145351066255171
+      rabbitboss_13: -251430189257880644
+      rabbitboss_14: -6352875360810704177
+      rabbitboss_15: -808993678641319137
+      rabbitboss_16: 4432395985652313538
+      rabbitboss_17: 4375360468053121093
+      rabbitboss_18: -7739801513285952919
+      rabbitboss_19: 1411203953083399562
+      rabbitboss_2: -4725815553219950013
+      rabbitboss_20: -2109464100757964350
+      rabbitboss_21: -1513009235051196333
+      rabbitboss_22: -2612347266467210041
+      rabbitboss_23: 6252695096980250394
+      rabbitboss_24: 6350745366122673874
+      rabbitboss_25: -4309601844301657999
+      rabbitboss_26: 2553276747495084458
+      rabbitboss_27: 5330300496564140239
+      rabbitboss_28: 3989829939088039653
+      rabbitboss_29: 5059577216589602158
+      rabbitboss_3: -4878242506929011343
+      rabbitboss_30: 6053541216980522932
+      rabbitboss_31: 4478918635778624403
+      rabbitboss_32: -2103394000193577172
+      rabbitboss_4: -877929669651350388
+      rabbitboss_5: 8214351712635908117
+      rabbitboss_6: -6203125361024203218
+      rabbitboss_7: 3835582834710999256
+      rabbitboss_8: -4912928202707946021
+      rabbitboss_9: -4098917207309189800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

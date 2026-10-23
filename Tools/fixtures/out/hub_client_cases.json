@@ -1,0 +1,236 @@
+[
+ {
+  "body": "{\"id\":1,\"name\":\"PixelHero\",\"host\":\"h1.example\",\"port\":9001,\"players\":3,\"maxPlayers\":200}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://h1.example:9001"
+ },
+ {
+  "body": "{\"id\":1,\"name\":\"PixelHero\",\"host\":\"h1.example\",\"port\":9001,\"players\":3,\"maxPlayers\":200}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://h1.example:9001"
+ },
+ {
+  "body": "{\"status\":\"error\"}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "{\"status\":\"error\"}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "{\"host\":\"\",\"port\":0}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "{\"host\":\"\",\"port\":0}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "{\"host\":\"h2.example\"}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://h2.example:9011"
+ },
+ {
+  "body": "{\"host\":\"h2.example\"}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://h2.example:9011"
+ },
+ {
+  "body": "{\"port\":9100}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9100"
+ },
+ {
+  "body": "{\"port\":9100}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://cfg.example:9100"
+ },
+ {
+  "body": "{\"host\":5,\"port\":\"77\"}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://5:77"
+ },
+ {
+  "body": "{\"host\":5,\"port\":\"77\"}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://5:77"
+ },
+ {
+  "body": "{\"host\":null,\"port\":null}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "{\"host\":null,\"port\":null}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "{\"host\":[\"a\",\"b\"],\"port\":[1]}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://a,b:1"
+ },
+ {
+  "body": "{\"host\":[\"a\",\"b\"],\"port\":[1]}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://a,b:1"
+ },
+ {
+  "body": "{\"host\":[\"a\",null],\"port\":[]}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://a,:"
+ },
+ {
+  "body": "{\"host\":[\"a\",null],\"port\":[]}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://a,:"
+ },
+ {
+  "body": "{\"host\":{\"x\":1},\"port\":true}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://[object Object]:true"
+ },
+ {
+  "body": "{\"host\":{\"x\":1},\"port\":true}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://[object Object]:true"
+ },
+ {
+  "body": "{\"host\":\"h3\",\"port\":1.5}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://h3:1.5"
+ },
+ {
+  "body": "{\"host\":\"h3\",\"port\":1.5}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://h3:1.5"
+ },
+ {
+  "body": "{\"host\":\"h3\",\"port\":-0}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://h3:9011"
+ },
+ {
+  "body": "{\"host\":\"h3\",\"port\":-0}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://h3:9011"
+ },
+ {
+  "body": "{\"host\":\"h3\",\"port\":1e21}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://h3:1e+21"
+ },
+ {
+  "body": "{\"host\":\"h3\",\"port\":1e21}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://h3:1e+21"
+ },
+ {
+  "body": "{\"host\":false,\"port\":false}",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "{\"host\":false,\"port\":false}",
+  "fails": false,
+  "picked": true,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "[]",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "[1,2]",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "\"text\"",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "\"\"",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "5",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "0",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "true",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "false",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "null",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": "not json",
+  "fails": false,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ },
+ {
+  "body": null,
+  "fails": true,
+  "picked": false,
+  "url": "ws://cfg.example:9011"
+ }
+]

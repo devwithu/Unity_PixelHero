@@ -1,0 +1,96 @@
+{
+ "seed": 53,
+ "end": 120000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/max"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/invincible"
+    ]
+   ]
+  },
+  {
+   "t": 3600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 926 751"
+    ]
+   ]
+  },
+  {
+   "t": 5000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     1,
+     "$piratecaptain@926,750"
+    ]
+   ]
+  },
+  {
+   "t": 20000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     1,
+     "$piratecaptain@926,750"
+    ]
+   ]
+  }
+ ]
+}

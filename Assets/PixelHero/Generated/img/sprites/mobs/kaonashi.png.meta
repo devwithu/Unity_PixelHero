@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: eb54c5e158b907547914ef8daac59ba6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2818682138767444600
+    second: kaonashi_0
+  - first:
+      213: -4515734333697775699
+    second: kaonashi_1
+  - first:
+      213: 3363338704069089325
+    second: kaonashi_2
+  - first:
+      213: -6154649057890251893
+    second: kaonashi_3
+  - first:
+      213: 3031512921654211967
+    second: kaonashi_4
+  - first:
+      213: 8303917941718681077
+    second: kaonashi_5
+  - first:
+      213: 450139799874885435
+    second: kaonashi_6
+  - first:
+      213: 1517266280433691687
+    second: kaonashi_7
+  - first:
+      213: -3453318475329197964
+    second: kaonashi_8
+  - first:
+      213: 4025829381662432294
+    second: kaonashi_9
+  - first:
+      213: 431249725277587056
+    second: kaonashi_10
+  - first:
+      213: 4154513135411636363
+    second: kaonashi_11
+  - first:
+      213: -1306868453774134481
+    second: kaonashi_12
+  - first:
+      213: -7567613333296573382
+    second: kaonashi_13
+  - first:
+      213: -1310136531513850811
+    second: kaonashi_14
+  - first:
+      213: 8633623226503788149
+    second: kaonashi_15
+  - first:
+      213: -6285090706701472130
+    second: kaonashi_16
+  - first:
+      213: 176931905727106518
+    second: kaonashi_17
+  - first:
+      213: -4659843193548500586
+    second: kaonashi_18
+  - first:
+      213: -7533833641595572645
+    second: kaonashi_19
+  - first:
+      213: -647384798248963251
+    second: kaonashi_20
+  - first:
+      213: 4965774612530730483
+    second: kaonashi_21
+  - first:
+      213: 5464368240117419735
+    second: kaonashi_22
+  - first:
+      213: -3485813748269356549
+    second: kaonashi_23
+  - first:
+      213: 2429481542279209403
+    second: kaonashi_24
+  - first:
+      213: 4171835903683363348
+    second: kaonashi_25
+  - first:
+      213: 2063539369498416601
+    second: kaonashi_26
+  - first:
+      213: -884736729696988390
+    second: kaonashi_27
+  - first:
+      213: 7672805109025836972
+    second: kaonashi_28
+  - first:
+      213: -704062626363806266
+    second: kaonashi_29
+  - first:
+      213: 467539011425578481
+    second: kaonashi_30
+  - first:
+      213: -1675449104182629568
+    second: kaonashi_31
+  - first:
+      213: -6949853476291602918
+    second: kaonashi_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaonashi_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 393
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ac8ff9878fd1720800000000000000
+      internalID: 2818682138767444600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 393
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7a8e38c83e451c0800000000000000
+      internalID: -4515734333697775699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 393
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d285c5b4bbafcae20800000000000000
+      internalID: 3363338704069089325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 393
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b42436a4b469aa0800000000000000
+      internalID: -6154649057890251893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 345
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75b43bc0f8121a20800000000000000
+      internalID: 3031512921654211967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 345
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f582283f517d3370800000000000000
+      internalID: 8303917941718681077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 345
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37dec653c73f3600800000000000000
+      internalID: 450139799874885435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 297
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cadeaa4a96e0510800000000000000
+      internalID: 1517266280433691687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 297
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a5b5a4295310d0800000000000000
+      internalID: -3453318475329197964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 249
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cd15c2e7e9ed730800000000000000
+      internalID: 4025829381662432294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 246
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076c7ac175b1cf500800000000000000
+      internalID: 431249725277587056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 249
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a7e26fabc7a930800000000000000
+      internalID: 4154513135411636363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 201
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23f0acb0121ddde0800000000000000
+      internalID: -1306868453774134481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 199
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34195fa4cf6af690800000000000000
+      internalID: -7567613333296573382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544cad714c571dde0800000000000000
+      internalID: -1310136531513850811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 201
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576f154e49ac0d770800000000000000
+      internalID: 8633623226503788149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e23f55d4fd6c8a0800000000000000
+      internalID: -6285090706701472130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 200
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd0c4e71a6947200800000000000000
+      internalID: 176931905727106518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691158bed49e45fb0800000000000000
+      internalID: -4659843193548500586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 150
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eeecb0832727790800000000000000
+      internalID: -7533833641595572645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f16bb4f60407f0800000000000000
+      internalID: -647384798248963251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 110
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f51c8643b9f9e440800000000000000
+      internalID: 4965774612530730483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 104
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de002286f555db40800000000000000
+      internalID: 5464368240117419735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf96b355dd6ef9fc0800000000000000
+      internalID: -3485813748269356549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 106
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1abeb379047b120800000000000000
+      internalID: 2429481542279209403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412844ca6a655e930800000000000000
+      internalID: 4171835903683363348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 56
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d59cfa9f1a23ac10800000000000000
+      internalID: 2063539369498416601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 56
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a139ba2c1a8c8b3f0800000000000000
+      internalID: -884736729696988390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 57
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf894a28974b7a60800000000000000
+      internalID: 7672805109025836972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 56
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cde4f785caaa36f0800000000000000
+      internalID: -704062626363806266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 56
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fda8a6f0480d7600800000000000000
+      internalID: 467539011425578481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ba2f9aaeb9fb8e0800000000000000
+      internalID: -1675449104182629568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaonashi_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 9
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1610a0d5192d8f90800000000000000
+      internalID: -6949853476291602918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kaonashi_0: 2818682138767444600
+      kaonashi_1: -4515734333697775699
+      kaonashi_10: 431249725277587056
+      kaonashi_11: 4154513135411636363
+      kaonashi_12: -1306868453774134481
+      kaonashi_13: -7567613333296573382
+      kaonashi_14: -1310136531513850811
+      kaonashi_15: 8633623226503788149
+      kaonashi_16: -6285090706701472130
+      kaonashi_17: 176931905727106518
+      kaonashi_18: -4659843193548500586
+      kaonashi_19: -7533833641595572645
+      kaonashi_2: 3363338704069089325
+      kaonashi_20: -647384798248963251
+      kaonashi_21: 4965774612530730483
+      kaonashi_22: 5464368240117419735
+      kaonashi_23: -3485813748269356549
+      kaonashi_24: 2429481542279209403
+      kaonashi_25: 4171835903683363348
+      kaonashi_26: 2063539369498416601
+      kaonashi_27: -884736729696988390
+      kaonashi_28: 7672805109025836972
+      kaonashi_29: -704062626363806266
+      kaonashi_3: -6154649057890251893
+      kaonashi_30: 467539011425578481
+      kaonashi_31: -1675449104182629568
+      kaonashi_32: -6949853476291602918
+      kaonashi_4: 3031512921654211967
+      kaonashi_5: 8303917941718681077
+      kaonashi_6: 450139799874885435
+      kaonashi_7: 1517266280433691687
+      kaonashi_8: -3453318475329197964
+      kaonashi_9: 4025829381662432294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

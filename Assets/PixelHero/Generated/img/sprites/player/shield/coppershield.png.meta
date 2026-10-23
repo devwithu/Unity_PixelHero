@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 480a2370211200244b96a68a64881ad9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4662367989155653424
+    second: coppershield_0
+  - first:
+      213: -6555400472929994807
+    second: coppershield_1
+  - first:
+      213: 3155865515958267212
+    second: coppershield_2
+  - first:
+      213: 7091900015974388201
+    second: coppershield_3
+  - first:
+      213: -343676908903400777
+    second: coppershield_4
+  - first:
+      213: 4795252785059463908
+    second: coppershield_5
+  - first:
+      213: -5066936420291407853
+    second: coppershield_6
+  - first:
+      213: -3972495571731385237
+    second: coppershield_7
+  - first:
+      213: 2038075829784261513
+    second: coppershield_8
+  - first:
+      213: -6837699083706798053
+    second: coppershield_9
+  - first:
+      213: -5151430196066659887
+    second: coppershield_10
+  - first:
+      213: 255239385579423517
+    second: coppershield_11
+  - first:
+      213: 197374244799833057
+    second: coppershield_12
+  - first:
+      213: -603419719572783710
+    second: coppershield_13
+  - first:
+      213: 9061250546859394677
+    second: coppershield_14
+  - first:
+      213: -3997901406642301906
+    second: coppershield_15
+  - first:
+      213: -1291347723013140630
+    second: coppershield_16
+  - first:
+      213: 2541310867134500740
+    second: coppershield_17
+  - first:
+      213: 9202806753680297283
+    second: coppershield_18
+  - first:
+      213: 5745107425475133525
+    second: coppershield_19
+  - first:
+      213: 2959089045681652872
+    second: coppershield_20
+  - first:
+      213: 7991161481771286673
+    second: coppershield_21
+  - first:
+      213: -1815213935182578272
+    second: coppershield_22
+  - first:
+      213: -2592871835088940256
+    second: coppershield_23
+  - first:
+      213: -6803108488255712615
+    second: coppershield_24
+  - first:
+      213: 8629888453366323047
+    second: coppershield_25
+  - first:
+      213: -1908771636066958488
+    second: coppershield_26
+  - first:
+      213: -513271118017055465
+    second: coppershield_27
+  - first:
+      213: -2365031185405687389
+    second: coppershield_28
+  - first:
+      213: -8482076622712953077
+    second: coppershield_29
+  - first:
+      213: -7094540724963937865
+    second: coppershield_30
+  - first:
+      213: -105118941028622232
+    second: coppershield_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coppershield_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 539
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d899322401fb4fb0800000000000000
+      internalID: -4662367989155653424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 538
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7749a700a8605a0800000000000000
+      internalID: -6555400472929994807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 538
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4de89d57f2ebcb20800000000000000
+      internalID: 3155865515958267212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 539
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19db27d7d7b6260800000000000000
+      internalID: 7091900015974388201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 444
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bafe471ca30b3bf0800000000000000
+      internalID: -343676908903400777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 443
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e20cad60092c8240800000000000000
+      internalID: 4795252785059463908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 443
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109a09eb20aea9b0800000000000000
+      internalID: -5066936420291407853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64732f135cded8c0800000000000000
+      internalID: -3972495571731385237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 393
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b9934b23b84c10800000000000000
+      internalID: 2038075829784261513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 395
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1074aa39ec9b11a0800000000000000
+      internalID: -6837699083706798053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 393
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1d936b7817288b0800000000000000
+      internalID: -5151430196066659887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 395
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17862e6edaca8300800000000000000
+      internalID: 255239385579423517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3ea1574d63db200800000000000000
+      internalID: 197374244799833057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 300
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adf56c46f830a7f0800000000000000
+      internalID: -603419719572783710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5764e522d5700cd70800000000000000
+      internalID: 9061250546859394677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 300
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e241d0a3ad99488c0800000000000000
+      internalID: -3997901406642301906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 252
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fca487616341ee0800000000000000
+      internalID: -1291347723013140630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 252
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f446be4cc844320800000000000000
+      internalID: 2541310867134500740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_18
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d0ea1ebffe6bf70800000000000000
+      internalID: 9202806753680297283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 251
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55087ebb3c8babf40800000000000000
+      internalID: 5745107425475133525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 156
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ca922fcbc01920800000000000000
+      internalID: 2959089045681652872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 156
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19003c7570f46ee60800000000000000
+      internalID: 7991161481771286673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 155
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad7a1a1b801fc6e0800000000000000
+      internalID: -1815213935182578272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0239869bdc4440cd0800000000000000
+      internalID: -2592871835088940256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d215dfd08691a0800000000000000
+      internalID: -6803108488255712615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767152243d583c770800000000000000
+      internalID: 8629888453366323047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86343e26f4ea285e0800000000000000
+      internalID: -1908771636066958488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715302933ae70e8f0800000000000000
+      internalID: -513271118017055465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a94c27daa8bd2fd0800000000000000
+      internalID: -2365031185405687389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ac89604c994a80800000000000000
+      internalID: -8482076622712953077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17bf39cc02b8d90800000000000000
+      internalID: -7094540724963937865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coppershield_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860e2dc41ea8a8ef0800000000000000
+      internalID: -105118941028622232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coppershield_0: -4662367989155653424
+      coppershield_1: -6555400472929994807
+      coppershield_10: -5151430196066659887
+      coppershield_11: 255239385579423517
+      coppershield_12: 197374244799833057
+      coppershield_13: -603419719572783710
+      coppershield_14: 9061250546859394677
+      coppershield_15: -3997901406642301906
+      coppershield_16: -1291347723013140630
+      coppershield_17: 2541310867134500740
+      coppershield_18: 9202806753680297283
+      coppershield_19: 5745107425475133525
+      coppershield_2: 3155865515958267212
+      coppershield_20: 2959089045681652872
+      coppershield_21: 7991161481771286673
+      coppershield_22: -1815213935182578272
+      coppershield_23: -2592871835088940256
+      coppershield_24: -6803108488255712615
+      coppershield_25: 8629888453366323047
+      coppershield_26: -1908771636066958488
+      coppershield_27: -513271118017055465
+      coppershield_28: -2365031185405687389
+      coppershield_29: -8482076622712953077
+      coppershield_3: 7091900015974388201
+      coppershield_30: -7094540724963937865
+      coppershield_31: -105118941028622232
+      coppershield_4: -343676908903400777
+      coppershield_5: 4795252785059463908
+      coppershield_6: -5066936420291407853
+      coppershield_7: -3972495571731385237
+      coppershield_8: 2038075829784261513
+      coppershield_9: -6837699083706798053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

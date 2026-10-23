@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: d9518ec96a5e608469ce60ac4d6d968d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -916460042708302994
+    second: icegolem_0
+  - first:
+      213: -5285654239213118583
+    second: icegolem_1
+  - first:
+      213: 3269278586612713144
+    second: icegolem_2
+  - first:
+      213: 7928501080887116620
+    second: icegolem_3
+  - first:
+      213: -715592833405397721
+    second: icegolem_4
+  - first:
+      213: -472264798719427660
+    second: icegolem_5
+  - first:
+      213: 4046569354891974744
+    second: icegolem_6
+  - first:
+      213: -4398177928758747585
+    second: icegolem_7
+  - first:
+      213: 8293091491491594872
+    second: icegolem_8
+  - first:
+      213: 6434136610066054519
+    second: icegolem_9
+  - first:
+      213: -2786838832897476188
+    second: icegolem_10
+  - first:
+      213: 7200701224608645346
+    second: icegolem_11
+  - first:
+      213: -4062986158514394768
+    second: icegolem_12
+  - first:
+      213: 2410505143874370522
+    second: icegolem_13
+  - first:
+      213: -8795481978976817776
+    second: icegolem_14
+  - first:
+      213: 2473829057718484553
+    second: icegolem_15
+  - first:
+      213: 4324385039416510655
+    second: icegolem_16
+  - first:
+      213: -6900499620652271726
+    second: icegolem_17
+  - first:
+      213: 7197543856908049413
+    second: icegolem_18
+  - first:
+      213: -3317190046987705570
+    second: icegolem_19
+  - first:
+      213: -7373180531011901358
+    second: icegolem_20
+  - first:
+      213: 6412649390788717526
+    second: icegolem_21
+  - first:
+      213: -4611971635676168615
+    second: icegolem_22
+  - first:
+      213: -5666128428044925857
+    second: icegolem_23
+  - first:
+      213: 6536301986359195577
+    second: icegolem_24
+  - first:
+      213: -4147370626099210815
+    second: icegolem_25
+  - first:
+      213: 7563920621509396281
+    second: icegolem_26
+  - first:
+      213: -6346739684236825502
+    second: icegolem_27
+  - first:
+      213: -5184151894878325833
+    second: icegolem_28
+  - first:
+      213: -4536485173611597311
+    second: icegolem_29
+  - first:
+      213: 7370226694659297426
+    second: icegolem_30
+  - first:
+      213: -3480651445036827992
+    second: icegolem_31
+  - first:
+      213: 8326904340197118385
+    second: icegolem_32
+  - first:
+      213: 8723369422897455649
+    second: icegolem_33
+  - first:
+      213: -5269634545132717577
+    second: icegolem_34
+  - first:
+      213: 6969089265008174980
+    second: icegolem_35
+  - first:
+      213: -2732195194181031035
+    second: icegolem_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icegolem_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63488f52741843f0800000000000000
+      internalID: -916460042708302994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 258
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1a2a597595a6b0800000000000000
+      internalID: -5285654239213118583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b687da9d8fce5d20800000000000000
+      internalID: 3269278586612713144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 257
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43c39fd9b1b70e60800000000000000
+      internalID: 7928501080887116620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 258
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255e010c14b116f0800000000000000
+      internalID: -715592833405397721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb3860faad2279f0800000000000000
+      internalID: -472264798719427660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858515d736d482830800000000000000
+      internalID: 4046569354891974744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 226
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e1f51f97886f2c0800000000000000
+      internalID: -4398177928758747585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872cb28d5caf61370800000000000000
+      internalID: 8293091491491594872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db2574825aa4950800000000000000
+      internalID: 6434136610066054519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 196
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9b1e6c8d82359d0800000000000000
+      internalID: -2786838832897476188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c482ec970ee360800000000000000
+      internalID: 7200701224608645346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079ab6e8d9f5d97c0800000000000000
+      internalID: -4062986158514394768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 161
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb32ed28a5d37120800000000000000
+      internalID: 2410505143874370522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dacb69dbb20f580800000000000000
+      internalID: -8795481978976817776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 159
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e795ccb6ec45220800000000000000
+      internalID: 2473829057718484553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84f62284d430c30800000000000000
+      internalID: 4324385039416510655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297bd4ac7208c30a0800000000000000
+      internalID: -6900499620652271726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 138
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c9c4ee000d2e360800000000000000
+      internalID: 7197543856908049413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1326dc3a39f6f1d0800000000000000
+      internalID: -3317190046987705570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a5303f533da990800000000000000
+      internalID: -7373180531011901358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db261f25ae4ef850800000000000000
+      internalID: 6412649390788717526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 105
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e385d8b3cfeffb0800000000000000
+      internalID: -4611971635676168615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c3a2173edd51b0800000000000000
+      internalID: -5666128428044925857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7be99960c95ba50800000000000000
+      internalID: 6536301986359195577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c59777a3649176c0800000000000000
+      internalID: -4147370626099210815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937c15adab178f860800000000000000
+      internalID: 7563920621509396281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 64
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c603732e9dbe7a0800000000000000
+      internalID: -6346739684236825502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 63
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3fb1481513e08b0800000000000000
+      internalID: -5184151894878325833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102fd0a15ca2b01c0800000000000000
+      internalID: -4536485173611597311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d441312e484660800000000000000
+      internalID: 7370226694659297426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 42
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa31a7b3fd32bfc0800000000000000
+      internalID: -3480651445036827992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19b1c216b1f8370800000000000000
+      internalID: 8326904340197118385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122ae409542af0970800000000000000
+      internalID: 8723369422897455649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9bc390d4f7ed6b0800000000000000
+      internalID: -5269634545132717577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487ecc043cd27b060800000000000000
+      internalID: 6969089265008174980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icegolem_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b6fc952fa451ad0800000000000000
+      internalID: -2732195194181031035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icegolem_0: -916460042708302994
+      icegolem_1: -5285654239213118583
+      icegolem_10: -2786838832897476188
+      icegolem_11: 7200701224608645346
+      icegolem_12: -4062986158514394768
+      icegolem_13: 2410505143874370522
+      icegolem_14: -8795481978976817776
+      icegolem_15: 2473829057718484553
+      icegolem_16: 4324385039416510655
+      icegolem_17: -6900499620652271726
+      icegolem_18: 7197543856908049413
+      icegolem_19: -3317190046987705570
+      icegolem_2: 3269278586612713144
+      icegolem_20: -7373180531011901358
+      icegolem_21: 6412649390788717526
+      icegolem_22: -4611971635676168615
+      icegolem_23: -5666128428044925857
+      icegolem_24: 6536301986359195577
+      icegolem_25: -4147370626099210815
+      icegolem_26: 7563920621509396281
+      icegolem_27: -6346739684236825502
+      icegolem_28: -5184151894878325833
+      icegolem_29: -4536485173611597311
+      icegolem_3: 7928501080887116620
+      icegolem_30: 7370226694659297426
+      icegolem_31: -3480651445036827992
+      icegolem_32: 8326904340197118385
+      icegolem_33: 8723369422897455649
+      icegolem_34: -5269634545132717577
+      icegolem_35: 6969089265008174980
+      icegolem_36: -2732195194181031035
+      icegolem_4: -715592833405397721
+      icegolem_5: -472264798719427660
+      icegolem_6: 4046569354891974744
+      icegolem_7: -4398177928758747585
+      icegolem_8: 8293091491491594872
+      icegolem_9: 6434136610066054519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

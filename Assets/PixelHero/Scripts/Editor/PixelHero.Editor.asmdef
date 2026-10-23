@@ -1,0 +1,21 @@
+{
+    "name": "PixelHero.Editor",
+    "rootNamespace": "PixelHero.Editor",
+    "references": [
+        "PixelHero.Runtime",
+        "Unity.2D.Tilemap.Extras",
+        "Unity.2D.Sprite.Editor",
+        "Unity.RenderPipelines.Universal.2D.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

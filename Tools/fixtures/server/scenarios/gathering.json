@@ -1,0 +1,238 @@
+{
+ "seed": 89,
+ "end": 90000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 3000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn bronzeaxe"
+    ]
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn bronzepickaxe"
+    ]
+   ]
+  },
+  {
+   "t": 3600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn fishingpole"
+    ]
+   ]
+  },
+  {
+   "t": 5000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 193 146"
+    ]
+   ]
+  },
+  {
+   "t": 6000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "$oak@193,145"
+    ]
+   ]
+  },
+  {
+   "t": 6500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 0
+    }
+   ]
+  },
+  {
+   "t": 7000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "$oak@193,145"
+    ]
+   ]
+  },
+  {
+   "t": 25000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 645 635"
+    ]
+   ]
+  },
+  {
+   "t": 26000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "$copperrock@645,634"
+    ]
+   ]
+  },
+  {
+   "t": 26500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 1
+    }
+   ]
+  },
+  {
+   "t": 27000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "$copperrock@645,634"
+    ]
+   ]
+  },
+  {
+   "t": 45000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 324 360"
+    ]
+   ]
+  },
+  {
+   "t": 46000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "$shrimpspot@325,360"
+    ]
+   ]
+  },
+  {
+   "t": 46500,
+   "conn": 0,
+   "send": [
+    "Container",
+    {
+     "opcode": 3,
+     "type": 1,
+     "fromIndex": 2
+    }
+   ]
+  },
+  {
+   "t": 47000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "$shrimpspot@325,360"
+    ]
+   ]
+  },
+  {
+   "t": 65000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/teleport 204 189"
+    ]
+   ]
+  },
+  {
+   "t": 66000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "$blueberrybush@204,188"
+    ]
+   ]
+  },
+  {
+   "t": 67000,
+   "conn": 0,
+   "send": [
+    "Target",
+    [
+     3,
+     "$blueberrybush@204,188"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 95890279016a57144b8b6aaa371f2e17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -278288418598304781
+    second: beautifullife_0
+  - first:
+      213: -1787959773823497989
+    second: beautifullife_1
+  - first:
+      213: 2591620311561999081
+    second: beautifullife_2
+  - first:
+      213: 4768086460401434782
+    second: beautifullife_3
+  - first:
+      213: 4550556610076880699
+    second: beautifullife_4
+  - first:
+      213: 9118182303486798110
+    second: beautifullife_5
+  - first:
+      213: -7798983933155101947
+    second: beautifullife_6
+  - first:
+      213: -6174621781302268965
+    second: beautifullife_7
+  - first:
+      213: 5184851934475753014
+    second: beautifullife_8
+  - first:
+      213: -2442504584125248602
+    second: beautifullife_9
+  - first:
+      213: 8535454883849426293
+    second: beautifullife_10
+  - first:
+      213: -6169156610524964274
+    second: beautifullife_11
+  - first:
+      213: -2310342224237105159
+    second: beautifullife_12
+  - first:
+      213: -1671069469147388710
+    second: beautifullife_13
+  - first:
+      213: 8179678925871095666
+    second: beautifullife_14
+  - first:
+      213: -1671464258939335119
+    second: beautifullife_15
+  - first:
+      213: -1202139482967349737
+    second: beautifullife_16
+  - first:
+      213: 2119204656971698060
+    second: beautifullife_17
+  - first:
+      213: 3061417185997360436
+    second: beautifullife_18
+  - first:
+      213: -4991374012306367396
+    second: beautifullife_19
+  - first:
+      213: 80449009615670981
+    second: beautifullife_20
+  - first:
+      213: -2214560045879523050
+    second: beautifullife_21
+  - first:
+      213: -2783926113967036470
+    second: beautifullife_22
+  - first:
+      213: 8749332437454173511
+    second: beautifullife_23
+  - first:
+      213: -953669534891745859
+    second: beautifullife_24
+  - first:
+      213: 468952923219580536
+    second: beautifullife_25
+  - first:
+      213: -2925164205248772307
+    second: beautifullife_26
+  - first:
+      213: 1788654239546337985
+    second: beautifullife_27
+  - first:
+      213: -7926552979835074147
+    second: beautifullife_28
+  - first:
+      213: -908006312196549829
+    second: beautifullife_29
+  - first:
+      213: -7950601966853779882
+    second: beautifullife_30
+  - first:
+      213: -5924309094188892375
+    second: beautifullife_31
+  - first:
+      213: -8117876401952725874
+    second: beautifullife_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beautifullife_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3c7506822532cf0800000000000000
+      internalID: -278288418598304781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf800980f04ef27e0800000000000000
+      internalID: -1787959773823497989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 260
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2175f31f847f320800000000000000
+      internalID: 2591620311561999081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c3929f55ab2240800000000000000
+      internalID: 4768086460401434782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 260
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f20f18023d62f30800000000000000
+      internalID: 4550556610076880699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19659cae7a4a8e70800000000000000
+      internalID: 9118182303486798110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bf4ffe6174c390800000000000000
+      internalID: -7798983933155101947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba61754365f4aa0800000000000000
+      internalID: -6174621781302268965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 229
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6369c672d5b44f740800000000000000
+      internalID: 5184851934475753014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 196
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab83fc850b7a1ed0800000000000000
+      internalID: -2442504584125248602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 196
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575d73c7ef6047670800000000000000
+      internalID: 8535454883849426293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a18e19fb0c26aa0800000000000000
+      internalID: -6169156610524964274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffe2cedcf300ffd0800000000000000
+      internalID: -2310342224237105159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad42878eb2b2fc8e0800000000000000
+      internalID: -1671069469147388710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 166
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f9b4135ae048170800000000000000
+      internalID: 8179678925871095666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 165
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ec82fbc14cdc8e0800000000000000
+      internalID: -1671464258939335119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716624b6284215fe0800000000000000
+      internalID: -1202139482967349737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fc621586de86d10800000000000000
+      internalID: 2119204656971698060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 133
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d06a8e5b65c7a20800000000000000
+      internalID: 3061417185997360436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cdc5ff7c31bbab0800000000000000
+      internalID: -4991374012306367396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce8ca0b2ffcd1100800000000000000
+      internalID: 80449009615670981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619049b1f5d4441e0800000000000000
+      internalID: -2214560045879523050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7af0003f18d59d0800000000000000
+      internalID: -2783926113967036470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7453244fe7fdb6970800000000000000
+      internalID: 8749332437454173511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5aab5c92e3c2f0800000000000000
+      internalID: -953669534891745859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87652e4f23e028600800000000000000
+      internalID: 468952923219580536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27857c47aab767d0800000000000000
+      internalID: -2925164205248772307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae72edd8392d810800000000000000
+      internalID: 1788654239546337985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99cd9fbf0a3ff190800000000000000
+      internalID: -7926552979835074147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3356b3e11d1663f0800000000000000
+      internalID: -908006312196549829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e882f92a9c9a190800000000000000
+      internalID: -7950601966853779882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f31456440a8cda0800000000000000
+      internalID: -5924309094188892375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beautifullife_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84e41b3c62875f80800000000000000
+      internalID: -8117876401952725874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beautifullife_0: -278288418598304781
+      beautifullife_1: -1787959773823497989
+      beautifullife_10: 8535454883849426293
+      beautifullife_11: -6169156610524964274
+      beautifullife_12: -2310342224237105159
+      beautifullife_13: -1671069469147388710
+      beautifullife_14: 8179678925871095666
+      beautifullife_15: -1671464258939335119
+      beautifullife_16: -1202139482967349737
+      beautifullife_17: 2119204656971698060
+      beautifullife_18: 3061417185997360436
+      beautifullife_19: -4991374012306367396
+      beautifullife_2: 2591620311561999081
+      beautifullife_20: 80449009615670981
+      beautifullife_21: -2214560045879523050
+      beautifullife_22: -2783926113967036470
+      beautifullife_23: 8749332437454173511
+      beautifullife_24: -953669534891745859
+      beautifullife_25: 468952923219580536
+      beautifullife_26: -2925164205248772307
+      beautifullife_27: 1788654239546337985
+      beautifullife_28: -7926552979835074147
+      beautifullife_29: -908006312196549829
+      beautifullife_3: 4768086460401434782
+      beautifullife_30: -7950601966853779882
+      beautifullife_31: -5924309094188892375
+      beautifullife_32: -8117876401952725874
+      beautifullife_4: 4550556610076880699
+      beautifullife_5: 9118182303486798110
+      beautifullife_6: -7798983933155101947
+      beautifullife_7: -6174621781302268965
+      beautifullife_8: 5184851934475753014
+      beautifullife_9: -2442504584125248602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

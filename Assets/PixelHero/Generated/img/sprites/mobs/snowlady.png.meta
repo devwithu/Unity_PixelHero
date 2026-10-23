@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 64fa1bc2a6c37de46b0afb3a74dd811b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8714204780298131382
+    second: snowlady_0
+  - first:
+      213: 7498764897012988481
+    second: snowlady_1
+  - first:
+      213: -1925321201075349617
+    second: snowlady_2
+  - first:
+      213: -18098884002549320
+    second: snowlady_3
+  - first:
+      213: 1937755811562868039
+    second: snowlady_4
+  - first:
+      213: -1441588131274493803
+    second: snowlady_5
+  - first:
+      213: 6818330247353894160
+    second: snowlady_6
+  - first:
+      213: -7282356406246659023
+    second: snowlady_7
+  - first:
+      213: -4968658350265756541
+    second: snowlady_8
+  - first:
+      213: -2612765718060935481
+    second: snowlady_9
+  - first:
+      213: 7572457765296867697
+    second: snowlady_10
+  - first:
+      213: -6960954389166187273
+    second: snowlady_11
+  - first:
+      213: 1575654317218042956
+    second: snowlady_12
+  - first:
+      213: -3937246293160988081
+    second: snowlady_13
+  - first:
+      213: -6641175742868094566
+    second: snowlady_14
+  - first:
+      213: -4723689007137761705
+    second: snowlady_15
+  - first:
+      213: -2412838448912309183
+    second: snowlady_16
+  - first:
+      213: 1646968143705509103
+    second: snowlady_17
+  - first:
+      213: -5673597760780147734
+    second: snowlady_18
+  - first:
+      213: -3544011721808507280
+    second: snowlady_19
+  - first:
+      213: 2998944357855350802
+    second: snowlady_20
+  - first:
+      213: -7865814128782589139
+    second: snowlady_21
+  - first:
+      213: 763532349620175028
+    second: snowlady_22
+  - first:
+      213: 6063683273998262146
+    second: snowlady_23
+  - first:
+      213: -8329081121219936690
+    second: snowlady_24
+  - first:
+      213: 312367801137839602
+    second: snowlady_25
+  - first:
+      213: -4083634502639405681
+    second: snowlady_26
+  - first:
+      213: 1975839095701851278
+    second: snowlady_27
+  - first:
+      213: -4081453104574861790
+    second: snowlady_28
+  - first:
+      213: 6194129595831268904
+    second: snowlady_29
+  - first:
+      213: 5434860812185609328
+    second: snowlady_30
+  - first:
+      213: -2933645022607258909
+    second: snowlady_31
+  - first:
+      213: 3494143613347791419
+    second: snowlady_32
+  - first:
+      213: 790764661592658355
+    second: snowlady_33
+  - first:
+      213: -8982600538551656864
+    second: snowlady_34
+  - first:
+      213: 4610968471079308795
+    second: snowlady_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snowlady_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 387
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b75eade3131fe870800000000000000
+      internalID: 8714204780298131382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 387
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab0a491f6f01860800000000000000
+      internalID: 7498764897012988481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 387
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8710638192e745e0800000000000000
+      internalID: -1925321201075349617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 387
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b172303923bfbff0800000000000000
+      internalID: -18098884002549320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 348
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d47a9d4aa44ea10800000000000000
+      internalID: 1937755811562868039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 349
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f6f28b337efbe0800000000000000
+      internalID: -1441588131274493803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 350
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01584d22c339f9e50800000000000000
+      internalID: 6818330247353894160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 348
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ca0ed9e6fdfea90800000000000000
+      internalID: -7282356406246659023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 349
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38491263e87cb0bb0800000000000000
+      internalID: -4968658350265756541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 350
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6d8a52c679dbbd0800000000000000
+      internalID: -2612765718060935481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 297
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790b298736c61960800000000000000
+      internalID: 7572457765296867697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 298
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc9d002dd8b56f90800000000000000
+      internalID: -6960954389166187273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 243
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44979ad049ddd510800000000000000
+      internalID: 1575654317218042956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 243
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f427ae65b571c59c0800000000000000
+      internalID: -3937246293160988081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 243
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91086b29ddc5d3a0800000000000000
+      internalID: -6641175742868094566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 243
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756d22c00e5127eb0800000000000000
+      internalID: -4723689007137761705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1446d28e630e38ed0800000000000000
+      internalID: -2412838448912309183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 201
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec83f9fcc43bd610800000000000000
+      internalID: 1646968143705509103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 202
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36f3685e45341b0800000000000000
+      internalID: -5673597760780147734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 200
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e88c1bd1421dec0800000000000000
+      internalID: -3544011721808507280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 201
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210512f11046e9920800000000000000
+      internalID: 2998944357855350802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 202
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d234aa889b307d290800000000000000
+      internalID: -7865814128782589139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 153
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b041a960ac989a00800000000000000
+      internalID: 763532349620175028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 154
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fd4299fc7862450800000000000000
+      internalID: 6063683273998262146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 99
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ef54089d8296c80800000000000000
+      internalID: -8329081121219936690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 99
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd37123cd0c55400800000000000000
+      internalID: 312367801137839602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8536ad4e040457c0800000000000000
+      internalID: -4083634502639405681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 99
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c43a860379b6b10800000000000000
+      internalID: 1975839095701851278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e666e9604cb57c0800000000000000
+      internalID: -4081453104574861790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 59
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826b14cac08f5f550800000000000000
+      internalID: 6194129595831268904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 60
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074a3021d118c6b40800000000000000
+      internalID: 5434860812185609328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 57
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eac66225699947d0800000000000000
+      internalID: -2933645022607258909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 59
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b328bc38a11bd7030800000000000000
+      internalID: 3494143613347791419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 60
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b19923254c59fa00800000000000000
+      internalID: 790764661592658355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e556ce664675380800000000000000
+      internalID: -8982600538551656864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowlady_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd453df4637dff30800000000000000
+      internalID: 4610968471079308795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snowlady_0: 8714204780298131382
+      snowlady_1: 7498764897012988481
+      snowlady_10: 7572457765296867697
+      snowlady_11: -6960954389166187273
+      snowlady_12: 1575654317218042956
+      snowlady_13: -3937246293160988081
+      snowlady_14: -6641175742868094566
+      snowlady_15: -4723689007137761705
+      snowlady_16: -2412838448912309183
+      snowlady_17: 1646968143705509103
+      snowlady_18: -5673597760780147734
+      snowlady_19: -3544011721808507280
+      snowlady_2: -1925321201075349617
+      snowlady_20: 2998944357855350802
+      snowlady_21: -7865814128782589139
+      snowlady_22: 763532349620175028
+      snowlady_23: 6063683273998262146
+      snowlady_24: -8329081121219936690
+      snowlady_25: 312367801137839602
+      snowlady_26: -4083634502639405681
+      snowlady_27: 1975839095701851278
+      snowlady_28: -4081453104574861790
+      snowlady_29: 6194129595831268904
+      snowlady_3: -18098884002549320
+      snowlady_30: 5434860812185609328
+      snowlady_31: -2933645022607258909
+      snowlady_32: 3494143613347791419
+      snowlady_33: 790764661592658355
+      snowlady_34: -8982600538551656864
+      snowlady_35: 4610968471079308795
+      snowlady_4: 1937755811562868039
+      snowlady_5: -1441588131274493803
+      snowlady_6: 6818330247353894160
+      snowlady_7: -7282356406246659023
+      snowlady_8: -4968658350265756541
+      snowlady_9: -2612765718060935481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

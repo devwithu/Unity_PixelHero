@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 919a1ed4213060a4897ee9b96f58dfbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4692794763965786697
+    second: earthworm_0
+  - first:
+      213: 5405484541838838122
+    second: earthworm_1
+  - first:
+      213: 685855823514558076
+    second: earthworm_2
+  - first:
+      213: -6583083108089204154
+    second: earthworm_3
+  - first:
+      213: 4708745989598527295
+    second: earthworm_4
+  - first:
+      213: 6558809922503725124
+    second: earthworm_5
+  - first:
+      213: -8039786774731443792
+    second: earthworm_6
+  - first:
+      213: -3244155595771136682
+    second: earthworm_7
+  - first:
+      213: -5948378660499657568
+    second: earthworm_8
+  - first:
+      213: -1994034398665013082
+    second: earthworm_9
+  - first:
+      213: -1428138509515907853
+    second: earthworm_10
+  - first:
+      213: 1680167497059354196
+    second: earthworm_11
+  - first:
+      213: -1713502561347985771
+    second: earthworm_12
+  - first:
+      213: -4493592421003096229
+    second: earthworm_13
+  - first:
+      213: -5531281214575969741
+    second: earthworm_14
+  - first:
+      213: -8841307420926568348
+    second: earthworm_15
+  - first:
+      213: 8809628423838190522
+    second: earthworm_16
+  - first:
+      213: 8305541281279326649
+    second: earthworm_17
+  - first:
+      213: -608135578546142982
+    second: earthworm_18
+  - first:
+      213: -3628807317300599987
+    second: earthworm_19
+  - first:
+      213: -6595754749356115525
+    second: earthworm_20
+  - first:
+      213: -2744634021115450961
+    second: earthworm_21
+  - first:
+      213: 9213490309044456494
+    second: earthworm_22
+  - first:
+      213: 4215800166383409341
+    second: earthworm_23
+  - first:
+      213: 9079494022358859065
+    second: earthworm_24
+  - first:
+      213: 4387558425918298580
+    second: earthworm_25
+  - first:
+      213: -2056474700940137052
+    second: earthworm_26
+  - first:
+      213: 2958026294342541070
+    second: earthworm_27
+  - first:
+      213: 682884899543470204
+    second: earthworm_28
+  - first:
+      213: 6327582508784306058
+    second: earthworm_29
+  - first:
+      213: 575659709016407179
+    second: earthworm_30
+  - first:
+      213: -3641505008694906355
+    second: earthworm_31
+  - first:
+      213: 8464938602509257422
+    second: earthworm_32
+  - first:
+      213: 4669825267778061828
+    second: earthworm_33
+  - first:
+      213: -4365687961076479905
+    second: earthworm_34
+  - first:
+      213: -3305760781069323275
+    second: earthworm_35
+  - first:
+      213: 1861141217295048802
+    second: earthworm_36
+  - first:
+      213: 5451711916520757048
+    second: earthworm_37
+  - first:
+      213: 743460918436981310
+    second: earthworm_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earthworm_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 396
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6efd69f7202140800000000000000
+      internalID: 4692794763965786697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 394
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a694b232d83240b40800000000000000
+      internalID: 5405484541838838122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 397
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ed7b7dc36a48900800000000000000
+      internalID: 685855823514558076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 397
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642f777bac034a4a0800000000000000
+      internalID: -6583083108089204154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 391
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fb09f8783d85140800000000000000
+      internalID: 4708745989598527295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 397
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440542cdfd2950b50800000000000000
+      internalID: 6558809922503725124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 348
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1bf366680fc6090800000000000000
+      internalID: -8039786774731443792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 348
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65537f58ca17af2d0800000000000000
+      internalID: -3244155595771136682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 348
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac6767cf1d137da0800000000000000
+      internalID: -5948378660499657568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 348
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a889ad7744c354e0800000000000000
+      internalID: -1994034398665013082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 299
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc9f3a979b3e2ce0800000000000000
+      internalID: -1428138509515907853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 299
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564169cf67215710800000000000000
+      internalID: 1680167497059354196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 299
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e912dbf7a6838e0800000000000000
+      internalID: -1713502561347985771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 248
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f09bc408d83a1c0800000000000000
+      internalID: -4493592421003096229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a78649a01fc33b0800000000000000
+      internalID: -5531281214575969741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 248
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46895a17ebd5d4580800000000000000
+      internalID: -8841307420926568348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 249
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb4f064066124a70800000000000000
+      internalID: 8809628423838190522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b93ff96ac5334370800000000000000
+      internalID: 8305541281279326649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 245
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af00b71d9e77f87f0800000000000000
+      internalID: -608135578546142982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 198
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43a5fd98f2e3adc0800000000000000
+      internalID: -3628807317300599987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 198
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97803500c2774a0800000000000000
+      internalID: -6595754749356115525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 198
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa926f446e919e9d0800000000000000
+      internalID: -2744634021115450961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c4914fe94ecdf70800000000000000
+      internalID: 9213490309044456494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d0514ae7818a30800000000000000
+      internalID: 4215800166383409341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d7bf645b7d00e70800000000000000
+      internalID: 9079494022358859065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9d120642db3ec30800000000000000
+      internalID: 4387558425918298580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ada2e8b72fe573e0800000000000000
+      internalID: -2056474700940137052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 105
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f5d8e0e350d0920800000000000000
+      internalID: 2958026294342541070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 105
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7054c3b2381a7900800000000000000
+      internalID: 682884899543470204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 105
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87401b44c610d750800000000000000
+      internalID: 6327582508784306058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7d6394772df700800000000000000
+      internalID: 575659709016407179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 105
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023fe4fc76c67dc0800000000000000
+      internalID: -3641505008694906355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca4e005fc0897570800000000000000
+      internalID: 8464938602509257422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 56
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4060e09d65d8ec040800000000000000
+      internalID: 4669825267778061828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5846d70ee5f963c0800000000000000
+      internalID: -4365687961076479905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 56
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f1f395149f12d0800000000000000
+      internalID: -3305760781069323275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260a5bd831a14d910800000000000000
+      internalID: 1861141217295048802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837dbf98a1f58ab40800000000000000
+      internalID: 5451711916520757048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthworm_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a62db24cd415a00800000000000000
+      internalID: 743460918436981310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      earthworm_0: 4692794763965786697
+      earthworm_1: 5405484541838838122
+      earthworm_10: -1428138509515907853
+      earthworm_11: 1680167497059354196
+      earthworm_12: -1713502561347985771
+      earthworm_13: -4493592421003096229
+      earthworm_14: -5531281214575969741
+      earthworm_15: -8841307420926568348
+      earthworm_16: 8809628423838190522
+      earthworm_17: 8305541281279326649
+      earthworm_18: -608135578546142982
+      earthworm_19: -3628807317300599987
+      earthworm_2: 685855823514558076
+      earthworm_20: -6595754749356115525
+      earthworm_21: -2744634021115450961
+      earthworm_22: 9213490309044456494
+      earthworm_23: 4215800166383409341
+      earthworm_24: 9079494022358859065
+      earthworm_25: 4387558425918298580
+      earthworm_26: -2056474700940137052
+      earthworm_27: 2958026294342541070
+      earthworm_28: 682884899543470204
+      earthworm_29: 6327582508784306058
+      earthworm_3: -6583083108089204154
+      earthworm_30: 575659709016407179
+      earthworm_31: -3641505008694906355
+      earthworm_32: 8464938602509257422
+      earthworm_33: 4669825267778061828
+      earthworm_34: -4365687961076479905
+      earthworm_35: -3305760781069323275
+      earthworm_36: 1861141217295048802
+      earthworm_37: 5451711916520757048
+      earthworm_38: 743460918436981310
+      earthworm_4: 4708745989598527295
+      earthworm_5: 6558809922503725124
+      earthworm_6: -8039786774731443792
+      earthworm_7: -3244155595771136682
+      earthworm_8: -5948378660499657568
+      earthworm_9: -1994034398665013082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

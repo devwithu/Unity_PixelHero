@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 54415d7b1b700df4580b8e638a5e916f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6399073295119020907
+    second: bronzeaxe_0
+  - first:
+      213: 6530927038800714549
+    second: bronzeaxe_1
+  - first:
+      213: 5034639236471671770
+    second: bronzeaxe_2
+  - first:
+      213: 3874741139391566409
+    second: bronzeaxe_3
+  - first:
+      213: 9059620366316683537
+    second: bronzeaxe_4
+  - first:
+      213: 3687395108813049192
+    second: bronzeaxe_5
+  - first:
+      213: 8116701603224048157
+    second: bronzeaxe_6
+  - first:
+      213: -6119653522112039978
+    second: bronzeaxe_7
+  - first:
+      213: 85336908771493488
+    second: bronzeaxe_8
+  - first:
+      213: -4663310632999618052
+    second: bronzeaxe_9
+  - first:
+      213: 5782523777599770006
+    second: bronzeaxe_10
+  - first:
+      213: 2668423689433866481
+    second: bronzeaxe_11
+  - first:
+      213: 2045505932233460222
+    second: bronzeaxe_12
+  - first:
+      213: 5189055342102819952
+    second: bronzeaxe_13
+  - first:
+      213: 5818123757966157266
+    second: bronzeaxe_14
+  - first:
+      213: 2028193810212974431
+    second: bronzeaxe_15
+  - first:
+      213: -4231610889042366690
+    second: bronzeaxe_16
+  - first:
+      213: 5590963312223813475
+    second: bronzeaxe_17
+  - first:
+      213: -6301596929127997493
+    second: bronzeaxe_18
+  - first:
+      213: 2684120545337125906
+    second: bronzeaxe_19
+  - first:
+      213: -6102402634833874730
+    second: bronzeaxe_20
+  - first:
+      213: -2205802640862151165
+    second: bronzeaxe_21
+  - first:
+      213: -100108768520942984
+    second: bronzeaxe_22
+  - first:
+      213: -5485618097276978049
+    second: bronzeaxe_23
+  - first:
+      213: -1729329686341484754
+    second: bronzeaxe_24
+  - first:
+      213: -7111190522222891866
+    second: bronzeaxe_25
+  - first:
+      213: 2744738773765894822
+    second: bronzeaxe_26
+  - first:
+      213: 7081893887447563753
+    second: bronzeaxe_27
+  - first:
+      213: 2822945003619078236
+    second: bronzeaxe_28
+  - first:
+      213: 7751982723882898488
+    second: bronzeaxe_29
+  - first:
+      213: 604877559640013918
+    second: bronzeaxe_30
+  - first:
+      213: -2629243379829638970
+    second: bronzeaxe_31
+  - first:
+      213: 9097912628411117865
+    second: bronzeaxe_32
+  - first:
+      213: -7851939635385499194
+    second: bronzeaxe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bronzeaxe_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 397
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c0eb8edbce137a0800000000000000
+      internalID: -6399073295119020907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 396
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bd5b91a8382aa50800000000000000
+      internalID: 6530927038800714549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 396
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb432ef5b1aed540800000000000000
+      internalID: 5034639236471671770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 397
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942d60a7988d5c530800000000000000
+      internalID: 3874741139391566409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 349
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111433629bc3abd70800000000000000
+      internalID: 9059620366316683537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 348
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d805790524c2330800000000000000
+      internalID: 3687395108813049192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 348
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125300aa1154a070800000000000000
+      internalID: 8116701603224048157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33b028b8f921ba0800000000000000
+      internalID: -6119653522112039978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0760e85677d2f2100800000000000000
+      internalID: 85336908771493488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf971c2cfa7984fb0800000000000000
+      internalID: -4663310632999618052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d85151db6af3050800000000000000
+      internalID: 5782523777599770006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 301
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f061f62535280520800000000000000
+      internalID: 2668423689433866481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 252
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9cabccec8136c10800000000000000
+      internalID: 2045505932233460222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b1e1475a330840800000000000000
+      internalID: 5189055342102819952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d565dc6bb02eb050800000000000000
+      internalID: 5818123757966157266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 253
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fe3694687952c10800000000000000
+      internalID: 2028193810212974431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f64f2015c4645c0800000000000000
+      internalID: -4231610889042366690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f7751a287179d40800000000000000
+      internalID: 5590963312223813475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf12a1fafa3c88a0800000000000000
+      internalID: -6301596929127997493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 205
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ca5273a69ef3520800000000000000
+      internalID: 2684120545337125906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b152b229ef4ba0800000000000000
+      internalID: -6102402634833874730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30efaca5f2a6361e0800000000000000
+      internalID: -2205802640862151165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a486dfa975c9ef0800000000000000
+      internalID: -100108768520942984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf952976b2fd3b0800000000000000
+      internalID: -5485618097276978049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ff31a00df2008e0800000000000000
+      internalID: -1729329686341484754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca7c095e9ff4d90800000000000000
+      internalID: -7111190522222891866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2be8b5f55471620800000000000000
+      internalID: 2744738773765894822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 101
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed725a18f0f74260800000000000000
+      internalID: 7081893887447563753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50dd21368d1d2720800000000000000
+      internalID: 2822945003619078236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83451023733949b60800000000000000
+      internalID: 7751982723882898488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cb2fa8fe4f46800800000000000000
+      internalID: 604877559640013918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8f43d831d038bd0800000000000000
+      internalID: -2629243379829638970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9213cfd2557424e70800000000000000
+      internalID: 9097912628411117865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronzeaxe_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 15
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c18903c08e480390800000000000000
+      internalID: -7851939635385499194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bronzeaxe_0: -6399073295119020907
+      bronzeaxe_1: 6530927038800714549
+      bronzeaxe_10: 5782523777599770006
+      bronzeaxe_11: 2668423689433866481
+      bronzeaxe_12: 2045505932233460222
+      bronzeaxe_13: 5189055342102819952
+      bronzeaxe_14: 5818123757966157266
+      bronzeaxe_15: 2028193810212974431
+      bronzeaxe_16: -4231610889042366690
+      bronzeaxe_17: 5590963312223813475
+      bronzeaxe_18: -6301596929127997493
+      bronzeaxe_19: 2684120545337125906
+      bronzeaxe_2: 5034639236471671770
+      bronzeaxe_20: -6102402634833874730
+      bronzeaxe_21: -2205802640862151165
+      bronzeaxe_22: -100108768520942984
+      bronzeaxe_23: -5485618097276978049
+      bronzeaxe_24: -1729329686341484754
+      bronzeaxe_25: -7111190522222891866
+      bronzeaxe_26: 2744738773765894822
+      bronzeaxe_27: 7081893887447563753
+      bronzeaxe_28: 2822945003619078236
+      bronzeaxe_29: 7751982723882898488
+      bronzeaxe_3: 3874741139391566409
+      bronzeaxe_30: 604877559640013918
+      bronzeaxe_31: -2629243379829638970
+      bronzeaxe_32: 9097912628411117865
+      bronzeaxe_33: -7851939635385499194
+      bronzeaxe_4: 9059620366316683537
+      bronzeaxe_5: 3687395108813049192
+      bronzeaxe_6: 8116701603224048157
+      bronzeaxe_7: -6119653522112039978
+      bronzeaxe_8: 85336908771493488
+      bronzeaxe_9: -4663310632999618052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

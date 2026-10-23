@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 7f9ad74037c9d884b8f6628461869fdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5620084968951092430
+    second: soldierant_0
+  - first:
+      213: 3380099157070399634
+    second: soldierant_1
+  - first:
+      213: -6143541740252637181
+    second: soldierant_2
+  - first:
+      213: -7481778522685318789
+    second: soldierant_3
+  - first:
+      213: 447559604609894641
+    second: soldierant_4
+  - first:
+      213: 7388310381710711327
+    second: soldierant_5
+  - first:
+      213: -2869436763368402846
+    second: soldierant_6
+  - first:
+      213: -6339215536197321260
+    second: soldierant_7
+  - first:
+      213: 4860136377242825335
+    second: soldierant_8
+  - first:
+      213: 2647663982555373724
+    second: soldierant_9
+  - first:
+      213: -6063863077115807421
+    second: soldierant_10
+  - first:
+      213: 651074080175733935
+    second: soldierant_11
+  - first:
+      213: 5891319069624928620
+    second: soldierant_12
+  - first:
+      213: 7311319309977921224
+    second: soldierant_13
+  - first:
+      213: -8138904461990743217
+    second: soldierant_14
+  - first:
+      213: 2716821775826030726
+    second: soldierant_15
+  - first:
+      213: -7187208343678582811
+    second: soldierant_16
+  - first:
+      213: -3052718741129454371
+    second: soldierant_17
+  - first:
+      213: 7672028298424002267
+    second: soldierant_18
+  - first:
+      213: -2197631507021964826
+    second: soldierant_19
+  - first:
+      213: -1010474950600184114
+    second: soldierant_20
+  - first:
+      213: -1972898151760195413
+    second: soldierant_21
+  - first:
+      213: -233391496045033236
+    second: soldierant_22
+  - first:
+      213: 7743063266241256513
+    second: soldierant_23
+  - first:
+      213: -1259647187929533813
+    second: soldierant_24
+  - first:
+      213: -8808258866389540067
+    second: soldierant_25
+  - first:
+      213: -2269755230288533523
+    second: soldierant_26
+  - first:
+      213: 8475811802632094947
+    second: soldierant_27
+  - first:
+      213: -3752430801565038194
+    second: soldierant_28
+  - first:
+      213: -5106299243924916954
+    second: soldierant_29
+  - first:
+      213: 2882620664812094363
+    second: soldierant_30
+  - first:
+      213: 2332677952928814913
+    second: soldierant_31
+  - first:
+      213: 1922512250069197076
+    second: soldierant_32
+  - first:
+      213: 8562751163190614388
+    second: soldierant_33
+  - first:
+      213: -9175185884159312195
+    second: soldierant_34
+  - first:
+      213: 92877792974050420
+    second: soldierant_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldierant_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 387
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b682a4f727102b0800000000000000
+      internalID: -5620084968951092430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 385
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29847ca564688ee20800000000000000
+      internalID: 3380099157070399634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 385
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d47d4651cdbaa0800000000000000
+      internalID: -6143541740252637181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79d133e2126b2890800000000000000
+      internalID: -7481778522685318789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 340
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f84690d61d063600800000000000000
+      internalID: 447559604609894641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 341
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9230b52d888660800000000000000
+      internalID: 7388310381710711327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 342
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260daf57776bd28d0800000000000000
+      internalID: -2869436763368402846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 340
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd32527e059608a0800000000000000
+      internalID: -6339215536197321260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 341
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723385f84ca27340800000000000000
+      internalID: 4860136377242825335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 342
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c902fcc3d546eb420800000000000000
+      internalID: 2647663982555373724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 294
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349b7e9b8a4d8dba0800000000000000
+      internalID: -6063863077115807421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 294
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facb6572d64190900800000000000000
+      internalID: 651074080175733935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 243
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c698a73fa7b22c150800000000000000
+      internalID: 5891319069624928620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 242
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c620b6ec26077560800000000000000
+      internalID: 7311319309977921224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 242
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43333a738dcc0f80800000000000000
+      internalID: -8138904461990743217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 243
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6801822c20714b520800000000000000
+      internalID: 2716821775826030726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 198
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef70544718e14c90800000000000000
+      internalID: -7187208343678582811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 199
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc1dcb9a7092a5d0800000000000000
+      internalID: -3052718741129454371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 199
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6ae4ad615887a60800000000000000
+      internalID: 7672028298424002267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 198
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9dfb4b9c17081e0800000000000000
+      internalID: -2197631507021964826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 199
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceab0bd2621af1f0800000000000000
+      internalID: -1010474950600184114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 199
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba01f46759bde94e0800000000000000
+      internalID: -1972898151760195413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 150
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce883a0cba3d2ccf0800000000000000
+      internalID: -233391496045033236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c9fa12403e47b60800000000000000
+      internalID: 7743063266241256513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82f3257e85d48ee0800000000000000
+      internalID: -1259647187929533813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 98
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13aa2baa37c2c580800000000000000
+      internalID: -8808258866389540067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7219bc4a53080e0800000000000000
+      internalID: -2269755230288533523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 99
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e403fe7de120a570800000000000000
+      internalID: 8475811802632094947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 54
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e894b743110bcebc0800000000000000
+      internalID: -3752430801565038194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 51
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625720954e7c229b0800000000000000
+      internalID: -5106299243924916954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93435cc830210820800000000000000
+      internalID: 2882620664812094363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 54
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14715b73d365f5020800000000000000
+      internalID: 2332677952928814913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 51
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41126bd94b22eaa10800000000000000
+      internalID: 1922512250069197076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_33
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 52
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791a06c0d005d670800000000000000
+      internalID: 8562751163190614388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe7182fc013ba080800000000000000
+      internalID: -9175185884159312195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldierant_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4749db15cd7f94100800000000000000
+      internalID: 92877792974050420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soldierant_0: -5620084968951092430
+      soldierant_1: 3380099157070399634
+      soldierant_10: -6063863077115807421
+      soldierant_11: 651074080175733935
+      soldierant_12: 5891319069624928620
+      soldierant_13: 7311319309977921224
+      soldierant_14: -8138904461990743217
+      soldierant_15: 2716821775826030726
+      soldierant_16: -7187208343678582811
+      soldierant_17: -3052718741129454371
+      soldierant_18: 7672028298424002267
+      soldierant_19: -2197631507021964826
+      soldierant_2: -6143541740252637181
+      soldierant_20: -1010474950600184114
+      soldierant_21: -1972898151760195413
+      soldierant_22: -233391496045033236
+      soldierant_23: 7743063266241256513
+      soldierant_24: -1259647187929533813
+      soldierant_25: -8808258866389540067
+      soldierant_26: -2269755230288533523
+      soldierant_27: 8475811802632094947
+      soldierant_28: -3752430801565038194
+      soldierant_29: -5106299243924916954
+      soldierant_3: -7481778522685318789
+      soldierant_30: 2882620664812094363
+      soldierant_31: 2332677952928814913
+      soldierant_32: 1922512250069197076
+      soldierant_33: 8562751163190614388
+      soldierant_34: -9175185884159312195
+      soldierant_35: 92877792974050420
+      soldierant_4: 447559604609894641
+      soldierant_5: 7388310381710711327
+      soldierant_6: -2869436763368402846
+      soldierant_7: -6339215536197321260
+      soldierant_8: 4860136377242825335
+      soldierant_9: 2647663982555373724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

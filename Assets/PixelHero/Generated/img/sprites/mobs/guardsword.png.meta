@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 9fc05940f8490f64391eb347f8e4a026
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7943536858066807901
+    second: guardsword_0
+  - first:
+      213: -9084648913596221318
+    second: guardsword_1
+  - first:
+      213: 5486576594129543454
+    second: guardsword_2
+  - first:
+      213: 5791969625407359911
+    second: guardsword_3
+  - first:
+      213: 3360832986011789983
+    second: guardsword_4
+  - first:
+      213: 5617856633985519172
+    second: guardsword_5
+  - first:
+      213: 6624175490107717578
+    second: guardsword_6
+  - first:
+      213: -1242424273533350014
+    second: guardsword_7
+  - first:
+      213: -677696378110341460
+    second: guardsword_8
+  - first:
+      213: -741372427860961209
+    second: guardsword_9
+  - first:
+      213: -349493706273539170
+    second: guardsword_10
+  - first:
+      213: -230783065931243818
+    second: guardsword_11
+  - first:
+      213: 7890119227057831557
+    second: guardsword_12
+  - first:
+      213: -745250861451991685
+    second: guardsword_13
+  - first:
+      213: 7196311814541694471
+    second: guardsword_14
+  - first:
+      213: 4118443712387393016
+    second: guardsword_15
+  - first:
+      213: 3103151122214467966
+    second: guardsword_16
+  - first:
+      213: 7835457751702942583
+    second: guardsword_17
+  - first:
+      213: -5766836008762100342
+    second: guardsword_18
+  - first:
+      213: -8451549551407450559
+    second: guardsword_19
+  - first:
+      213: 2348339613787294157
+    second: guardsword_20
+  - first:
+      213: -690892578258228212
+    second: guardsword_21
+  - first:
+      213: 7822084976838043294
+    second: guardsword_22
+  - first:
+      213: 8230313588323058213
+    second: guardsword_23
+  - first:
+      213: 981432975452677972
+    second: guardsword_24
+  - first:
+      213: 6963494279621955682
+    second: guardsword_25
+  - first:
+      213: -4597551439048381260
+    second: guardsword_26
+  - first:
+      213: 5706314591186482727
+    second: guardsword_27
+  - first:
+      213: -3871089220370324431
+    second: guardsword_28
+  - first:
+      213: -4851059715651376502
+    second: guardsword_29
+  - first:
+      213: -7665383535301626868
+    second: guardsword_30
+  - first:
+      213: -4656603874977344846
+    second: guardsword_31
+  - first:
+      213: 5673064352461690185
+    second: guardsword_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guardsword_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a394b27053e2c190800000000000000
+      internalID: -7943536858066807901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7875f312f7dce180800000000000000
+      internalID: -9084648913596221318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 260
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11601ed75c342c40800000000000000
+      internalID: 5486576594129543454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab0248efa5316050800000000000000
+      internalID: 5791969625407359911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 255
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae5a85bc314ae20800000000000000
+      internalID: 3360832986011789983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e47cb08d2a6fd40800000000000000
+      internalID: 5617856633985519172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac738b9038ccdeb50800000000000000
+      internalID: 6624175490107717578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fc8b3b4b502cee0800000000000000
+      internalID: -1242424273533350014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 229
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae0a251cb65896f0800000000000000
+      internalID: -677696378110341460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 196
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748141f64bd16b5f0800000000000000
+      internalID: -741372427860961209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 196
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bb45a6359562bf0800000000000000
+      internalID: -349493706273539170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de1ef636081cccf0800000000000000
+      internalID: -230783065931243818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 166
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ef24422a55f7d60800000000000000
+      internalID: 7890119227057831557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 165
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a99e3a4658a5f0800000000000000
+      internalID: -745250861451991685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70654b6b77f6ed360800000000000000
+      internalID: 7196311814541694471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 166
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5aa486cb6a72930800000000000000
+      internalID: 4118443712387393016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79b2f3218b901b20800000000000000
+      internalID: 3103151122214467966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773b5d6af432dbc60800000000000000
+      internalID: 7835457751702942583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85bdcb343518ffa0800000000000000
+      internalID: -5766836008762100342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 134
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1463fb2167016ba80800000000000000
+      internalID: -8451549551407450559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc905cbcf6af69020800000000000000
+      internalID: 2348339613787294157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ce6fe4cd47966f0800000000000000
+      internalID: -690892578258228212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96e95fd7d0ad8c60800000000000000
+      internalID: 7822084976838043294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522011e3a92f73270800000000000000
+      internalID: 8230313588323058213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 62
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45726b06710ce9d00800000000000000
+      internalID: 981432975452677972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 62
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260d454372d43a060800000000000000
+      internalID: 6963494279621955682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 66
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc6fe633573230c0800000000000000
+      internalID: -4597551439048381260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7267c4823e6e03f40800000000000000
+      internalID: 5706314591186482727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134abfd2dd0274ac0800000000000000
+      internalID: -3871089220370324431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a646004e29dacb0800000000000000
+      internalID: -4851059715651376502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04f73f99461f9590800000000000000
+      internalID: -7665383535301626868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2944c827b606fb0800000000000000
+      internalID: -4656603874977344846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardsword_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945196ca8f5cabe40800000000000000
+      internalID: 5673064352461690185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      guardsword_0: -7943536858066807901
+      guardsword_1: -9084648913596221318
+      guardsword_10: -349493706273539170
+      guardsword_11: -230783065931243818
+      guardsword_12: 7890119227057831557
+      guardsword_13: -745250861451991685
+      guardsword_14: 7196311814541694471
+      guardsword_15: 4118443712387393016
+      guardsword_16: 3103151122214467966
+      guardsword_17: 7835457751702942583
+      guardsword_18: -5766836008762100342
+      guardsword_19: -8451549551407450559
+      guardsword_2: 5486576594129543454
+      guardsword_20: 2348339613787294157
+      guardsword_21: -690892578258228212
+      guardsword_22: 7822084976838043294
+      guardsword_23: 8230313588323058213
+      guardsword_24: 981432975452677972
+      guardsword_25: 6963494279621955682
+      guardsword_26: -4597551439048381260
+      guardsword_27: 5706314591186482727
+      guardsword_28: -3871089220370324431
+      guardsword_29: -4851059715651376502
+      guardsword_3: 5791969625407359911
+      guardsword_30: -7665383535301626868
+      guardsword_31: -4656603874977344846
+      guardsword_32: 5673064352461690185
+      guardsword_4: 3360832986011789983
+      guardsword_5: 5617856633985519172
+      guardsword_6: 6624175490107717578
+      guardsword_7: -1242424273533350014
+      guardsword_8: -677696378110341460
+      guardsword_9: -741372427860961209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

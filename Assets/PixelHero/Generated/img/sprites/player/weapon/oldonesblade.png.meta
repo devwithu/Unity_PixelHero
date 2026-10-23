@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 7c51d356844c82e4bbb13cd812c4fffe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 46600577427072130
+    second: oldonesblade_0
+  - first:
+      213: -5036344384498260827
+    second: oldonesblade_1
+  - first:
+      213: -8613653209010218505
+    second: oldonesblade_2
+  - first:
+      213: -6843629370362166810
+    second: oldonesblade_3
+  - first:
+      213: -3688046480364527835
+    second: oldonesblade_4
+  - first:
+      213: 6054047183071484866
+    second: oldonesblade_5
+  - first:
+      213: -6404673392126973041
+    second: oldonesblade_6
+  - first:
+      213: -7982588632214117999
+    second: oldonesblade_7
+  - first:
+      213: -4022801755089320488
+    second: oldonesblade_8
+  - first:
+      213: 157879827280571494
+    second: oldonesblade_9
+  - first:
+      213: 4889235634479838101
+    second: oldonesblade_10
+  - first:
+      213: 8835447361231913816
+    second: oldonesblade_11
+  - first:
+      213: 8821932096984300706
+    second: oldonesblade_12
+  - first:
+      213: -2195278598144027920
+    second: oldonesblade_13
+  - first:
+      213: -6628999146013526861
+    second: oldonesblade_14
+  - first:
+      213: -4563851351921996629
+    second: oldonesblade_15
+  - first:
+      213: 3765098645058449190
+    second: oldonesblade_16
+  - first:
+      213: -5364929056647150948
+    second: oldonesblade_17
+  - first:
+      213: 1078471811332220071
+    second: oldonesblade_18
+  - first:
+      213: -1653718818526251517
+    second: oldonesblade_19
+  - first:
+      213: -7525194725306193971
+    second: oldonesblade_20
+  - first:
+      213: 295918508584099274
+    second: oldonesblade_21
+  - first:
+      213: 5981857523443269152
+    second: oldonesblade_22
+  - first:
+      213: 1395039734931174221
+    second: oldonesblade_23
+  - first:
+      213: 5824996732757335488
+    second: oldonesblade_24
+  - first:
+      213: -1202709474689919560
+    second: oldonesblade_25
+  - first:
+      213: 4707793032828792576
+    second: oldonesblade_26
+  - first:
+      213: -3118334797275962952
+    second: oldonesblade_27
+  - first:
+      213: 33812337192267642
+    second: oldonesblade_28
+  - first:
+      213: 2747863096121090938
+    second: oldonesblade_29
+  - first:
+      213: 4664154313503775329
+    second: oldonesblade_30
+  - first:
+      213: -311472351809607761
+    second: oldonesblade_31
+  - first:
+      213: -4625555378758487037
+    second: oldonesblade_32
+  - first:
+      213: -3101326616731346799
+    second: oldonesblade_33
+  - first:
+      213: -2521182280643698140
+    second: oldonesblade_34
+  - first:
+      213: 2811492646234133190
+    second: oldonesblade_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oldonesblade_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2846edf6afe85a000800000000000000
+      internalID: 46600577427072130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 723
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4a27b477f4b1ab0800000000000000
+      internalID: -5036344384498260827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 723
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9da822b08267880800000000000000
+      internalID: -8613653209010218505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10225c85b8601a0800000000000000
+      internalID: -6843629370362166810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 660
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f1eb6244d61dcc0800000000000000
+      internalID: -3688046480364527835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 659
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb1e6856db440450800000000000000
+      internalID: 6054047183071484866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 659
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b20e7bb770e17a0800000000000000
+      internalID: -6404673392126973041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 660
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1916eccbee5283190800000000000000
+      internalID: -7982588632214117999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 597
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d545121e132c28c0800000000000000
+      internalID: -4022801755089320488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 596
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c224ecdd6e03200800000000000000
+      internalID: 157879827280571494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 596
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5933a50c7ed0ad340800000000000000
+      internalID: 4889235634479838101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 597
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85304e51090dd9a70800000000000000
+      internalID: 8835447361231913816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 531
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acbd59608ccd6a70800000000000000
+      internalID: 8821932096984300706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f29b9efebdc881e0800000000000000
+      internalID: -2195278598144027920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 531
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4fe7d06601104a0800000000000000
+      internalID: -6628999146013526861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacc0013061f9a0c0800000000000000
+      internalID: -4563851351921996629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f6303f441504430800000000000000
+      internalID: 3765098645058449190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9200659271fb85b0800000000000000
+      internalID: -5364929056647150948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4aabef56087fe00800000000000000
+      internalID: 1078471811332220071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3063d5f0f7fcc09e0800000000000000
+      internalID: -1653718818526251517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 404
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc72b7c7443219790800000000000000
+      internalID: -7525194725306193971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 405
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5e92d0505b1400800000000000000
+      internalID: 295918508584099274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 404
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e75dd69b3d30350800000000000000
+      internalID: 5981857523443269152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 405
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43b0286f3d2c5310800000000000000
+      internalID: 1395039734931174221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 340
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddfc19aab86d050800000000000000
+      internalID: 5824996732757335488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 342
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b55c11ea1e1f4fe0800000000000000
+      internalID: -1202709474689919560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 321
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fa1d502d0755140800000000000000
+      internalID: 4707793032828792576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b160a5060379b4d0800000000000000
+      internalID: -3118334797275962952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 277
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fee5b3420287000800000000000000
+      internalID: 33812337192267642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 278
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e3b75dee522620800000000000000
+      internalID: 2747863096121090938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 268
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a9ff9e2a76ab040800000000000000
+      internalID: 4664154313503775329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 277
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa76809db8d6dabf0800000000000000
+      internalID: -311472351809607761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 214
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304f338e3e9becfb0800000000000000
+      internalID: -4625555378758487037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1989345afdfd5f4d0800000000000000
+      internalID: -3101326616731346799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4222934d216f20dd0800000000000000
+      internalID: -2521182280643698140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldonesblade_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c298637aad640720800000000000000
+      internalID: 2811492646234133190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      oldonesblade_0: 46600577427072130
+      oldonesblade_1: -5036344384498260827
+      oldonesblade_10: 4889235634479838101
+      oldonesblade_11: 8835447361231913816
+      oldonesblade_12: 8821932096984300706
+      oldonesblade_13: -2195278598144027920
+      oldonesblade_14: -6628999146013526861
+      oldonesblade_15: -4563851351921996629
+      oldonesblade_16: 3765098645058449190
+      oldonesblade_17: -5364929056647150948
+      oldonesblade_18: 1078471811332220071
+      oldonesblade_19: -1653718818526251517
+      oldonesblade_2: -8613653209010218505
+      oldonesblade_20: -7525194725306193971
+      oldonesblade_21: 295918508584099274
+      oldonesblade_22: 5981857523443269152
+      oldonesblade_23: 1395039734931174221
+      oldonesblade_24: 5824996732757335488
+      oldonesblade_25: -1202709474689919560
+      oldonesblade_26: 4707793032828792576
+      oldonesblade_27: -3118334797275962952
+      oldonesblade_28: 33812337192267642
+      oldonesblade_29: 2747863096121090938
+      oldonesblade_3: -6843629370362166810
+      oldonesblade_30: 4664154313503775329
+      oldonesblade_31: -311472351809607761
+      oldonesblade_32: -4625555378758487037
+      oldonesblade_33: -3101326616731346799
+      oldonesblade_34: -2521182280643698140
+      oldonesblade_35: 2811492646234133190
+      oldonesblade_4: -3688046480364527835
+      oldonesblade_5: 6054047183071484866
+      oldonesblade_6: -6404673392126973041
+      oldonesblade_7: -7982588632214117999
+      oldonesblade_8: -4022801755089320488
+      oldonesblade_9: 157879827280571494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

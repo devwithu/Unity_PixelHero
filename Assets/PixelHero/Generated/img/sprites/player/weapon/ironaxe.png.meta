@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 3da9571ef5efcd44fada9e8d6a696f5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1432676864741824004
+    second: ironaxe_0
+  - first:
+      213: -7905291200417760667
+    second: ironaxe_1
+  - first:
+      213: -310308523690475286
+    second: ironaxe_2
+  - first:
+      213: -7091170431546557880
+    second: ironaxe_3
+  - first:
+      213: -5978689037923269636
+    second: ironaxe_4
+  - first:
+      213: -2884025624924248062
+    second: ironaxe_5
+  - first:
+      213: -758345566658778469
+    second: ironaxe_6
+  - first:
+      213: -5769773506933324759
+    second: ironaxe_7
+  - first:
+      213: -2999805634426657120
+    second: ironaxe_8
+  - first:
+      213: 4548040680371777831
+    second: ironaxe_9
+  - first:
+      213: -2534616806682445774
+    second: ironaxe_10
+  - first:
+      213: 6694169258959076832
+    second: ironaxe_11
+  - first:
+      213: -864974138857645904
+    second: ironaxe_12
+  - first:
+      213: -8682511609987225821
+    second: ironaxe_13
+  - first:
+      213: 5766317341053174047
+    second: ironaxe_14
+  - first:
+      213: 308408676943701091
+    second: ironaxe_15
+  - first:
+      213: 3338940219214893945
+    second: ironaxe_16
+  - first:
+      213: 3642824879697255168
+    second: ironaxe_17
+  - first:
+      213: 159661452916210437
+    second: ironaxe_18
+  - first:
+      213: 6568819243356122423
+    second: ironaxe_19
+  - first:
+      213: -7416584142884040071
+    second: ironaxe_20
+  - first:
+      213: -2153467692613492438
+    second: ironaxe_21
+  - first:
+      213: 3802395364808501568
+    second: ironaxe_22
+  - first:
+      213: -902411934703423297
+    second: ironaxe_23
+  - first:
+      213: 2134962809249309492
+    second: ironaxe_24
+  - first:
+      213: -8906718214806709193
+    second: ironaxe_25
+  - first:
+      213: 5754914879833029111
+    second: ironaxe_26
+  - first:
+      213: 5581686951774283014
+    second: ironaxe_27
+  - first:
+      213: -5009639689835074521
+    second: ironaxe_28
+  - first:
+      213: 6482478882731968837
+    second: ironaxe_29
+  - first:
+      213: 502561666456649688
+    second: ironaxe_30
+  - first:
+      213: 2074476270561828413
+    second: ironaxe_31
+  - first:
+      213: 6820188963776619490
+    second: ironaxe_32
+  - first:
+      213: 4597267659703334430
+    second: ironaxe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ironaxe_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 397
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a42f6bfb1e1ce0800000000000000
+      internalID: -1432676864741824004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 396
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af3198983ca4290800000000000000
+      internalID: -7905291200417760667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 396
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae047a2ba0091bbf0800000000000000
+      internalID: -310308523690475286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 397
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84af9e9201a179d90800000000000000
+      internalID: -7091170431546557880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 349
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3cf081ffd670da0800000000000000
+      internalID: -5978689037923269636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 348
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208244f69f1e9f7d0800000000000000
+      internalID: -2884025624924248062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 348
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aaf4a99b0d975f0800000000000000
+      internalID: -758345566658778469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92487c4a095adefa0800000000000000
+      internalID: -5769773506933324759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6a8cc4bac8e56d0800000000000000
+      internalID: -2999805634426657120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f599f6e2ed1f30800000000000000
+      internalID: 4548040680371777831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23835fb717b33dcd0800000000000000
+      internalID: -2534616806682445774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 301
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed789a497776ec50800000000000000
+      internalID: 6694169258959076832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 252
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b89d718a9efef3f0800000000000000
+      internalID: -864974138857645904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a18051b5818780800000000000000
+      internalID: -8682511609987225821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1146a70213160050800000000000000
+      internalID: 5766317341053174047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 253
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364a0e2ce00b74400800000000000000
+      internalID: 308408676943701091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973919c507c465e20800000000000000
+      internalID: 3338940219214893945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5f457de9ed8230800000000000000
+      internalID: 3642824879697255168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb469de3b373200800000000000000
+      internalID: 159661452916210437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 205
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dedf97c42292b50800000000000000
+      internalID: 6568819243356122423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9721a9c4400031990800000000000000
+      internalID: -7416584142884040071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212e7a0b885d12e0800000000000000
+      internalID: -2153467692613492438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a0073072d4c430800000000000000
+      internalID: 3802395364808501568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0fde6602df973f0800000000000000
+      internalID: -902411934703423297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a9fd0d59e0ad10800000000000000
+      internalID: 2134962809249309492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd1f339faf46480800000000000000
+      internalID: -8906718214806709193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9be05a7909ddf40800000000000000
+      internalID: 5754914879833029111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 101
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60560f7a5b2267d40800000000000000
+      internalID: 5581686951774283014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72caeaa8e3f2a7ab0800000000000000
+      internalID: -5009639689835074521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549c53db23466f950800000000000000
+      internalID: 6482478882731968837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df70e64c2579f600800000000000000
+      internalID: 502561666456649688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e90d15d250acc10800000000000000
+      internalID: 2074476270561828413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e1f64abd26ae50800000000000000
+      internalID: 6820188963776619490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironaxe_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 15
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1632024496cccf30800000000000000
+      internalID: 4597267659703334430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ironaxe_0: -1432676864741824004
+      ironaxe_1: -7905291200417760667
+      ironaxe_10: -2534616806682445774
+      ironaxe_11: 6694169258959076832
+      ironaxe_12: -864974138857645904
+      ironaxe_13: -8682511609987225821
+      ironaxe_14: 5766317341053174047
+      ironaxe_15: 308408676943701091
+      ironaxe_16: 3338940219214893945
+      ironaxe_17: 3642824879697255168
+      ironaxe_18: 159661452916210437
+      ironaxe_19: 6568819243356122423
+      ironaxe_2: -310308523690475286
+      ironaxe_20: -7416584142884040071
+      ironaxe_21: -2153467692613492438
+      ironaxe_22: 3802395364808501568
+      ironaxe_23: -902411934703423297
+      ironaxe_24: 2134962809249309492
+      ironaxe_25: -8906718214806709193
+      ironaxe_26: 5754914879833029111
+      ironaxe_27: 5581686951774283014
+      ironaxe_28: -5009639689835074521
+      ironaxe_29: 6482478882731968837
+      ironaxe_3: -7091170431546557880
+      ironaxe_30: 502561666456649688
+      ironaxe_31: 2074476270561828413
+      ironaxe_32: 6820188963776619490
+      ironaxe_33: 4597267659703334430
+      ironaxe_4: -5978689037923269636
+      ironaxe_5: -2884025624924248062
+      ironaxe_6: -758345566658778469
+      ironaxe_7: -5769773506933324759
+      ironaxe_8: -2999805634426657120
+      ironaxe_9: 4548040680371777831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

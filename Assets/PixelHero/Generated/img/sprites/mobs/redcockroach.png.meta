@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 7b2d138f8d2bddd458c1c5ea44e11583
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5473015338388283452
+    second: redcockroach_0
+  - first:
+      213: -6565638654915472436
+    second: redcockroach_1
+  - first:
+      213: -1756166349527096279
+    second: redcockroach_2
+  - first:
+      213: -4686353068859311225
+    second: redcockroach_3
+  - first:
+      213: -8587766034983883422
+    second: redcockroach_4
+  - first:
+      213: 4879090164236679399
+    second: redcockroach_5
+  - first:
+      213: 3934680500289792930
+    second: redcockroach_6
+  - first:
+      213: -4775347572422275701
+    second: redcockroach_7
+  - first:
+      213: -5974685375312314215
+    second: redcockroach_8
+  - first:
+      213: -6936157962073547747
+    second: redcockroach_9
+  - first:
+      213: 3733919183269498733
+    second: redcockroach_10
+  - first:
+      213: 3917001083623587032
+    second: redcockroach_11
+  - first:
+      213: 3968803167110837980
+    second: redcockroach_12
+  - first:
+      213: -9078044823479106759
+    second: redcockroach_13
+  - first:
+      213: 200043067749806367
+    second: redcockroach_14
+  - first:
+      213: 1318120835660217317
+    second: redcockroach_15
+  - first:
+      213: -5359747802261552379
+    second: redcockroach_16
+  - first:
+      213: 9064223321183238682
+    second: redcockroach_17
+  - first:
+      213: -966975234434467644
+    second: redcockroach_18
+  - first:
+      213: 4522269085174256502
+    second: redcockroach_19
+  - first:
+      213: 2632893145215386737
+    second: redcockroach_20
+  - first:
+      213: 1104117254459472788
+    second: redcockroach_21
+  - first:
+      213: -8853123484241257318
+    second: redcockroach_22
+  - first:
+      213: 5834326601513206233
+    second: redcockroach_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redcockroach_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 344
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1a190c81fb04b0800000000000000
+      internalID: -5473015338388283452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 344
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3903afd6a22e4a0800000000000000
+      internalID: -6565638654915472436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 344
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92461f97208d0a7e0800000000000000
+      internalID: -1756166349527096279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 302
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b349696bab6feb0800000000000000
+      internalID: -4686353068859311225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 302
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dee968a4022d880800000000000000
+      internalID: -8587766034983883422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 302
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8fd6267a206b340800000000000000
+      internalID: 4879090164236679399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abed64711bca9630800000000000000
+      internalID: 3934680500289792930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 260
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d0fba0fae8abdb0800000000000000
+      internalID: -4775347572422275701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 217
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990c9cf6e47a51da0800000000000000
+      internalID: -5974685375312314215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 217
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cdb943511ddbf90800000000000000
+      internalID: -6936157962073547747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 217
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f8bcac6bb81d330800000000000000
+      internalID: 3733919183269498733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 175
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc343e7bbbfb5630800000000000000
+      internalID: 3917001083623587032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 175
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6361fe375041730800000000000000
+      internalID: 3968803167110837980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 175
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9334471a45e440280800000000000000
+      internalID: -9078044823479106759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b1093c12b6c200800000000000000
+      internalID: 200043067749806367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb71949ae7ea4210800000000000000
+      internalID: 1318120835660217317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503058065c95e95b0800000000000000
+      internalID: -5359747802261552379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 92
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a30f716179acd70800000000000000
+      internalID: 9064223321183238682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 92
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8fee4c52d9492f0800000000000000
+      internalID: -966975234434467644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673da80e5c352ce30800000000000000
+      internalID: 4522269085174256502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174cf1cad5ae98420800000000000000
+      internalID: 2632893145215386737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bbf660bcc925f00800000000000000
+      internalID: 1104117254459472788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c9121d813632580800000000000000
+      internalID: -8853123484241257318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcockroach_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d18ecae121b7f050800000000000000
+      internalID: 5834326601513206233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redcockroach_0: -5473015338388283452
+      redcockroach_1: -6565638654915472436
+      redcockroach_10: 3733919183269498733
+      redcockroach_11: 3917001083623587032
+      redcockroach_12: 3968803167110837980
+      redcockroach_13: -9078044823479106759
+      redcockroach_14: 200043067749806367
+      redcockroach_15: 1318120835660217317
+      redcockroach_16: -5359747802261552379
+      redcockroach_17: 9064223321183238682
+      redcockroach_18: -966975234434467644
+      redcockroach_19: 4522269085174256502
+      redcockroach_2: -1756166349527096279
+      redcockroach_20: 2632893145215386737
+      redcockroach_21: 1104117254459472788
+      redcockroach_22: -8853123484241257318
+      redcockroach_23: 5834326601513206233
+      redcockroach_3: -4686353068859311225
+      redcockroach_4: -8587766034983883422
+      redcockroach_5: 4879090164236679399
+      redcockroach_6: 3934680500289792930
+      redcockroach_7: -4775347572422275701
+      redcockroach_8: -5974685375312314215
+      redcockroach_9: -6936157962073547747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

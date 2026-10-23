@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 599b38cf643be2a4eb8b926c90fe2e58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -488698168087384284
+    second: clam_0
+  - first:
+      213: -6966071968424964877
+    second: clam_1
+  - first:
+      213: 8891791973530460601
+    second: clam_2
+  - first:
+      213: 6307293478094571145
+    second: clam_3
+  - first:
+      213: 8383060291671397632
+    second: clam_4
+  - first:
+      213: 6926661142866275200
+    second: clam_5
+  - first:
+      213: 569094532340959937
+    second: clam_6
+  - first:
+      213: -145885299307948560
+    second: clam_7
+  - first:
+      213: -2538342024095805226
+    second: clam_8
+  - first:
+      213: 5804960422116625965
+    second: clam_9
+  - first:
+      213: -7949602013168988996
+    second: clam_10
+  - first:
+      213: 1865553024273326783
+    second: clam_11
+  - first:
+      213: -7445486725631511847
+    second: clam_12
+  - first:
+      213: -6719229645639572336
+    second: clam_13
+  - first:
+      213: 587972333363990056
+    second: clam_14
+  - first:
+      213: -7358002941283640424
+    second: clam_15
+  - first:
+      213: -4406529078908572799
+    second: clam_16
+  - first:
+      213: 2073870515408455064
+    second: clam_17
+  - first:
+      213: -8971868896051943914
+    second: clam_18
+  - first:
+      213: -1637426025528459878
+    second: clam_19
+  - first:
+      213: -9112697304940642543
+    second: clam_20
+  - first:
+      213: -3951696704720954239
+    second: clam_21
+  - first:
+      213: 334180381543092452
+    second: clam_22
+  - first:
+      213: -8072019687805098337
+    second: clam_23
+  - first:
+      213: 6056849112984409423
+    second: clam_24
+  - first:
+      213: 854905538877456636
+    second: clam_25
+  - first:
+      213: 7229298324087627933
+    second: clam_26
+  - first:
+      213: 5826453078321429929
+    second: clam_27
+  - first:
+      213: 8732805536388137223
+    second: clam_28
+  - first:
+      213: 5956577254615817243
+    second: clam_29
+  - first:
+      213: 3597679411774804989
+    second: clam_30
+  - first:
+      213: 3104022767237981620
+    second: clam_31
+  - first:
+      213: 7575459865964577477
+    second: clam_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clam_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 261
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f64c8fa9bc739f0800000000000000
+      internalID: -488698168087384284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 261
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc493ad37a835f90800000000000000
+      internalID: -6966071968424964877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 261
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1e3fe60bdf56b70800000000000000
+      internalID: 8891791973530460601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 248
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98607f73002088750800000000000000
+      internalID: 6307293478094571145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00591cf7bec965470800000000000000
+      internalID: 8383060291671397632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 230
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bab044c91702060800000000000000
+      internalID: 6926661142866275200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 229
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caccc34674d5e700800000000000000
+      internalID: 569094532340959937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 197
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f55cccd716b9fdf0800000000000000
+      internalID: -145885299307948560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 197
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0d257b06ff5ccd0800000000000000
+      internalID: -2538342024095805226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 197
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e86777fbc5f8050800000000000000
+      internalID: 5804960422116625965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 198
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc055b76175da190800000000000000
+      internalID: -7949602013168988996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 164
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a7796796c3e910800000000000000
+      internalID: 1865553024273326783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f8da55415ca890800000000000000
+      internalID: -7445486725631511847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 165
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094216fbc3080c2a0800000000000000
+      internalID: -6719229645639572336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 165
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0be3d8b5e82800800000000000000
+      internalID: 587972333363990056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b528c2f4f13e990800000000000000
+      internalID: -7358002941283640424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 133
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba937462dd8d2c0800000000000000
+      internalID: -4406529078908572799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 133
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895c315fe3ed7cc10800000000000000
+      internalID: 2073870515408455064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 101
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616a27726c48d7380800000000000000
+      internalID: -8971868896051943914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 101
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d756a84b1b649e0800000000000000
+      internalID: -1637426025528459878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f7a511512398180800000000000000
+      internalID: -9112697304940642543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 101
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c9607b8c0c829c0800000000000000
+      internalID: -3951696704720954239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0d7c4594f33a400800000000000000
+      internalID: 334180381543092452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96ea608cdc6aff80800000000000000
+      internalID: -8072019687805098337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45539d7d204e0450800000000000000
+      internalID: 6056849112984409423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf00e41ee0c3ddb00800000000000000
+      internalID: 854905538877456636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e196f580a35460800000000000000
+      internalID: 7229298324087627933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad74d17438bbd050800000000000000
+      internalID: 5826453078321429929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701caf0fd58213970800000000000000
+      internalID: 8732805536388137223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c1c8a24730aa250800000000000000
+      internalID: 5956577254615817243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3d29a1d568de130800000000000000
+      internalID: 3597679411774804989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e1ffc244b31b20800000000000000
+      internalID: 3104022767237981620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clam_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c20c019c90712960800000000000000
+      internalID: 7575459865964577477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clam_0: -488698168087384284
+      clam_1: -6966071968424964877
+      clam_10: -7949602013168988996
+      clam_11: 1865553024273326783
+      clam_12: -7445486725631511847
+      clam_13: -6719229645639572336
+      clam_14: 587972333363990056
+      clam_15: -7358002941283640424
+      clam_16: -4406529078908572799
+      clam_17: 2073870515408455064
+      clam_18: -8971868896051943914
+      clam_19: -1637426025528459878
+      clam_2: 8891791973530460601
+      clam_20: -9112697304940642543
+      clam_21: -3951696704720954239
+      clam_22: 334180381543092452
+      clam_23: -8072019687805098337
+      clam_24: 6056849112984409423
+      clam_25: 854905538877456636
+      clam_26: 7229298324087627933
+      clam_27: 5826453078321429929
+      clam_28: 8732805536388137223
+      clam_29: 5956577254615817243
+      clam_3: 6307293478094571145
+      clam_30: 3597679411774804989
+      clam_31: 3104022767237981620
+      clam_32: 7575459865964577477
+      clam_4: 8383060291671397632
+      clam_5: 6926661142866275200
+      clam_6: 569094532340959937
+      clam_7: -145885299307948560
+      clam_8: -2538342024095805226
+      clam_9: 5804960422116625965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

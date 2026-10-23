@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: b57283d7c2b4ae54d85c76892ec1ff85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3381047802172180095
+    second: hellsword_0
+  - first:
+      213: 1046924671437166427
+    second: hellsword_1
+  - first:
+      213: -7555030777285304974
+    second: hellsword_2
+  - first:
+      213: 3653510431520661637
+    second: hellsword_3
+  - first:
+      213: -1101542251693429250
+    second: hellsword_4
+  - first:
+      213: -8738348482871775646
+    second: hellsword_5
+  - first:
+      213: 84707752862983565
+    second: hellsword_6
+  - first:
+      213: -1269014796078462408
+    second: hellsword_7
+  - first:
+      213: 8534136592464541697
+    second: hellsword_8
+  - first:
+      213: -2024720428999400214
+    second: hellsword_9
+  - first:
+      213: 4607565708010804275
+    second: hellsword_10
+  - first:
+      213: 760673121833045322
+    second: hellsword_11
+  - first:
+      213: 2578651166278748624
+    second: hellsword_12
+  - first:
+      213: 4333734606474401910
+    second: hellsword_13
+  - first:
+      213: 6667424754044818453
+    second: hellsword_14
+  - first:
+      213: 1393865840327318015
+    second: hellsword_15
+  - first:
+      213: -8881503552378334831
+    second: hellsword_16
+  - first:
+      213: 8882994885814065980
+    second: hellsword_17
+  - first:
+      213: 7234464619207516467
+    second: hellsword_18
+  - first:
+      213: -3625308189533012612
+    second: hellsword_19
+  - first:
+      213: 8950998237305103807
+    second: hellsword_20
+  - first:
+      213: 551012362898457882
+    second: hellsword_21
+  - first:
+      213: 4199605510143036971
+    second: hellsword_22
+  - first:
+      213: 7979153889782009884
+    second: hellsword_23
+  - first:
+      213: -7805052738786118057
+    second: hellsword_24
+  - first:
+      213: 8605126449002037910
+    second: hellsword_25
+  - first:
+      213: -5154070073492390037
+    second: hellsword_26
+  - first:
+      213: 1781031777313188842
+    second: hellsword_27
+  - first:
+      213: -8449306176476961212
+    second: hellsword_28
+  - first:
+      213: 7987684882639127918
+    second: hellsword_29
+  - first:
+      213: -7302121930728067413
+    second: hellsword_30
+  - first:
+      213: -2673294104097119960
+    second: hellsword_31
+  - first:
+      213: 6472997006073993157
+    second: hellsword_32
+  - first:
+      213: 5516707665221221462
+    second: hellsword_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hellsword_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 541
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7686110015ebee20800000000000000
+      internalID: 3381047802172180095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 540
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57da9b117c678e00800000000000000
+      internalID: 1046924671437166427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 540
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d14cc4983272790800000000000000
+      internalID: -7555030777285304974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 541
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58029fd5160e3b230800000000000000
+      internalID: 3653510431520661637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdaab6882986b0f0800000000000000
+      internalID: -1101542251693429250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eaad24a562bb680800000000000000
+      internalID: -8738348482871775646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85ae1f9041fc2100800000000000000
+      internalID: 84707752862983565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a470934cd836ee0800000000000000
+      internalID: -1269014796078462408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 447
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108f28ad3085f6670800000000000000
+      internalID: 8534136592464541697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 446
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a30c4f7fb6e3e0800000000000000
+      internalID: -2024720428999400214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 446
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3345149799c51ff30800000000000000
+      internalID: 4607565708010804275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 447
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dcb019c247e8a00800000000000000
+      internalID: 760673121833045322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d901bdc29539c320800000000000000
+      internalID: 2578651166278748624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67859b9d9a4842c30800000000000000
+      internalID: 4333734606474401910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514dc7ffc73778c50800000000000000
+      internalID: 6667424754044818453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9d245c891085310800000000000000
+      internalID: 1393865840327318015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1919e19439f8eb480800000000000000
+      internalID: -8881503552378334831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b1f86d8ccb64b70800000000000000
+      internalID: 8882994885814065980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331eef7cd3bf56460800000000000000
+      internalID: 7234464619207516467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7df199c86150bdc0800000000000000
+      internalID: -3625308189533012612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 302
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e7bfe875583c70800000000000000
+      internalID: 8950998237305103807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15496d13d695a700800000000000000
+      internalID: 551012362898457882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 302
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e49d406fef74a30800000000000000
+      internalID: 4199605510143036971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 303
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1012a8ff26abbe60800000000000000
+      internalID: 7979153889782009884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 253
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756b67313e1eea390800000000000000
+      internalID: -7805052738786118057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692c518d9ec8b6770800000000000000
+      internalID: 8605126449002037910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fb30a53901978b0800000000000000
+      internalID: -5154070073492390037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 241
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb6f6417fe77b810800000000000000
+      internalID: 1781031777313188842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446a3908cc80eba80800000000000000
+      internalID: -8449306176476961212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6586778415f9de60800000000000000
+      internalID: 7987684882639127918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 200
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae2d54dac6a9aa90800000000000000
+      internalID: -7302121930728067413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82125211d2d86ead0800000000000000
+      internalID: -2673294104097119960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7153b4b74b4d950800000000000000
+      internalID: 6472997006073993157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellsword_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 159
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c7f2b84684f8c40800000000000000
+      internalID: 5516707665221221462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hellsword_0: 3381047802172180095
+      hellsword_1: 1046924671437166427
+      hellsword_10: 4607565708010804275
+      hellsword_11: 760673121833045322
+      hellsword_12: 2578651166278748624
+      hellsword_13: 4333734606474401910
+      hellsword_14: 6667424754044818453
+      hellsword_15: 1393865840327318015
+      hellsword_16: -8881503552378334831
+      hellsword_17: 8882994885814065980
+      hellsword_18: 7234464619207516467
+      hellsword_19: -3625308189533012612
+      hellsword_2: -7555030777285304974
+      hellsword_20: 8950998237305103807
+      hellsword_21: 551012362898457882
+      hellsword_22: 4199605510143036971
+      hellsword_23: 7979153889782009884
+      hellsword_24: -7805052738786118057
+      hellsword_25: 8605126449002037910
+      hellsword_26: -5154070073492390037
+      hellsword_27: 1781031777313188842
+      hellsword_28: -8449306176476961212
+      hellsword_29: 7987684882639127918
+      hellsword_3: 3653510431520661637
+      hellsword_30: -7302121930728067413
+      hellsword_31: -2673294104097119960
+      hellsword_32: 6472997006073993157
+      hellsword_33: 5516707665221221462
+      hellsword_4: -1101542251693429250
+      hellsword_5: -8738348482871775646
+      hellsword_6: 84707752862983565
+      hellsword_7: -1269014796078462408
+      hellsword_8: 8534136592464541697
+      hellsword_9: -2024720428999400214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

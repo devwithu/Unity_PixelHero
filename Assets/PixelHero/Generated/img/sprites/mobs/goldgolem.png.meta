@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 26b5cd931cfc1c64ba720bde37eff1dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6893297920022421860
+    second: goldgolem_0
+  - first:
+      213: 6579786292292243454
+    second: goldgolem_1
+  - first:
+      213: 4586679777204184571
+    second: goldgolem_2
+  - first:
+      213: -8957196352731916508
+    second: goldgolem_3
+  - first:
+      213: -3540667738224193513
+    second: goldgolem_4
+  - first:
+      213: -2151167280110620994
+    second: goldgolem_5
+  - first:
+      213: -4876629906313976733
+    second: goldgolem_6
+  - first:
+      213: 6367344031586954893
+    second: goldgolem_7
+  - first:
+      213: -1452693265339402130
+    second: goldgolem_8
+  - first:
+      213: -6374167600113027103
+    second: goldgolem_9
+  - first:
+      213: 2854396081799161701
+    second: goldgolem_10
+  - first:
+      213: -5344864205617755987
+    second: goldgolem_11
+  - first:
+      213: 702771570307116449
+    second: goldgolem_12
+  - first:
+      213: -3194978846048684473
+    second: goldgolem_13
+  - first:
+      213: -137156964687972284
+    second: goldgolem_14
+  - first:
+      213: 2465323741430515506
+    second: goldgolem_15
+  - first:
+      213: 4348373950335258671
+    second: goldgolem_16
+  - first:
+      213: 934972494989340250
+    second: goldgolem_17
+  - first:
+      213: -6822294370541070043
+    second: goldgolem_18
+  - first:
+      213: 4077584181330243341
+    second: goldgolem_19
+  - first:
+      213: -4089477158412545406
+    second: goldgolem_20
+  - first:
+      213: -8358074618247745421
+    second: goldgolem_21
+  - first:
+      213: -8222518489498210584
+    second: goldgolem_22
+  - first:
+      213: -1491463192450429932
+    second: goldgolem_23
+  - first:
+      213: 4633365149887400912
+    second: goldgolem_24
+  - first:
+      213: -1754402548572555492
+    second: goldgolem_25
+  - first:
+      213: 1824019874057168412
+    second: goldgolem_26
+  - first:
+      213: -752434314409364274
+    second: goldgolem_27
+  - first:
+      213: -1079744230812307295
+    second: goldgolem_28
+  - first:
+      213: 215726679299073888
+    second: goldgolem_29
+  - first:
+      213: -4376929311778235091
+    second: goldgolem_30
+  - first:
+      213: -6446947535390819077
+    second: goldgolem_31
+  - first:
+      213: -2777205694519963183
+    second: goldgolem_32
+  - first:
+      213: -521677062651022103
+    second: goldgolem_33
+  - first:
+      213: 8126863850012597397
+    second: goldgolem_34
+  - first:
+      213: -3524583861812740690
+    second: goldgolem_35
+  - first:
+      213: -8590809126897709364
+    second: goldgolem_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldgolem_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9edf1260161650a0800000000000000
+      internalID: -6893297920022421860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 258
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff401a85c8105b50800000000000000
+      internalID: 6579786292292243454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf529b2c4f827af30800000000000000
+      internalID: 4586679777204184571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 257
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4275dfbdf55a1b380800000000000000
+      internalID: -8957196352731916508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 258
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710167b83750ddec0800000000000000
+      internalID: -3540667738224193513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe209091c48522e0800000000000000
+      internalID: -2151167280110620994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364eb1d00fab25cb0800000000000000
+      internalID: -4876629906313976733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 226
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ea17d39a95d5850800000000000000
+      internalID: 6367344031586954893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68b7dffb2ff6dbe0800000000000000
+      internalID: -1452693265339402130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77578e6586a87a0800000000000000
+      internalID: -6374167600113027103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 196
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e7e7fc1adc9720800000000000000
+      internalID: 2854396081799161701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da80473c25a33d5b0800000000000000
+      internalID: -5344864205617755987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad266e050fb0c900800000000000000
+      internalID: 702771570307116449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 161
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7467160daa729a3d0800000000000000
+      internalID: -3194978846048684473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4487d41a778b81ef0800000000000000
+      internalID: -137156964687972284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 159
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2378d4881e6963220800000000000000
+      internalID: 2465323741430515506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f209b44b117885c30800000000000000
+      internalID: 4348373950335258671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ea99ec780b9fc00800000000000000
+      internalID: 934972494989340250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 138
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52990c28a675251a0800000000000000
+      internalID: -6822294370541070043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fe0fd753d769830800000000000000
+      internalID: 4077584181330243341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2821fbff0324f37c0800000000000000
+      internalID: -4089477158412545406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370722dea67220c80800000000000000
+      internalID: -8358074618247745421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 105
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eea062affeb3ed80800000000000000
+      internalID: -8222518489498210584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c0c6ae0224d4be0800000000000000
+      internalID: -1491463192450429932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db86b12e050d4040800000000000000
+      internalID: 4633365149887400912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17fa436d2c17a7e0800000000000000
+      internalID: -1754402548572555492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c162e605968305910800000000000000
+      internalID: 1824019874057168412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 64
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4b0d44af0de85f0800000000000000
+      internalID: -752434314409364274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 63
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0b722c75af301f0800000000000000
+      internalID: -1079744230812307295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672238954a6ef200800000000000000
+      internalID: 215726679299073888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d967c1bf50243c0800000000000000
+      internalID: -4376929311778235091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 42
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc337bbf57d786a0800000000000000
+      internalID: -6446947535390819077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d112f592226579d0800000000000000
+      internalID: -2777205694519963183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e47739b971a2c8f0800000000000000
+      internalID: -521677062651022103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cd6f51d9b68c070800000000000000
+      internalID: 8126863850012597397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadb397d6a9261fc0800000000000000
+      internalID: -3524583861812740690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldgolem_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce041a7d9057c880800000000000000
+      internalID: -8590809126897709364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goldgolem_0: -6893297920022421860
+      goldgolem_1: 6579786292292243454
+      goldgolem_10: 2854396081799161701
+      goldgolem_11: -5344864205617755987
+      goldgolem_12: 702771570307116449
+      goldgolem_13: -3194978846048684473
+      goldgolem_14: -137156964687972284
+      goldgolem_15: 2465323741430515506
+      goldgolem_16: 4348373950335258671
+      goldgolem_17: 934972494989340250
+      goldgolem_18: -6822294370541070043
+      goldgolem_19: 4077584181330243341
+      goldgolem_2: 4586679777204184571
+      goldgolem_20: -4089477158412545406
+      goldgolem_21: -8358074618247745421
+      goldgolem_22: -8222518489498210584
+      goldgolem_23: -1491463192450429932
+      goldgolem_24: 4633365149887400912
+      goldgolem_25: -1754402548572555492
+      goldgolem_26: 1824019874057168412
+      goldgolem_27: -752434314409364274
+      goldgolem_28: -1079744230812307295
+      goldgolem_29: 215726679299073888
+      goldgolem_3: -8957196352731916508
+      goldgolem_30: -4376929311778235091
+      goldgolem_31: -6446947535390819077
+      goldgolem_32: -2777205694519963183
+      goldgolem_33: -521677062651022103
+      goldgolem_34: 8126863850012597397
+      goldgolem_35: -3524583861812740690
+      goldgolem_36: -8590809126897709364
+      goldgolem_4: -3540667738224193513
+      goldgolem_5: -2151167280110620994
+      goldgolem_6: -4876629906313976733
+      goldgolem_7: 6367344031586954893
+      goldgolem_8: -1452693265339402130
+      goldgolem_9: -6374167600113027103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,146 @@
+{
+ "seed": 5,
+ "end": 14000,
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.0.1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 2000,
+   "open": 1,
+   "address": "10.0.0.2"
+  },
+  {
+   "t": 2400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 2700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 4000,
+   "conn": 1,
+   "send": [
+    "Who",
+    [
+     "$coder@133,559"
+    ]
+   ]
+  },
+  {
+   "t": 5000,
+   "walk": 0,
+   "from": [
+    133,
+    562
+   ],
+   "path": [
+    [
+     134,
+     562
+    ],
+    [
+     135,
+     562
+    ],
+    [
+     136,
+     562
+    ]
+   ]
+  },
+  {
+   "t": 7000,
+   "walk": 1,
+   "from": [
+    133,
+    562
+   ],
+   "path": [
+    [
+     132,
+     562
+    ],
+    [
+     131,
+     562
+    ]
+   ]
+  },
+  {
+   "t": 9000,
+   "conn": 0,
+   "send": [
+    "List"
+   ]
+  },
+  {
+   "t": 9500,
+   "conn": 0,
+   "send": [
+    "Focus"
+   ]
+  },
+  {
+   "t": 11000,
+   "close": 1
+  }
+ ]
+}

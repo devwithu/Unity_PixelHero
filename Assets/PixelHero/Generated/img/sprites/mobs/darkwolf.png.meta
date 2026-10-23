@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: fc3faaa4022aa4d49872a6712f2cd348
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8720671924471648614
+    second: darkwolf_0
+  - first:
+      213: -2945781185493379048
+    second: darkwolf_1
+  - first:
+      213: -8100493538834409060
+    second: darkwolf_2
+  - first:
+      213: -419916782035938927
+    second: darkwolf_3
+  - first:
+      213: 1378580908414033621
+    second: darkwolf_4
+  - first:
+      213: 8723136307764653402
+    second: darkwolf_5
+  - first:
+      213: 846664495994453441
+    second: darkwolf_6
+  - first:
+      213: -2039515067875481487
+    second: darkwolf_7
+  - first:
+      213: -3179692078345288956
+    second: darkwolf_8
+  - first:
+      213: -1196479691509212106
+    second: darkwolf_9
+  - first:
+      213: -1003617758065087935
+    second: darkwolf_10
+  - first:
+      213: -4572406140373435174
+    second: darkwolf_11
+  - first:
+      213: 6588736862342950043
+    second: darkwolf_12
+  - first:
+      213: -894126910482652057
+    second: darkwolf_13
+  - first:
+      213: 3861480911148798140
+    second: darkwolf_14
+  - first:
+      213: -7692794680843240754
+    second: darkwolf_15
+  - first:
+      213: 52619545979768153
+    second: darkwolf_16
+  - first:
+      213: -8071612340201705074
+    second: darkwolf_17
+  - first:
+      213: 8460825550056957909
+    second: darkwolf_18
+  - first:
+      213: -712895209829319800
+    second: darkwolf_19
+  - first:
+      213: 2691343420425182049
+    second: darkwolf_20
+  - first:
+      213: 2942210368232935738
+    second: darkwolf_21
+  - first:
+      213: 4045364304818485890
+    second: darkwolf_22
+  - first:
+      213: 9056926318958866242
+    second: darkwolf_23
+  - first:
+      213: -8787729295969743007
+    second: darkwolf_24
+  - first:
+      213: 6438473495287351145
+    second: darkwolf_25
+  - first:
+      213: -8407564572246468377
+    second: darkwolf_26
+  - first:
+      213: -1032562943378750035
+    second: darkwolf_27
+  - first:
+      213: -2978278896936565697
+    second: darkwolf_28
+  - first:
+      213: -892260203934593387
+    second: darkwolf_29
+  - first:
+      213: -6933086069152277179
+    second: darkwolf_30
+  - first:
+      213: -2016736672395117353
+    second: darkwolf_31
+  - first:
+      213: 8781434369839412454
+    second: darkwolf_32
+  - first:
+      213: 4783251832905798550
+    second: darkwolf_33
+  - first:
+      213: -1527541131897011668
+    second: darkwolf_34
+  - first:
+      213: -6965302214716545650
+    second: darkwolf_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkwolf_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 344
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661dad449ec060970800000000000000
+      internalID: 8720671924471648614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 344
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81853a48e9b7e17d0800000000000000
+      internalID: -2945781185493379048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 345
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c999d607b04459f80800000000000000
+      internalID: -8100493538834409060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 346
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191d58b59e72c2af0800000000000000
+      internalID: -419916782035938927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 344
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de572c3804b12310800000000000000
+      internalID: 1378580908414033621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 302
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5def97314ece0970800000000000000
+      internalID: 8723136307764653402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd3faf8fd4ffbb00800000000000000
+      internalID: 846664495994453441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 302
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a9310adf22b3e0800000000000000
+      internalID: -2039515067875481487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 304
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4030b17c6e67fd3d0800000000000000
+      internalID: -3179692078345288956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 260
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cdf9e4f00456fe0800000000000000
+      internalID: -1196479691509212106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 260
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aa14867fe6212f0800000000000000
+      internalID: -1003617758065087935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 217
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcf93a47dc8b80c0800000000000000
+      internalID: -4572406140373435174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 217
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c29768445ef6b50800000000000000
+      internalID: 6588736862342950043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 217
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764609cef4c6793f0800000000000000
+      internalID: -894126910482652057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 233
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0d9fffd6cb69530800000000000000
+      internalID: 3861480911148798140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 219
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaf256fef3bd3590800000000000000
+      internalID: -7692794680843240754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 218
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dcd52c231fab000800000000000000
+      internalID: 52619545979768153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 175
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e813e91875fdbff80800000000000000
+      internalID: -8071612340201705074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 177
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7a1b9a204ea6570800000000000000
+      internalID: 8460825550056957909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 175
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bbb0075994b16f0800000000000000
+      internalID: -712895209829319800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 177
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b170fd492995520800000000000000
+      internalID: 2691343420425182049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 133
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31defccdb4d4d820800000000000000
+      internalID: 2942210368232935738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 133
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a30c7e665042830800000000000000
+      internalID: 4045364304818485890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 90
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fed6e508aa0bd70800000000000000
+      internalID: 9056926318958866242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 90
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f0e63c3c6bb0680800000000000000
+      internalID: -8787729295969743007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 90
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967ce5e088d0a5950800000000000000
+      internalID: 6438473495287351145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 91
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e817151194525b80800000000000000
+      internalID: -8407564572246468377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 89
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da58da749799ba1f0800000000000000
+      internalID: -1032562943378750035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 46
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34cd027f170ba6d0800000000000000
+      internalID: -2978278896936565697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 48
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ec249621e0e93f0800000000000000
+      internalID: -892260203934593387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 46
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d18f204fab8cf90800000000000000
+      internalID: -6933086069152277179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 43
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcb26c7eac1304e0800000000000000
+      internalID: -2016736672395117353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e43fa8880cedd970800000000000000
+      internalID: 8781434369839412454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69316930336816240800000000000000
+      internalID: 4783251832905798550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 7
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c220b7d0f651dcae0800000000000000
+      internalID: -1527541131897011668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkwolf_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85249a1a86465f90800000000000000
+      internalID: -6965302214716545650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkwolf_0: 8720671924471648614
+      darkwolf_1: -2945781185493379048
+      darkwolf_10: -1003617758065087935
+      darkwolf_11: -4572406140373435174
+      darkwolf_12: 6588736862342950043
+      darkwolf_13: -894126910482652057
+      darkwolf_14: 3861480911148798140
+      darkwolf_15: -7692794680843240754
+      darkwolf_16: 52619545979768153
+      darkwolf_17: -8071612340201705074
+      darkwolf_18: 8460825550056957909
+      darkwolf_19: -712895209829319800
+      darkwolf_2: -8100493538834409060
+      darkwolf_20: 2691343420425182049
+      darkwolf_21: 2942210368232935738
+      darkwolf_22: 4045364304818485890
+      darkwolf_23: 9056926318958866242
+      darkwolf_24: -8787729295969743007
+      darkwolf_25: 6438473495287351145
+      darkwolf_26: -8407564572246468377
+      darkwolf_27: -1032562943378750035
+      darkwolf_28: -2978278896936565697
+      darkwolf_29: -892260203934593387
+      darkwolf_3: -419916782035938927
+      darkwolf_30: -6933086069152277179
+      darkwolf_31: -2016736672395117353
+      darkwolf_32: 8781434369839412454
+      darkwolf_33: 4783251832905798550
+      darkwolf_34: -1527541131897011668
+      darkwolf_35: -6965302214716545650
+      darkwolf_4: 1378580908414033621
+      darkwolf_5: 8723136307764653402
+      darkwolf_6: 846664495994453441
+      darkwolf_7: -2039515067875481487
+      darkwolf_8: -3179692078345288956
+      darkwolf_9: -1196479691509212106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

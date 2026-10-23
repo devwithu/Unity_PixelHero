@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: db7596b971278484295a5931e16e17e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1389794377650559313
+    second: cursestaff_0
+  - first:
+      213: 1512036238653989774
+    second: cursestaff_1
+  - first:
+      213: -1394882270886340376
+    second: cursestaff_2
+  - first:
+      213: 7394364052601466905
+    second: cursestaff_3
+  - first:
+      213: 6474426702266435150
+    second: cursestaff_4
+  - first:
+      213: 4384186701676731247
+    second: cursestaff_5
+  - first:
+      213: -4748531849391947516
+    second: cursestaff_6
+  - first:
+      213: 4262673480907744399
+    second: cursestaff_7
+  - first:
+      213: -1258752179274081596
+    second: cursestaff_8
+  - first:
+      213: 3477425808697092922
+    second: cursestaff_9
+  - first:
+      213: 3066244300747884377
+    second: cursestaff_10
+  - first:
+      213: -708986934227488196
+    second: cursestaff_11
+  - first:
+      213: 6044818825076903465
+    second: cursestaff_12
+  - first:
+      213: 5657776049343841112
+    second: cursestaff_13
+  - first:
+      213: 2910292960742162552
+    second: cursestaff_14
+  - first:
+      213: 5307655292760592738
+    second: cursestaff_15
+  - first:
+      213: -3433445453989669286
+    second: cursestaff_16
+  - first:
+      213: 9148062603722984832
+    second: cursestaff_17
+  - first:
+      213: -1345021007521356620
+    second: cursestaff_18
+  - first:
+      213: -7073788931075901777
+    second: cursestaff_19
+  - first:
+      213: -7605568914690279427
+    second: cursestaff_20
+  - first:
+      213: 1723350477597370778
+    second: cursestaff_21
+  - first:
+      213: 6360235315234022054
+    second: cursestaff_22
+  - first:
+      213: -4201168395441553421
+    second: cursestaff_23
+  - first:
+      213: -4589075333712363288
+    second: cursestaff_24
+  - first:
+      213: -898860726647824036
+    second: cursestaff_25
+  - first:
+      213: -6828164367901566881
+    second: cursestaff_26
+  - first:
+      213: 5089381833292518791
+    second: cursestaff_27
+  - first:
+      213: 622620798511328861
+    second: cursestaff_28
+  - first:
+      213: 3921752791130873420
+    second: cursestaff_29
+  - first:
+      213: -6416355565002559685
+    second: cursestaff_30
+  - first:
+      213: 7411286116840937690
+    second: cursestaff_31
+  - first:
+      213: 2938636779404897245
+    second: cursestaff_32
+  - first:
+      213: 5063744587278410733
+    second: cursestaff_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cursestaff_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15952be7f9a894310800000000000000
+      internalID: 1389794377650559313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 399
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e832d7ca2f4dbf410800000000000000
+      internalID: 1512036238653989774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 399
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8545c07f164ace0800000000000000
+      internalID: -1394882270886340376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 400
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9107a37cdee0e9660800000000000000
+      internalID: 7394364052601466905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 352
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4605e068c8c9d950800000000000000
+      internalID: 6474426702266435150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bde66a392c7dc30800000000000000
+      internalID: 4384186701676731247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014d581173d91eb0800000000000000
+      internalID: -4748531849391947516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84ebfe32fe082b30800000000000000
+      internalID: 4262673480907744399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca9e16ef83088ee0800000000000000
+      internalID: -1258752179274081596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b6a2c495c424030800000000000000
+      internalID: 3477425808697092922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 303
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957c4a422fc7d8a20800000000000000
+      internalID: 3066244300747884377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c323af2c32c2926f0800000000000000
+      internalID: -708986934227488196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e8d40d1b283e350800000000000000
+      internalID: 6044818825076903465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8534ad73755748e40800000000000000
+      internalID: 5657776049343841112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8704b554700736820800000000000000
+      internalID: 2910292960742162552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261973b1e5498a940800000000000000
+      internalID: 5307655292760592738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 195
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56144ffc83f950d0800000000000000
+      internalID: -3433445453989669286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d81f5387274fe70800000000000000
+      internalID: 9148062603722984832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b460471586855de0800000000000000
+      internalID: -1345021007521356620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 208
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6712b127ad4dd90800000000000000
+      internalID: -7073788931075901777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7f12d3e57937690800000000000000
+      internalID: -7605568914690279427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e0b0f0229ae710800000000000000
+      internalID: 1723350477597370778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a22b6c3258144850800000000000000
+      internalID: 6360235315234022054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffbb146a9372b5c0800000000000000
+      internalID: -4201168395441553421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e041964c445050c0800000000000000
+      internalID: -4589075333712363288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c516b957eea9683f0800000000000000
+      internalID: -898860726647824036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f585f3f3fac7d31a0800000000000000
+      internalID: -6828164367901566881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7851abb00dd11a640800000000000000
+      internalID: 5089381833292518791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ea905415ef3a800800000000000000
+      internalID: 622620798511328861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e904c926ddc6630800000000000000
+      internalID: 3921752791130873420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 62
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3feb63eb9684f6a0800000000000000
+      internalID: -6416355565002559685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89613e47d2ad660800000000000000
+      internalID: 7411286116840937690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddba350d49228c820800000000000000
+      internalID: 2938636779404897245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursestaff_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3690e8fd8064640800000000000000
+      internalID: 5063744587278410733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cursestaff_0: 1389794377650559313
+      cursestaff_1: 1512036238653989774
+      cursestaff_10: 3066244300747884377
+      cursestaff_11: -708986934227488196
+      cursestaff_12: 6044818825076903465
+      cursestaff_13: 5657776049343841112
+      cursestaff_14: 2910292960742162552
+      cursestaff_15: 5307655292760592738
+      cursestaff_16: -3433445453989669286
+      cursestaff_17: 9148062603722984832
+      cursestaff_18: -1345021007521356620
+      cursestaff_19: -7073788931075901777
+      cursestaff_2: -1394882270886340376
+      cursestaff_20: -7605568914690279427
+      cursestaff_21: 1723350477597370778
+      cursestaff_22: 6360235315234022054
+      cursestaff_23: -4201168395441553421
+      cursestaff_24: -4589075333712363288
+      cursestaff_25: -898860726647824036
+      cursestaff_26: -6828164367901566881
+      cursestaff_27: 5089381833292518791
+      cursestaff_28: 622620798511328861
+      cursestaff_29: 3921752791130873420
+      cursestaff_3: 7394364052601466905
+      cursestaff_30: -6416355565002559685
+      cursestaff_31: 7411286116840937690
+      cursestaff_32: 2938636779404897245
+      cursestaff_33: 5063744587278410733
+      cursestaff_4: 6474426702266435150
+      cursestaff_5: 4384186701676731247
+      cursestaff_6: -4748531849391947516
+      cursestaff_7: 4262673480907744399
+      cursestaff_8: -1258752179274081596
+      cursestaff_9: 3477425808697092922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

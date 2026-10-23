@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>PixelHero.Hub</RootNamespace>
+    <!-- The port keeps the original's names (lowercase fields) where that keeps it close to the TS. -->
+    <NoWarn>$(NoWarn);CS8981;IDE1006</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SuperSocket.WebSocket.Server" Version="2.1.0" />
+    <!-- controllers/mailer.ts (nodemailer): implicit TLS on 465 (SMTP_USE_SECURE) needs MailKit; System.Net.Mail only does STARTTLS. -->
+    <PackageReference Include="MailKit" Version="4.18.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PixelHero.Server.Core\PixelHero.Server.Core.csproj" />
+  </ItemGroup>
+
+</Project>

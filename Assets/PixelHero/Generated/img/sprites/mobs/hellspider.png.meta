@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 82c43788a28eb714694059cadd61c801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1622950757085205629
+    second: hellspider_0
+  - first:
+      213: 3519611047249273179
+    second: hellspider_1
+  - first:
+      213: -121617853922371914
+    second: hellspider_2
+  - first:
+      213: 1190863234231094164
+    second: hellspider_3
+  - first:
+      213: 228578745787090992
+    second: hellspider_4
+  - first:
+      213: -6180095155596031839
+    second: hellspider_5
+  - first:
+      213: -371296269708238510
+    second: hellspider_6
+  - first:
+      213: 13852913286075399
+    second: hellspider_7
+  - first:
+      213: -8109738259062818384
+    second: hellspider_8
+  - first:
+      213: -953740245203275647
+    second: hellspider_9
+  - first:
+      213: 8457611690966578003
+    second: hellspider_10
+  - first:
+      213: -1506247938060217304
+    second: hellspider_11
+  - first:
+      213: 3853627801438526628
+    second: hellspider_12
+  - first:
+      213: 588970096460487278
+    second: hellspider_13
+  - first:
+      213: -7834779493224047353
+    second: hellspider_14
+  - first:
+      213: -6861679284550209904
+    second: hellspider_15
+  - first:
+      213: -6156365358300421010
+    second: hellspider_16
+  - first:
+      213: -2271894547331588597
+    second: hellspider_17
+  - first:
+      213: 6934761458664364537
+    second: hellspider_18
+  - first:
+      213: 1969910153210540831
+    second: hellspider_19
+  - first:
+      213: 1244581237006206112
+    second: hellspider_20
+  - first:
+      213: 908312569273748408
+    second: hellspider_21
+  - first:
+      213: -7438408163493662041
+    second: hellspider_22
+  - first:
+      213: 2166908115200645048
+    second: hellspider_23
+  - first:
+      213: -4032254912726705184
+    second: hellspider_24
+  - first:
+      213: 2442681286596512825
+    second: hellspider_25
+  - first:
+      213: -7182719767527320872
+    second: hellspider_26
+  - first:
+      213: 1728417368688901650
+    second: hellspider_27
+  - first:
+      213: 8414131068222131097
+    second: hellspider_28
+  - first:
+      213: 6642921571836698256
+    second: hellspider_29
+  - first:
+      213: 1551522248701848720
+    second: hellspider_30
+  - first:
+      213: 5879417270086162722
+    second: hellspider_31
+  - first:
+      213: 4675840202972473443
+    second: hellspider_32
+  - first:
+      213: -8352394313592423923
+    second: hellspider_33
+  - first:
+      213: -6951873582872581835
+    second: hellspider_34
+  - first:
+      213: -2146938636581399313
+    second: hellspider_35
+  - first:
+      213: -7362944863568362146
+    second: hellspider_36
+  - first:
+      213: 2447666563546904722
+    second: hellspider_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hellspider_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 597
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b2cfb92ee1a79e0800000000000000
+      internalID: -1622950757085205629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 597
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5165da899b28d030800000000000000
+      internalID: 3519611047249273179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 596
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69c9ac43def4ef0800000000000000
+      internalID: -121617853922371914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 593
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bca645dcbc68010800000000000000
+      internalID: 1190863234231094164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 591
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03808d188231c2300800000000000000
+      internalID: 228578745787090992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 590
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a806941334eb3aa0800000000000000
+      internalID: -6180095155596031839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 589
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251ec998204e8daf0800000000000000
+      internalID: -371296269708238510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 525
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7045587b627313000800000000000000
+      internalID: 13852913286075399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 525
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b97a27450c647f80800000000000000
+      internalID: -8109738259062818384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 525
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1803aa4dc42a3c2f0800000000000000
+      internalID: -953740245203275647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 525
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353f048c5097f5570800000000000000
+      internalID: 8457611690966578003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 453
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82491441b7bb81be0800000000000000
+      internalID: -1506247938060217304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 453
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac10596116da7530800000000000000
+      internalID: 3853627801438526628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 382
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6adad6ae217c2800800000000000000
+      internalID: 588970096460487278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 382
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d9dd4bf85454390800000000000000
+      internalID: -7834779493224047353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 382
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e6ab1ab0b66c0a0800000000000000
+      internalID: -6861679284550209904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 382
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64abfe0352309aa0800000000000000
+      internalID: -6156365358300421010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 382
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e572b32fb9870e0800000000000000
+      internalID: -2271894547331588597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f952c10ec83d3060800000000000000
+      internalID: 6934761458664364537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 310
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13bc89e8d6865b10800000000000000
+      internalID: 1969910153210540831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 310
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a40fdd7a04a54110800000000000000
+      internalID: 1244581237006206112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 310
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb85942879fa9c00800000000000000
+      internalID: 908312569273748408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 310
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a238988f2775c890800000000000000
+      internalID: -7438408163493662041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 238
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b712733377621e10800000000000000
+      internalID: 2166908115200645048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 238
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebd91b458d8a08c0800000000000000
+      internalID: -4032254912726705184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 166
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c441330b526e120800000000000000
+      internalID: 2442681286596512825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 166
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d29b575d6ad15c90800000000000000
+      internalID: -7182719767527320872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e315470729cf710800000000000000
+      internalID: 1728417368688901650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b45f660aff4c470800000000000000
+      internalID: 8414131068222131097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 155
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e1b1059f5603c50800000000000000
+      internalID: 6642921571836698256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 155
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c2dfec34d188510800000000000000
+      internalID: 1551522248701848720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 154
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22958cd4bd2e79150800000000000000
+      internalID: 5879417270086162722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 94
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3682aa414ebe3e040800000000000000
+      internalID: 4675840202972473443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 94
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ab45aef95561c80800000000000000
+      internalID: -8352394313592423923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 94
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53925791fcbf58f90800000000000000
+      internalID: -6951873582872581835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 94
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4110c5faa8432e0800000000000000
+      internalID: -2146938636581399313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55883a38a091d990800000000000000
+      internalID: -7362944863568362146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellspider_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29870d075cbd7f120800000000000000
+      internalID: 2447666563546904722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hellspider_0: -1622950757085205629
+      hellspider_1: 3519611047249273179
+      hellspider_10: 8457611690966578003
+      hellspider_11: -1506247938060217304
+      hellspider_12: 3853627801438526628
+      hellspider_13: 588970096460487278
+      hellspider_14: -7834779493224047353
+      hellspider_15: -6861679284550209904
+      hellspider_16: -6156365358300421010
+      hellspider_17: -2271894547331588597
+      hellspider_18: 6934761458664364537
+      hellspider_19: 1969910153210540831
+      hellspider_2: -121617853922371914
+      hellspider_20: 1244581237006206112
+      hellspider_21: 908312569273748408
+      hellspider_22: -7438408163493662041
+      hellspider_23: 2166908115200645048
+      hellspider_24: -4032254912726705184
+      hellspider_25: 2442681286596512825
+      hellspider_26: -7182719767527320872
+      hellspider_27: 1728417368688901650
+      hellspider_28: 8414131068222131097
+      hellspider_29: 6642921571836698256
+      hellspider_3: 1190863234231094164
+      hellspider_30: 1551522248701848720
+      hellspider_31: 5879417270086162722
+      hellspider_32: 4675840202972473443
+      hellspider_33: -8352394313592423923
+      hellspider_34: -6951873582872581835
+      hellspider_35: -2146938636581399313
+      hellspider_36: -7362944863568362146
+      hellspider_37: 2447666563546904722
+      hellspider_4: 228578745787090992
+      hellspider_5: -6180095155596031839
+      hellspider_6: -371296269708238510
+      hellspider_7: 13852913286075399
+      hellspider_8: -8109738259062818384
+      hellspider_9: -953740245203275647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

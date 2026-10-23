@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 0785f6b73a66da84280bca6e74834219
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1261039037776664981
+    second: iceknight_0
+  - first:
+      213: -1344142328162599294
+    second: iceknight_1
+  - first:
+      213: -5551440073168811529
+    second: iceknight_2
+  - first:
+      213: 5017493087351335981
+    second: iceknight_3
+  - first:
+      213: 7722366280896812355
+    second: iceknight_4
+  - first:
+      213: -3792892195062650398
+    second: iceknight_5
+  - first:
+      213: -928574361042389994
+    second: iceknight_6
+  - first:
+      213: 8042512754264932999
+    second: iceknight_7
+  - first:
+      213: -5424012849022942818
+    second: iceknight_8
+  - first:
+      213: -4111332698860454438
+    second: iceknight_9
+  - first:
+      213: -248688506974111245
+    second: iceknight_10
+  - first:
+      213: -4773247462844961553
+    second: iceknight_11
+  - first:
+      213: -6086687571311287313
+    second: iceknight_12
+  - first:
+      213: -4864128120916120144
+    second: iceknight_13
+  - first:
+      213: -3892493974513734923
+    second: iceknight_14
+  - first:
+      213: -1539267740467795155
+    second: iceknight_15
+  - first:
+      213: -2428542433057947409
+    second: iceknight_16
+  - first:
+      213: -5835281483893047320
+    second: iceknight_17
+  - first:
+      213: 156458880244727755
+    second: iceknight_18
+  - first:
+      213: 2071700353828799665
+    second: iceknight_19
+  - first:
+      213: -2568810832496160021
+    second: iceknight_20
+  - first:
+      213: -1147761855171430284
+    second: iceknight_21
+  - first:
+      213: 2610356371380971633
+    second: iceknight_22
+  - first:
+      213: 9052510110945359993
+    second: iceknight_23
+  - first:
+      213: 3626802634349857157
+    second: iceknight_24
+  - first:
+      213: 7078414340899857781
+    second: iceknight_25
+  - first:
+      213: -3966903412362725250
+    second: iceknight_26
+  - first:
+      213: 4888817971784632607
+    second: iceknight_27
+  - first:
+      213: 7811490076443944918
+    second: iceknight_28
+  - first:
+      213: 373343489091008364
+    second: iceknight_29
+  - first:
+      213: 6323761589327661703
+    second: iceknight_30
+  - first:
+      213: -1289405078046765119
+    second: iceknight_31
+  - first:
+      213: 6900359422250008314
+    second: iceknight_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iceknight_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5991496d25c108110800000000000000
+      internalID: 1261039037776664981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 345
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e3d429ca5a85de0800000000000000
+      internalID: -1344142328162599294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 345
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f987ee8aa255f2b0800000000000000
+      internalID: -5551440073168811529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 345
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ced8e0167b1a540800000000000000
+      internalID: 5017493087351335981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 345
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3451f46b73b5b2b60800000000000000
+      internalID: 7722366280896812355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 303
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e960f9e4a0fc5bc0800000000000000
+      internalID: -3792892195062650398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6147886d98a0d13f0800000000000000
+      internalID: -928574361042389994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 303
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782828b2dbebc9f60800000000000000
+      internalID: 8042512754264932999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 304
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9145dc2d090ab4b0800000000000000
+      internalID: -5424012849022942818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 261
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add79f271bc91f6c0800000000000000
+      internalID: -4111332698860454438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 261
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f51ade1b7c8cf0800000000000000
+      internalID: -248688506974111245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 217
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec6718e8b402cdb0800000000000000
+      internalID: -4773247462844961553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 217
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3a43d07edb78ba0800000000000000
+      internalID: -6086687571311287313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 220
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd6ecace352f7cb0800000000000000
+      internalID: -4864128120916120144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 220
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa2ce7a551bf9c0800000000000000
+      internalID: -3892493974513734923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 219
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be23b352c63aae0800000000000000
+      internalID: -1539267740467795155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 176
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe04e9b26851c4ed0800000000000000
+      internalID: -2428542433057947409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 177
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eff324386ae40fa0800000000000000
+      internalID: -5835281483893047320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 176
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf31fac58adb2200800000000000000
+      internalID: 156458880244727755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 178
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b44407de7820cc10800000000000000
+      internalID: 2071700353828799665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 133
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be214e17820c95cd0800000000000000
+      internalID: -2568810832496160021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47873cf7ca45210f0800000000000000
+      internalID: -1147761855171430284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 93
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178275d1a49d93420800000000000000
+      internalID: 2610356371380971633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 90
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978b780dbf9f0ad70800000000000000
+      internalID: 9052510110945359993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 85
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589cfd2c7cdf45230800000000000000
+      internalID: 3626802634349857157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 90
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575ed5a07549b3260800000000000000
+      internalID: 7078414340899857781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 93
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b5df2d5ab2f8c0800000000000000
+      internalID: -3966903412362725250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c4c31b0298d340800000000000000
+      internalID: 4888817971784632607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 52
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d72ee466dcf76c60800000000000000
+      internalID: 7811490076443944918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 51
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67797edce16e2500800000000000000
+      internalID: 373343489091008364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a822829a382c750800000000000000
+      internalID: 6323761589327661703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf007fb9ec1b1ee0800000000000000
+      internalID: -1289405078046765119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceknight_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 9
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe3bb9b55003cf50800000000000000
+      internalID: 6900359422250008314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      iceknight_0: 1261039037776664981
+      iceknight_1: -1344142328162599294
+      iceknight_10: -248688506974111245
+      iceknight_11: -4773247462844961553
+      iceknight_12: -6086687571311287313
+      iceknight_13: -4864128120916120144
+      iceknight_14: -3892493974513734923
+      iceknight_15: -1539267740467795155
+      iceknight_16: -2428542433057947409
+      iceknight_17: -5835281483893047320
+      iceknight_18: 156458880244727755
+      iceknight_19: 2071700353828799665
+      iceknight_2: -5551440073168811529
+      iceknight_20: -2568810832496160021
+      iceknight_21: -1147761855171430284
+      iceknight_22: 2610356371380971633
+      iceknight_23: 9052510110945359993
+      iceknight_24: 3626802634349857157
+      iceknight_25: 7078414340899857781
+      iceknight_26: -3966903412362725250
+      iceknight_27: 4888817971784632607
+      iceknight_28: 7811490076443944918
+      iceknight_29: 373343489091008364
+      iceknight_3: 5017493087351335981
+      iceknight_30: 6323761589327661703
+      iceknight_31: -1289405078046765119
+      iceknight_32: 6900359422250008314
+      iceknight_4: 7722366280896812355
+      iceknight_5: -3792892195062650398
+      iceknight_6: -928574361042389994
+      iceknight_7: 8042512754264932999
+      iceknight_8: -5424012849022942818
+      iceknight_9: -4111332698860454438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: fedd331adaef0b84c9c84a703cab7823
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1587296762001334795
+    second: pierrot_0
+  - first:
+      213: -3834858372226786406
+    second: pierrot_1
+  - first:
+      213: -6621652621239188183
+    second: pierrot_2
+  - first:
+      213: 1319791852793092626
+    second: pierrot_3
+  - first:
+      213: -4929402292318675152
+    second: pierrot_4
+  - first:
+      213: -6336928053315966837
+    second: pierrot_5
+  - first:
+      213: 7631178405999767675
+    second: pierrot_6
+  - first:
+      213: 213488527856906455
+    second: pierrot_7
+  - first:
+      213: 4263637559876185365
+    second: pierrot_8
+  - first:
+      213: -6577478478530056860
+    second: pierrot_9
+  - first:
+      213: 9116679526206801254
+    second: pierrot_10
+  - first:
+      213: -3858038095648798531
+    second: pierrot_11
+  - first:
+      213: -6276982869733167084
+    second: pierrot_12
+  - first:
+      213: 2435171497984683566
+    second: pierrot_13
+  - first:
+      213: -5500361497987680567
+    second: pierrot_14
+  - first:
+      213: -1608689840561651507
+    second: pierrot_15
+  - first:
+      213: -5504861998782618943
+    second: pierrot_16
+  - first:
+      213: 8237266854278906916
+    second: pierrot_17
+  - first:
+      213: -5549628940733804307
+    second: pierrot_18
+  - first:
+      213: 5470616601544119402
+    second: pierrot_19
+  - first:
+      213: 2389622649414803510
+    second: pierrot_20
+  - first:
+      213: 2864529695174973317
+    second: pierrot_21
+  - first:
+      213: 4344792693822649681
+    second: pierrot_22
+  - first:
+      213: 116789483550622652
+    second: pierrot_23
+  - first:
+      213: -5995197649113697683
+    second: pierrot_24
+  - first:
+      213: -6778545507370700457
+    second: pierrot_25
+  - first:
+      213: 5681996139463580468
+    second: pierrot_26
+  - first:
+      213: -1777863465987888543
+    second: pierrot_27
+  - first:
+      213: 264634623216608557
+    second: pierrot_28
+  - first:
+      213: -4444183681265147525
+    second: pierrot_29
+  - first:
+      213: -6069518613355399464
+    second: pierrot_30
+  - first:
+      213: 674472612306982291
+    second: pierrot_31
+  - first:
+      213: -7946521294407842741
+    second: pierrot_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pierrot_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd58cb310ac8f9e0800000000000000
+      internalID: -1587296762001334795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b5d7fd0a8d7cac0800000000000000
+      internalID: -3834858372226786406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 260
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250105260a2b14a0800000000000000
+      internalID: -6621652621239188183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21adf2392b7d05210800000000000000
+      internalID: 1319791852793092626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 261
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f59537bbe379bb0800000000000000
+      internalID: -4929402292318675152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 227
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e4ee8285be08a0800000000000000
+      internalID: -6336928053315966837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 228
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b707f3b145467e960800000000000000
+      internalID: 7631178405999767675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 227
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0388a5fa676f200800000000000000
+      internalID: 213488527856906455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 229
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dee6f55cb7b2b30800000000000000
+      internalID: 4263637559876185365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 195
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d60793c2a18b4a0800000000000000
+      internalID: -6577478478530056860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 195
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66502a21ab3f48e70800000000000000
+      internalID: 9116679526206801254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8cde2face757ac0800000000000000
+      internalID: -3858038095648798531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410b75c365da3e8a0800000000000000
+      internalID: -6276982869733167084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e688843977bc120800000000000000
+      internalID: 2435171497984683566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c675381c5acaa3b0800000000000000
+      internalID: -5500361497987680567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00b8bfc19cca9e0800000000000000
+      internalID: -1608689840561651507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 132
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e3099d2dca93b0800000000000000
+      internalID: -5504861998782618943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 133
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c461af86a05270800000000000000
+      internalID: 8237266854278906916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de09550b1e1cbf2b0800000000000000
+      internalID: -5549628940733804307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 133
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64546580d88beb40800000000000000
+      internalID: 5470616601544119402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e89d8325a92120800000000000000
+      internalID: 2389622649414803510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5875671b49ad0c720800000000000000
+      internalID: 2864529695174973317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 67
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f2027fedcb4c30800000000000000
+      internalID: 4344792693822649681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb34980aa6bee9100800000000000000
+      internalID: 116789483550622652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6232568087cccca0800000000000000
+      internalID: -5995197649113697683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751795b76c4cde1a0800000000000000
+      internalID: -6778545507370700457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 67
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b1ed362618ade40800000000000000
+      internalID: 5681996139463580468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aa5a2e892c357e0800000000000000
+      internalID: -1777863465987888543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d256818a9cb2ca300800000000000000
+      internalID: 264634623216608557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b716a99fc761352c0800000000000000
+      internalID: -4444183681265147525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d674559afcb4cba0800000000000000
+      internalID: -6069518613355399464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395994374453c5900800000000000000
+      internalID: 674472612306982291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pierrot_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b444eb63cf848b190800000000000000
+      internalID: -7946521294407842741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pierrot_0: -1587296762001334795
+      pierrot_1: -3834858372226786406
+      pierrot_10: 9116679526206801254
+      pierrot_11: -3858038095648798531
+      pierrot_12: -6276982869733167084
+      pierrot_13: 2435171497984683566
+      pierrot_14: -5500361497987680567
+      pierrot_15: -1608689840561651507
+      pierrot_16: -5504861998782618943
+      pierrot_17: 8237266854278906916
+      pierrot_18: -5549628940733804307
+      pierrot_19: 5470616601544119402
+      pierrot_2: -6621652621239188183
+      pierrot_20: 2389622649414803510
+      pierrot_21: 2864529695174973317
+      pierrot_22: 4344792693822649681
+      pierrot_23: 116789483550622652
+      pierrot_24: -5995197649113697683
+      pierrot_25: -6778545507370700457
+      pierrot_26: 5681996139463580468
+      pierrot_27: -1777863465987888543
+      pierrot_28: 264634623216608557
+      pierrot_29: -4444183681265147525
+      pierrot_3: 1319791852793092626
+      pierrot_30: -6069518613355399464
+      pierrot_31: 674472612306982291
+      pierrot_32: -7946521294407842741
+      pierrot_4: -4929402292318675152
+      pierrot_5: -6336928053315966837
+      pierrot_6: 7631178405999767675
+      pierrot_7: 213488527856906455
+      pierrot_8: 4263637559876185365
+      pierrot_9: -6577478478530056860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

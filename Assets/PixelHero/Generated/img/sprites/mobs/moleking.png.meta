@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 3720900f4902a44478b78a36c3a7b4e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8492647733781832136
+    second: moleking_0
+  - first:
+      213: 3943162214609951004
+    second: moleking_1
+  - first:
+      213: 8266655913384035148
+    second: moleking_2
+  - first:
+      213: -8460298135131430451
+    second: moleking_3
+  - first:
+      213: 8529344613187950143
+    second: moleking_4
+  - first:
+      213: 5302425213912866667
+    second: moleking_5
+  - first:
+      213: -9068270312950492996
+    second: moleking_6
+  - first:
+      213: 9064904518567768995
+    second: moleking_7
+  - first:
+      213: 5232944594098224059
+    second: moleking_8
+  - first:
+      213: -847636735403037889
+    second: moleking_9
+  - first:
+      213: 887486833740535760
+    second: moleking_10
+  - first:
+      213: 8843028049142236464
+    second: moleking_11
+  - first:
+      213: 7036877930127071974
+    second: moleking_12
+  - first:
+      213: -7225125290528407373
+    second: moleking_13
+  - first:
+      213: -2183902827863701542
+    second: moleking_14
+  - first:
+      213: 3884684476867477345
+    second: moleking_15
+  - first:
+      213: 5109522421019332907
+    second: moleking_16
+  - first:
+      213: -2869194693094589222
+    second: moleking_17
+  - first:
+      213: 860087825241530612
+    second: moleking_18
+  - first:
+      213: -7620814606652131337
+    second: moleking_19
+  - first:
+      213: -6389536075617985993
+    second: moleking_20
+  - first:
+      213: 8797928725859181495
+    second: moleking_21
+  - first:
+      213: 1321557853795662135
+    second: moleking_22
+  - first:
+      213: 4568835074587029037
+    second: moleking_23
+  - first:
+      213: -7216169627718847544
+    second: moleking_24
+  - first:
+      213: 9011327956959797704
+    second: moleking_25
+  - first:
+      213: 2389949133504830963
+    second: moleking_26
+  - first:
+      213: -4914922827343479222
+    second: moleking_27
+  - first:
+      213: 6543894587897754668
+    second: moleking_28
+  - first:
+      213: -441100681795306118
+    second: moleking_29
+  - first:
+      213: -2986609048876752381
+    second: moleking_30
+  - first:
+      213: -8374383008549534971
+    second: moleking_31
+  - first:
+      213: -5296397727495518367
+    second: moleking_32
+  - first:
+      213: 4840014242774579467
+    second: moleking_33
+  - first:
+      213: 3455889200994887579
+    second: moleking_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moleking_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 259
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5861d1ed042a80800000000000000
+      internalID: -8492647733781832136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 259
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c199195742de8b630800000000000000
+      internalID: 3943162214609951004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 259
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4343ad21cf09b270800000000000000
+      internalID: 8266655913384035148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 259
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc16791bbabf69a80800000000000000
+      internalID: -8460298135131430451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 255
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3695fb3cb15e5670800000000000000
+      internalID: 8529344613187950143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 227
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fd95b73aff59940800000000000000
+      internalID: 5302425213912866667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 228
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb09d553238072280800000000000000
+      internalID: -9068270312950492996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 227
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3b018b1a20dcd70800000000000000
+      internalID: 9064904518567768995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 228
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb768c02672f9840800000000000000
+      internalID: 5232944594098224059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3beabf41e69c34f0800000000000000
+      internalID: -847636735403037889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 195
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7d0fbb29cf05c00800000000000000
+      internalID: 887486833740535760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03540f7882fb8ba70800000000000000
+      internalID: 8843028049142236464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 164
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea9209c13308a160800000000000000
+      internalID: 7036877930127071974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 164
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b00d5024d23bbb90800000000000000
+      internalID: -7225125290528407373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 164
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78639e2f731b1e0800000000000000
+      internalID: -2183902827863701542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 164
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ff82423fb29e530800000000000000
+      internalID: 3884684476867477345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2150cc029ba8e640800000000000000
+      internalID: 5109522421019332907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 133
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc39a6d0a29e28d0800000000000000
+      internalID: -2869194693094589222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0e823f155afeb00800000000000000
+      internalID: 860087825241530612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 133
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f73467fd7d6d3690800000000000000
+      internalID: -7620814606652131337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a1f3ddacec357a0800000000000000
+      internalID: -6389536075617985993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3aa001095881a70800000000000000
+      internalID: 8797928725859181495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7393e99bddd175210800000000000000
+      internalID: 1321557853795662135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eea1a2b43c76f30800000000000000
+      internalID: 4568835074587029037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3fadcd4f30bdb90800000000000000
+      internalID: -7216169627718847544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1a225680bae0d70800000000000000
+      internalID: 9011327956959797704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 67
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fddecd031eca2120800000000000000
+      internalID: 2389949133504830963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ebbb99abfaacbb0800000000000000
+      internalID: -4914922827343479222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c243f37e47590da50800000000000000
+      internalID: 6543894587897754668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d78675445e0e9f0800000000000000
+      internalID: -441100681795306118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ebbec4ee6d86d0800000000000000
+      internalID: -2986609048876752381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503865ae50738cb80800000000000000
+      internalID: -8374383008549534971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167817f045a6f76b0800000000000000
+      internalID: -5296397727495518367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09f8607f4f2b2340800000000000000
+      internalID: 4840014242774579467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moleking_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97a8601be8c5ff20800000000000000
+      internalID: 3455889200994887579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      moleking_0: -8492647733781832136
+      moleking_1: 3943162214609951004
+      moleking_10: 887486833740535760
+      moleking_11: 8843028049142236464
+      moleking_12: 7036877930127071974
+      moleking_13: -7225125290528407373
+      moleking_14: -2183902827863701542
+      moleking_15: 3884684476867477345
+      moleking_16: 5109522421019332907
+      moleking_17: -2869194693094589222
+      moleking_18: 860087825241530612
+      moleking_19: -7620814606652131337
+      moleking_2: 8266655913384035148
+      moleking_20: -6389536075617985993
+      moleking_21: 8797928725859181495
+      moleking_22: 1321557853795662135
+      moleking_23: 4568835074587029037
+      moleking_24: -7216169627718847544
+      moleking_25: 9011327956959797704
+      moleking_26: 2389949133504830963
+      moleking_27: -4914922827343479222
+      moleking_28: 6543894587897754668
+      moleking_29: -441100681795306118
+      moleking_3: -8460298135131430451
+      moleking_30: -2986609048876752381
+      moleking_31: -8374383008549534971
+      moleking_32: -5296397727495518367
+      moleking_33: 4840014242774579467
+      moleking_34: 3455889200994887579
+      moleking_4: 8529344613187950143
+      moleking_5: 5302425213912866667
+      moleking_6: -9068270312950492996
+      moleking_7: 9064904518567768995
+      moleking_8: 5232944594098224059
+      moleking_9: -847636735403037889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

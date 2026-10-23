@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: ad53e5cbe5437cc409f7d052665ca069
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6704936832128574524
+    second: yellowmouse_0
+  - first:
+      213: -7629348765867763918
+    second: yellowmouse_1
+  - first:
+      213: 4789389630384349152
+    second: yellowmouse_2
+  - first:
+      213: -527295923433522301
+    second: yellowmouse_3
+  - first:
+      213: 3964190389050060469
+    second: yellowmouse_4
+  - first:
+      213: -210159764096973386
+    second: yellowmouse_5
+  - first:
+      213: 2240762599038462508
+    second: yellowmouse_6
+  - first:
+      213: 9210864115631062178
+    second: yellowmouse_7
+  - first:
+      213: -6072327081217157587
+    second: yellowmouse_8
+  - first:
+      213: 2393287245871698406
+    second: yellowmouse_9
+  - first:
+      213: -2970161474957888495
+    second: yellowmouse_10
+  - first:
+      213: -9110591639277879958
+    second: yellowmouse_11
+  - first:
+      213: 8765627114807103982
+    second: yellowmouse_12
+  - first:
+      213: -1235803561588261433
+    second: yellowmouse_13
+  - first:
+      213: 5972856050314426567
+    second: yellowmouse_14
+  - first:
+      213: 7931594269021097232
+    second: yellowmouse_15
+  - first:
+      213: -7880829342766053101
+    second: yellowmouse_16
+  - first:
+      213: 3617129952128174284
+    second: yellowmouse_17
+  - first:
+      213: -3990597850264692571
+    second: yellowmouse_18
+  - first:
+      213: -6215112687452947403
+    second: yellowmouse_19
+  - first:
+      213: -1527133477715159564
+    second: yellowmouse_20
+  - first:
+      213: -3820295847008921208
+    second: yellowmouse_21
+  - first:
+      213: -2716242807098465723
+    second: yellowmouse_22
+  - first:
+      213: 9016482232879131627
+    second: yellowmouse_23
+  - first:
+      213: 6940376185732445963
+    second: yellowmouse_24
+  - first:
+      213: 1895501909219008345
+    second: yellowmouse_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellowmouse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34e4784688bc0d50800000000000000
+      internalID: 6704936832128574524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 209
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23713ee28bb1f1690800000000000000
+      internalID: -7629348765867763918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 209
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef9ff95e74577240800000000000000
+      internalID: 4789389630384349152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bbb30c62baea8f0800000000000000
+      internalID: -527295923433522301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 184
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bea859d722a30730800000000000000
+      internalID: 3964190389050060469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 184
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b58beadecc551df0800000000000000
+      internalID: -210159764096973386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a2ba536b9c81f10800000000000000
+      internalID: 2240762599038462508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acf496ac1093df70800000000000000
+      internalID: 9210864115631062178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26111431b2cabba0800000000000000
+      internalID: -6072327081217157587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1d7a7e11aa63120800000000000000
+      internalID: 2393287245871698406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114b59700edd7c6d0800000000000000
+      internalID: -2970161474957888495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6db23f8c2da09180800000000000000
+      internalID: -9110591639277879958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee11c9b2b63c5a970800000000000000
+      internalID: 8765627114807103982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd7e53553b89dee0800000000000000
+      internalID: -1235803561588261433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b885aee8d3e250800000000000000
+      internalID: 5972856050314426567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dc68bd6fea21e60800000000000000
+      internalID: 7931594269021097232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31944f8977ba1a290800000000000000
+      internalID: -7880829342766053101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8860fe680a23230800000000000000
+      internalID: 3617129952128174284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a81985f56c8e98c0800000000000000
+      internalID: -3990597850264692571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf75990fb7fb9a0800000000000000
+      internalID: -6215112687452947403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f55e2071388ecae0800000000000000
+      internalID: -1527133477715159564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889122efa259bfac0800000000000000
+      internalID: -3820295847008921208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 29
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542af27ee87fd4ad0800000000000000
+      internalID: -2716242807098465723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba166c1daf02d70800000000000000
+      internalID: 9016482232879131627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07b9268e5b215060800000000000000
+      internalID: 6940376185732445963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowmouse_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd21291fc2e4a10800000000000000
+      internalID: 1895501909219008345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yellowmouse_0: 6704936832128574524
+      yellowmouse_1: -7629348765867763918
+      yellowmouse_10: -2970161474957888495
+      yellowmouse_11: -9110591639277879958
+      yellowmouse_12: 8765627114807103982
+      yellowmouse_13: -1235803561588261433
+      yellowmouse_14: 5972856050314426567
+      yellowmouse_15: 7931594269021097232
+      yellowmouse_16: -7880829342766053101
+      yellowmouse_17: 3617129952128174284
+      yellowmouse_18: -3990597850264692571
+      yellowmouse_19: -6215112687452947403
+      yellowmouse_2: 4789389630384349152
+      yellowmouse_20: -1527133477715159564
+      yellowmouse_21: -3820295847008921208
+      yellowmouse_22: -2716242807098465723
+      yellowmouse_23: 9016482232879131627
+      yellowmouse_24: 6940376185732445963
+      yellowmouse_25: 1895501909219008345
+      yellowmouse_3: -527295923433522301
+      yellowmouse_4: 3964190389050060469
+      yellowmouse_5: -210159764096973386
+      yellowmouse_6: 2240762599038462508
+      yellowmouse_7: 9210864115631062178
+      yellowmouse_8: -6072327081217157587
+      yellowmouse_9: 2393287245871698406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

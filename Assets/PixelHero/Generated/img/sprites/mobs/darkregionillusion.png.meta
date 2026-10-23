@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 5c081afa260f5ed47b748f3e49c56892
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4553909043575023027
+    second: darkregionillusion_0
+  - first:
+      213: -4050394137577268675
+    second: darkregionillusion_1
+  - first:
+      213: -8728536581421179408
+    second: darkregionillusion_2
+  - first:
+      213: -3722684000183031939
+    second: darkregionillusion_3
+  - first:
+      213: -3804464657861950082
+    second: darkregionillusion_4
+  - first:
+      213: 2610005218526195306
+    second: darkregionillusion_5
+  - first:
+      213: -8435948731901207701
+    second: darkregionillusion_6
+  - first:
+      213: -3915324177115367076
+    second: darkregionillusion_7
+  - first:
+      213: 939782338758610187
+    second: darkregionillusion_8
+  - first:
+      213: 8999449461388228609
+    second: darkregionillusion_9
+  - first:
+      213: 5641603730456855826
+    second: darkregionillusion_10
+  - first:
+      213: -2833678884436249184
+    second: darkregionillusion_11
+  - first:
+      213: 1809919884654420863
+    second: darkregionillusion_12
+  - first:
+      213: -8744514004781381244
+    second: darkregionillusion_13
+  - first:
+      213: 6179581979159180334
+    second: darkregionillusion_14
+  - first:
+      213: -5824250443178854268
+    second: darkregionillusion_15
+  - first:
+      213: -2092698209856688827
+    second: darkregionillusion_16
+  - first:
+      213: -7927095019147285247
+    second: darkregionillusion_17
+  - first:
+      213: -46981138835963379
+    second: darkregionillusion_18
+  - first:
+      213: -6208525521877250653
+    second: darkregionillusion_19
+  - first:
+      213: 1483546067003906241
+    second: darkregionillusion_20
+  - first:
+      213: 8374468610240351549
+    second: darkregionillusion_21
+  - first:
+      213: -8536915075977802895
+    second: darkregionillusion_22
+  - first:
+      213: -7520754590681373052
+    second: darkregionillusion_23
+  - first:
+      213: 9057573393065893045
+    second: darkregionillusion_24
+  - first:
+      213: 3148694899941366403
+    second: darkregionillusion_25
+  - first:
+      213: -1368743416357694532
+    second: darkregionillusion_26
+  - first:
+      213: 8927331533641091126
+    second: darkregionillusion_27
+  - first:
+      213: -5348673635984542353
+    second: darkregionillusion_28
+  - first:
+      213: 6642900334932739954
+    second: darkregionillusion_29
+  - first:
+      213: -4686159078022374045
+    second: darkregionillusion_30
+  - first:
+      213: -4228290497505938004
+    second: darkregionillusion_31
+  - first:
+      213: 8805932406184580271
+    second: darkregionillusion_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkregionillusion_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 345
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b56ab1c52cb23f30800000000000000
+      internalID: 4553909043575023027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 345
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ad165edfb1ac7c0800000000000000
+      internalID: -4050394137577268675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 344
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd536799320ed680800000000000000
+      internalID: -8728536581421179408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 345
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d776f0e10ae565cc0800000000000000
+      internalID: -3722684000183031939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 345
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e754c93fc83d33bc0800000000000000
+      internalID: -3804464657861950082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 303
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e6b28fae9983420800000000000000
+      internalID: 2610005218526195306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 303
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b1f9be25d7dea80800000000000000
+      internalID: -8435948731901207701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 303
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593a8ab769f9a9c0800000000000000
+      internalID: -3915324177115367076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 303
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d84e3de07ca0d00800000000000000
+      internalID: 939782338758610187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 260
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1083020aa9774ec70800000000000000
+      internalID: 8999449461388228609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 260
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215466dc3b00b4e40800000000000000
+      internalID: 5641603730456855826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 218
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f6ad6110cca8d0800000000000000
+      internalID: -2833678884436249184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 219
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f732eb4bb802e1910800000000000000
+      internalID: 1809919884654420863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489c393d7de35a680800000000000000
+      internalID: -8744514004781381244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 219
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e243038b11942c550800000000000000
+      internalID: 6179581979159180334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 218
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488b963841b1c2fa0800000000000000
+      internalID: -5824250443178854268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 176
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d6563d01e35f2e0800000000000000
+      internalID: -2092698209856688827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d25f2641d4df190800000000000000
+      internalID: -7927095019147285247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 176
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020a8437e6195ff0800000000000000
+      internalID: -46981138835963379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4f899ee2e6d9a0800000000000000
+      internalID: -6208525521877250653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c812bba94d969410800000000000000
+      internalID: 1483546067003906241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 133
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d0908c4d6183470800000000000000
+      internalID: 8374468610240351549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 93
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b8aaa08f8c68980800000000000000
+      internalID: -8536915075977802895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4866c83eb89e0a790800000000000000
+      internalID: -7520754590681373052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 91
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd8bc0307f2bd70800000000000000
+      internalID: 9057573393065893045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 93
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ad619345962bb20800000000000000
+      internalID: 3148694899941366403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 93
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3585f5d1f310de0800000000000000
+      internalID: -1368743416357694532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63802d61bb044eb70800000000000000
+      internalID: 8927331533641091126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f4a3aaa1b5c5b0800000000000000
+      internalID: -5348673635984542353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2774df5b8a2503c50800000000000000
+      internalID: 6642900334932739954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 52
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d1189952b67feb0800000000000000
+      internalID: -4686159078022374045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5bff8e1381255c0800000000000000
+      internalID: -4228290497505938004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkregionillusion_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa49bba1ed4f43a70800000000000000
+      internalID: 8805932406184580271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkregionillusion_0: 4553909043575023027
+      darkregionillusion_1: -4050394137577268675
+      darkregionillusion_10: 5641603730456855826
+      darkregionillusion_11: -2833678884436249184
+      darkregionillusion_12: 1809919884654420863
+      darkregionillusion_13: -8744514004781381244
+      darkregionillusion_14: 6179581979159180334
+      darkregionillusion_15: -5824250443178854268
+      darkregionillusion_16: -2092698209856688827
+      darkregionillusion_17: -7927095019147285247
+      darkregionillusion_18: -46981138835963379
+      darkregionillusion_19: -6208525521877250653
+      darkregionillusion_2: -8728536581421179408
+      darkregionillusion_20: 1483546067003906241
+      darkregionillusion_21: 8374468610240351549
+      darkregionillusion_22: -8536915075977802895
+      darkregionillusion_23: -7520754590681373052
+      darkregionillusion_24: 9057573393065893045
+      darkregionillusion_25: 3148694899941366403
+      darkregionillusion_26: -1368743416357694532
+      darkregionillusion_27: 8927331533641091126
+      darkregionillusion_28: -5348673635984542353
+      darkregionillusion_29: 6642900334932739954
+      darkregionillusion_3: -3722684000183031939
+      darkregionillusion_30: -4686159078022374045
+      darkregionillusion_31: -4228290497505938004
+      darkregionillusion_32: 8805932406184580271
+      darkregionillusion_4: -3804464657861950082
+      darkregionillusion_5: 2610005218526195306
+      darkregionillusion_6: -8435948731901207701
+      darkregionillusion_7: -3915324177115367076
+      darkregionillusion_8: 939782338758610187
+      darkregionillusion_9: 8999449461388228609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

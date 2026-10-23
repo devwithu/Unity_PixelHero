@@ -1,0 +1,115 @@
+{
+ "seed": 7,
+ "database": {},
+ "end": 16000,
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.0.1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 1,
+     "username": "Tester",
+     "password": "secret123",
+     "email": "tester@example.com"
+    }
+   ]
+  },
+  {
+   "t": 2600,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 4000,
+   "close": 0
+  },
+  {
+   "t": 10000,
+   "open": 1,
+   "address": "10.0.0.1"
+  },
+  {
+   "t": 10400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 10700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "tester",
+     "password": "wrong"
+    }
+   ]
+  },
+  {
+   "t": 12000,
+   "open": 2,
+   "address": "10.0.0.2"
+  },
+  {
+   "t": 12400,
+   "conn": 2,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 12700,
+   "conn": 2,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "tester",
+     "password": "secret123"
+    }
+   ]
+  },
+  {
+   "t": 13300,
+   "conn": 2,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  }
+ ]
+}

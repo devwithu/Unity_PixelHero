@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 75c35fcd1470a7a429e9f4a505688614
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1338497947621652254
+    second: pinkelf_0
+  - first:
+      213: 6140910320250910641
+    second: pinkelf_1
+  - first:
+      213: -3602330695482871036
+    second: pinkelf_2
+  - first:
+      213: -4797582256462120450
+    second: pinkelf_3
+  - first:
+      213: 4655419169544664353
+    second: pinkelf_4
+  - first:
+      213: 6798830126783344784
+    second: pinkelf_5
+  - first:
+      213: 8035128709881344776
+    second: pinkelf_6
+  - first:
+      213: -4365673473662396386
+    second: pinkelf_7
+  - first:
+      213: 8448113456314470309
+    second: pinkelf_8
+  - first:
+      213: 3379698812506610115
+    second: pinkelf_9
+  - first:
+      213: 4929659061776057024
+    second: pinkelf_10
+  - first:
+      213: 7894126805611303131
+    second: pinkelf_11
+  - first:
+      213: 6008357686580869504
+    second: pinkelf_12
+  - first:
+      213: 8264608685474932194
+    second: pinkelf_13
+  - first:
+      213: 3205435261077759219
+    second: pinkelf_14
+  - first:
+      213: 7939618574092420508
+    second: pinkelf_15
+  - first:
+      213: 5597726330319599364
+    second: pinkelf_16
+  - first:
+      213: -1168760715891421423
+    second: pinkelf_17
+  - first:
+      213: -3397134415419026457
+    second: pinkelf_18
+  - first:
+      213: -5404394321799717873
+    second: pinkelf_19
+  - first:
+      213: 7239881547947069102
+    second: pinkelf_20
+  - first:
+      213: -9189690495191637986
+    second: pinkelf_21
+  - first:
+      213: 1161723231336844731
+    second: pinkelf_22
+  - first:
+      213: 5658121642197948707
+    second: pinkelf_23
+  - first:
+      213: 4052872526285324775
+    second: pinkelf_24
+  - first:
+      213: 9114372950991423756
+    second: pinkelf_25
+  - first:
+      213: -2841901863771087591
+    second: pinkelf_26
+  - first:
+      213: 8912537943474322709
+    second: pinkelf_27
+  - first:
+      213: 2703329382531267467
+    second: pinkelf_28
+  - first:
+      213: -5128224688606765838
+    second: pinkelf_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinkelf_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 262
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e80c635533bc6de0800000000000000
+      internalID: -1338497947621652254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f51c7665e83550800000000000000
+      internalID: 6140910320250910641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 262
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403f1448153f10ec0800000000000000
+      internalID: -3602330695482871036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 262
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bbde3b509b6db0800000000000000
+      internalID: -4797582256462120450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 230
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125f049b11f5b9040800000000000000
+      internalID: 4655419169544664353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09035238afb4a5e50800000000000000
+      internalID: 6798830126783344784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 230
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803350d5df2828f60800000000000000
+      internalID: 8035128709881344776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d1052b130a63c0800000000000000
+      internalID: -4365673473662396386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af42d1bd6abd3570800000000000000
+      internalID: 8448113456314470309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9144fd92a17ee20800000000000000
+      internalID: 3379698812506610115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c282f85ccaa96440800000000000000
+      internalID: 4929659061776057024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 173
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0d95c31829d8d60800000000000000
+      internalID: 7894126805611303131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f3287b79f16350800000000000000
+      internalID: 6008357686580869504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56759cfc9c1b270800000000000000
+      internalID: 8264608685474932194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f42d07036efb7c20800000000000000
+      internalID: 3205435261077759219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c954fd8f6013f2e60800000000000000
+      internalID: 7939618574092420508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407fc8c707e1fad40800000000000000
+      internalID: 5597726330319599364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 139
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f4cdd325ab7cfe0800000000000000
+      internalID: -1168760715891421423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3d1ba7f34fad0d0800000000000000
+      internalID: -3397134415419026457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c5dfe7ffbbff4b0800000000000000
+      internalID: -5404394321799717873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae4a49c8e9397460800000000000000
+      internalID: 7239881547947069102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10a1560f29a77080800000000000000
+      internalID: -9189690495191637986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdc623bf154f1010800000000000000
+      internalID: 1161723231336844731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3299823d7afa58e40800000000000000
+      internalID: 5658121642197948707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e14d21f612be3830800000000000000
+      internalID: 4052872526285324775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c54ea8e1cc7e70800000000000000
+      internalID: 9114372950991423756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d576bdf498f88d0800000000000000
+      internalID: -2841901863771087591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d3af7f902bfab70800000000000000
+      internalID: 8912537943474322709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bf6a420c7248520800000000000000
+      internalID: 2703329382531267467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkelf_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc9433f0d2e4d8b0800000000000000
+      internalID: -5128224688606765838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pinkelf_0: -1338497947621652254
+      pinkelf_1: 6140910320250910641
+      pinkelf_10: 4929659061776057024
+      pinkelf_11: 7894126805611303131
+      pinkelf_12: 6008357686580869504
+      pinkelf_13: 8264608685474932194
+      pinkelf_14: 3205435261077759219
+      pinkelf_15: 7939618574092420508
+      pinkelf_16: 5597726330319599364
+      pinkelf_17: -1168760715891421423
+      pinkelf_18: -3397134415419026457
+      pinkelf_19: -5404394321799717873
+      pinkelf_2: -3602330695482871036
+      pinkelf_20: 7239881547947069102
+      pinkelf_21: -9189690495191637986
+      pinkelf_22: 1161723231336844731
+      pinkelf_23: 5658121642197948707
+      pinkelf_24: 4052872526285324775
+      pinkelf_25: 9114372950991423756
+      pinkelf_26: -2841901863771087591
+      pinkelf_27: 8912537943474322709
+      pinkelf_28: 2703329382531267467
+      pinkelf_29: -5128224688606765838
+      pinkelf_3: -4797582256462120450
+      pinkelf_4: 4655419169544664353
+      pinkelf_5: 6798830126783344784
+      pinkelf_6: 8035128709881344776
+      pinkelf_7: -4365673473662396386
+      pinkelf_8: 8448113456314470309
+      pinkelf_9: 3379698812506610115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

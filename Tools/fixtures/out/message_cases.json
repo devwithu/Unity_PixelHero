@@ -1,0 +1,1628 @@
+[
+ {
+  "input": "crafting:INVALID_DATA",
+  "format": "Invalid crafting data, please submit a bug report.",
+  "parse": "crafting:INVALID_DATA",
+  "both": "Invalid crafting data, please submit a bug report."
+ },
+ {
+  "input": "crafting:INVALID_ITEM",
+  "format": "Invalid item selected.",
+  "parse": "crafting:INVALID_ITEM",
+  "both": "Invalid item selected."
+ },
+ {
+  "input": "crafting:INVALID_ITEMS",
+  "format": "You do not have the required items to craft that.",
+  "parse": "crafting:INVALID_ITEMS",
+  "both": "You do not have the required items to craft that."
+ },
+ {
+  "input": "crafting:SELECT_ITEM",
+  "format": "Please select an item to craft.",
+  "parse": "crafting:SELECT_ITEM",
+  "both": "Please select an item to craft."
+ },
+ {
+  "input": "crafting:FAILED_CRAFT",
+  "format": "You have failed to craft {{failedText}}.",
+  "parse": "crafting:FAILED_CRAFT",
+  "both": "You have failed to craft {{failedText}}."
+ },
+ {
+  "input": "crafting:FAILED_CRAFT;failedText=Bob",
+  "format": "You have failed to craft Bob.",
+  "parse": "crafting:FAILED_CRAFT;failedText=Bob",
+  "both": "You have failed to craft Bob."
+ },
+ {
+  "input": "crafting:FAILED_CRAFT;failedText=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You have failed to craft &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;.",
+  "parse": "crafting:FAILED_CRAFT;failedText=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You have failed to craft &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;."
+ },
+ {
+  "input": "crafting:FAILED_CRAFT;failedText",
+  "format": "You have failed to craft .",
+  "parse": "crafting:FAILED_CRAFT;failedText",
+  "both": "You have failed to craft ."
+ },
+ {
+  "input": "crafting:FAILED_CRAFT_ONE",
+  "format": " You have failed to craft the item.",
+  "parse": "crafting:FAILED_CRAFT_ONE",
+  "both": " You have failed to craft the item."
+ },
+ {
+  "input": "enchant:NO_ITEM_SELECTED",
+  "format": "You have not selected an item to enchant.",
+  "parse": "enchant:NO_ITEM_SELECTED",
+  "both": "You have not selected an item to enchant."
+ },
+ {
+  "input": "enchant:CANNOT_ENCHANT",
+  "format": "The item you have selected cannot be enchanted.",
+  "parse": "enchant:CANNOT_ENCHANT",
+  "both": "The item you have selected cannot be enchanted."
+ },
+ {
+  "input": "enchant:NO_SHARD",
+  "format": "You must provide a shard to enchant an item.",
+  "parse": "enchant:NO_SHARD",
+  "both": "You must provide a shard to enchant an item."
+ },
+ {
+  "input": "enchant:FAILED_ENCHANT",
+  "format": "You tried enchanting but nothing happened.",
+  "parse": "enchant:FAILED_ENCHANT",
+  "both": "You tried enchanting but nothing happened."
+ },
+ {
+  "input": "enchant:SUCCESSFUL_ENCHANT",
+  "format": "You successfully enchanted your item.",
+  "parse": "enchant:SUCCESSFUL_ENCHANT",
+  "both": "You successfully enchanted your item."
+ },
+ {
+  "input": "guilds:ALREADY_EXISTS",
+  "format": "A guild with that name already exists.",
+  "parse": "guilds:ALREADY_EXISTS",
+  "both": "A guild with that name already exists."
+ },
+ {
+  "input": "guilds:ALREADY_IN_GUILD",
+  "format": "You are already in a guild.",
+  "parse": "guilds:ALREADY_IN_GUILD",
+  "both": "You are already in a guild."
+ },
+ {
+  "input": "guilds:CANNOT_KICK_YOURSELF",
+  "format": "You cannot kick yourself from the guild.",
+  "parse": "guilds:CANNOT_KICK_YOURSELF",
+  "both": "You cannot kick yourself from the guild."
+ },
+ {
+  "input": "guilds:GUILD_FULL",
+  "format": "This guild is at maximum capacity.",
+  "parse": "guilds:GUILD_FULL",
+  "both": "This guild is at maximum capacity."
+ },
+ {
+  "input": "guilds:MUST_FINISH_TUTORIAL_CREATE",
+  "format": "You must finish the tutorial before creating a guild.",
+  "parse": "guilds:MUST_FINISH_TUTORIAL_CREATE",
+  "both": "You must finish the tutorial before creating a guild."
+ },
+ {
+  "input": "guilds:NO_PERMISSION",
+  "format": "You do not have permission to do that.",
+  "parse": "guilds:NO_PERMISSION",
+  "both": "You do not have permission to do that."
+ },
+ {
+  "input": "guilds:NO_PERMISSION_RANK",
+  "format": "You do not have permission to update the rank of that member.",
+  "parse": "guilds:NO_PERMISSION_RANK",
+  "both": "You do not have permission to update the rank of that member."
+ },
+ {
+  "input": "guilds:NOT_ENOUGH_GOLD",
+  "format": "You need 30,000 gold in your inventory to create a guild.",
+  "parse": "guilds:NOT_ENOUGH_GOLD",
+  "both": "You need 30,000 gold in your inventory to create a guild."
+ },
+ {
+  "input": "guilds:NOT_ALLOWED_GUESTS_JOIN",
+  "format": "Guests are not allowed to join guilds.",
+  "parse": "guilds:NOT_ALLOWED_GUESTS_JOIN",
+  "both": "Guests are not allowed to join guilds."
+ },
+ {
+  "input": "guilds:NOT_ALLOWED_GUESTS_CREATE",
+  "format": "Guests are not allowed to create guilds.",
+  "parse": "guilds:NOT_ALLOWED_GUESTS_CREATE",
+  "both": "Guests are not allowed to create guilds."
+ },
+ {
+  "input": "item:CANNOT_ACCESS_LOOTBAG",
+  "format": "You cannot access this lootbag right now.",
+  "parse": "item:CANNOT_ACCESS_LOOTBAG",
+  "both": "You cannot access this lootbag right now."
+ },
+ {
+  "input": "item:REQUIRES_ACHIEVEMENT",
+  "format": "This item requires a secret achievement to equip.",
+  "parse": "item:REQUIRES_ACHIEVEMENT",
+  "both": "This item requires a secret achievement to equip."
+ },
+ {
+  "input": "item:REQUIRES_QUEST",
+  "format": "You must complete {{quest}} to equip this item.",
+  "parse": "item:REQUIRES_QUEST",
+  "both": "You must complete {{quest}} to equip this item."
+ },
+ {
+  "input": "item:REQUIRES_QUEST;quest=Bob",
+  "format": "You must complete Bob to equip this item.",
+  "parse": "item:REQUIRES_QUEST;quest=Bob",
+  "both": "You must complete Bob to equip this item."
+ },
+ {
+  "input": "item:REQUIRES_QUEST;quest=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must complete &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to equip this item.",
+  "parse": "item:REQUIRES_QUEST;quest=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must complete &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to equip this item."
+ },
+ {
+  "input": "item:REQUIRES_QUEST;quest",
+  "format": "You must complete  to equip this item.",
+  "parse": "item:REQUIRES_QUEST;quest",
+  "both": "You must complete  to equip this item."
+ },
+ {
+  "input": "item:SKILL_LEVEL_REQUIREMENT_EQUIP",
+  "format": "Your {{skill}} must be at least level {{level}} to equip this.",
+  "parse": "item:SKILL_LEVEL_REQUIREMENT_EQUIP",
+  "both": "Your {{skill}} must be at least level {{level}} to equip this."
+ },
+ {
+  "input": "item:SKILL_LEVEL_REQUIREMENT_EQUIP;skill=Bob;level=13",
+  "format": "Your Bob must be at least level 13 to equip this.",
+  "parse": "item:SKILL_LEVEL_REQUIREMENT_EQUIP;skill=Bob;level=13",
+  "both": "Your Bob must be at least level 13 to equip this."
+ },
+ {
+  "input": "item:SKILL_LEVEL_REQUIREMENT_EQUIP;skill=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "Your &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; must be at least level {{level}} to equip this.",
+  "parse": "item:SKILL_LEVEL_REQUIREMENT_EQUIP;skill=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "Your &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; must be at least level {{level}} to equip this."
+ },
+ {
+  "input": "item:SKILL_LEVEL_REQUIREMENT_EQUIP;skill",
+  "format": "Your  must be at least level {{level}} to equip this.",
+  "parse": "item:SKILL_LEVEL_REQUIREMENT_EQUIP;skill",
+  "both": "Your  must be at least level {{level}} to equip this."
+ },
+ {
+  "input": "item:TOTAL_LEVEL_REQUIREMENT",
+  "format": "Your total level must be at least {{level}} to equip this item.",
+  "parse": "item:TOTAL_LEVEL_REQUIREMENT",
+  "both": "Your total level must be at least {{level}} to equip this item."
+ },
+ {
+  "input": "item:TOTAL_LEVEL_REQUIREMENT;level=Bob",
+  "format": "Your total level must be at least Bob to equip this item.",
+  "parse": "item:TOTAL_LEVEL_REQUIREMENT;level=Bob",
+  "both": "Your total level must be at least Bob to equip this item."
+ },
+ {
+  "input": "item:TOTAL_LEVEL_REQUIREMENT;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "Your total level must be at least &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to equip this item.",
+  "parse": "item:TOTAL_LEVEL_REQUIREMENT;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "Your total level must be at least &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to equip this item."
+ },
+ {
+  "input": "item:TOTAL_LEVEL_REQUIREMENT;level",
+  "format": "Your total level must be at least  to equip this item.",
+  "parse": "item:TOTAL_LEVEL_REQUIREMENT;level",
+  "both": "Your total level must be at least  to equip this item."
+ },
+ {
+  "input": "misc:ACCEPTED_TRADE",
+  "format": "You have accepted the trade.",
+  "parse": "misc:ACCEPTED_TRADE",
+  "both": "You have accepted the trade."
+ },
+ {
+  "input": "misc:ACCEPTED_TRADE_OTHER",
+  "format": "The other player has accepted the trade.",
+  "parse": "misc:ACCEPTED_TRADE_OTHER",
+  "both": "The other player has accepted the trade."
+ },
+ {
+  "input": "misc:ALREADY_HAVE_PET",
+  "format": "You already have a pet.",
+  "parse": "misc:ALREADY_HAVE_PET",
+  "both": "You already have a pet."
+ },
+ {
+  "input": "misc:BLACK_POTION",
+  "format": "You drink the black potion and start feeling unwell.",
+  "parse": "misc:BLACK_POTION",
+  "both": "You drink the black potion and start feeling unwell."
+ },
+ {
+  "input": "misc:CANNOT_ADD_ITEMS_TRADE",
+  "format": "You cannot add any more items to the trade.",
+  "parse": "misc:CANNOT_ADD_ITEMS_TRADE",
+  "both": "You cannot add any more items to the trade."
+ },
+ {
+  "input": "misc:CANNOT_ATTACK_CHEATER",
+  "format": "That player is a cheater, you do not wanna attack someone like that",
+  "parse": "misc:CANNOT_ATTACK_CHEATER",
+  "both": "That player is a cheater, you do not wanna attack someone like that"
+ },
+ {
+  "input": "misc:CANNOT_ATTACK_CHEATER_SELF",
+  "format": "Sorry but cheaters cannot attack other players, that would not be fair to them!",
+  "parse": "misc:CANNOT_ATTACK_CHEATER_SELF",
+  "both": "Sorry but cheaters cannot attack other players, that would not be fair to them!"
+ },
+ {
+  "input": "misc:CANNOT_ATTACK_MOB",
+  "format": "You have no reason to attack these creatures.",
+  "parse": "misc:CANNOT_ATTACK_MOB",
+  "both": "You have no reason to attack these creatures."
+ },
+ {
+  "input": "misc:CANNOT_ATTACK_PET",
+  "format": "Are you crazy? Are you out of your mind? Why would you attack a pet?",
+  "parse": "misc:CANNOT_ATTACK_PET",
+  "both": "Are you crazy? Are you out of your mind? Why would you attack a pet?"
+ },
+ {
+  "input": "misc:CANNOT_ATTACK_PREY",
+  "format": "You cannot attack while you are the prey.",
+  "parse": "misc:CANNOT_ATTACK_PREY",
+  "both": "You cannot attack while you are the prey."
+ },
+ {
+  "input": "misc:CANNOT_ATTACK_TARGET",
+  "format": "You cannot attack someone who is not your target.",
+  "parse": "misc:CANNOT_ATTACK_TARGET",
+  "both": "You cannot attack someone who is not your target."
+ },
+ {
+  "input": "misc:CANNOT_ATTACK_LEVEL_DIFF",
+  "format": "You cannot attack someone more than 30 levels above or below you.",
+  "parse": "misc:CANNOT_ATTACK_LEVEL_DIFF",
+  "both": "You cannot attack someone more than 30 levels above or below you."
+ },
+ {
+  "input": "misc:CANNOT_DO_THAT",
+  "format": "You cannot do that right now.",
+  "parse": "misc:CANNOT_DO_THAT",
+  "both": "You cannot do that right now."
+ },
+ {
+  "input": "misc:CANNOT_DROP_ITEM_DOOR",
+  "format": "You cannot drop this item while standing in a door.",
+  "parse": "misc:CANNOT_DROP_ITEM_DOOR",
+  "both": "You cannot drop this item while standing in a door."
+ },
+ {
+  "input": "misc:CANNOT_PASS_DOOR",
+  "format": "You cannot pass through this door.",
+  "parse": "misc:CANNOT_PASS_DOOR",
+  "both": "You cannot pass through this door."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_SECONDS",
+  "format": "You must wait another {{duration}} seconds before using global chat.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_SECONDS",
+  "both": "You must wait another {{duration}} seconds before using global chat."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_SECONDS;duration=Bob",
+  "format": "You must wait another Bob seconds before using global chat.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_SECONDS;duration=Bob",
+  "both": "You must wait another Bob seconds before using global chat."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_SECONDS;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must wait another &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; seconds before using global chat.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_SECONDS;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must wait another &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; seconds before using global chat."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_SECONDS;duration",
+  "format": "You must wait another  seconds before using global chat.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_SECONDS;duration",
+  "both": "You must wait another  seconds before using global chat."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_MINUTES",
+  "format": "You must wait another {{duration}} minutes before using global chat.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_MINUTES",
+  "both": "You must wait another {{duration}} minutes before using global chat."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_MINUTES;duration=Bob",
+  "format": "You must wait another Bob minutes before using global chat.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_MINUTES;duration=Bob",
+  "both": "You must wait another Bob minutes before using global chat."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_MINUTES;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must wait another &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; minutes before using global chat.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_MINUTES;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must wait another &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; minutes before using global chat."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_MINUTES;duration",
+  "format": "You must wait another  minutes before using global chat.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_MINUTES;duration",
+  "both": "You must wait another  minutes before using global chat."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_JAIL",
+  "format": "You cannot use global chat while you are jailed.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_JAIL",
+  "both": "You cannot use global chat while you are jailed."
+ },
+ {
+  "input": "misc:CANNOT_GLOBAL_CHAT_TUTORIAL",
+  "format": "You cannot use global chat while you are in the tutorial.",
+  "parse": "misc:CANNOT_GLOBAL_CHAT_TUTORIAL",
+  "both": "You cannot use global chat while you are in the tutorial."
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM",
+  "format": "This item can only be picked up by {{username}}.",
+  "parse": "misc:CANNOT_PICK_UP_ITEM",
+  "both": "This item can only be picked up by {{username}}."
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM;username=Bob",
+  "format": "This item can only be picked up by Bob.",
+  "parse": "misc:CANNOT_PICK_UP_ITEM;username=Bob",
+  "both": "This item can only be picked up by Bob."
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM;username=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "This item can only be picked up by &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;.",
+  "parse": "misc:CANNOT_PICK_UP_ITEM;username=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "This item can only be picked up by &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;."
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM;username",
+  "format": "This item can only be picked up by .",
+  "parse": "misc:CANNOT_PICK_UP_ITEM;username",
+  "both": "This item can only be picked up by ."
+ },
+ {
+  "input": "misc:CANNOT_TALK",
+  "format": "You cannot talk right now.",
+  "parse": "misc:CANNOT_TALK",
+  "both": "You cannot talk right now."
+ },
+ {
+  "input": "misc:CANNOT_TRADE_ITEM",
+  "format": "You cannot trade this item.",
+  "parse": "misc:CANNOT_TRADE_ITEM",
+  "both": "You cannot trade this item."
+ },
+ {
+  "input": "misc:CANNOT_TRADE_CHEATER",
+  "format": "Sorry but cheaters are not allowed to trade.",
+  "parse": "misc:CANNOT_TRADE_CHEATER",
+  "both": "Sorry but cheaters are not allowed to trade."
+ },
+ {
+  "input": "misc:CANNOT_TRADE_CHEATER_OTHER",
+  "format": "That player is a cheater, he might sell you contraband!",
+  "parse": "misc:CANNOT_TRADE_CHEATER_OTHER",
+  "both": "That player is a cheater, he might sell you contraband!"
+ },
+ {
+  "input": "misc:CANNOT_TRADE_ADMIN",
+  "format": "As an administrator, you cannot influence the economy.",
+  "parse": "misc:CANNOT_TRADE_ADMIN",
+  "both": "As an administrator, you cannot influence the economy."
+ },
+ {
+  "input": "misc:CANNOT_TRADE_ADMIN_OTHER",
+  "format": "The player is an administrator and cannot be traded with.",
+  "parse": "misc:CANNOT_TRADE_ADMIN_OTHER",
+  "both": "The player is an administrator and cannot be traded with."
+ },
+ {
+  "input": "misc:DONT_THINK_GO_IN",
+  "format": "I do not think I should go in there just yet...",
+  "parse": "misc:DONT_THINK_GO_IN",
+  "both": "I do not think I should go in there just yet..."
+ },
+ {
+  "input": "misc:ENTERED_LOBBY",
+  "format": "You have entered the lobby for {{name}}.",
+  "parse": "misc:ENTERED_LOBBY",
+  "both": "You have entered the lobby for {{name}}."
+ },
+ {
+  "input": "misc:ENTERED_LOBBY;name=Bob",
+  "format": "You have entered the lobby for Bob.",
+  "parse": "misc:ENTERED_LOBBY;name=Bob",
+  "both": "You have entered the lobby for Bob."
+ },
+ {
+  "input": "misc:ENTERED_LOBBY;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You have entered the lobby for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;.",
+  "parse": "misc:ENTERED_LOBBY;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You have entered the lobby for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;."
+ },
+ {
+  "input": "misc:ENTERED_LOBBY;name",
+  "format": "You have entered the lobby for .",
+  "parse": "misc:ENTERED_LOBBY;name",
+  "both": "You have entered the lobby for ."
+ },
+ {
+  "input": "misc:EXITED_LOBBY",
+  "format": "You have left the lobby for {{name}}.",
+  "parse": "misc:EXITED_LOBBY",
+  "both": "You have left the lobby for {{name}}."
+ },
+ {
+  "input": "misc:EXITED_LOBBY;name=Bob",
+  "format": "You have left the lobby for Bob.",
+  "parse": "misc:EXITED_LOBBY;name=Bob",
+  "both": "You have left the lobby for Bob."
+ },
+ {
+  "input": "misc:EXITED_LOBBY;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You have left the lobby for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;.",
+  "parse": "misc:EXITED_LOBBY;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You have left the lobby for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;."
+ },
+ {
+  "input": "misc:EXITED_LOBBY;name",
+  "format": "You have left the lobby for .",
+  "parse": "misc:EXITED_LOBBY;name",
+  "both": "You have left the lobby for ."
+ },
+ {
+  "input": "misc:IN_PVP_ZONE",
+  "format": "You have entered a PvP zone!",
+  "parse": "misc:IN_PVP_ZONE",
+  "both": "You have entered a PvP zone!"
+ },
+ {
+  "input": "misc:INVALID_AMOUNT",
+  "format": "You have entered an invalid amount.",
+  "parse": "misc:INVALID_AMOUNT",
+  "both": "You have entered an invalid amount."
+ },
+ {
+  "input": "misc:DOOR_KEY_CRUMBLES",
+  "format": "The key crumbles to dust as you pass through the door.",
+  "parse": "misc:DOOR_KEY_CRUMBLES",
+  "both": "The key crumbles to dust as you pass through the door."
+ },
+ {
+  "input": "misc:MINIMUM_PLAYERS_MINIGAME",
+  "format": "There must be at least {{minimum}} players to start this minigame.",
+  "parse": "misc:MINIMUM_PLAYERS_MINIGAME",
+  "both": "There must be at least {{minimum}} players to start this minigame."
+ },
+ {
+  "input": "misc:MINIMUM_PLAYERS_MINIGAME;minimum=Bob",
+  "format": "There must be at least Bob players to start this minigame.",
+  "parse": "misc:MINIMUM_PLAYERS_MINIGAME;minimum=Bob",
+  "both": "There must be at least Bob players to start this minigame."
+ },
+ {
+  "input": "misc:MINIMUM_PLAYERS_MINIGAME;minimum=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "There must be at least &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; players to start this minigame.",
+  "parse": "misc:MINIMUM_PLAYERS_MINIGAME;minimum=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "There must be at least &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; players to start this minigame."
+ },
+ {
+  "input": "misc:MINIMUM_PLAYERS_MINIGAME;minimum",
+  "format": "There must be at least  players to start this minigame.",
+  "parse": "misc:MINIMUM_PLAYERS_MINIGAME;minimum",
+  "both": "There must be at least  players to start this minigame."
+ },
+ {
+  "input": "misc:NEED_COMBAT",
+  "format": "You must be in combat to use this ability.",
+  "parse": "misc:NEED_COMBAT",
+  "both": "You must be in combat to use this ability."
+ },
+ {
+  "input": "misc:NEED_WAIT_ABILIY",
+  "format": "You need to wait {{duration}} seconds before using this ability again.",
+  "parse": "misc:NEED_WAIT_ABILIY",
+  "both": "You need to wait {{duration}} seconds before using this ability again."
+ },
+ {
+  "input": "misc:NEED_WAIT_ABILIY;duration=Bob",
+  "format": "You need to wait Bob seconds before using this ability again.",
+  "parse": "misc:NEED_WAIT_ABILIY;duration=Bob",
+  "both": "You need to wait Bob seconds before using this ability again."
+ },
+ {
+  "input": "misc:NEED_WAIT_ABILIY;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You need to wait &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; seconds before using this ability again.",
+  "parse": "misc:NEED_WAIT_ABILIY;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You need to wait &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; seconds before using this ability again."
+ },
+ {
+  "input": "misc:NEED_WAIT_ABILIY;duration",
+  "format": "You need to wait  seconds before using this ability again.",
+  "parse": "misc:NEED_WAIT_ABILIY;duration",
+  "both": "You need to wait  seconds before using this ability again."
+ },
+ {
+  "input": "misc:NO_IDEA",
+  "format": "I have no idea what that is.",
+  "parse": "misc:NO_IDEA",
+  "both": "I have no idea what that is."
+ },
+ {
+  "input": "misc:NO_ARROWS",
+  "format": "You do not have any arrows to shoot.",
+  "parse": "misc:NO_ARROWS",
+  "both": "You do not have any arrows to shoot."
+ },
+ {
+  "input": "misc:NO_ACHIEVEMENT_DOOR",
+  "format": "You need to complete the achievement {{achievement}} to pass through this door.",
+  "parse": "misc:NO_ACHIEVEMENT_DOOR",
+  "both": "You need to complete the achievement {{achievement}} to pass through this door."
+ },
+ {
+  "input": "misc:NO_ACHIEVEMENT_DOOR;achievement=Bob",
+  "format": "You need to complete the achievement Bob to pass through this door.",
+  "parse": "misc:NO_ACHIEVEMENT_DOOR;achievement=Bob",
+  "both": "You need to complete the achievement Bob to pass through this door."
+ },
+ {
+  "input": "misc:NO_ACHIEVEMENT_DOOR;achievement=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You need to complete the achievement &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to pass through this door.",
+  "parse": "misc:NO_ACHIEVEMENT_DOOR;achievement=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You need to complete the achievement &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to pass through this door."
+ },
+ {
+  "input": "misc:NO_ACHIEVEMENT_DOOR;achievement",
+  "format": "You need to complete the achievement  to pass through this door.",
+  "parse": "misc:NO_ACHIEVEMENT_DOOR;achievement",
+  "both": "You need to complete the achievement  to pass through this door."
+ },
+ {
+  "input": "misc:NO_COMBAT_DOOR",
+  "format": "Your combat level must be at least {{level}} to enter.",
+  "parse": "misc:NO_COMBAT_DOOR",
+  "both": "Your combat level must be at least {{level}} to enter."
+ },
+ {
+  "input": "misc:NO_COMBAT_DOOR;level=Bob",
+  "format": "Your combat level must be at least Bob to enter.",
+  "parse": "misc:NO_COMBAT_DOOR;level=Bob",
+  "both": "Your combat level must be at least Bob to enter."
+ },
+ {
+  "input": "misc:NO_COMBAT_DOOR;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "Your combat level must be at least &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to enter.",
+  "parse": "misc:NO_COMBAT_DOOR;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "Your combat level must be at least &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to enter."
+ },
+ {
+  "input": "misc:NO_COMBAT_DOOR;level",
+  "format": "Your combat level must be at least  to enter.",
+  "parse": "misc:NO_COMBAT_DOOR;level",
+  "both": "Your combat level must be at least  to enter."
+ },
+ {
+  "input": "misc:NO_QUEST_DOOR",
+  "format": "You need to complete the quest {{quest}} to pass through this door.",
+  "parse": "misc:NO_QUEST_DOOR",
+  "both": "You need to complete the quest {{quest}} to pass through this door."
+ },
+ {
+  "input": "misc:NO_QUEST_DOOR;quest=Bob",
+  "format": "You need to complete the quest Bob to pass through this door.",
+  "parse": "misc:NO_QUEST_DOOR;quest=Bob",
+  "both": "You need to complete the quest Bob to pass through this door."
+ },
+ {
+  "input": "misc:NO_QUEST_DOOR;quest=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You need to complete the quest &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to pass through this door.",
+  "parse": "misc:NO_QUEST_DOOR;quest=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You need to complete the quest &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to pass through this door."
+ },
+ {
+  "input": "misc:NO_QUEST_DOOR;quest",
+  "format": "You need to complete the quest  to pass through this door.",
+  "parse": "misc:NO_QUEST_DOOR;quest",
+  "both": "You need to complete the quest  to pass through this door."
+ },
+ {
+  "input": "misc:NO_KEY_DOOR",
+  "format": "You do not have the required key to pass through this door.",
+  "parse": "misc:NO_KEY_DOOR",
+  "both": "You do not have the required key to pass through this door."
+ },
+ {
+  "input": "misc:NO_SKILL_DOOR",
+  "format": "Your {{skill}} must be at least {{level}} to enter.",
+  "parse": "misc:NO_SKILL_DOOR",
+  "both": "Your {{skill}} must be at least {{level}} to enter."
+ },
+ {
+  "input": "misc:NO_SKILL_DOOR;skill=Bob;level=13",
+  "format": "Your Bob must be at least 13 to enter.",
+  "parse": "misc:NO_SKILL_DOOR;skill=Bob;level=13",
+  "both": "Your Bob must be at least 13 to enter."
+ },
+ {
+  "input": "misc:NO_SKILL_DOOR;skill=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "Your &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; must be at least {{level}} to enter.",
+  "parse": "misc:NO_SKILL_DOOR;skill=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "Your &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; must be at least {{level}} to enter."
+ },
+ {
+  "input": "misc:NO_SKILL_DOOR;skill",
+  "format": "Your  must be at least {{level}} to enter.",
+  "parse": "misc:NO_SKILL_DOOR;skill",
+  "both": "Your  must be at least {{level}} to enter."
+ },
+ {
+  "input": "misc:NO_KNOWLEDGE_USE",
+  "format": "You do not have the knowledge to use this.",
+  "parse": "misc:NO_KNOWLEDGE_USE",
+  "both": "You do not have the knowledge to use this."
+ },
+ {
+  "input": "misc:NO_SPACE",
+  "format": "You do not have enough space in your inventory.",
+  "parse": "misc:NO_SPACE",
+  "both": "You do not have enough space in your inventory."
+ },
+ {
+  "input": "misc:NO_SPACE_OTHER",
+  "format": "The other player does not have enough space in their inventory.",
+  "parse": "misc:NO_SPACE_OTHER",
+  "both": "The other player does not have enough space in their inventory."
+ },
+ {
+  "input": "misc:NO_SPACE_PET",
+  "format": "You do not have enough space in your pet inventory.",
+  "parse": "misc:NO_SPACE_PET",
+  "both": "You do not have enough space in your pet inventory."
+ },
+ {
+  "input": "misc:NOT_IN_PVP_ZONE",
+  "format": "You are no longer in a PvP zone!",
+  "parse": "misc:NOT_IN_PVP_ZONE",
+  "both": "You are no longer in a PvP zone!"
+ },
+ {
+  "input": "misc:NOT_ONLINE",
+  "format": "Player @aquamarine@{{username}}@crimson@ is not online.",
+  "parse": "misc:NOT_ONLINE",
+  "both": "Player <span style=\"color:aquamarine;\">{{username}}<span style=\"color:crimson;\"> is not online.</span></span>"
+ },
+ {
+  "input": "misc:NOT_ONLINE;username=Bob",
+  "format": "Player @aquamarine@Bob@crimson@ is not online.",
+  "parse": "misc:NOT_ONLINE;username=Bob",
+  "both": "Player <span style=\"color:aquamarine;\">Bob<span style=\"color:crimson;\"> is not online.</span></span>"
+ },
+ {
+  "input": "misc:NOT_ONLINE;username=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "Player @aquamarine@&lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;@crimson@ is not online.",
+  "parse": "misc:NOT_ONLINE;username=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "Player <span style=\"color:aquamarine;\">&lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;<span style=\"color:crimson;\"> is not online.</span></span>"
+ },
+ {
+  "input": "misc:NOT_ONLINE;username",
+  "format": "Player @aquamarine@@crimson@ is not online.",
+  "parse": "misc:NOT_ONLINE;username",
+  "both": "Player <span style=\"color:aquamarine;\"><span style=\"color:crimson;\"> is not online.</span></span>"
+ },
+ {
+  "input": "misc:NOT_ENOUGH_MANA",
+  "format": "You do not have enough mana to use this ability.",
+  "parse": "misc:NOT_ENOUGH_MANA",
+  "both": "You do not have enough mana to use this ability."
+ },
+ {
+  "input": "misc:NO_NEED_CLICK_REPEATEDLY",
+  "format": "Pstt, you do not have to repeatedly click on that.",
+  "parse": "misc:NO_NEED_CLICK_REPEATEDLY",
+  "both": "Pstt, you do not have to repeatedly click on that."
+ },
+ {
+  "input": "misc:PLEASE_MAKE_ROOM_REWARD",
+  "format": "Please make room in your inventory to accept this reward",
+  "parse": "misc:PLEASE_MAKE_ROOM_REWARD",
+  "both": "Please make room in your inventory to accept this reward"
+ },
+ {
+  "input": "misc:POISONED",
+  "format": "You have been poisoned!",
+  "parse": "misc:POISONED",
+  "both": "You have been poisoned!"
+ },
+ {
+  "input": "misc:POISON_WORN_OFF",
+  "format": "The poison has worn off.",
+  "parse": "misc:POISON_WORN_OFF",
+  "both": "The poison has worn off."
+ },
+ {
+  "input": "misc:PLEASE_REPORT_BUG",
+  "format": "An error has occurred, please report this as a bug.",
+  "parse": "misc:PLEASE_REPORT_BUG",
+  "both": "An error has occurred, please report this as a bug."
+ },
+ {
+  "input": "misc:FREEZE_IMMUNITY",
+  "format": "You are now immune to freeze effects for {{duration}} seconds.",
+  "parse": "misc:FREEZE_IMMUNITY",
+  "both": "You are now immune to freeze effects for {{duration}} seconds."
+ },
+ {
+  "input": "misc:FREEZE_IMMUNITY;duration=Bob",
+  "format": "You are now immune to freeze effects for Bob seconds.",
+  "parse": "misc:FREEZE_IMMUNITY;duration=Bob",
+  "both": "You are now immune to freeze effects for Bob seconds."
+ },
+ {
+  "input": "misc:FREEZE_IMMUNITY;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You are now immune to freeze effects for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; seconds.",
+  "parse": "misc:FREEZE_IMMUNITY;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You are now immune to freeze effects for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; seconds."
+ },
+ {
+  "input": "misc:FREEZE_IMMUNITY;duration",
+  "format": "You are now immune to freeze effects for  seconds.",
+  "parse": "misc:FREEZE_IMMUNITY;duration",
+  "both": "You are now immune to freeze effects for  seconds."
+ },
+ {
+  "input": "misc:FREEZE_IMMUNITY_WORN_OFF",
+  "format": "Your immunity to freeze effects has worn off.",
+  "parse": "misc:FREEZE_IMMUNITY_WORN_OFF",
+  "both": "Your immunity to freeze effects has worn off."
+ },
+ {
+  "input": "misc:FIRE_IMMUNITY",
+  "format": "You are now immune to fire effects for {{duration}} seconds.",
+  "parse": "misc:FIRE_IMMUNITY",
+  "both": "You are now immune to fire effects for {{duration}} seconds."
+ },
+ {
+  "input": "misc:FIRE_IMMUNITY;duration=Bob",
+  "format": "You are now immune to fire effects for Bob seconds.",
+  "parse": "misc:FIRE_IMMUNITY;duration=Bob",
+  "both": "You are now immune to fire effects for Bob seconds."
+ },
+ {
+  "input": "misc:FIRE_IMMUNITY;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You are now immune to fire effects for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; seconds.",
+  "parse": "misc:FIRE_IMMUNITY;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You are now immune to fire effects for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; seconds."
+ },
+ {
+  "input": "misc:FIRE_IMMUNITY;duration",
+  "format": "You are now immune to fire effects for  seconds.",
+  "parse": "misc:FIRE_IMMUNITY;duration",
+  "both": "You are now immune to fire effects for  seconds."
+ },
+ {
+  "input": "misc:FIRE_IMMUNITY_WORN_OFF",
+  "format": "Your immunity to fire effects has worn off.",
+  "parse": "misc:FIRE_IMMUNITY_WORN_OFF",
+  "both": "Your immunity to fire effects has worn off."
+ },
+ {
+  "input": "misc:FRIENDS_USERNAME_TOO_LONG",
+  "format": "That username is too long.",
+  "parse": "misc:FRIENDS_USERNAME_TOO_LONG",
+  "both": "That username is too long."
+ },
+ {
+  "input": "misc:FRIENDS_ADD_SELF",
+  "format": "Listen, I get it, you're lonely. But you cannot add yourself to the friends list.",
+  "parse": "misc:FRIENDS_ADD_SELF",
+  "both": "Listen, I get it, you're lonely. But you cannot add yourself to the friends list."
+ },
+ {
+  "input": "misc:FRIENDS_ALREADY_ADDED",
+  "format": "That player is already on your friends list.",
+  "parse": "misc:FRIENDS_ALREADY_ADDED",
+  "both": "That player is already on your friends list."
+ },
+ {
+  "input": "misc:FRIENDS_USER_DOES_NOT_EXIST",
+  "format": "No player with that username exists.",
+  "parse": "misc:FRIENDS_USER_DOES_NOT_EXIST",
+  "both": "No player with that username exists."
+ },
+ {
+  "input": "misc:FRIENDS_NOT_IN_LIST",
+  "format": "That player is not on your friends list.",
+  "parse": "misc:FRIENDS_NOT_IN_LIST",
+  "both": "That player is not on your friends list."
+ },
+ {
+  "input": "misc:PEOPLE_ONLINE",
+  "format": "There are currently {{population}} people online.",
+  "parse": "misc:PEOPLE_ONLINE",
+  "both": "There are currently {{population}} people online."
+ },
+ {
+  "input": "misc:PEOPLE_ONLINE;population=Bob",
+  "format": "There are currently Bob people online.",
+  "parse": "misc:PEOPLE_ONLINE;population=Bob",
+  "both": "There are currently Bob people online."
+ },
+ {
+  "input": "misc:PEOPLE_ONLINE;population=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "There are currently &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; people online.",
+  "parse": "misc:PEOPLE_ONLINE;population=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "There are currently &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; people online."
+ },
+ {
+  "input": "misc:PEOPLE_ONLINE;population",
+  "format": "There are currently  people online.",
+  "parse": "misc:PEOPLE_ONLINE;population",
+  "both": "There are currently  people online."
+ },
+ {
+  "input": "misc:SKILL_LEVEL_UP",
+  "format": "Skill level up!",
+  "parse": "misc:SKILL_LEVEL_UP",
+  "both": "Skill level up!"
+ },
+ {
+  "input": "misc:SKILL_LEVEL_UP_DESC",
+  "format": "Congratulations, your {{name}} has reached level {{level}}!",
+  "parse": "misc:SKILL_LEVEL_UP_DESC",
+  "both": "Congratulations, your {{name}} has reached level {{level}}!"
+ },
+ {
+  "input": "misc:SKILL_LEVEL_UP_DESC;name=Bob;level=13",
+  "format": "Congratulations, your Bob has reached level 13!",
+  "parse": "misc:SKILL_LEVEL_UP_DESC;name=Bob;level=13",
+  "both": "Congratulations, your Bob has reached level 13!"
+ },
+ {
+  "input": "misc:SKILL_LEVEL_UP_DESC;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "Congratulations, your &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; has reached level {{level}}!",
+  "parse": "misc:SKILL_LEVEL_UP_DESC;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "Congratulations, your &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; has reached level {{level}}!"
+ },
+ {
+  "input": "misc:SKILL_LEVEL_UP_DESC;name",
+  "format": "Congratulations, your  has reached level {{level}}!",
+  "parse": "misc:SKILL_LEVEL_UP_DESC;name",
+  "both": "Congratulations, your  has reached level {{level}}!"
+ },
+ {
+  "input": "misc:JAILED",
+  "format": "You are currently jailed for {{duration}}.",
+  "parse": "misc:JAILED",
+  "both": "You are currently jailed for {{duration}}."
+ },
+ {
+  "input": "misc:JAILED;duration=Bob",
+  "format": "You are currently jailed for Bob.",
+  "parse": "misc:JAILED;duration=Bob",
+  "both": "You are currently jailed for Bob."
+ },
+ {
+  "input": "misc:JAILED;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You are currently jailed for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;.",
+  "parse": "misc:JAILED;duration=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You are currently jailed for &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;."
+ },
+ {
+  "input": "misc:JAILED;duration",
+  "format": "You are currently jailed for .",
+  "parse": "misc:JAILED;duration",
+  "both": "You are currently jailed for ."
+ },
+ {
+  "input": "misc:MUTED",
+  "format": "You are currently muted.",
+  "parse": "misc:MUTED",
+  "both": "You are currently muted."
+ },
+ {
+  "input": "misc:LOW_MANA",
+  "format": "You are low on mana, your attacks will be weaker.",
+  "parse": "misc:LOW_MANA",
+  "both": "You are low on mana, your attacks will be weaker."
+ },
+ {
+  "input": "misc:TRADE_REQUEST",
+  "format": "You have requested to trade with {{username}}.",
+  "parse": "misc:TRADE_REQUEST",
+  "both": "You have requested to trade with {{username}}."
+ },
+ {
+  "input": "misc:TRADE_REQUEST;username=Bob",
+  "format": "You have requested to trade with Bob.",
+  "parse": "misc:TRADE_REQUEST;username=Bob",
+  "both": "You have requested to trade with Bob."
+ },
+ {
+  "input": "misc:TRADE_REQUEST;username=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You have requested to trade with &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;.",
+  "parse": "misc:TRADE_REQUEST;username=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You have requested to trade with &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;."
+ },
+ {
+  "input": "misc:TRADE_REQUEST;username",
+  "format": "You have requested to trade with .",
+  "parse": "misc:TRADE_REQUEST;username",
+  "both": "You have requested to trade with ."
+ },
+ {
+  "input": "misc:TRADE_REQUEST_OTHER",
+  "format": "{{username}} has requested to trade with you.",
+  "parse": "misc:TRADE_REQUEST_OTHER",
+  "both": "{{username}} has requested to trade with you."
+ },
+ {
+  "input": "misc:TRADE_REQUEST_OTHER;username=Bob",
+  "format": "Bob has requested to trade with you.",
+  "parse": "misc:TRADE_REQUEST_OTHER;username=Bob",
+  "both": "Bob has requested to trade with you."
+ },
+ {
+  "input": "misc:TRADE_REQUEST_OTHER;username=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "&lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; has requested to trade with you.",
+  "parse": "misc:TRADE_REQUEST_OTHER;username=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "&lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; has requested to trade with you."
+ },
+ {
+  "input": "misc:TRADE_REQUEST_OTHER;username",
+  "format": " has requested to trade with you.",
+  "parse": "misc:TRADE_REQUEST_OTHER;username",
+  "both": " has requested to trade with you."
+ },
+ {
+  "input": "misc:TRADE_EMPTY",
+  "format": "Yo why are y'all trading nothing?",
+  "parse": "misc:TRADE_EMPTY",
+  "both": "Yo why are y'all trading nothing?"
+ },
+ {
+  "input": "misc:TRADE_COMPLETE",
+  "format": "Thank you for using PixelHero trading system!",
+  "parse": "misc:TRADE_COMPLETE",
+  "both": "Thank you for using PixelHero trading system!"
+ },
+ {
+  "input": "misc:WELCOME",
+  "format": "Welcome to {{name}}!",
+  "parse": "misc:WELCOME",
+  "both": "Welcome to {{name}}!"
+ },
+ {
+  "input": "misc:WELCOME;name=Bob",
+  "format": "Welcome to Bob!",
+  "parse": "misc:WELCOME;name=Bob",
+  "both": "Welcome to Bob!"
+ },
+ {
+  "input": "misc:WELCOME;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "Welcome to &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;!",
+  "parse": "misc:WELCOME;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "Welcome to &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;!"
+ },
+ {
+  "input": "misc:WELCOME;name",
+  "format": "Welcome to !",
+  "parse": "misc:WELCOME;name",
+  "both": "Welcome to !"
+ },
+ {
+  "input": "misc:WELCOME_BACK",
+  "format": "Welcome back to {{name}}!",
+  "parse": "misc:WELCOME_BACK",
+  "both": "Welcome back to {{name}}!"
+ },
+ {
+  "input": "misc:WELCOME_BACK;name=Bob",
+  "format": "Welcome back to Bob!",
+  "parse": "misc:WELCOME_BACK;name=Bob",
+  "both": "Welcome back to Bob!"
+ },
+ {
+  "input": "misc:WELCOME_BACK;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "Welcome back to &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;!",
+  "parse": "misc:WELCOME_BACK;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "Welcome back to &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;!"
+ },
+ {
+  "input": "misc:WELCOME_BACK;name",
+  "format": "Welcome back to !",
+  "parse": "misc:WELCOME_BACK;name",
+  "both": "Welcome back to !"
+ },
+ {
+  "input": "misc:WHY_GO_THERE",
+  "format": "Now hang on, why would I wanna go in there?",
+  "parse": "misc:WHY_GO_THERE",
+  "both": "Now hang on, why would I wanna go in there?"
+ },
+ {
+  "input": "resource:MUST_EQUIP_AXE",
+  "format": "You must equip an axe in order to cut trees.",
+  "parse": "resource:MUST_EQUIP_AXE",
+  "both": "You must equip an axe in order to cut trees."
+ },
+ {
+  "input": "resource:MUST_EQUIP_PICKAXE",
+  "format": "You must be wielding a pickaxe in order to mine rocks.",
+  "parse": "resource:MUST_EQUIP_PICKAXE",
+  "both": "You must be wielding a pickaxe in order to mine rocks."
+ },
+ {
+  "input": "resource:MUST_EQUIP_FISHING",
+  "format": "You must be wielding a fishing utensil in order to fish.",
+  "parse": "resource:MUST_EQUIP_FISHING",
+  "both": "You must be wielding a fishing utensil in order to fish."
+ },
+ {
+  "input": "resource:MUST_EQUIP_FORAGING",
+  "format": "You require a special tool to forage this",
+  "parse": "resource:MUST_EQUIP_FORAGING",
+  "both": "You require a special tool to forage this"
+ },
+ {
+  "input": "resource:INVALID_LEVEL_LUMBERJACKING",
+  "format": "You must be level {{level}} in order to cut this tree.",
+  "parse": "resource:INVALID_LEVEL_LUMBERJACKING",
+  "both": "You must be level {{level}} in order to cut this tree."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_LUMBERJACKING;level=Bob",
+  "format": "You must be level Bob in order to cut this tree.",
+  "parse": "resource:INVALID_LEVEL_LUMBERJACKING;level=Bob",
+  "both": "You must be level Bob in order to cut this tree."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_LUMBERJACKING;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must be level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; in order to cut this tree.",
+  "parse": "resource:INVALID_LEVEL_LUMBERJACKING;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must be level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; in order to cut this tree."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_LUMBERJACKING;level",
+  "format": "You must be level  in order to cut this tree.",
+  "parse": "resource:INVALID_LEVEL_LUMBERJACKING;level",
+  "both": "You must be level  in order to cut this tree."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_MINING",
+  "format": "You must be level {{level}} in order to mine this rock.",
+  "parse": "resource:INVALID_LEVEL_MINING",
+  "both": "You must be level {{level}} in order to mine this rock."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_MINING;level=Bob",
+  "format": "You must be level Bob in order to mine this rock.",
+  "parse": "resource:INVALID_LEVEL_MINING;level=Bob",
+  "both": "You must be level Bob in order to mine this rock."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_MINING;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must be level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; in order to mine this rock.",
+  "parse": "resource:INVALID_LEVEL_MINING;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must be level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; in order to mine this rock."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_MINING;level",
+  "format": "You must be level  in order to mine this rock.",
+  "parse": "resource:INVALID_LEVEL_MINING;level",
+  "both": "You must be level  in order to mine this rock."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_FISHING",
+  "format": "You must be level {{level}} in order to fish here.",
+  "parse": "resource:INVALID_LEVEL_FISHING",
+  "both": "You must be level {{level}} in order to fish here."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_FISHING;level=Bob",
+  "format": "You must be level Bob in order to fish here.",
+  "parse": "resource:INVALID_LEVEL_FISHING;level=Bob",
+  "both": "You must be level Bob in order to fish here."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_FISHING;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must be level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; in order to fish here.",
+  "parse": "resource:INVALID_LEVEL_FISHING;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must be level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; in order to fish here."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_FISHING;level",
+  "format": "You must be level  in order to fish here.",
+  "parse": "resource:INVALID_LEVEL_FISHING;level",
+  "both": "You must be level  in order to fish here."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_FORAGING",
+  "format": "You must be level {{level}} to harvest this resource.",
+  "parse": "resource:INVALID_LEVEL_FORAGING",
+  "both": "You must be level {{level}} to harvest this resource."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_FORAGING;level=Bob",
+  "format": "You must be level Bob to harvest this resource.",
+  "parse": "resource:INVALID_LEVEL_FORAGING;level=Bob",
+  "both": "You must be level Bob to harvest this resource."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_FORAGING;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must be level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to harvest this resource.",
+  "parse": "resource:INVALID_LEVEL_FORAGING;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must be level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to harvest this resource."
+ },
+ {
+  "input": "resource:INVALID_LEVEL_FORAGING;level",
+  "format": "You must be level  to harvest this resource.",
+  "parse": "resource:INVALID_LEVEL_FORAGING;level",
+  "both": "You must be level  to harvest this resource."
+ },
+ {
+  "input": "resource:UNABLE_TO_INTERACT_LUMBERJACKING",
+  "format": "You are unable to cut this tree at the moment.",
+  "parse": "resource:UNABLE_TO_INTERACT_LUMBERJACKING",
+  "both": "You are unable to cut this tree at the moment."
+ },
+ {
+  "input": "resource:UNABLE_TO_INTERACT_MINING",
+  "format": "You do not have the necessary knowledge to mine this rock.",
+  "parse": "resource:UNABLE_TO_INTERACT_MINING",
+  "both": "You do not have the necessary knowledge to mine this rock."
+ },
+ {
+  "input": "resource:UNABLE_TO_INTERACT_FISHING",
+  "format": "You are unable to fish here at the moment.",
+  "parse": "resource:UNABLE_TO_INTERACT_FISHING",
+  "both": "You are unable to fish here at the moment."
+ },
+ {
+  "input": "resource:UNABLE_TO_INTERACT_FORAGING",
+  "format": "You are unable to harvest this resource at the moment.",
+  "parse": "resource:UNABLE_TO_INTERACT_FORAGING",
+  "both": "You are unable to harvest this resource at the moment."
+ },
+ {
+  "input": "resource:NO_REASON_TREE",
+  "format": "There is no reason for you to cut this tree.",
+  "parse": "resource:NO_REASON_TREE",
+  "both": "There is no reason for you to cut this tree."
+ },
+ {
+  "input": "resource:NO_REASON_FISHING",
+  "format": "There is no reason for you to fish here.",
+  "parse": "resource:NO_REASON_FISHING",
+  "both": "There is no reason for you to fish here."
+ },
+ {
+  "input": "store:WARNING_DUPLICATE",
+  "format": "Duplicate item key found in store: ",
+  "parse": "store:WARNING_DUPLICATE",
+  "both": "Duplicate item key found in store: "
+ },
+ {
+  "input": "store:INVALID_STORE",
+  "format": "Tried to parse a non-existent store.",
+  "parse": "store:INVALID_STORE",
+  "both": "Tried to parse a non-existent store."
+ },
+ {
+  "input": "store:INVALID_STORE_REFRESH",
+  "format": "Tried to refresh invalid store: ",
+  "parse": "store:INVALID_STORE_REFRESH",
+  "both": "Tried to refresh invalid store: "
+ },
+ {
+  "input": "store:INVALID_ITEM_SELECTION",
+  "format": "Invalid item selection.",
+  "parse": "store:INVALID_ITEM_SELECTION",
+  "both": "Invalid item selection."
+ },
+ {
+  "input": "store:PURCHASE_INVALID_STORE",
+  "format": "tried purchasing an item that does not exist store: ",
+  "parse": "store:PURCHASE_INVALID_STORE",
+  "both": "tried purchasing an item that does not exist store: "
+ },
+ {
+  "input": "store:SELL_INVALID_ITEM",
+  "format": "tried selling an invalid item.",
+  "parse": "store:SELL_INVALID_ITEM",
+  "both": "tried selling an invalid item."
+ },
+ {
+  "input": "store:ITEM_OUT_OF_STOCK",
+  "format": "This item is currently out of stock.",
+  "parse": "store:ITEM_OUT_OF_STOCK",
+  "both": "This item is currently out of stock."
+ },
+ {
+  "input": "store:NOT_ENOUGH_CURRENCY",
+  "format": "You do not have enough currency to buy this item.",
+  "parse": "store:NOT_ENOUGH_CURRENCY",
+  "both": "You do not have enough currency to buy this item."
+ },
+ {
+  "input": "store:NOT_ENOUGH_SPACE",
+  "format": "You do not have enough space in your inventory.",
+  "parse": "store:NOT_ENOUGH_SPACE",
+  "both": "You do not have enough space in your inventory."
+ },
+ {
+  "input": "store:CANNOT_SELL_ITEM",
+  "format": "You cannot sell this item.",
+  "parse": "store:CANNOT_SELL_ITEM",
+  "both": "You cannot sell this item."
+ },
+ {
+  "input": "store:ACTION_STORE_NOT_OPEN",
+  "format": "Tried to perform an action on a store that is not open.",
+  "parse": "store:ACTION_STORE_NOT_OPEN",
+  "both": "Tried to perform an action on a store that is not open."
+ },
+ {
+  "input": "store:CHEATER",
+  "format": "You have been flagged for cheating. You cannot purchase anything.",
+  "parse": "store:CHEATER",
+  "both": "You have been flagged for cheating. You cannot purchase anything."
+ },
+ {
+  "input": "store:RESTRICTED_STORE",
+  "format": "This store does not accept any items.",
+  "parse": "store:RESTRICTED_STORE",
+  "both": "This store does not accept any items."
+ },
+ {
+  "input": "store:RESTRICTED_ITEM",
+  "format": "This item cannot be sold here.",
+  "parse": "store:RESTRICTED_ITEM",
+  "both": "This item cannot be sold here."
+ },
+ {
+  "input": "store:INVALID_ITEM_COUNT",
+  "format": "You have entered an invalid amount of items.",
+  "parse": "store:INVALID_ITEM_COUNT",
+  "both": "You have entered an invalid amount of items."
+ },
+ {
+  "input": "store:HOLLOW_ADMIN",
+  "format": "As an admin you cannot interact with the economy.",
+  "parse": "store:HOLLOW_ADMIN",
+  "both": "As an admin you cannot interact with the economy."
+ },
+ {
+  "input": "game:NAME",
+  "format": "PixelHero",
+  "parse": "game:NAME",
+  "both": "PixelHero"
+ },
+ {
+  "input": "game:DESCRIPTION",
+  "format": "PixelHero is a 2D MMORPG built on BrowserQuest, an open-source game engine. PixelHero's original idea is based on Little Workshop's demo game - BrowserQuest. The assets have remained the same, but the code itself has been completely wiped and redone from the ground up.",
+  "parse": "game:DESCRIPTION",
+  "both": "PixelHero is a 2D MMORPG built on BrowserQuest, an open-source game engine. PixelHero's original idea is based on Little Workshop's demo game - BrowserQuest. The assets have remained the same, but the code itself has been completely wiped and redone from the ground up."
+ },
+ {
+  "input": "warps:WARPED_TO",
+  "format": "You have warped to {{name}}.",
+  "parse": "warps:WARPED_TO",
+  "both": "You have warped to {{name}}."
+ },
+ {
+  "input": "warps:WARPED_TO;name=Bob",
+  "format": "You have warped to Bob.",
+  "parse": "warps:WARPED_TO;name=Bob",
+  "both": "You have warped to Bob."
+ },
+ {
+  "input": "warps:WARPED_TO;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You have warped to &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;.",
+  "parse": "warps:WARPED_TO;name=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You have warped to &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;."
+ },
+ {
+  "input": "warps:WARPED_TO;name",
+  "format": "You have warped to .",
+  "parse": "warps:WARPED_TO;name",
+  "both": "You have warped to ."
+ },
+ {
+  "input": "warps:CANNOT_WARP_ACHIEVEMENT",
+  "format": "This warp requires an achievement to be finished before use.",
+  "parse": "warps:CANNOT_WARP_ACHIEVEMENT",
+  "both": "This warp requires an achievement to be finished before use."
+ },
+ {
+  "input": "warps:CANNOT_WARP_QUEST",
+  "format": "You must complete {{questName}} to warp to {{name}}.",
+  "parse": "warps:CANNOT_WARP_QUEST",
+  "both": "You must complete {{questName}} to warp to {{name}}."
+ },
+ {
+  "input": "warps:CANNOT_WARP_QUEST;questName=Bob;name=13",
+  "format": "You must complete Bob to warp to 13.",
+  "parse": "warps:CANNOT_WARP_QUEST;questName=Bob;name=13",
+  "both": "You must complete Bob to warp to 13."
+ },
+ {
+  "input": "warps:CANNOT_WARP_QUEST;questName=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must complete &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to warp to {{name}}.",
+  "parse": "warps:CANNOT_WARP_QUEST;questName=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must complete &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to warp to {{name}}."
+ },
+ {
+  "input": "warps:CANNOT_WARP_QUEST;questName",
+  "format": "You must complete  to warp to {{name}}.",
+  "parse": "warps:CANNOT_WARP_QUEST;questName",
+  "both": "You must complete  to warp to {{name}}."
+ },
+ {
+  "input": "warps:CANNOT_WARP_LEVEL",
+  "format": "You must be at least level {{level}} to warp here.",
+  "parse": "warps:CANNOT_WARP_LEVEL",
+  "both": "You must be at least level {{level}} to warp here."
+ },
+ {
+  "input": "warps:CANNOT_WARP_LEVEL;level=Bob",
+  "format": "You must be at least level Bob to warp here.",
+  "parse": "warps:CANNOT_WARP_LEVEL;level=Bob",
+  "both": "You must be at least level Bob to warp here."
+ },
+ {
+  "input": "warps:CANNOT_WARP_LEVEL;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must be at least level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to warp here.",
+  "parse": "warps:CANNOT_WARP_LEVEL;level=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must be at least level &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to warp here."
+ },
+ {
+  "input": "warps:CANNOT_WARP_LEVEL;level",
+  "format": "You must be at least level  to warp here.",
+  "parse": "warps:CANNOT_WARP_LEVEL;level",
+  "both": "You must be at least level  to warp here."
+ },
+ {
+  "input": "warps:CANNOT_WARP_JAIL",
+  "format": "You cannot teleport, you are jailed for another {{time}}.",
+  "parse": "warps:CANNOT_WARP_JAIL",
+  "both": "You cannot teleport, you are jailed for another {{time}}."
+ },
+ {
+  "input": "warps:CANNOT_WARP_JAIL;time=Bob",
+  "format": "You cannot teleport, you are jailed for another Bob.",
+  "parse": "warps:CANNOT_WARP_JAIL;time=Bob",
+  "both": "You cannot teleport, you are jailed for another Bob."
+ },
+ {
+  "input": "warps:CANNOT_WARP_JAIL;time=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You cannot teleport, you are jailed for another &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;.",
+  "parse": "warps:CANNOT_WARP_JAIL;time=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You cannot teleport, you are jailed for another &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt;."
+ },
+ {
+  "input": "warps:CANNOT_WARP_JAIL;time",
+  "format": "You cannot teleport, you are jailed for another .",
+  "parse": "warps:CANNOT_WARP_JAIL;time",
+  "both": "You cannot teleport, you are jailed for another ."
+ },
+ {
+  "input": "warps:CANNOT_WARP_TUTORIAL",
+  "format": "You must finish the tutorial before warping.",
+  "parse": "warps:CANNOT_WARP_TUTORIAL",
+  "both": "You must finish the tutorial before warping."
+ },
+ {
+  "input": "warps:CANNOT_WARP_COMBAT",
+  "format": "You must wait 10 seconds after finishing combat to warp.",
+  "parse": "warps:CANNOT_WARP_COMBAT",
+  "both": "You must wait 10 seconds after finishing combat to warp."
+ },
+ {
+  "input": "warps:CANNOT_WARP_COOLDOWN",
+  "format": "You must wait another {{time}} to warp.",
+  "parse": "warps:CANNOT_WARP_COOLDOWN",
+  "both": "You must wait another {{time}} to warp."
+ },
+ {
+  "input": "warps:CANNOT_WARP_COOLDOWN;time=Bob",
+  "format": "You must wait another Bob to warp.",
+  "parse": "warps:CANNOT_WARP_COOLDOWN;time=Bob",
+  "both": "You must wait another Bob to warp."
+ },
+ {
+  "input": "warps:CANNOT_WARP_COOLDOWN;time=<b>\"Tom\" & 'Jerry'/x</b>",
+  "format": "You must wait another &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to warp.",
+  "parse": "warps:CANNOT_WARP_COOLDOWN;time=<b>\"Tom\" & 'Jerry'/x</b>",
+  "both": "You must wait another &lt;b&gt;&quot;Tom&quot; &amp; &#39;Jerry&#39;&#x2F;x&lt;&#x2F;b&gt; to warp."
+ },
+ {
+  "input": "warps:CANNOT_WARP_COOLDOWN;time",
+  "format": "You must wait another  to warp.",
+  "parse": "warps:CANNOT_WARP_COOLDOWN;time",
+  "both": "You must wait another  to warp."
+ },
+ {
+  "input": "",
+  "format": "",
+  "parse": "",
+  "both": ""
+ },
+ {
+  "input": "Welcome to PixelHero!",
+  "format": "Welcome to PixelHero!",
+  "parse": "Welcome to PixelHero!",
+  "both": "Welcome to PixelHero!"
+ },
+ {
+  "input": "Hello: world",
+  "format": "Hello: world",
+  "parse": "Hello: world",
+  "both": "Hello: world"
+ },
+ {
+  "input": "a;b",
+  "format": "a;b",
+  "parse": "a;b",
+  "both": "a;b"
+ },
+ {
+  "input": "Time: 10:30; done",
+  "format": "Time: 10:30",
+  "parse": "Time: 10:30; done",
+  "both": "Time: 10:30"
+ },
+ {
+  "input": "misc:NOPE",
+  "format": "NOPE",
+  "parse": "misc:NOPE",
+  "both": "NOPE"
+ },
+ {
+  "input": "nope:KEY",
+  "format": "KEY",
+  "parse": "nope:KEY",
+  "both": "KEY"
+ },
+ {
+  "input": "misc:",
+  "format": "",
+  "parse": "misc:",
+  "both": ""
+ },
+ {
+  "input": ":KEY",
+  "format": "KEY",
+  "parse": ":KEY",
+  "both": "KEY"
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM;username=a=b",
+  "format": "This item can only be picked up by a.",
+  "parse": "misc:CANNOT_PICK_UP_ITEM;username=a=b",
+  "both": "This item can only be picked up by a."
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM;;username=Bob",
+  "format": "This item can only be picked up by Bob.",
+  "parse": "misc:CANNOT_PICK_UP_ITEM;;username=Bob",
+  "both": "This item can only be picked up by Bob."
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM;username=",
+  "format": "This item can only be picked up by .",
+  "parse": "misc:CANNOT_PICK_UP_ITEM;username=",
+  "both": "This item can only be picked up by ."
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM;other=Bob",
+  "format": "This item can only be picked up by {{username}}.",
+  "parse": "misc:CANNOT_PICK_UP_ITEM;other=Bob",
+  "both": "This item can only be picked up by {{username}}."
+ },
+ {
+  "input": "misc:CANNOT_PICK_UP_ITEM;username=@red@Bob",
+  "format": "This item can only be picked up by @red@Bob.",
+  "parse": "misc:CANNOT_PICK_UP_ITEM;username=<span style=\"color:red;\">Bob</span>",
+  "both": "This item can only be picked up by <span style=\"color:red;\">Bob.</span>"
+ },
+ {
+  "input": "misc:CANNOT_TALK;x=1",
+  "format": "You cannot talk right now.",
+  "parse": "misc:CANNOT_TALK;x=1",
+  "both": "You cannot talk right now."
+ },
+ {
+  "input": "game:NAME",
+  "format": "PixelHero",
+  "parse": "game:NAME",
+  "both": "PixelHero"
+ },
+ {
+  "input": "misc:CANNOT_TALK.extra",
+  "format": "CANNOT_TALK.extra",
+  "parse": "misc:CANNOT_TALK.extra",
+  "both": "CANNOT_TALK.extra"
+ },
+ {
+  "input": "@red@Hello",
+  "format": "@red@Hello",
+  "parse": "<span style=\"color:red;\">Hello</span>",
+  "both": "<span style=\"color:red;\">Hello</span>"
+ },
+ {
+  "input": "a@b",
+  "format": "a@b",
+  "parse": "a b",
+  "both": "a b"
+ },
+ {
+  "input": "@@",
+  "format": "@@",
+  "parse": "<span style=\"color:;\"></span>",
+  "both": "<span style=\"color:;\"></span>"
+ },
+ {
+  "input": "@",
+  "format": "@",
+  "parse": " ",
+  "both": " "
+ },
+ {
+  "input": "x@#fff@y@white@z",
+  "format": "x@#fff@y@white@z",
+  "parse": "x<span style=\"color:#fff;\">y<span style=\"color:white;\">z</span></span>",
+  "both": "x<span style=\"color:#fff;\">y<span style=\"color:white;\">z</span></span>"
+ },
+ {
+  "input": "@rgb(1, 2, 3)@text@",
+  "format": "@rgb(1, 2, 3)@text@",
+  "parse": " rgb(1, 2, 3) text ",
+  "both": " rgb(1, 2, 3) text "
+ },
+ {
+  "input": "one@two@three@four",
+  "format": "one@two@three@four",
+  "parse": "one two three four",
+  "both": "one two three four"
+ },
+ {
+  "input": "<b>bold</b> & more",
+  "format": "<b>bold</b> & more",
+  "parse": "<b>bold</b> & more",
+  "both": "<b>bold</b> & more"
+ },
+ {
+  "input": "Player » @green@joined@white@ the game",
+  "format": "Player » @green@joined@white@ the game",
+  "parse": "Player » <span style=\"color:green;\">joined<span style=\"color:white;\"> the game</span></span>",
+  "both": "Player » <span style=\"color:green;\">joined<span style=\"color:white;\"> the game</span></span>"
+ },
+ {
+  "input": "emoji 😀 @#ff0@ok",
+  "format": "emoji 😀 @#ff0@ok",
+  "parse": "emoji 😀 <span style=\"color:#ff0;\">ok</span>",
+  "both": "emoji 😀 <span style=\"color:#ff0;\">ok</span>"
+ }
+]

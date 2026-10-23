@@ -1,0 +1,2987 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb7d99ace2439ef42bd8b11df53aa7a6, type: 3}
+  m_Name: SpriteCatalog
+  m_EditorClassIdentifier: PixelHero.Runtime::PixelHero.Sprites.SpriteCatalog
+  SpritesJson: {fileID: 4900000, guid: 712604e88f9ba2a4dacb3f7df05ca8de, type: 3}
+  MapJson: {fileID: 4900000, guid: 72a534aff46c8b4488ce161d74484289, type: 3}
+  RegionCacheGzip: {fileID: 4900000, guid: 281180970a5e656428f0cb531add26a9, type: 3}
+  Textures:
+  - Key: sprites/bushes/blackberrybush
+    Texture: {fileID: 2800000, guid: 6fb2d830b2cf7804ab55660880280aa1, type: 3}
+  - Key: sprites/bushes/blueberrybush
+    Texture: {fileID: 2800000, guid: 856b430c741648e418855393b2af5e59, type: 3}
+  - Key: sprites/bushes/bluelilybush
+    Texture: {fileID: 2800000, guid: 7f79cae10f53b1f4383da1dcd22b7b96, type: 3}
+  - Key: sprites/bushes/cornbush
+    Texture: {fileID: 2800000, guid: 5eb2f69758c65f54685f6e6134cdc670, type: 3}
+  - Key: sprites/bushes/cuminbush
+    Texture: {fileID: 2800000, guid: 504d0b1d3ff789248885147316e7d002, type: 3}
+  - Key: sprites/bushes/mustardbush
+    Texture: {fileID: 2800000, guid: ff5e71f1666a8e3499eb84b00e952552, type: 3}
+  - Key: sprites/bushes/paprikabush
+    Texture: {fileID: 2800000, guid: 75c4376ae4211fe4399e542b6044e102, type: 3}
+  - Key: sprites/bushes/peachbush
+    Texture: {fileID: 2800000, guid: 7066fe1362b093748ac95a5063a79876, type: 3}
+  - Key: sprites/bushes/raspberrybush
+    Texture: {fileID: 2800000, guid: e318ec9b406100f429d0aa3c83356ff3, type: 3}
+  - Key: sprites/bushes/tomatobush
+    Texture: {fileID: 2800000, guid: 71129b43f2a6d8f44a3b3c2a90d30c1b, type: 3}
+  - Key: sprites/bushes/treestump1
+    Texture: {fileID: 2800000, guid: f7bd88baeb355a24797d144707c433eb, type: 3}
+  - Key: sprites/crowns/artist
+    Texture: {fileID: 2800000, guid: b828ba009aafc4a4ca54dbe90d58cacb, type: 3}
+  - Key: sprites/crowns/bronzemedal
+    Texture: {fileID: 2800000, guid: ca6607f5f4654934e81a5700ccff42e0, type: 3}
+  - Key: sprites/crowns/goldmedal
+    Texture: {fileID: 2800000, guid: b4a1b25bdbfb0e640a5fbac7257b775a, type: 3}
+  - Key: sprites/crowns/silvermedal
+    Texture: {fileID: 2800000, guid: db6c2e6d02f3c7247b91dc606bb401ff, type: 3}
+  - Key: sprites/crowns/tier1
+    Texture: {fileID: 2800000, guid: 5b8b8b16f33bfc648af26156700e59c1, type: 3}
+  - Key: sprites/crowns/tier2
+    Texture: {fileID: 2800000, guid: 88e2bdacc0ed51f4ba4503fd8db4de8d, type: 3}
+  - Key: sprites/crowns/tier3
+    Texture: {fileID: 2800000, guid: 7a45c637a04922443b98546c607e2f80, type: 3}
+  - Key: sprites/crowns/tier4
+    Texture: {fileID: 2800000, guid: 51ede7cd44c44c84cb0691a4572c2fc5, type: 3}
+  - Key: sprites/crowns/tier5
+    Texture: {fileID: 2800000, guid: 31b149decdd2404409db8210edf8084e, type: 3}
+  - Key: sprites/crowns/tier6
+    Texture: {fileID: 2800000, guid: 575d7db4476215c4499c59425d3ca2cb, type: 3}
+  - Key: sprites/crowns/tier7
+    Texture: {fileID: 2800000, guid: a4fdd6391bf86c34ea86590179356f8e, type: 3}
+  - Key: sprites/cursors/axe
+    Texture: {fileID: 2800000, guid: a1a56955a596d1f40b2faf77c0eba51c, type: 3}
+  - Key: sprites/cursors/bow
+    Texture: {fileID: 2800000, guid: 476caacd511fd364cbf3c4284d120a7b, type: 3}
+  - Key: sprites/cursors/cooking
+    Texture: {fileID: 2800000, guid: e20c30a824f5b8b4aa4aba6fcf03c007, type: 3}
+  - Key: sprites/cursors/crafting
+    Texture: {fileID: 2800000, guid: 6a5088799ecd42a4c8e4d9d25fb20491, type: 3}
+  - Key: sprites/cursors/fishing
+    Texture: {fileID: 2800000, guid: 5dafb9e8fd847ac4aa81579acb725f3e, type: 3}
+  - Key: sprites/cursors/foraging
+    Texture: {fileID: 2800000, guid: 818830ee9ce87eb42b0571ce9822ff38, type: 3}
+  - Key: sprites/cursors/hand
+    Texture: {fileID: 2800000, guid: a69013170b507f8478bb583a5dab9e04, type: 3}
+  - Key: sprites/cursors/loot
+    Texture: {fileID: 2800000, guid: 2132792ec39067841bb075d53f67e260, type: 3}
+  - Key: sprites/cursors/pickaxe
+    Texture: {fileID: 2800000, guid: 48b5230c6cb45774aa54da4078964662, type: 3}
+  - Key: sprites/cursors/smelting
+    Texture: {fileID: 2800000, guid: eb9f2309b58f89949b2132a214974151, type: 3}
+  - Key: sprites/cursors/smithing
+    Texture: {fileID: 2800000, guid: cf6e5bdb5fd4feb4b99dda6102ad0f13, type: 3}
+  - Key: sprites/cursors/spell
+    Texture: {fileID: 2800000, guid: 05e3a753935ec55489fc03e989218b59, type: 3}
+  - Key: sprites/cursors/sword
+    Texture: {fileID: 2800000, guid: d0beb0c6cb7daa34a9ef46c469ace845, type: 3}
+  - Key: sprites/cursors/talk
+    Texture: {fileID: 2800000, guid: b6bb36093f158844ab64fbf1f998be1f, type: 3}
+  - Key: sprites/death
+    Texture: {fileID: 2800000, guid: 1a62caef095636b4181987e56df45252, type: 3}
+  - Key: sprites/effectentity/fire
+    Texture: {fileID: 2800000, guid: 19614370f2e41094a83129c780f5f3f8, type: 3}
+  - Key: sprites/effects/accuracy
+    Texture: {fileID: 2800000, guid: 76e602e9609b25b4db55b4dfc95fad1b, type: 3}
+  - Key: sprites/effects/accuracysuper
+    Texture: {fileID: 2800000, guid: 1695e2ff4744ad141b6185a1d789025d, type: 3}
+  - Key: sprites/effects/archery
+    Texture: {fileID: 2800000, guid: d649d588d47037046bca73c68b5e5be1, type: 3}
+  - Key: sprites/effects/archerysuper
+    Texture: {fileID: 2800000, guid: 1bf0774844cd7ce44822e330181068c4, type: 3}
+  - Key: sprites/effects/bleed
+    Texture: {fileID: 2800000, guid: 786b273714304a341b7b33679fe2b426, type: 3}
+  - Key: sprites/effects/boulder
+    Texture: {fileID: 2800000, guid: f3c90b90d552af84090f5324fd315327, type: 3}
+  - Key: sprites/effects/bucklerbenef
+    Texture: {fileID: 2800000, guid: 15f66a595e5edf94192516048a8e8d3e, type: 3}
+  - Key: sprites/effects/burn
+    Texture: {fileID: 2800000, guid: 7149d14f72e532a408e2e6297517a777, type: 3}
+  - Key: sprites/effects/critical
+    Texture: {fileID: 2800000, guid: 556aa2f9ca09ada48a363d57a89a5b98, type: 3}
+  - Key: sprites/effects/defense
+    Texture: {fileID: 2800000, guid: 90a13c719cf58b14ead006531645ee9c, type: 3}
+  - Key: sprites/effects/defensesuper
+    Texture: {fileID: 2800000, guid: 6d14e4e6ac2757a45a6bbe87f89b61d5, type: 3}
+  - Key: sprites/effects/feathers
+    Texture: {fileID: 2800000, guid: 84486bacaea036c4abd5dfe87a7d1d50, type: 3}
+  - Key: sprites/effects/fireball
+    Texture: {fileID: 2800000, guid: e9cb7ac22044bc547a0525a62ae8dc73, type: 3}
+  - Key: sprites/effects/flaredance
+    Texture: {fileID: 2800000, guid: 8aa91dd270050ef409a07927cac72b08, type: 3}
+  - Key: sprites/effects/freeze
+    Texture: {fileID: 2800000, guid: a0286b40b128f39428a1142c6bb5c276, type: 3}
+  - Key: sprites/effects/heal
+    Texture: {fileID: 2800000, guid: fc5777f8763746845b669a556bc7c18d, type: 3}
+  - Key: sprites/effects/heal2
+    Texture: {fileID: 2800000, guid: 2a41dce247612e84fb1c4741be47e8fa, type: 3}
+  - Key: sprites/effects/iceball
+    Texture: {fileID: 2800000, guid: 59b86029319ff5a4d8b1e65e7b7d2108, type: 3}
+  - Key: sprites/effects/lavaball
+    Texture: {fileID: 2800000, guid: eb21c7bdfc675284e895806bf51cecc3, type: 3}
+  - Key: sprites/effects/lightningexplosion
+    Texture: {fileID: 2800000, guid: 52e0d5f3eab7c574fbdea1a45d4ae38c, type: 3}
+  - Key: sprites/effects/magic
+    Texture: {fileID: 2800000, guid: 084f17fdfa57bdf479a58f15f5afd1a5, type: 3}
+  - Key: sprites/effects/magicsuper
+    Texture: {fileID: 2800000, guid: 39b472880fbc33c4789ff6ecb1b10cd5, type: 3}
+  - Key: sprites/effects/poisonball
+    Texture: {fileID: 2800000, guid: 9ab9ee20c98abf94990200a38c41b260, type: 3}
+  - Key: sprites/effects/provocation
+    Texture: {fileID: 2800000, guid: acb847ba1575a6a46adcab906986a129, type: 3}
+  - Key: sprites/effects/shieldbenef
+    Texture: {fileID: 2800000, guid: f18ca10a07c916341b8954a5f8debbb8, type: 3}
+  - Key: sprites/effects/strength
+    Texture: {fileID: 2800000, guid: 935d46e5b93bf22499fc401cb84037a7, type: 3}
+  - Key: sprites/effects/strengthsuper
+    Texture: {fileID: 2800000, guid: 69bdceb618317a9409ba5bf063bc71cb, type: 3}
+  - Key: sprites/effects/stun
+    Texture: {fileID: 2800000, guid: 6a0535c87b429d1468cced5d1ca660c8, type: 3}
+  - Key: sprites/effects/supercat
+    Texture: {fileID: 2800000, guid: fd3a1035442b37249ba17637e18daa6c, type: 3}
+  - Key: sprites/effects/terror
+    Texture: {fileID: 2800000, guid: 24c6be3587e46f247b6b19745a8444fb, type: 3}
+  - Key: sprites/effects/terror2
+    Texture: {fileID: 2800000, guid: 6978681a3e7dc184294212c8ab002dfe, type: 3}
+  - Key: sprites/exclamation
+    Texture: {fileID: 2800000, guid: 72bd747244a36d2419f0389cff5a608d, type: 3}
+  - Key: sprites/exclamationblue
+    Texture: {fileID: 2800000, guid: bc37c99e70bbfb54b9faac03711f9992, type: 3}
+  - Key: sprites/fishspots/clamspot
+    Texture: {fileID: 2800000, guid: 27bf6cbbf728747488f963338e37fd9f, type: 3}
+  - Key: sprites/fishspots/jellyfishspot
+    Texture: {fileID: 2800000, guid: 55d312ac82a48be4ba9f648c6a7c5457, type: 3}
+  - Key: sprites/fishspots/shrimpspot
+    Texture: {fileID: 2800000, guid: b47fb721b5f04864ca6164a3bb95355b, type: 3}
+  - Key: sprites/fishspots/tunaspot
+    Texture: {fileID: 2800000, guid: 806a0147b977a0f428e50c5422aac8eb, type: 3}
+  - Key: sprites/fishspots/tutorialshrimpspot
+    Texture: {fileID: 2800000, guid: 50d1460968c25e24db53193016adede6, type: 3}
+  - Key: sprites/items/accuracypotion
+    Texture: {fileID: 2800000, guid: 9189d30365fe4654eab1eb0d21a6066f, type: 3}
+  - Key: sprites/items/adamantitesworth
+    Texture: {fileID: 2800000, guid: 293fae9701723d44cbe6649f8d144059, type: 3}
+  - Key: sprites/items/adeptsrapier
+    Texture: {fileID: 2800000, guid: f80eb05d9ed7de44998844a1300250db, type: 3}
+  - Key: sprites/items/alchemistalimony
+    Texture: {fileID: 2800000, guid: 3e65964345f2448499ebedb13f3931d1, type: 3}
+  - Key: sprites/items/alkythnlogs
+    Texture: {fileID: 2800000, guid: 686f74e664ccf3646aee2ec172d80aff, type: 3}
+  - Key: sprites/items/amethyst
+    Texture: {fileID: 2800000, guid: 2255e1f8beb1f6847b40e9808eca8c22, type: 3}
+  - Key: sprites/items/amethystboots
+    Texture: {fileID: 2800000, guid: e2dd0fe633a2b0a48a63bec1b5da0884, type: 3}
+  - Key: sprites/items/amethystchestplate
+    Texture: {fileID: 2800000, guid: 8a3e750a736e6724fa2a79aa7f478f86, type: 3}
+  - Key: sprites/items/amethysthelm
+    Texture: {fileID: 2800000, guid: ac91583ab01e9bf43af4ba8ce29be823, type: 3}
+  - Key: sprites/items/amethystlegplates
+    Texture: {fileID: 2800000, guid: 9d578e7a3c3a038448dcbfb0b7cbfcf1, type: 3}
+  - Key: sprites/items/ancientshovel
+    Texture: {fileID: 2800000, guid: 46eedc1e9a3c1b3428b085b6ee45e23d, type: 3}
+  - Key: sprites/items/ancientstaff
+    Texture: {fileID: 2800000, guid: c2b7e30dc5756744e96a56d6e17af5aa, type: 3}
+  - Key: sprites/items/angelicblade
+    Texture: {fileID: 2800000, guid: 3d726a1a07d3eba42ab6c589105bd835, type: 3}
+  - Key: sprites/items/apple
+    Texture: {fileID: 2800000, guid: 94ca916df723cbe4db27828fc0080e8e, type: 3}
+  - Key: sprites/items/aquasilliuslogs
+    Texture: {fileID: 2800000, guid: 7c7cbd83e65a5544a9a178e6492f8103, type: 3}
+  - Key: sprites/items/aquastaff
+    Texture: {fileID: 2800000, guid: a8a02adc3c2fe0348832cf92ffc70319, type: 3}
+  - Key: sprites/items/arcanahypercube
+    Texture: {fileID: 2800000, guid: 436af6c39444dcc45b6e81071fe469e1, type: 3}
+  - Key: sprites/items/arrow
+    Texture: {fileID: 2800000, guid: d78fb29448b91f3489f4b740fb4c84f7, type: 3}
+  - Key: sprites/items/artistcrown
+    Texture: {fileID: 2800000, guid: f7fedce866b044043a8c66f17b6c4ef4, type: 3}
+  - Key: sprites/items/ashworm
+    Texture: {fileID: 2800000, guid: 838446c80c6122245bc91ae4d457afd0, type: 3}
+  - Key: sprites/items/avocado
+    Texture: {fileID: 2800000, guid: 922de658a73e46341a7e589304437de4, type: 3}
+  - Key: sprites/items/balloonblue
+    Texture: {fileID: 2800000, guid: cbc2d347d5ba12d4f85a604be7dcbcfa, type: 3}
+  - Key: sprites/items/balloongreen
+    Texture: {fileID: 2800000, guid: 8ccafd836e3245c41bd6e42137d11630, type: 3}
+  - Key: sprites/items/balloonpink
+    Texture: {fileID: 2800000, guid: f432cb93f5a3ab649a9c5068c3b40cc4, type: 3}
+  - Key: sprites/items/balloonturquoise
+    Texture: {fileID: 2800000, guid: 603a030a02517a74b882cb1fdf4ae9d3, type: 3}
+  - Key: sprites/items/balloonwhite
+    Texture: {fileID: 2800000, guid: 7a60d374a10ab8d47b22e2b96fdaddec, type: 3}
+  - Key: sprites/items/balloonyellow
+    Texture: {fileID: 2800000, guid: 2e506fb393957974cae0dc1c45479724, type: 3}
+  - Key: sprites/items/banana
+    Texture: {fileID: 2800000, guid: acdc9f989313a5b448476709eacac5c7, type: 3}
+  - Key: sprites/items/barley
+    Texture: {fileID: 2800000, guid: 8528eb1995f9bf64b93c1c7ae714df7b, type: 3}
+  - Key: sprites/items/basil
+    Texture: {fileID: 2800000, guid: f19b3f3edabf8a8418340eb7f059cd10, type: 3}
+  - Key: sprites/items/basilbowlmedium
+    Texture: {fileID: 2800000, guid: a8955afdec67acf4d86933568edd6647, type: 3}
+  - Key: sprites/items/basilpowder
+    Texture: {fileID: 2800000, guid: 5ab35edb0d126494b9fdee8ba24826c5, type: 3}
+  - Key: sprites/items/basilshaker
+    Texture: {fileID: 2800000, guid: c7509c8e64098644e8d04c8c044d9f81, type: 3}
+  - Key: sprites/items/basket
+    Texture: {fileID: 2800000, guid: 753668886e4306b4abb0dfa978a4cc17, type: 3}
+  - Key: sprites/items/bayleaves
+    Texture: {fileID: 2800000, guid: d116cd670f99f634b8d2ba480bcd612a, type: 3}
+  - Key: sprites/items/bayleavesbottle
+    Texture: {fileID: 2800000, guid: 44addffca152fa449b50cc6fc313b885, type: 3}
+  - Key: sprites/items/bayleavesbowlmedium
+    Texture: {fileID: 2800000, guid: 2e45b2b29305a73428b5fbbab827afff, type: 3}
+  - Key: sprites/items/bead
+    Texture: {fileID: 2800000, guid: d7db358473a5abd49b34135743869881, type: 3}
+  - Key: sprites/items/bearhelm
+    Texture: {fileID: 2800000, guid: 7b5c8fea7d6291249b30d9c3c30d40e4, type: 3}
+  - Key: sprites/items/beer
+    Texture: {fileID: 2800000, guid: 73d0ec754cb9d4643a05c87441aac2dd, type: 3}
+  - Key: sprites/items/beermug
+    Texture: {fileID: 2800000, guid: 990e898403ce2a64db330da0ca2c0674, type: 3}
+  - Key: sprites/items/berserkerssanity
+    Texture: {fileID: 2800000, guid: 77bec32a5add27b498ecc4ba56dfcf00, type: 3}
+  - Key: sprites/items/beryl
+    Texture: {fileID: 2800000, guid: d50c8753eaa2f6c4db4780d6e1779fe2, type: 3}
+  - Key: sprites/items/berylgoldring
+    Texture: {fileID: 2800000, guid: 4a41a02fd7c5d0047a376e0a3f41b40f, type: 3}
+  - Key: sprites/items/berylpendant
+    Texture: {fileID: 2800000, guid: 79c2047049cc00a459c761d781497652, type: 3}
+  - Key: sprites/items/berylsilverring
+    Texture: {fileID: 2800000, guid: 5366fb109a85fc646b43123656216b64, type: 3}
+  - Key: sprites/items/bident
+    Texture: {fileID: 2800000, guid: 88fa1b2a4248c9147a4a8029bc1c9203, type: 3}
+  - Key: sprites/items/bigemptyvial
+    Texture: {fileID: 2800000, guid: d6852768dcfd51543b2b5b6306d8f3f6, type: 3}
+  - Key: sprites/items/bigflask
+    Texture: {fileID: 2800000, guid: 1b487fb236a2f2844a9aaaaf874d3a97, type: 3}
+  - Key: sprites/items/bigmanaflask
+    Texture: {fileID: 2800000, guid: f68902324ad3be440a08b9b14db86dc8, type: 3}
+  - Key: sprites/items/blackberry
+    Texture: {fileID: 2800000, guid: 60d984322c92e714c9c1a835796a4496, type: 3}
+  - Key: sprites/items/blackpepperplant
+    Texture: {fileID: 2800000, guid: 2759452b041e9d4458702ee6060197af, type: 3}
+  - Key: sprites/items/blackpotion
+    Texture: {fileID: 2800000, guid: 2fb042daa17479d4e8b8ca18082021b0, type: 3}
+  - Key: sprites/items/bladeofdarkness
+    Texture: {fileID: 2800000, guid: db9ff22be5f1a8c4f895236fb66c7de0, type: 3}
+  - Key: sprites/items/bloodmoonstaff
+    Texture: {fileID: 2800000, guid: d1f5f8369197bdc4692c5d095b186f35, type: 3}
+  - Key: sprites/items/bloodwoodlogs
+    Texture: {fileID: 2800000, guid: 29ca42bde39cb634eb34aff8d65cafa9, type: 3}
+  - Key: sprites/items/blueberry
+    Texture: {fileID: 2800000, guid: 7fef74528e3036d40b41910b2de504fd, type: 3}
+  - Key: sprites/items/bluelightsaber
+    Texture: {fileID: 2800000, guid: a18c14c733a08514fbc2eedad75f2211, type: 3}
+  - Key: sprites/items/bluelily
+    Texture: {fileID: 2800000, guid: e816d8b0967f7b4469f1e2115d439599, type: 3}
+  - Key: sprites/items/bluemoonstaff
+    Texture: {fileID: 2800000, guid: 84a95942b023b02419192bc00f1bbfb6, type: 3}
+  - Key: sprites/items/bluemysticchest
+    Texture: {fileID: 2800000, guid: 1d1a1a04b425bc84fa2bb29a1915e584, type: 3}
+  - Key: sprites/items/blueworm
+    Texture: {fileID: 2800000, guid: 63139fca4602c914c9da6979881c6a63, type: 3}
+  - Key: sprites/items/bonebonker
+    Texture: {fileID: 2800000, guid: f4866af3808c32d45a0313252491cce5, type: 3}
+  - Key: sprites/items/bonepickaxe
+    Texture: {fileID: 2800000, guid: ecdd7435ca002604b9f0c2a83d2fa8e9, type: 3}
+  - Key: sprites/items/book
+    Texture: {fileID: 2800000, guid: 11b672664245aad40b472ee204bef09d, type: 3}
+  - Key: sprites/items/borth
+    Texture: {fileID: 2800000, guid: e72123adf0ae3854eafb6ae457fb3595, type: 3}
+  - Key: sprites/items/bowbamboo
+    Texture: {fileID: 2800000, guid: 1d2712640df63b648bfc771ee1f47535, type: 3}
+  - Key: sprites/items/bowdeuteranom
+    Texture: {fileID: 2800000, guid: 16e42d9ff46f67a48b916f15518409d0, type: 3}
+  - Key: sprites/items/boweggplant
+    Texture: {fileID: 2800000, guid: b608a3a6e92f3ad4c8cbf09e4efa8175, type: 3}
+  - Key: sprites/items/bowfleshflinger
+    Texture: {fileID: 2800000, guid: b781f077df4ffe34ab96f8ebb8e84732, type: 3}
+  - Key: sprites/items/bowiceicemaybe
+    Texture: {fileID: 2800000, guid: a33eea95348f9b24cb45135cda87428d, type: 3}
+  - Key: sprites/items/bowillmuscal
+    Texture: {fileID: 2800000, guid: 9ddd4e93a66f7db4ba185340b7e7be66, type: 3}
+  - Key: sprites/items/bowkelpysburden
+    Texture: {fileID: 2800000, guid: 2a741bd2901c4a34d9bb486c9077e1a4, type: 3}
+  - Key: sprites/items/bowlmedium
+    Texture: {fileID: 2800000, guid: 5a853d3011417ac4a995848fea4d4ea7, type: 3}
+  - Key: sprites/items/bowlsmall
+    Texture: {fileID: 2800000, guid: b79194a88fbf7a646a7c1424356096e3, type: 3}
+  - Key: sprites/items/bowmagiccool
+    Texture: {fileID: 2800000, guid: 973bab7245538174480675e7c607f1d4, type: 3}
+  - Key: sprites/items/bowmagichot
+    Texture: {fileID: 2800000, guid: e87349b2ef0f4754fa9efd0aa7af02bc, type: 3}
+  - Key: sprites/items/bowmoon
+    Texture: {fileID: 2800000, guid: ac7f76a0c343c794ea143135ee170f4c, type: 3}
+  - Key: sprites/items/bowocean
+    Texture: {fileID: 2800000, guid: 78dbcfb613c80d24f98f58ed83f99e3f, type: 3}
+  - Key: sprites/items/bowpine
+    Texture: {fileID: 2800000, guid: 98668902ebe19f6499237d46b286f8e8, type: 3}
+  - Key: sprites/items/bowsky
+    Texture: {fileID: 2800000, guid: fe215f73601a7404eb61de48f026f2a0, type: 3}
+  - Key: sprites/items/bowsun
+    Texture: {fileID: 2800000, guid: 8abbcc74609664d4e8c5c34df934db84, type: 3}
+  - Key: sprites/items/bowswineslayer
+    Texture: {fileID: 2800000, guid: 7b29949317920de4483c4f9f31cf144e, type: 3}
+  - Key: sprites/items/bowwillowtwine
+    Texture: {fileID: 2800000, guid: 9dc3734aef8651a40adfb33324498831, type: 3}
+  - Key: sprites/items/braceletbronzeberyl
+    Texture: {fileID: 2800000, guid: 1014e3363e53ff348aa32c2806da05e2, type: 3}
+  - Key: sprites/items/braceletbronzeemerald
+    Texture: {fileID: 2800000, guid: e1177ab74980e69479dcf0cb44a4613e, type: 3}
+  - Key: sprites/items/braceletbronzepythar
+    Texture: {fileID: 2800000, guid: 4d531073ee4fff746a2bfbcae1b0757f, type: 3}
+  - Key: sprites/items/braceletbronzeruby
+    Texture: {fileID: 2800000, guid: a61bd280ac8fcb947a248e735d7e0952, type: 3}
+  - Key: sprites/items/braceletbronzesapphire
+    Texture: {fileID: 2800000, guid: e52bad0ee1b7ad643b88774acd24568c, type: 3}
+  - Key: sprites/items/braceletgoldberyl
+    Texture: {fileID: 2800000, guid: b3a0c48bc6e30be4da263ff4f33310ca, type: 3}
+  - Key: sprites/items/braceletgoldemerald
+    Texture: {fileID: 2800000, guid: 7ac4b55356614664fb440b6e77e7670f, type: 3}
+  - Key: sprites/items/braceletgoldpythar
+    Texture: {fileID: 2800000, guid: eccf537089bebc7408e31539eac1067a, type: 3}
+  - Key: sprites/items/braceletgoldruby
+    Texture: {fileID: 2800000, guid: d5b7d1f1c0b094f4388824d0ffad4e8b, type: 3}
+  - Key: sprites/items/braceletgoldsapphire
+    Texture: {fileID: 2800000, guid: ef7a215787e0f1f4b8e652ec66a82a33, type: 3}
+  - Key: sprites/items/braceletsilverberyl
+    Texture: {fileID: 2800000, guid: 8eedf95aa3832054e911eff60a536e8c, type: 3}
+  - Key: sprites/items/braceletsilveremerald
+    Texture: {fileID: 2800000, guid: 9bd2ff3f6c36bb745ac53caf71220b14, type: 3}
+  - Key: sprites/items/braceletsilverpythar
+    Texture: {fileID: 2800000, guid: b29735021a5822c428f1ded3d1d86ad2, type: 3}
+  - Key: sprites/items/braceletsilverruby
+    Texture: {fileID: 2800000, guid: 98f9086d6c254dd48ab627971f33f71e, type: 3}
+  - Key: sprites/items/braceletsilversapphire
+    Texture: {fileID: 2800000, guid: 2c7feaac285d1a845825b9d0c37081b3, type: 3}
+  - Key: sprites/items/bronzeaxe
+    Texture: {fileID: 2800000, guid: d3102a8d70fde334487340291cbbae03, type: 3}
+  - Key: sprites/items/bronzebar
+    Texture: {fileID: 2800000, guid: cb08ea36a74aa0e4f9797f45edd11bcd, type: 3}
+  - Key: sprites/items/bronzebattleaxe
+    Texture: {fileID: 2800000, guid: 01e805d71d767ba4a925c983dcd1cce1, type: 3}
+  - Key: sprites/items/bronzeboots
+    Texture: {fileID: 2800000, guid: 4cfaa2334c2e5f549aa763afcf7ece56, type: 3}
+  - Key: sprites/items/bronzechestplate
+    Texture: {fileID: 2800000, guid: 5afa7266339da2d4fa2526e17927a6c5, type: 3}
+  - Key: sprites/items/bronzehelmet
+    Texture: {fileID: 2800000, guid: 6527b006da1d3e94d844b21fa4193171, type: 3}
+  - Key: sprites/items/bronzelegplates
+    Texture: {fileID: 2800000, guid: 463d37935054db64c9505fbd4b54b9e0, type: 3}
+  - Key: sprites/items/bronzeore
+    Texture: {fileID: 2800000, guid: 8ca22b6db268f0f4c9352fadbcff8099, type: 3}
+  - Key: sprites/items/bronzepickaxe
+    Texture: {fileID: 2800000, guid: d7a27c2abcbe94d41b17a67a514d01ac, type: 3}
+  - Key: sprites/items/bronzering
+    Texture: {fileID: 2800000, guid: 1604f81fe7c4a574fbdc742bdced38e4, type: 3}
+  - Key: sprites/items/bronzescythe
+    Texture: {fileID: 2800000, guid: 497001b5901284a439cba572a648638d, type: 3}
+  - Key: sprites/items/bronzespear
+    Texture: {fileID: 2800000, guid: 9a06896a541403744809e936c69d1741, type: 3}
+  - Key: sprites/items/bronzesword
+    Texture: {fileID: 2800000, guid: 4bb44f31a16f030448eb6df54e62c931, type: 3}
+  - Key: sprites/items/brutishblade
+    Texture: {fileID: 2800000, guid: f9ed50cbc86ded24cb6c9b9cafb099ee, type: 3}
+  - Key: sprites/items/bucket
+    Texture: {fileID: 2800000, guid: 3db471882c8b24d4e8ae310ebc20ec2d, type: 3}
+  - Key: sprites/items/burger
+    Texture: {fileID: 2800000, guid: 186a7e3cdc3b0624ea6e7aee861465e5, type: 3}
+  - Key: sprites/items/cake
+    Texture: {fileID: 2800000, guid: f2104b0bb0bc8284ea4972c6963c2c69, type: 3}
+  - Key: sprites/items/candykey
+    Texture: {fileID: 2800000, guid: ba53be25c11ad89449a97a4096615983, type: 3}
+  - Key: sprites/items/cayennebowlsmall
+    Texture: {fileID: 2800000, guid: f1881242267318840bcebc883ae3ca28, type: 3}
+  - Key: sprites/items/cayennepepper
+    Texture: {fileID: 2800000, guid: 75f98dd7b843b0f46b308302057b146d, type: 3}
+  - Key: sprites/items/cayenneshaker
+    Texture: {fileID: 2800000, guid: 4c48010832b1b434781b36306b3ec020, type: 3}
+  - Key: sprites/items/cd
+    Texture: {fileID: 2800000, guid: c4731e4aad2f4d049852871656c59cb2, type: 3}
+  - Key: sprites/items/cellobello
+    Texture: {fileID: 2800000, guid: 8a1b89abfce4ed74bb8a7bd1b8d80906, type: 3}
+  - Key: sprites/items/cheese
+    Texture: {fileID: 2800000, guid: 70a952e96c1152241a234f08c99601b7, type: 3}
+  - Key: sprites/items/chilli
+    Texture: {fileID: 2800000, guid: 9a1de5f812c59eb40958210d1ff7e8a4, type: 3}
+  - Key: sprites/items/chisel
+    Texture: {fileID: 2800000, guid: c1a226c3a18ca9e469d44dd488dc8470, type: 3}
+  - Key: sprites/items/cilantro
+    Texture: {fileID: 2800000, guid: 525fd660b2db20844a5bbd3e5b4388f0, type: 3}
+  - Key: sprites/items/cinnabararrow
+    Texture: {fileID: 2800000, guid: a5a5b84dc0eacad4e8be87bbc404ff37, type: 3}
+  - Key: sprites/items/cinnabarore
+    Texture: {fileID: 2800000, guid: 4d24317aa613783479bac3c714c8f07f, type: 3}
+  - Key: sprites/items/cinnabarsword
+    Texture: {fileID: 2800000, guid: 4681bafc3ecd4a84fa32488bdea2dd00, type: 3}
+  - Key: sprites/items/cinnamon
+    Texture: {fileID: 2800000, guid: 11568016fbb4b2a479a2cdbb25c4c26f, type: 3}
+  - Key: sprites/items/cinnamonbark
+    Texture: {fileID: 2800000, guid: 41712bd1769de844386d80be3900a3ef, type: 3}
+  - Key: sprites/items/cinnamonbowlsmall
+    Texture: {fileID: 2800000, guid: e98dc5f4d77ed2a4d945cfe9d46a17bb, type: 3}
+  - Key: sprites/items/cinnamonshaker
+    Texture: {fileID: 2800000, guid: c5d1111000f36134086d162d678457d3, type: 3}
+  - Key: sprites/items/citrine
+    Texture: {fileID: 2800000, guid: 205b88b9c77a6ab4789889a94c5ed659, type: 3}
+  - Key: sprites/items/clamchowder
+    Texture: {fileID: 2800000, guid: ac921e99541983c41968bfa202b2b8fc, type: 3}
+  - Key: sprites/items/clamobject
+    Texture: {fileID: 2800000, guid: 5faf54a4c6155284b84b9806cbbc5e30, type: 3}
+  - Key: sprites/items/cloth
+    Texture: {fileID: 2800000, guid: 0fa59c8db219b0245b837c71402a048e, type: 3}
+  - Key: sprites/items/cloudberry
+    Texture: {fileID: 2800000, guid: c082e14653086c04787b2efc6e25f71e, type: 3}
+  - Key: sprites/items/club
+    Texture: {fileID: 2800000, guid: 695c488681c768d43acfa38381b6a1bb, type: 3}
+  - Key: sprites/items/coal
+    Texture: {fileID: 2800000, guid: 54c4f4b5eac888640bec8f19493a4e3a, type: 3}
+  - Key: sprites/items/cobaltaxe
+    Texture: {fileID: 2800000, guid: 2562b59cd162eca4f96562c530ffd599, type: 3}
+  - Key: sprites/items/cobaltbattleaxe
+    Texture: {fileID: 2800000, guid: 497f01bb5dfe7e64ba58a1d23259a40b, type: 3}
+  - Key: sprites/items/cobaltboots
+    Texture: {fileID: 2800000, guid: ea5aebfb4f746f04683706ecd8d4e244, type: 3}
+  - Key: sprites/items/cobaltchestplate
+    Texture: {fileID: 2800000, guid: ee1e99e1a6ed8c7438b8779dccef48a2, type: 3}
+  - Key: sprites/items/cobalthelmet
+    Texture: {fileID: 2800000, guid: 9bd541fbc1e4ec04d817906c1e223b8a, type: 3}
+  - Key: sprites/items/cobaltlegplates
+    Texture: {fileID: 2800000, guid: b79f1f237f55a95429f998e9ac02d115, type: 3}
+  - Key: sprites/items/cobaltpickaxe
+    Texture: {fileID: 2800000, guid: 5499bb66a18728348b945d40aa4fadb0, type: 3}
+  - Key: sprites/items/cobaltscythe
+    Texture: {fileID: 2800000, guid: 39d3b7df9d222ab42a0bf9093917b8be, type: 3}
+  - Key: sprites/items/cobaltshield
+    Texture: {fileID: 2800000, guid: 47f93d04182765c41be9a9de7ea8fd1f, type: 3}
+  - Key: sprites/items/cobaltspear
+    Texture: {fileID: 2800000, guid: 7b197d5ad0a32d144a05c0520a9c1095, type: 3}
+  - Key: sprites/items/conquerorchestplate
+    Texture: {fileID: 2800000, guid: d6ba0e15e88ae974691cf081794095d0, type: 3}
+  - Key: sprites/items/conquerorhelmet
+    Texture: {fileID: 2800000, guid: f03b20c75de6ffc458d46ee5def69771, type: 3}
+  - Key: sprites/items/conquerorlegplates
+    Texture: {fileID: 2800000, guid: 933cb02360383e8468625fc06f1bc551, type: 3}
+  - Key: sprites/items/cookedbeef
+    Texture: {fileID: 2800000, guid: de33f05207fec1b498cd2dddf7bd3f9b, type: 3}
+  - Key: sprites/items/cookedchicken
+    Texture: {fileID: 2800000, guid: 4a41ed472aeb1344a91fee08f754e775, type: 3}
+  - Key: sprites/items/cookedpork
+    Texture: {fileID: 2800000, guid: dd4cad54f699d0c468b89f43ca0f244f, type: 3}
+  - Key: sprites/items/cookedsausage
+    Texture: {fileID: 2800000, guid: 274b80aa853185c44a87229e239558f2, type: 3}
+  - Key: sprites/items/cookedshrimp
+    Texture: {fileID: 2800000, guid: 82ca28c27897a664db42f826e618f48e, type: 3}
+  - Key: sprites/items/copperbar
+    Texture: {fileID: 2800000, guid: 7ab2c72165c8a3843a1737944c2ec1e5, type: 3}
+  - Key: sprites/items/copperchestplate
+    Texture: {fileID: 2800000, guid: 51e8441a4817c494a8b22a0c1c05c276, type: 3}
+  - Key: sprites/items/copperhelmet
+    Texture: {fileID: 2800000, guid: 4e52addea46944848ac0c3bfa6a59db2, type: 3}
+  - Key: sprites/items/copperlegplates
+    Texture: {fileID: 2800000, guid: 69418765ada684f4c8a58149a6663cca, type: 3}
+  - Key: sprites/items/copperore
+    Texture: {fileID: 2800000, guid: a19967803a0da1f48aac038e8e7a9e49, type: 3}
+  - Key: sprites/items/coppershield
+    Texture: {fileID: 2800000, guid: 2fca49c46fd3d16469055c9422d6393f, type: 3}
+  - Key: sprites/items/coppersword
+    Texture: {fileID: 2800000, guid: a70cff2d3012bd047a42f2b481a02f58, type: 3}
+  - Key: sprites/items/corn
+    Texture: {fileID: 2800000, guid: 3323267ce835de547a0ad5bdfb6b3768, type: 3}
+  - Key: sprites/items/crystalhood
+    Texture: {fileID: 2800000, guid: 47238454c80c75a43a9568a6b719d74b, type: 3}
+  - Key: sprites/items/crystallegplates
+    Texture: {fileID: 2800000, guid: fe34c219194c59e40aaa25dfaf6fcc8a, type: 3}
+  - Key: sprites/items/cumin
+    Texture: {fileID: 2800000, guid: a4e499eb1b2a8a64d9858a7b5e62caf4, type: 3}
+  - Key: sprites/items/cuminbowlsmall
+    Texture: {fileID: 2800000, guid: 5b34b21e4606283409fe23704869b834, type: 3}
+  - Key: sprites/items/cuminplant
+    Texture: {fileID: 2800000, guid: cc9b8401c45d6924096e45daec29128c, type: 3}
+  - Key: sprites/items/cuminshaker
+    Texture: {fileID: 2800000, guid: b66cdd2a2ad73c94c982ce704335d690, type: 3}
+  - Key: sprites/items/cure
+    Texture: {fileID: 2800000, guid: 5bec6fc4bc0984543aa1065992e2522d, type: 3}
+  - Key: sprites/items/cursebead
+    Texture: {fileID: 2800000, guid: 70236f1f56d33b94a9d81b7111a8d862, type: 3}
+  - Key: sprites/items/cursedbattleaxe
+    Texture: {fileID: 2800000, guid: 77c1185daf330de46b276bab85e702ac, type: 3}
+  - Key: sprites/items/cursedpickaxe
+    Texture: {fileID: 2800000, guid: 8573cbe6504dbe44cbeaf9bf12e25eae, type: 3}
+  - Key: sprites/items/cursedsapphirepickaxe
+    Texture: {fileID: 2800000, guid: 2ea57e0aa125c0349b3214bd01c4b281, type: 3}
+  - Key: sprites/items/cursestaff
+    Texture: {fileID: 2800000, guid: dde693eb365f0fe4db92f33d6da8f70f, type: 3}
+  - Key: sprites/items/danbo
+    Texture: {fileID: 2800000, guid: dcdce0ad43e07e3489e37e676f3d0a97, type: 3}
+  - Key: sprites/items/danboblue
+    Texture: {fileID: 2800000, guid: 86185633c7ffb5543b5e03363b3b6395, type: 3}
+  - Key: sprites/items/danbogreen
+    Texture: {fileID: 2800000, guid: 55395745f3aa14b45a3ed1283b356be9, type: 3}
+  - Key: sprites/items/danbored
+    Texture: {fileID: 2800000, guid: d011bb61fd0466c4796ebd1b97c80b5d, type: 3}
+  - Key: sprites/items/dandelion
+    Texture: {fileID: 2800000, guid: ffb2cab357d749949812c5e58ce425fa, type: 3}
+  - Key: sprites/items/darkmagehood
+    Texture: {fileID: 2800000, guid: be31936abe92be3448a9f6f475bb8d21, type: 3}
+  - Key: sprites/items/darkmagehoodblue
+    Texture: {fileID: 2800000, guid: 689ccb98ff40dfd4fa7819d43459f378, type: 3}
+  - Key: sprites/items/darkmagehoodgold
+    Texture: {fileID: 2800000, guid: c779920d79bafcb43820f83d003ee94e, type: 3}
+  - Key: sprites/items/darkmagehoodgreen
+    Texture: {fileID: 2800000, guid: 5536a0938381b6c40912f1aa8fd85ad7, type: 3}
+  - Key: sprites/items/darkskeletonhelm
+    Texture: {fileID: 2800000, guid: ee63cf6b483b39c48bf175b67b6b9a2c, type: 3}
+  - Key: sprites/items/darkskeletonskin
+    Texture: {fileID: 2800000, guid: b1b6d5858f2f21540bc0490ef659d6c5, type: 3}
+  - Key: sprites/items/defensepotion
+    Texture: {fileID: 2800000, guid: 88741a7522c87c047acb769f9d03b4f4, type: 3}
+  - Key: sprites/items/demoniccrystalhood
+    Texture: {fileID: 2800000, guid: 843ffa5192e0d524ea1831f81dca87bf, type: 3}
+  - Key: sprites/items/demonichelm
+    Texture: {fileID: 2800000, guid: 2a7724fed0a9c8c43a0ccb4470fb95d5, type: 3}
+  - Key: sprites/items/demonicstaff
+    Texture: {fileID: 2800000, guid: cd3568d7f78eb4e468a075054de7853f, type: 3}
+  - Key: sprites/items/diamondring
+    Texture: {fileID: 2800000, guid: 168b5309db3ce534abe5102158a0f94b, type: 3}
+  - Key: sprites/items/dinosaurarmor
+    Texture: {fileID: 2800000, guid: b1cf4a14339655b4c931a6da3e445c4e, type: 3}
+  - Key: sprites/items/dolring
+    Texture: {fileID: 2800000, guid: 518a3b4ff5287e14a904dca42fd8aa66, type: 3}
+  - Key: sprites/items/dragonscale
+    Texture: {fileID: 2800000, guid: 2e3323d12439ff0488f532cae14ba8eb, type: 3}
+  - Key: sprites/items/egg
+    Texture: {fileID: 2800000, guid: 4ae9009d89bb2794fb81d68383cfdd11, type: 3}
+  - Key: sprites/items/element
+    Texture: {fileID: 2800000, guid: 8a47cdabb3e67d446a73cd3bfd585e01, type: 3}
+  - Key: sprites/items/elfhelmet
+    Texture: {fileID: 2800000, guid: 296f257733d6040458b07aeb92e14746, type: 3}
+  - Key: sprites/items/elfhelmetgrown
+    Texture: {fileID: 2800000, guid: b0f1caf907dc942459125ab495acd563, type: 3}
+  - Key: sprites/items/emerald
+    Texture: {fileID: 2800000, guid: 9b75a8cbc5a72f24b8bad68c5cc0e2e9, type: 3}
+  - Key: sprites/items/emeraldpendant
+    Texture: {fileID: 2800000, guid: dc1d4a22ea451eb46bb6bfb0f41e399e, type: 3}
+  - Key: sprites/items/emeraldring
+    Texture: {fileID: 2800000, guid: f9cf1582986cb46428404324f5ca52ba, type: 3}
+  - Key: sprites/items/emptybottle
+    Texture: {fileID: 2800000, guid: 45b15e35a53edca4086071d415d173cf, type: 3}
+  - Key: sprites/items/emptyshaker
+    Texture: {fileID: 2800000, guid: 509794081cc5bdd4fa838a317e8b38f5, type: 3}
+  - Key: sprites/items/essentialrage
+    Texture: {fileID: 2800000, guid: a8a9d620f32937f4685192d464520bcc, type: 3}
+  - Key: sprites/items/etherialblade
+    Texture: {fileID: 2800000, guid: 7fd5c69e0ec264f4ea06bc0338eac48b, type: 3}
+  - Key: sprites/items/ettispinefruit
+    Texture: {fileID: 2800000, guid: 4aae02c9d137fca4fae9e8d3a68c28c2, type: 3}
+  - Key: sprites/items/executionershammer
+    Texture: {fileID: 2800000, guid: 4f917653311e585408c25d94916fc609, type: 3}
+  - Key: sprites/items/eyesword
+    Texture: {fileID: 2800000, guid: 2e5d2352f6117254a9bee4696cdea88f, type: 3}
+  - Key: sprites/items/feather
+    Texture: {fileID: 2800000, guid: 9d035abb84b38404ba2d5b963f65c41c, type: 3}
+  - Key: sprites/items/firearrow
+    Texture: {fileID: 2800000, guid: f0642e70933219340acca051a16fb3ed, type: 3}
+  - Key: sprites/items/firebead
+    Texture: {fileID: 2800000, guid: 76b40ce6d6595f24aa4dbdf2c35d3f92, type: 3}
+  - Key: sprites/items/firepotion
+    Texture: {fileID: 2800000, guid: 4663a575296e2c04a9c8fed44293726e, type: 3}
+  - Key: sprites/items/fireshot
+    Texture: {fileID: 2800000, guid: 7d9dc1b226a65e346ac9e296a83a386f, type: 3}
+  - Key: sprites/items/firestaff
+    Texture: {fileID: 2800000, guid: 8e73b3563d9042a4e878b98f7c09e986, type: 3}
+  - Key: sprites/items/firesword
+    Texture: {fileID: 2800000, guid: d23b95e89f5b5d64dbfbc5312a945609, type: 3}
+  - Key: sprites/items/fishbowl
+    Texture: {fileID: 2800000, guid: 3c89868cd70615d458eaaf41e8c630a7, type: 3}
+  - Key: sprites/items/fishingpole
+    Texture: {fileID: 2800000, guid: 7f749c3d0475a8f4bb4080d3733ec527, type: 3}
+  - Key: sprites/items/flameblackhelmet
+    Texture: {fileID: 2800000, guid: 991ba7f3a9efb474bb6f1159b0e93fd8, type: 3}
+  - Key: sprites/items/flamebluehelmet
+    Texture: {fileID: 2800000, guid: dafbd795955445f4b8df071be5e70da3, type: 3}
+  - Key: sprites/items/flamecursehelmet
+    Texture: {fileID: 2800000, guid: 6739899a4f5a6834f99bc9121cf561f3, type: 3}
+  - Key: sprites/items/flamehelmet
+    Texture: {fileID: 2800000, guid: d3e76b29cdcd326409b9fcab5808e8ac, type: 3}
+  - Key: sprites/items/flask
+    Texture: {fileID: 2800000, guid: 6aad25411d4b3ea4e9d31f4f8ee3496f, type: 3}
+  - Key: sprites/items/froghelm
+    Texture: {fileID: 2800000, guid: 816f1440e56ebd445a31cd21d4c8b3dc, type: 3}
+  - Key: sprites/items/frostring
+    Texture: {fileID: 2800000, guid: 58afbf7bf741c16439ef61e9d7471270, type: 3}
+  - Key: sprites/items/galaxylilies
+    Texture: {fileID: 2800000, guid: 31233682b3dbf9948b2afc0200b8e420, type: 3}
+  - Key: sprites/items/ginderpowderbowlsmall
+    Texture: {fileID: 2800000, guid: 51047522afdd702478c7e42dbc438c59, type: 3}
+  - Key: sprites/items/ginger
+    Texture: {fileID: 2800000, guid: 92729bf1e85ce6449af463388d36e832, type: 3}
+  - Key: sprites/items/gingerbottle
+    Texture: {fileID: 2800000, guid: b8de936aefd3c0c4e91f02d41a892318, type: 3}
+  - Key: sprites/items/gingerpowder
+    Texture: {fileID: 2800000, guid: 0ecb5539db3534846804ebbe896f8a4c, type: 3}
+  - Key: sprites/items/godscroissant
+    Texture: {fileID: 2800000, guid: 60b3437f66c77fd418e0c3d6a9dbdb67, type: 3}
+  - Key: sprites/items/gold
+    Texture: {fileID: 2800000, guid: ea4809f232210084a8264e78ee0b27c7, type: 3}
+  - Key: sprites/items/goldaxe
+    Texture: {fileID: 2800000, guid: f87e99b399350694bb35c902a5e6bdb9, type: 3}
+  - Key: sprites/items/goldbar
+    Texture: {fileID: 2800000, guid: 1dea9c4192cda9f4bb010487ffa16354, type: 3}
+  - Key: sprites/items/goldbattleaxe
+    Texture: {fileID: 2800000, guid: 1161f23ada7b91249ae759a2ba330deb, type: 3}
+  - Key: sprites/items/goldboots
+    Texture: {fileID: 2800000, guid: b54fee6f60a3ba441b2f5986808dafbc, type: 3}
+  - Key: sprites/items/goldchestplate
+    Texture: {fileID: 2800000, guid: 520ae410a8d2c114f93e33b1d41f3dfa, type: 3}
+  - Key: sprites/items/goldgolemsmace
+    Texture: {fileID: 2800000, guid: 6009ebea3ca81f8458e55465f5dd3c2a, type: 3}
+  - Key: sprites/items/goldhelmet
+    Texture: {fileID: 2800000, guid: f784ebe56602ee04b97dbe818f64f907, type: 3}
+  - Key: sprites/items/goldlegplates
+    Texture: {fileID: 2800000, guid: 97d7f5f3e55e20e4b8eb620cfb624f5b, type: 3}
+  - Key: sprites/items/goldnugget
+    Texture: {fileID: 2800000, guid: 7865243578b43194185e1e67f183a751, type: 3}
+  - Key: sprites/items/goldore
+    Texture: {fileID: 2800000, guid: 52bf7a8ce92455341a3ccc7b6fb675ba, type: 3}
+  - Key: sprites/items/goldpickaxe
+    Texture: {fileID: 2800000, guid: 40d1af972a225d74bb4de291dd235637, type: 3}
+  - Key: sprites/items/goldring
+    Texture: {fileID: 2800000, guid: 4d01e625a31a53544a40c93cc3f0fdc2, type: 3}
+  - Key: sprites/items/goldring2
+    Texture: {fileID: 2800000, guid: c952e7cbc63debe468c67f6890b2bde9, type: 3}
+  - Key: sprites/items/goldscythe
+    Texture: {fileID: 2800000, guid: ed3159af0da220948b0bffbeb86aa5ab, type: 3}
+  - Key: sprites/items/goldshield
+    Texture: {fileID: 2800000, guid: eb9f7cc846f1d5f41bae85d0178dc922, type: 3}
+  - Key: sprites/items/goldspear
+    Texture: {fileID: 2800000, guid: 866de98bc155d914a912295c3b73cf7b, type: 3}
+  - Key: sprites/items/goldsword
+    Texture: {fileID: 2800000, guid: 7adc3c903b2f37a4f85217c6758b1778, type: 3}
+  - Key: sprites/items/golemsmace
+    Texture: {fileID: 2800000, guid: 838adba1fa9017a40951635083ee2aec, type: 3}
+  - Key: sprites/items/gooseberry
+    Texture: {fileID: 2800000, guid: 1a7f1cd2468239f4b9d657b4005d0d42, type: 3}
+  - Key: sprites/items/greenlightsaber
+    Texture: {fileID: 2800000, guid: ac066d3a9e43ebb4e9fc2e372b8ae1c8, type: 3}
+  - Key: sprites/items/greenmysticchest
+    Texture: {fileID: 2800000, guid: d25a5ab17be30394aade10dcb3929a92, type: 3}
+  - Key: sprites/items/greenpendant
+    Texture: {fileID: 2800000, guid: 0a3aeae612e09c244a7a0d7b7aaa7d6f, type: 3}
+  - Key: sprites/items/greenworm
+    Texture: {fileID: 2800000, guid: 2dd740436826310498c5448ce4cc01b8, type: 3}
+  - Key: sprites/items/gun
+    Texture: {fileID: 2800000, guid: 2ca249128085e0b488010c6782967695, type: 3}
+  - Key: sprites/items/hammer
+    Texture: {fileID: 2800000, guid: 2aa649d77a43de845ac2c35ef923b665, type: 3}
+  - Key: sprites/items/harmoniccrossband
+    Texture: {fileID: 2800000, guid: 15314a79c5076204395b900da90b4255, type: 3}
+  - Key: sprites/items/heavyberylpickaxe
+    Texture: {fileID: 2800000, guid: c360affc44e04c54a95f219e562a8024, type: 3}
+  - Key: sprites/items/heliphatitlogs
+    Texture: {fileID: 2800000, guid: a0fe1a070f898e845982131bcd9ba482, type: 3}
+  - Key: sprites/items/hellhoundfang
+    Texture: {fileID: 2800000, guid: 5d0dfe491a2b13840aeabf611ccfec7d, type: 3}
+  - Key: sprites/items/hellkeeperboots
+    Texture: {fileID: 2800000, guid: 12a76cfb2159e4642a19c79b03e2c405, type: 3}
+  - Key: sprites/items/hellkeeperchestplate
+    Texture: {fileID: 2800000, guid: 560b609fc1e98314f9c3829587498f9d, type: 3}
+  - Key: sprites/items/hellkeeperhelm
+    Texture: {fileID: 2800000, guid: f4d7a17c0cd9c0a4891376828d92999d, type: 3}
+  - Key: sprites/items/hellkeeperlegplates
+    Texture: {fileID: 2800000, guid: 789f74a3840fb6245968b89de85ed6ed, type: 3}
+  - Key: sprites/items/hellsword
+    Texture: {fileID: 2800000, guid: d227155ab41ccfc47aa891a221f23ec0, type: 3}
+  - Key: sprites/items/helmofhaste
+    Texture: {fileID: 2800000, guid: 5778efb8c13b6f546b7e9959e7f995d7, type: 3}
+  - Key: sprites/items/helmofliberty
+    Texture: {fileID: 2800000, guid: 92ffa2505e275f34f9dec23b8ccf8639, type: 3}
+  - Key: sprites/items/hemocytelogs
+    Texture: {fileID: 2800000, guid: 280a17fb30ccc0e42b63d4a1be276475, type: 3}
+  - Key: sprites/items/hilt1
+    Texture: {fileID: 2800000, guid: 980bb903cb222704e8f4a145781bdd9a, type: 3}
+  - Key: sprites/items/hilt2
+    Texture: {fileID: 2800000, guid: 77978aafec5e7aa4d91b469efa64889a, type: 3}
+  - Key: sprites/items/horseradish
+    Texture: {fileID: 2800000, guid: a87f7080dab88f84694a8737b477aee8, type: 3}
+  - Key: sprites/items/horseradishbottle
+    Texture: {fileID: 2800000, guid: 48829fb44968eae479a4e1596ec7efff, type: 3}
+  - Key: sprites/items/horseradishbowlsmall
+    Texture: {fileID: 2800000, guid: c6bcdf2740cafa944919bae963b682f3, type: 3}
+  - Key: sprites/items/horseradishsmashedbowlsmall
+    Texture: {fileID: 2800000, guid: d4b83dc96241d5f4988d03a756d394bd, type: 3}
+  - Key: sprites/items/hotsauce
+    Texture: {fileID: 2800000, guid: 50b7337f02643d1429ca1b6fe17f85f4, type: 3}
+  - Key: sprites/items/iboarrow
+    Texture: {fileID: 2800000, guid: b7d1a4a155f3dc347b954e446c7b3f9e, type: 3}
+  - Key: sprites/items/iboore
+    Texture: {fileID: 2800000, guid: 706c969d14fd99949a63ceeb46da3ec7, type: 3}
+  - Key: sprites/items/ibosword
+    Texture: {fileID: 2800000, guid: ed6b2a84781873e48a6a73465d7b6a7b, type: 3}
+  - Key: sprites/items/icearrow
+    Texture: {fileID: 2800000, guid: 2718ced918cc96f468ed97ec98068c7a, type: 3}
+  - Key: sprites/items/icebead
+    Texture: {fileID: 2800000, guid: 4bedbd5bc4fab6145ac006a7f7b1b418, type: 3}
+  - Key: sprites/items/icelogs
+    Texture: {fileID: 2800000, guid: eb5ddea4051c3fe488af14dea859fd84, type: 3}
+  - Key: sprites/items/icepalmlogs
+    Texture: {fileID: 2800000, guid: f6ffba26302996046a8633ed13099ec7, type: 3}
+  - Key: sprites/items/icepinelogs
+    Texture: {fileID: 2800000, guid: f719aa645a39ebf4ba46fe8cd1123687, type: 3}
+  - Key: sprites/items/icerose
+    Texture: {fileID: 2800000, guid: bb456995ebace1046b02d9a8fcee5542, type: 3}
+  - Key: sprites/items/icesword
+    Texture: {fileID: 2800000, guid: 78bd7d1a778519c40b0fecc62b6bfbb0, type: 3}
+  - Key: sprites/items/ironaxe
+    Texture: {fileID: 2800000, guid: 2dfae235b25f8f340b9676e7b6c3683b, type: 3}
+  - Key: sprites/items/ironbar
+    Texture: {fileID: 2800000, guid: a807caf65859a8d46b27bb33a88262ae, type: 3}
+  - Key: sprites/items/ironbattleaxe
+    Texture: {fileID: 2800000, guid: d38f0da6e01578948ba702e120005979, type: 3}
+  - Key: sprites/items/ironboots
+    Texture: {fileID: 2800000, guid: 01dca1d56e407d34b892c7b9dc1e2782, type: 3}
+  - Key: sprites/items/ironchestplate
+    Texture: {fileID: 2800000, guid: 05d43e5b1448cfe4ea2869dfa622687f, type: 3}
+  - Key: sprites/items/ironhelmet
+    Texture: {fileID: 2800000, guid: bf69f3fae3b38a94989063b16a40b1f1, type: 3}
+  - Key: sprites/items/ironlegplates
+    Texture: {fileID: 2800000, guid: 4e9881ff64e30104d92e457db776b5e7, type: 3}
+  - Key: sprites/items/ironore
+    Texture: {fileID: 2800000, guid: 4008e687dc982d44d949996fcb37393c, type: 3}
+  - Key: sprites/items/ironpickaxe
+    Texture: {fileID: 2800000, guid: 71c5613fe6980364aa476a0dc5d0d247, type: 3}
+  - Key: sprites/items/ironring
+    Texture: {fileID: 2800000, guid: 87f21ff123e8f024f8317a224a0f33ce, type: 3}
+  - Key: sprites/items/ironroundshield
+    Texture: {fileID: 2800000, guid: f0e60a74cb21a424c8fbd9ce0755681f, type: 3}
+  - Key: sprites/items/ironscythe
+    Texture: {fileID: 2800000, guid: e79f2a6b6c403594d88668dbee61f5c1, type: 3}
+  - Key: sprites/items/ironshield
+    Texture: {fileID: 2800000, guid: 74d8d20c702b5d147a11f1d3c88b4f98, type: 3}
+  - Key: sprites/items/ironspear
+    Texture: {fileID: 2800000, guid: f0faec2999b12f042bd03844fe1c28a5, type: 3}
+  - Key: sprites/items/ironsword
+    Texture: {fileID: 2800000, guid: 62376bdd93e65e944837446a39ebe764, type: 3}
+  - Key: sprites/items/jellyfish
+    Texture: {fileID: 2800000, guid: b171c245341b3fc4b8395ea5fb676566, type: 3}
+  - Key: sprites/items/jellyfishsmoothie
+    Texture: {fileID: 2800000, guid: 284fe68133ab6de4583c269ae074c100, type: 3}
+  - Key: sprites/items/jesterhat
+    Texture: {fileID: 2800000, guid: fc4bafcd5e3daf349a3eadfe0c0a65a0, type: 3}
+  - Key: sprites/items/kelp
+    Texture: {fileID: 2800000, guid: f7c848161da1e3b4787f372ab940ec69, type: 3}
+  - Key: sprites/items/kiwi
+    Texture: {fileID: 2800000, guid: 408acdeac310fac419d40aaca584d9ee, type: 3}
+  - Key: sprites/items/knife
+    Texture: {fileID: 2800000, guid: be53a31fed6003f41b76d80b9b91a2de, type: 3}
+  - Key: sprites/items/knightchestplate
+    Texture: {fileID: 2800000, guid: 4e5911f205ba63c4bb1ef8941a5f236c, type: 3}
+  - Key: sprites/items/knighthelmet
+    Texture: {fileID: 2800000, guid: 4c1be8a58e52214449ba9957cc22eaed, type: 3}
+  - Key: sprites/items/knightlegplates
+    Texture: {fileID: 2800000, guid: 1a7c7ed106d13c942a6d0739d77c7dac, type: 3}
+  - Key: sprites/items/lantern
+    Texture: {fileID: 2800000, guid: a023653b9e028a749924c943912f8908, type: 3}
+  - Key: sprites/items/lantern2
+    Texture: {fileID: 2800000, guid: 7af2a3d61d00b8f4286334fd8dfe1cf2, type: 3}
+  - Key: sprites/items/lanternarcan
+    Texture: {fileID: 2800000, guid: 1da8bcf659a0b4d46b0dde3218027b39, type: 3}
+  - Key: sprites/items/lapislazuli
+    Texture: {fileID: 2800000, guid: 0be0f300ca4d36b40a5137fd95146a49, type: 3}
+  - Key: sprites/items/largeemptyvial
+    Texture: {fileID: 2800000, guid: 70e6844bfa0e4014693ced6810789b98, type: 3}
+  - Key: sprites/items/lavaboots
+    Texture: {fileID: 2800000, guid: 7e42a4619a6374b4fb36c844cf45f885, type: 3}
+  - Key: sprites/items/lavender
+    Texture: {fileID: 2800000, guid: c257d0e590ccd254c88e0ce8509a461c, type: 3}
+  - Key: sprites/items/lavenderbowlsmall
+    Texture: {fileID: 2800000, guid: 3ca8e5ad8616a94458e99a07251c0582, type: 3}
+  - Key: sprites/items/lavenderseeds
+    Texture: {fileID: 2800000, guid: b60ac627970a9f04d9d96d1fb2a3809c, type: 3}
+  - Key: sprites/items/lavendershaker
+    Texture: {fileID: 2800000, guid: fe0ce6e85203407439e9fb7d2cdbc07f, type: 3}
+  - Key: sprites/items/leaf
+    Texture: {fileID: 2800000, guid: 29fa9ca041259934e82761cbb98427a1, type: 3}
+  - Key: sprites/items/leatherboots
+    Texture: {fileID: 2800000, guid: 53c3966256859b74bb7c7c147ff9d6b0, type: 3}
+  - Key: sprites/items/leatherchest
+    Texture: {fileID: 2800000, guid: 34048dd90766e2743a70df18636995cb, type: 3}
+  - Key: sprites/items/leatherhelmet
+    Texture: {fileID: 2800000, guid: 2c40635f5e5e77648964d7194824eada, type: 3}
+  - Key: sprites/items/leatherleggings
+    Texture: {fileID: 2800000, guid: eb2bd5cdd2d75144eb12e08e2ce7dbc9, type: 3}
+  - Key: sprites/items/lightningarrow
+    Texture: {fileID: 2800000, guid: 49753643620cb7f4c99cd85706343738, type: 3}
+  - Key: sprites/items/lightningbead
+    Texture: {fileID: 2800000, guid: 19953e8907b027145a9192fd33bb210b, type: 3}
+  - Key: sprites/items/lightningstaff
+    Texture: {fileID: 2800000, guid: 64bee312141a24c4e98d26d6cc01b129, type: 3}
+  - Key: sprites/items/livinganchorroot
+    Texture: {fileID: 2800000, guid: 9490a6da685450e458bb6e9ed28c7a55, type: 3}
+  - Key: sprites/items/logs
+    Texture: {fileID: 2800000, guid: 10226c637d38d014d96a784e9afca1e7, type: 3}
+  - Key: sprites/items/lolipop
+    Texture: {fileID: 2800000, guid: 7436e0854d481ec4aab6c96af3483bd2, type: 3}
+  - Key: sprites/items/lootbag
+    Texture: {fileID: 2800000, guid: c0f0a4fbf13eaf547ba47185da9db52f, type: 3}
+  - Key: sprites/items/loveactring
+    Texture: {fileID: 2800000, guid: ff9c37ed2d6db804eb16c77f1e51c00c, type: 3}
+  - Key: sprites/items/magichamberge
+    Texture: {fileID: 2800000, guid: 662fb8fc164ae574ea442668db69d453, type: 3}
+  - Key: sprites/items/magmaboots
+    Texture: {fileID: 2800000, guid: e2e8690fc9cacb249bf402616233f2e6, type: 3}
+  - Key: sprites/items/magmahelm
+    Texture: {fileID: 2800000, guid: 5f5d56986b3b7f7449bc741b41631ad8, type: 3}
+  - Key: sprites/items/manaberry
+    Texture: {fileID: 2800000, guid: 9fbee9cb121ef544a9fae7a41adbf0c8, type: 3}
+  - Key: sprites/items/manaflask
+    Texture: {fileID: 2800000, guid: 2056e7cac3d7acf48b1694f0a2982763, type: 3}
+  - Key: sprites/items/mango
+    Texture: {fileID: 2800000, guid: e0e2407dc11c4f942b0e38d5be8f9623, type: 3}
+  - Key: sprites/items/midnightamethystboots
+    Texture: {fileID: 2800000, guid: 7dde2f566810ff24e834376483bcb4bb, type: 3}
+  - Key: sprites/items/midnightamethystchestplate
+    Texture: {fileID: 2800000, guid: 501098888fcda6945ac1f29b0b8f2ac6, type: 3}
+  - Key: sprites/items/midnightamethysthelm
+    Texture: {fileID: 2800000, guid: 1877cf810016c0e409ee280f14369d31, type: 3}
+  - Key: sprites/items/midnightamethystlegplates
+    Texture: {fileID: 2800000, guid: bb4b1ea3cd02f724b91d08de5f1dd587, type: 3}
+  - Key: sprites/items/milkbottle
+    Texture: {fileID: 2800000, guid: 4e6a05718a7d2d64dade2015bcfb3897, type: 3}
+  - Key: sprites/items/mineral
+    Texture: {fileID: 2800000, guid: e3e14c39ec7b7ef45b36cbacee99f8c3, type: 3}
+  - Key: sprites/items/minitaurchest
+    Texture: {fileID: 2800000, guid: 2f2d824ae32a1d846bc7dce7800745aa, type: 3}
+  - Key: sprites/items/minitauruschestplate
+    Texture: {fileID: 2800000, guid: 7c5ba86d6e6591947aa9e4b26f05b3cc, type: 3}
+  - Key: sprites/items/minitaurushelmet
+    Texture: {fileID: 2800000, guid: cbccf51979ffb8d48aaf80177f0228ed, type: 3}
+  - Key: sprites/items/minitauruslegboots
+    Texture: {fileID: 2800000, guid: 9d9a62d5c0f949641add47c19ee57cca, type: 3}
+  - Key: sprites/items/minitauruslegplates
+    Texture: {fileID: 2800000, guid: b30c4862507861e4a8891aa5633ed7ce, type: 3}
+  - Key: sprites/items/mint
+    Texture: {fileID: 2800000, guid: d1fa8f41ceea9de4bbd0273c66b26dd9, type: 3}
+  - Key: sprites/items/mintbowlsmall
+    Texture: {fileID: 2800000, guid: f7613032a4a8cca4098f69179c16649a, type: 3}
+  - Key: sprites/items/moongreataxe
+    Texture: {fileID: 2800000, guid: 3377b42c7a9463042a53f1dfb7104437, type: 3}
+  - Key: sprites/items/moonhelm
+    Texture: {fileID: 2800000, guid: d6764287b328ff846b8acd69ed4b9f4d, type: 3}
+  - Key: sprites/items/moonrockore
+    Texture: {fileID: 2800000, guid: 69ba048502e03f145aa272007eaba465, type: 3}
+  - Key: sprites/items/mulberry
+    Texture: {fileID: 2800000, guid: e92c1a31023a2e545a3200062cbc5d45, type: 3}
+  - Key: sprites/items/mushroom1
+    Texture: {fileID: 2800000, guid: e53a27bbac5cc0849803bed0fc9f93d3, type: 3}
+  - Key: sprites/items/mushroom2
+    Texture: {fileID: 2800000, guid: 6e460a6f3972bd7468328a60df984899, type: 3}
+  - Key: sprites/items/mushroom3
+    Texture: {fileID: 2800000, guid: bce2dd9b0a753534daa550f81a8ce29d, type: 3}
+  - Key: sprites/items/mushroom4
+    Texture: {fileID: 2800000, guid: 416a2732955cf434283b5ce740f6e66a, type: 3}
+  - Key: sprites/items/mushroom5
+    Texture: {fileID: 2800000, guid: 3ba5ef6f4510e3d49b78a83cc99cc3e4, type: 3}
+  - Key: sprites/items/mushroom6
+    Texture: {fileID: 2800000, guid: 557f28c549312184ea0e27e9988ff06a, type: 3}
+  - Key: sprites/items/mushroomhat
+    Texture: {fileID: 2800000, guid: 9dde9cdb7cb4694458dbb5895c0e0dcf, type: 3}
+  - Key: sprites/items/mustardbottle
+    Texture: {fileID: 2800000, guid: bc5aec47e64e5cf4b8eb21756ed048ce, type: 3}
+  - Key: sprites/items/mustardbowlsmall
+    Texture: {fileID: 2800000, guid: 2d2959d9bb07ec54a8f36a09a0b4eaf5, type: 3}
+  - Key: sprites/items/mustardplant
+    Texture: {fileID: 2800000, guid: c4f02c4e9de24bb46ab126953f50a68f, type: 3}
+  - Key: sprites/items/mysticchest
+    Texture: {fileID: 2800000, guid: 565064d3ca3be67438bc8ab5f1039f4f, type: 3}
+  - Key: sprites/items/naturebead
+    Texture: {fileID: 2800000, guid: 134408f6f30e2b94cb3d5541637f628e, type: 3}
+  - Key: sprites/items/naturecrystalhood
+    Texture: {fileID: 2800000, guid: 5c588277ea0ea344a90f219269af25f7, type: 3}
+  - Key: sprites/items/naturestaff
+    Texture: {fileID: 2800000, guid: 8d937af2fc14adb42b844af95378a49e, type: 3}
+  - Key: sprites/items/nexuscross
+    Texture: {fileID: 2800000, guid: a7967c14b5d337d4fba10d02b7dc966a, type: 3}
+  - Key: sprites/items/nightboots
+    Texture: {fileID: 2800000, guid: 0272531e20e894f4cbc2f8901a310d17, type: 3}
+  - Key: sprites/items/nightchestplate
+    Texture: {fileID: 2800000, guid: 08d47c04c896fe247bdde34f9e48cb91, type: 3}
+  - Key: sprites/items/nighthelm
+    Texture: {fileID: 2800000, guid: 14ce0e7d564227048be0132925663f8d, type: 3}
+  - Key: sprites/items/nightlegplates
+    Texture: {fileID: 2800000, guid: d767f4296afabc4429481d70caf8536f, type: 3}
+  - Key: sprites/items/nightsword
+    Texture: {fileID: 2800000, guid: 3a954e0e3eb51d44dbc657cf885fde77, type: 3}
+  - Key: sprites/items/nisocarrow
+    Texture: {fileID: 2800000, guid: c31d20906f2c8cb4eb5b4bbfb0143411, type: 3}
+  - Key: sprites/items/nisocore
+    Texture: {fileID: 2800000, guid: 9886ef34b97692c4ea4e91bbf6705163, type: 3}
+  - Key: sprites/items/nisocring
+    Texture: {fileID: 2800000, guid: a8aff4b3a2a991d429c46b968fec4c30, type: 3}
+  - Key: sprites/items/nisocsword
+    Texture: {fileID: 2800000, guid: 08e3d7c118f230f4aa10b97967c6846f, type: 3}
+  - Key: sprites/items/null
+    Texture: {fileID: 2800000, guid: af676415303a043439aa4d6eea92953f, type: 3}
+  - Key: sprites/items/oat
+    Texture: {fileID: 2800000, guid: 5d2d933da205e7b44919cf2462d18c85, type: 3}
+  - Key: sprites/items/oldmanmask
+    Texture: {fileID: 2800000, guid: f050aa60a0c9c9d4cb8b76a06700ca9b, type: 3}
+  - Key: sprites/items/oldmanskin
+    Texture: {fileID: 2800000, guid: 398a4e4498407f74aa8880e771896c71, type: 3}
+  - Key: sprites/items/oldonesblade
+    Texture: {fileID: 2800000, guid: edfa9f898a5b840478dcbbc426d078ce, type: 3}
+  - Key: sprites/items/onion
+    Texture: {fileID: 2800000, guid: c3939b30db5738841878eed96681883c, type: 3}
+  - Key: sprites/items/opal
+    Texture: {fileID: 2800000, guid: 769ed8da15eee764f9faea5170397093, type: 3}
+  - Key: sprites/items/orange
+    Texture: {fileID: 2800000, guid: 68b00e0d054db3c47afcb55a365df966, type: 3}
+  - Key: sprites/items/orchardsbane
+    Texture: {fileID: 2800000, guid: af6efaf3143462f4a9d9a882f56fbb1b, type: 3}
+  - Key: sprites/items/paladinchestplate
+    Texture: {fileID: 2800000, guid: 7e4c8cd54addbc04bad1a72a53fd5aef, type: 3}
+  - Key: sprites/items/paladinhelmet
+    Texture: {fileID: 2800000, guid: 10dd9987af5fce24d885e8166752419b, type: 3}
+  - Key: sprites/items/paladinlegplates
+    Texture: {fileID: 2800000, guid: c2a06f40ab9466c4bbd9a1721c421892, type: 3}
+  - Key: sprites/items/palmlogs
+    Texture: {fileID: 2800000, guid: e407f219249635e43ad2d10f9e5244a7, type: 3}
+  - Key: sprites/items/paprika
+    Texture: {fileID: 2800000, guid: 1c6b190c9b9e585469dfcf46616994fd, type: 3}
+  - Key: sprites/items/paprikabowlsmall
+    Texture: {fileID: 2800000, guid: 47a11ec2bb1aa4b45b40999d4e366625, type: 3}
+  - Key: sprites/items/paprikapowder
+    Texture: {fileID: 2800000, guid: 48b7e2c1e0f018d48956cdc9d872cd7a, type: 3}
+  - Key: sprites/items/paprikashaker
+    Texture: {fileID: 2800000, guid: 878b162ecd798fb4fb1ff036a7628fb1, type: 3}
+  - Key: sprites/items/peach
+    Texture: {fileID: 2800000, guid: 95347646a7b0dd840bc70dbeb02e14c5, type: 3}
+  - Key: sprites/items/pearlpendant
+    Texture: {fileID: 2800000, guid: 34a5f2b6aedf256419da6aefa3d0b086, type: 3}
+  - Key: sprites/items/pearlring
+    Texture: {fileID: 2800000, guid: 40c20fc1d5d9bd74b86cc254e4509f72, type: 3}
+  - Key: sprites/items/peddlepounder
+    Texture: {fileID: 2800000, guid: 4f0a9eb6c0e64d34282eec83eac8e7a2, type: 3}
+  - Key: sprites/items/pendant1
+    Texture: {fileID: 2800000, guid: 23248ed80910bfb4ebced4d767d7b565, type: 3}
+  - Key: sprites/items/pendantbronzeberyl
+    Texture: {fileID: 2800000, guid: 788f4138898427c4ba7dfcc733a81e4e, type: 3}
+  - Key: sprites/items/pendantbronzeemerald
+    Texture: {fileID: 2800000, guid: 58dcf234a7383a84ca30482095392ddd, type: 3}
+  - Key: sprites/items/pendantbronzepythar
+    Texture: {fileID: 2800000, guid: e35fb6a271234a34ea84585c582baa56, type: 3}
+  - Key: sprites/items/pendantbronzeruby
+    Texture: {fileID: 2800000, guid: 1797a36b044126540afb5aee97d8c7b9, type: 3}
+  - Key: sprites/items/pendantbronzesapphire
+    Texture: {fileID: 2800000, guid: fbeca37653262f54ea1e4fca793ecb19, type: 3}
+  - Key: sprites/items/pendantgoldberyl
+    Texture: {fileID: 2800000, guid: 5f10afab0fe30574b926605a476dd1a4, type: 3}
+  - Key: sprites/items/pendantgoldemerald
+    Texture: {fileID: 2800000, guid: 80d30d4c7c921314882b2793499ddf55, type: 3}
+  - Key: sprites/items/pendantgoldpythar
+    Texture: {fileID: 2800000, guid: 5a07d429b8badb241b0cccbd7aabf91a, type: 3}
+  - Key: sprites/items/pendantgoldruby
+    Texture: {fileID: 2800000, guid: b9b7439f068cef44fb49de5260282680, type: 3}
+  - Key: sprites/items/pendantgoldsapphire
+    Texture: {fileID: 2800000, guid: 5ae058e34af87ac4cbe193f682e4442d, type: 3}
+  - Key: sprites/items/pendantsilverberyl
+    Texture: {fileID: 2800000, guid: 6aa9e1d9fa38b4b42bafa9b30efd5415, type: 3}
+  - Key: sprites/items/pendantsilveremerald
+    Texture: {fileID: 2800000, guid: 1695ce7cd7867204599590e8e2c99337, type: 3}
+  - Key: sprites/items/pendantsilverpythar
+    Texture: {fileID: 2800000, guid: f53114bf14ee03c4cad759ed79984625, type: 3}
+  - Key: sprites/items/pendantsilverruby
+    Texture: {fileID: 2800000, guid: 38eb9ca1bf931654ca8e198155d8777b, type: 3}
+  - Key: sprites/items/pendantsilversapphire
+    Texture: {fileID: 2800000, guid: 44a027f2fbbf5b8409d9de345ae486b5, type: 3}
+  - Key: sprites/items/pepper
+    Texture: {fileID: 2800000, guid: e68a0274aa368344ab4372568fcbdd97, type: 3}
+  - Key: sprites/items/pepperbowlsmall
+    Texture: {fileID: 2800000, guid: b0308f8f875e6214d9dde0b4bdb25e5b, type: 3}
+  - Key: sprites/items/peppershaker
+    Texture: {fileID: 2800000, guid: 157fe5e7bd97c7a45a841bdc09a35c23, type: 3}
+  - Key: sprites/items/peridot
+    Texture: {fileID: 2800000, guid: ba98297d7c6161b41b288e0d16476255, type: 3}
+  - Key: sprites/items/pilgrimhat
+    Texture: {fileID: 2800000, guid: 3907dce96399ce448bf0a7fada82ef78, type: 3}
+  - Key: sprites/items/pilgrimhatpink
+    Texture: {fileID: 2800000, guid: ce66d77139ea8ac4d8e8bf35186aee4a, type: 3}
+  - Key: sprites/items/pineapple
+    Texture: {fileID: 2800000, guid: f25c1f44b217d874ab78d1af74513e97, type: 3}
+  - Key: sprites/items/pinelogs
+    Texture: {fileID: 2800000, guid: b0f0f6c720824c944b4672998d8a3ddc, type: 3}
+  - Key: sprites/items/pinklightsaber
+    Texture: {fileID: 2800000, guid: 3ae4cec2fb0c47f41870775a990450e9, type: 3}
+  - Key: sprites/items/plum
+    Texture: {fileID: 2800000, guid: a98d2a870abee154492e857886c5bb56, type: 3}
+  - Key: sprites/items/plunger
+    Texture: {fileID: 2800000, guid: f25cc72fe567fb244962607218fa264a, type: 3}
+  - Key: sprites/items/poisonarrow
+    Texture: {fileID: 2800000, guid: 2ce193e32951bb1418a5d8690b7d6dc4, type: 3}
+  - Key: sprites/items/potato
+    Texture: {fileID: 2800000, guid: 869cb14f109e0e044a0aa94778547438, type: 3}
+  - Key: sprites/items/pythararrow
+    Texture: {fileID: 2800000, guid: 6c8bf1a2d246bcb46b9c8b10599a5fdd, type: 3}
+  - Key: sprites/items/pytharore
+    Texture: {fileID: 2800000, guid: 8b68cce2e9746474fb8d56b13c361083, type: 3}
+  - Key: sprites/items/pytharring
+    Texture: {fileID: 2800000, guid: cd45e25402292444fbc329b6d70e3336, type: 3}
+  - Key: sprites/items/pytharsword
+    Texture: {fileID: 2800000, guid: 0bf89bedf4b5c7547b5ee24d052053dc, type: 3}
+  - Key: sprites/items/quinoa
+    Texture: {fileID: 2800000, guid: 1395fe69fa1c80e4db4534837ab261bd, type: 3}
+  - Key: sprites/items/raspberry
+    Texture: {fileID: 2800000, guid: 098a98aeec131da4193654dfc636af47, type: 3}
+  - Key: sprites/items/ratballoonpet
+    Texture: {fileID: 2800000, guid: 94bb1ce22c2089849b9b03a28081b223, type: 3}
+  - Key: sprites/items/rathatpet
+    Texture: {fileID: 2800000, guid: 7154e32041123dc46a548965b95faa99, type: 3}
+  - Key: sprites/items/ratpet
+    Texture: {fileID: 2800000, guid: 01ab3a6f77304ad439699aa4ee51de36, type: 3}
+  - Key: sprites/items/rawbeef
+    Texture: {fileID: 2800000, guid: 9fbc99670cd0baf43a23dcfa56f9e152, type: 3}
+  - Key: sprites/items/rawchicken
+    Texture: {fileID: 2800000, guid: de3617ac3e23bf843a2917a8935b7ef7, type: 3}
+  - Key: sprites/items/rawpork
+    Texture: {fileID: 2800000, guid: a803f3b3d9848fc44990bdd9394ae6d0, type: 3}
+  - Key: sprites/items/rawsausage
+    Texture: {fileID: 2800000, guid: 99fa13889f6377941beb984e78655514, type: 3}
+  - Key: sprites/items/rawshrimp
+    Texture: {fileID: 2800000, guid: 42eddeab580ea494db81b428f5f63f32, type: 3}
+  - Key: sprites/items/rawtuna
+    Texture: {fileID: 2800000, guid: ee3057e1c2153e44a817d10d936066b4, type: 3}
+  - Key: sprites/items/redlightsaber
+    Texture: {fileID: 2800000, guid: 8d82682c49747cb4db58508ba944abe2, type: 3}
+  - Key: sprites/items/redmoonhelm
+    Texture: {fileID: 2800000, guid: 19e81d301591ee247ac86d5fc912e9cc, type: 3}
+  - Key: sprites/items/refinedsapphireboots
+    Texture: {fileID: 2800000, guid: d024f461f62053c48b0c14c159fc4c71, type: 3}
+  - Key: sprites/items/refinedsapphirechestplate
+    Texture: {fileID: 2800000, guid: 85384677d5afd6a4cbdeb0a361165d15, type: 3}
+  - Key: sprites/items/refinedsapphirehelmet
+    Texture: {fileID: 2800000, guid: 4a418f4941e9f344cabef7e0fdc2e5eb, type: 3}
+  - Key: sprites/items/refinedsapphirelegplates
+    Texture: {fileID: 2800000, guid: 5d296a9e5e140e44fbbade990b9e03fa, type: 3}
+  - Key: sprites/items/rice
+    Texture: {fileID: 2800000, guid: f3ebb436523bf61448c26c38015ede86, type: 3}
+  - Key: sprites/items/ring1
+    Texture: {fileID: 2800000, guid: a43af490a3c42514596fb756b49ab7cf, type: 3}
+  - Key: sprites/items/ringbronzeberyl
+    Texture: {fileID: 2800000, guid: b2488345bcd8610468977b8570668ee6, type: 3}
+  - Key: sprites/items/ringbronzeemerald
+    Texture: {fileID: 2800000, guid: 4fa9b3e34d1d70f4a80ce07e63700133, type: 3}
+  - Key: sprites/items/ringbronzepythar
+    Texture: {fileID: 2800000, guid: 6bc9529e98126c64bb07d0baaa109b50, type: 3}
+  - Key: sprites/items/ringbronzeruby
+    Texture: {fileID: 2800000, guid: e780917ef39c5e74ea5cf6e4b1c7032a, type: 3}
+  - Key: sprites/items/ringbronzesapphire
+    Texture: {fileID: 2800000, guid: ecf19c90fa7ca154cb89f96a42431988, type: 3}
+  - Key: sprites/items/ringgoldberyl
+    Texture: {fileID: 2800000, guid: 277b605f973e20f45af9ab3cd1b8b613, type: 3}
+  - Key: sprites/items/ringgoldemerald
+    Texture: {fileID: 2800000, guid: 587ace35b00b427429bb0fb3572085e5, type: 3}
+  - Key: sprites/items/ringgoldpythar
+    Texture: {fileID: 2800000, guid: e7e547d84556c4747a32333cb28e3442, type: 3}
+  - Key: sprites/items/ringgoldruby
+    Texture: {fileID: 2800000, guid: d41e86918c730454b83e8fa7b3116f33, type: 3}
+  - Key: sprites/items/ringgoldsapphire
+    Texture: {fileID: 2800000, guid: a85b692cfe83d6045949515a3bf708f5, type: 3}
+  - Key: sprites/items/ringsilverberyl
+    Texture: {fileID: 2800000, guid: ff7ab595bfe42104c97894988e4b6f48, type: 3}
+  - Key: sprites/items/ringsilveremerald
+    Texture: {fileID: 2800000, guid: 8c469bade37f114438a1868c10de9493, type: 3}
+  - Key: sprites/items/ringsilverpythar
+    Texture: {fileID: 2800000, guid: 472c78befd9214248ad60cec6ef4ad97, type: 3}
+  - Key: sprites/items/ringsilverruby
+    Texture: {fileID: 2800000, guid: e99b1a23d7fdc0948916874f07ebdf71, type: 3}
+  - Key: sprites/items/ringsilversapphire
+    Texture: {fileID: 2800000, guid: 157c5abde9f02574191c09ee8f2db530, type: 3}
+  - Key: sprites/items/rock
+    Texture: {fileID: 2800000, guid: 54a6f43b2af7a9d42818e810fe5007ee, type: 3}
+  - Key: sprites/items/rockfish
+    Texture: {fileID: 2800000, guid: 97011bd90fe2c424e825f11dee30fc9a, type: 3}
+  - Key: sprites/items/rosemary
+    Texture: {fileID: 2800000, guid: bf298289717262c40a0eb29265bdd563, type: 3}
+  - Key: sprites/items/rosemarybottle
+    Texture: {fileID: 2800000, guid: c0ca0404456cfaf4087cd6771d18c24c, type: 3}
+  - Key: sprites/items/rosemarybowlsmall
+    Texture: {fileID: 2800000, guid: 730864bf88c68504dae910c8b02f530c, type: 3}
+  - Key: sprites/items/rosemarypowder
+    Texture: {fileID: 2800000, guid: 8dbae4e21af3987409a2e4a2bcf23734, type: 3}
+  - Key: sprites/items/royalazalea
+    Texture: {fileID: 2800000, guid: 0944951097b4b834e80ebb1b0417aa40, type: 3}
+  - Key: sprites/items/royalrapier
+    Texture: {fileID: 2800000, guid: 6ffd79e80189f074d910ff165ee51198, type: 3}
+  - Key: sprites/items/ruby
+    Texture: {fileID: 2800000, guid: 53c2fc627c746bb41858e1d29928945c, type: 3}
+  - Key: sprites/items/rubyboots
+    Texture: {fileID: 2800000, guid: 4acc8d842764d094b9d326ebe5af892c, type: 3}
+  - Key: sprites/items/rubychestplate
+    Texture: {fileID: 2800000, guid: 48c0123584e308342a9c0b7cc93926cf, type: 3}
+  - Key: sprites/items/rubygem
+    Texture: {fileID: 2800000, guid: 6b824b1f4e4485643b12e625f4b0638e, type: 3}
+  - Key: sprites/items/rubyhelm
+    Texture: {fileID: 2800000, guid: 52823e708859ca94db28f2a5c4cb15eb, type: 3}
+  - Key: sprites/items/rubylegplates
+    Texture: {fileID: 2800000, guid: 003e15af28cf270488cd93518439e8fb, type: 3}
+  - Key: sprites/items/rubypendant
+    Texture: {fileID: 2800000, guid: 1fa8c47ae0c2cd040b8f735f2372688e, type: 3}
+  - Key: sprites/items/rubyring
+    Texture: {fileID: 2800000, guid: 6d01daab218b5d44c8f4bd661abf41cd, type: 3}
+  - Key: sprites/items/sage
+    Texture: {fileID: 2800000, guid: 2ef0a6e001c4a3942b0a0e4714642080, type: 3}
+  - Key: sprites/items/sagebowlsmall
+    Texture: {fileID: 2800000, guid: cbea622147b32704c864c13d499de13c, type: 3}
+  - Key: sprites/items/sagepowder
+    Texture: {fileID: 2800000, guid: 6d23c7fc279bd9041bcfb73457a5b70e, type: 3}
+  - Key: sprites/items/sageshaker
+    Texture: {fileID: 2800000, guid: 18338300100ea174584482be39bf6c2a, type: 3}
+  - Key: sprites/items/salt
+    Texture: {fileID: 2800000, guid: b989f39b829423147b5d643078f3f78c, type: 3}
+  - Key: sprites/items/saltbowlsmall
+    Texture: {fileID: 2800000, guid: 38ed699d05dfd424c85a4879772af6b2, type: 3}
+  - Key: sprites/items/saltcrystal
+    Texture: {fileID: 2800000, guid: 37da481f437772a42aa0bc2d7f91efa5, type: 3}
+  - Key: sprites/items/saltshaker
+    Texture: {fileID: 2800000, guid: 9bc09fd1962c2d64486111d6f80560cb, type: 3}
+  - Key: sprites/items/samuraichestplate
+    Texture: {fileID: 2800000, guid: 43ce41e636405034ca27b24a337cfe38, type: 3}
+  - Key: sprites/items/samuraihelmet
+    Texture: {fileID: 2800000, guid: df0c95f9909eadb458f811123e8e32a6, type: 3}
+  - Key: sprites/items/samurailegplates
+    Texture: {fileID: 2800000, guid: d236316d18c01134f952904623ced82f, type: 3}
+  - Key: sprites/items/sapphireboots
+    Texture: {fileID: 2800000, guid: 3b833110bbbb0fc41b6a346f5c5304cf, type: 3}
+  - Key: sprites/items/sapphirechestplate
+    Texture: {fileID: 2800000, guid: 50b4b67fda6c18746be150490850d0f1, type: 3}
+  - Key: sprites/items/sapphirehelm
+    Texture: {fileID: 2800000, guid: 22a43b39b97e4a3439574c8b327dc50e, type: 3}
+  - Key: sprites/items/sapphirelegplates
+    Texture: {fileID: 2800000, guid: d8b7053ec5a88094db69c239bb1b9419, type: 3}
+  - Key: sprites/items/sapphirering
+    Texture: {fileID: 2800000, guid: 48b0e1847053c1e48bdce2fd08c12fb0, type: 3}
+  - Key: sprites/items/sausage
+    Texture: {fileID: 2800000, guid: a8602b90534923a4fb3c55a4154f9ac4, type: 3}
+  - Key: sprites/items/scarabboots
+    Texture: {fileID: 2800000, guid: c1152835f923c614cbb2fb9e3a5e1308, type: 3}
+  - Key: sprites/items/scarabchest
+    Texture: {fileID: 2800000, guid: 7318f82880e8feb43b522709d731b556, type: 3}
+  - Key: sprites/items/scarabhelmet
+    Texture: {fileID: 2800000, guid: ae614b9aa59090f49a5816b605b83eb0, type: 3}
+  - Key: sprites/items/scarablegplates
+    Texture: {fileID: 2800000, guid: 2dc91e4769c6f4849bc75ae4c3b84663, type: 3}
+  - Key: sprites/items/scholarshat
+    Texture: {fileID: 2800000, guid: fd07050b171435c4aa2994a37ca3b78d, type: 3}
+  - Key: sprites/items/scholarshatblack
+    Texture: {fileID: 2800000, guid: 1a6c1347499929b488bc5131c14714a5, type: 3}
+  - Key: sprites/items/scholarshatgreen
+    Texture: {fileID: 2800000, guid: 580ee7bcb887a164b8421e4e51dbf1b3, type: 3}
+  - Key: sprites/items/scholarshatred
+    Texture: {fileID: 2800000, guid: 9c917cfa60eff474ab9b9e2ed148a69b, type: 3}
+  - Key: sprites/items/scholarshatyellow
+    Texture: {fileID: 2800000, guid: df23be91d8f6c9547af1929feacf8d6d, type: 3}
+  - Key: sprites/items/scimitar
+    Texture: {fileID: 2800000, guid: 06f3f95a9bb9ace4fbcf3feeaa95354a, type: 3}
+  - Key: sprites/items/seaweedroll
+    Texture: {fileID: 2800000, guid: c874a3c9bd06728428afb6aa7b7f156c, type: 3}
+  - Key: sprites/items/seed
+    Texture: {fileID: 2800000, guid: 0963dfb18a5f4404c93cbe3477bb08b3, type: 3}
+  - Key: sprites/items/sentinelboots
+    Texture: {fileID: 2800000, guid: 6f87df9783d677b41bdf5bac2448fdb8, type: 3}
+  - Key: sprites/items/sentinelchestplate
+    Texture: {fileID: 2800000, guid: c63d3477ce266464391dbd4c97251acb, type: 3}
+  - Key: sprites/items/sentinelhelm
+    Texture: {fileID: 2800000, guid: d13d71deb25ebd54d8c2aa26035b57e6, type: 3}
+  - Key: sprites/items/sentinellegplates
+    Texture: {fileID: 2800000, guid: ccd37d1ac5bb2ee4ea1bf9821eb7f9b8, type: 3}
+  - Key: sprites/items/sentinelsword
+    Texture: {fileID: 2800000, guid: 2f4b1664c10696844bb4730d9213d707, type: 3}
+  - Key: sprites/items/shardt1
+    Texture: {fileID: 2800000, guid: 13e14af18bafc9c4ab9a8b581048fc51, type: 3}
+  - Key: sprites/items/shardt2
+    Texture: {fileID: 2800000, guid: 0f72291fc7746df45a6cba03fada74ba, type: 3}
+  - Key: sprites/items/shardt3
+    Texture: {fileID: 2800000, guid: 6fbe6725ed7a6ef4b84cb6afbef8b22a, type: 3}
+  - Key: sprites/items/shardt4
+    Texture: {fileID: 2800000, guid: ccfa3ca5833a22a42ad59c83e44c2657, type: 3}
+  - Key: sprites/items/shardt5
+    Texture: {fileID: 2800000, guid: e8c7d42ee00bebe48809f3d5ec1ebc0e, type: 3}
+  - Key: sprites/items/shieldofglory
+    Texture: {fileID: 2800000, guid: 6fbae8197724e3843a68712474edc87e, type: 3}
+  - Key: sprites/items/shieldofliberty
+    Texture: {fileID: 2800000, guid: 7f1594095afd666489042ca05026db79, type: 3}
+  - Key: sprites/items/silverring
+    Texture: {fileID: 2800000, guid: 96005418b54bfb14cbc44f574b272571, type: 3}
+  - Key: sprites/items/silverring2
+    Texture: {fileID: 2800000, guid: 78797d6b251eab44894c3d607487b8a1, type: 3}
+  - Key: sprites/items/skeletonhelm
+    Texture: {fileID: 2800000, guid: a5b524b45d20c4945ab0113b3cab4985, type: 3}
+  - Key: sprites/items/skeletonskin
+    Texture: {fileID: 2800000, guid: b5124b23242974b4fb2499b5d99d4c55, type: 3}
+  - Key: sprites/items/slimehelmet
+    Texture: {fileID: 2800000, guid: 6e7a5bf002cf6294bb0dc9360ce713cd, type: 3}
+  - Key: sprites/items/slimekinghelmet
+    Texture: {fileID: 2800000, guid: 96304e9627a197746a407502b2597a8a, type: 3}
+  - Key: sprites/items/slimekingrarehelmet
+    Texture: {fileID: 2800000, guid: e7ecfdb5166c9e24c90a2d4ce1271517, type: 3}
+  - Key: sprites/items/slimepurplehelmet
+    Texture: {fileID: 2800000, guid: 24011b26df38613409726396d5eb74d3, type: 3}
+  - Key: sprites/items/slimeredhelmet
+    Texture: {fileID: 2800000, guid: aac31b0fcd759df4eb98a1c582ed4a7b, type: 3}
+  - Key: sprites/items/slimetealhelmet
+    Texture: {fileID: 2800000, guid: 417d7fd899757f1498fc659d466c9946, type: 3}
+  - Key: sprites/items/smallemptyvial
+    Texture: {fileID: 2800000, guid: f54c0673b65d46f408ab92cc2f29600a, type: 3}
+  - Key: sprites/items/smithshammer
+    Texture: {fileID: 2800000, guid: 88bf037a160b3b347b3a2e07cc15f537, type: 3}
+  - Key: sprites/items/snowpotion
+    Texture: {fileID: 2800000, guid: db9ec0db853f1d243ba5a25419356ddb, type: 3}
+  - Key: sprites/items/speedpotion
+    Texture: {fileID: 2800000, guid: bc696e52d55009d428a8a4468fc20267, type: 3}
+  - Key: sprites/items/spiritring
+    Texture: {fileID: 2800000, guid: 1947c5ae53bb4b941904c02227828933, type: 3}
+  - Key: sprites/items/spoon
+    Texture: {fileID: 2800000, guid: 77cee8f5b3e9671499c69d1123e43a5d, type: 3}
+  - Key: sprites/items/sproutring
+    Texture: {fileID: 2800000, guid: 6abf475c5708d2645af1d10d96d412d5, type: 3}
+  - Key: sprites/items/steelboots
+    Texture: {fileID: 2800000, guid: 15f645a534fe2b846bb75e9a2fdd23b4, type: 3}
+  - Key: sprites/items/stellarcluster
+    Texture: {fileID: 2800000, guid: 040e2acce4f511b439ac631ec487b34a, type: 3}
+  - Key: sprites/items/stew
+    Texture: {fileID: 2800000, guid: d7de58ad73431734f8cbff20995a581f, type: 3}
+  - Key: sprites/items/stew2
+    Texture: {fileID: 2800000, guid: 9a1eb54d561d8cb408d139d4bfb99a0e, type: 3}
+  - Key: sprites/items/stick
+    Texture: {fileID: 2800000, guid: f8b98fbac51ac02459327d94c393d775, type: 3}
+  - Key: sprites/items/strawberry
+    Texture: {fileID: 2800000, guid: d1ff4b6b0bb10664b92ae83238e86bd2, type: 3}
+  - Key: sprites/items/strengthpotion
+    Texture: {fileID: 2800000, guid: 87238104c16719b4788daafbb8471e7d, type: 3}
+  - Key: sprites/items/string
+    Texture: {fileID: 2800000, guid: 70324ccbadd5c284f9ffea90b26156bd, type: 3}
+  - Key: sprites/items/sunrisegreataxe
+    Texture: {fileID: 2800000, guid: 8ccf88ef84aa2c24f8cbfeab0493cc9d, type: 3}
+  - Key: sprites/items/sunshinecrystalhood
+    Texture: {fileID: 2800000, guid: e35bac568d1b387489058ef40d97e2c2, type: 3}
+  - Key: sprites/items/sunshinestaff
+    Texture: {fileID: 2800000, guid: afe2842da7d31da408eadcc6192a3ca0, type: 3}
+  - Key: sprites/items/swashbuckler
+    Texture: {fileID: 2800000, guid: 33955682284f41a4eb5f64809492e90d, type: 3}
+  - Key: sprites/items/swiftboots
+    Texture: {fileID: 2800000, guid: bfa449c36c50a2b48b8fc8d2250fcb09, type: 3}
+  - Key: sprites/items/swordofliberty
+    Texture: {fileID: 2800000, guid: aaa068e4f1461ae4f9c1ef8c93ad15e4, type: 3}
+  - Key: sprites/items/sycophant
+    Texture: {fileID: 2800000, guid: 18b4f6ccbf2e14d49b1c2325dac68fbd, type: 3}
+  - Key: sprites/items/taaffeite
+    Texture: {fileID: 2800000, guid: 68611e37e8384694091087180933a2c6, type: 3}
+  - Key: sprites/items/taekwondo
+    Texture: {fileID: 2800000, guid: ac8b808fec728aa44a7389767394b125, type: 3}
+  - Key: sprites/items/tamagotchiring
+    Texture: {fileID: 2800000, guid: 11b25171318981541b69911d5068450d, type: 3}
+  - Key: sprites/items/timelessglaive
+    Texture: {fileID: 2800000, guid: f2368b5f89d08f945b320587f7adf067, type: 3}
+  - Key: sprites/items/tinbar
+    Texture: {fileID: 2800000, guid: a1ca832fec6517b41b40822e241aa3f6, type: 3}
+  - Key: sprites/items/tinchestplate
+    Texture: {fileID: 2800000, guid: 03c827b6ede823041ab4474b47977b90, type: 3}
+  - Key: sprites/items/tinhelmet
+    Texture: {fileID: 2800000, guid: 31997b149dfcbd341b8963a8596d5848, type: 3}
+  - Key: sprites/items/tinlegplates
+    Texture: {fileID: 2800000, guid: 0d7769242b5c9174a965515642e8914c, type: 3}
+  - Key: sprites/items/tinore
+    Texture: {fileID: 2800000, guid: e6a133fa0c187384199e1aa268a5391a, type: 3}
+  - Key: sprites/items/tinshield
+    Texture: {fileID: 2800000, guid: ca84f75477c60a0418c4695a512eb959, type: 3}
+  - Key: sprites/items/tinsword
+    Texture: {fileID: 2800000, guid: 479e11fbf7e382643a932ed356e2d41a, type: 3}
+  - Key: sprites/items/tofu
+    Texture: {fileID: 2800000, guid: 28463b74333ec7741904d77d662702cd, type: 3}
+  - Key: sprites/items/token
+    Texture: {fileID: 2800000, guid: dfe04a6546f9daf4bad73a924bff72d6, type: 3}
+  - Key: sprites/items/tomato
+    Texture: {fileID: 2800000, guid: fc6f018d6f05b3944b7f3911555a4026, type: 3}
+  - Key: sprites/items/topaz
+    Texture: {fileID: 2800000, guid: 4f7205c0595d134498f4f6f4dc549ec6, type: 3}
+  - Key: sprites/items/topazring
+    Texture: {fileID: 2800000, guid: 8c039409e32e9ef4f8fe45039a936b20, type: 3}
+  - Key: sprites/items/toyhat
+    Texture: {fileID: 2800000, guid: a870fccd40d1afb4a9e793f5a5b7fd53, type: 3}
+  - Key: sprites/items/toyhatprogrammer
+    Texture: {fileID: 2800000, guid: 1498f783e4b213f4d9b3d0a7e95e8b79, type: 3}
+  - Key: sprites/items/toyhatwhite
+    Texture: {fileID: 2800000, guid: 8ac4792bb5a3e8a41ad47b83c2052066, type: 3}
+  - Key: sprites/items/tunasushi
+    Texture: {fileID: 2800000, guid: 87a11dd82bcf76d42bf1b066b4b723a2, type: 3}
+  - Key: sprites/items/twilightgreataxe
+    Texture: {fileID: 2800000, guid: 407759e83f6a7cb468f4351f7e2a01d6, type: 3}
+  - Key: sprites/items/undefined
+    Texture: {fileID: 2800000, guid: de62ea24d721fa74a9fd3c281d1b3e4a, type: 3}
+  - Key: sprites/items/vanila
+    Texture: {fileID: 2800000, guid: 69e5574539d64de49b850e2eecafcec3, type: 3}
+  - Key: sprites/items/vanillabottle
+    Texture: {fileID: 2800000, guid: c98b58294066d8f4d82017ed57443374, type: 3}
+  - Key: sprites/items/vanillabowlsmall
+    Texture: {fileID: 2800000, guid: 8674908674a507c47b64abfedab11248, type: 3}
+  - Key: sprites/items/wartberries
+    Texture: {fileID: 2800000, guid: 092a27986aa7dc14384a09bed25ae681, type: 3}
+  - Key: sprites/items/waterbucket
+    Texture: {fileID: 2800000, guid: c734dcee5b3d12a4fbda9b7811c38a4d, type: 3}
+  - Key: sprites/items/watermelon
+    Texture: {fileID: 2800000, guid: a930a1128a840394cbccf8a276826174, type: 3}
+  - Key: sprites/items/watermelonbow
+    Texture: {fileID: 2800000, guid: 5303770a4eb36fa4dbda6cfdb9f05526, type: 3}
+  - Key: sprites/items/watermelonslice
+    Texture: {fileID: 2800000, guid: 66ebd2bec09c00a41b18b9931ebba7ed, type: 3}
+  - Key: sprites/items/wings
+    Texture: {fileID: 2800000, guid: 87baf56136750e8488a76aa6a4143723, type: 3}
+  - Key: sprites/items/wingsdark
+    Texture: {fileID: 2800000, guid: f07d5f63f5217f546be88e631d63a1e0, type: 3}
+  - Key: sprites/items/witchhat
+    Texture: {fileID: 2800000, guid: 11b754ab21cb8f54db8488e80a79c3fe, type: 3}
+  - Key: sprites/items/witchhatblue
+    Texture: {fileID: 2800000, guid: 573c60f45d46c1742ad14439c7040f3d, type: 3}
+  - Key: sprites/items/witchsstaffancient
+    Texture: {fileID: 2800000, guid: 41a2cd7d43783f749ab70234e259f73e, type: 3}
+  - Key: sprites/items/witchsstaffblood
+    Texture: {fileID: 2800000, guid: cd368b83c0a06194e95319b752f561eb, type: 3}
+  - Key: sprites/items/witchsstaffdemonic
+    Texture: {fileID: 2800000, guid: a2925c60ec04ca34493e6adfd53cf030, type: 3}
+  - Key: sprites/items/witchsstaffmoon
+    Texture: {fileID: 2800000, guid: f7ba27782d02fdd468aa916d719ff399, type: 3}
+  - Key: sprites/items/witchsstaffsunshine
+    Texture: {fileID: 2800000, guid: 065e10906f41b624b822eecb6fd863e0, type: 3}
+  - Key: sprites/items/wizardhatblack
+    Texture: {fileID: 2800000, guid: c59f6ca9aba0f5848b245447aeb83720, type: 3}
+  - Key: sprites/items/wizardhatblue
+    Texture: {fileID: 2800000, guid: ab346792b8418f042887a7c9b769420c, type: 3}
+  - Key: sprites/items/wizardhatcrimson
+    Texture: {fileID: 2800000, guid: 5af81eaacaeea3c41af54c11a798e5ae, type: 3}
+  - Key: sprites/items/wizardhatdarkblue
+    Texture: {fileID: 2800000, guid: cba7ee8438769fe44832b51e89a339a3, type: 3}
+  - Key: sprites/items/wizardhatgreen
+    Texture: {fileID: 2800000, guid: 92fa4922809960040abd4db8f080041d, type: 3}
+  - Key: sprites/items/wizardhatpink
+    Texture: {fileID: 2800000, guid: 5dfd98d2630549c4d95d1d9aa92cd456, type: 3}
+  - Key: sprites/items/wizardhatpurple
+    Texture: {fileID: 2800000, guid: 393401794b0dca346ad62ececaa3db1f, type: 3}
+  - Key: sprites/items/wizardhatred
+    Texture: {fileID: 2800000, guid: 7aac00538d3ddcc40862d1bce5963ec3, type: 3}
+  - Key: sprites/items/wizardhatturquoise
+    Texture: {fileID: 2800000, guid: 188eb8f529467794bade3693d562cf96, type: 3}
+  - Key: sprites/items/wizardhatwhite
+    Texture: {fileID: 2800000, guid: 6a14d1f528e6c4f418bae1f65a0f99fe, type: 3}
+  - Key: sprites/items/wizardhatyellow
+    Texture: {fileID: 2800000, guid: 3e28b7c7327566a40a239e0a3d901640, type: 3}
+  - Key: sprites/items/wolfhelmet
+    Texture: {fileID: 2800000, guid: 36e7533b3eda2c445bc436190605ebd1, type: 3}
+  - Key: sprites/items/woodenbow
+    Texture: {fileID: 2800000, guid: 5202a08ca4739084e83d01cc0bd11bd1, type: 3}
+  - Key: sprites/items/woodenshield
+    Texture: {fileID: 2800000, guid: 8332a0c11b6b78943a829c3ddb887d1a, type: 3}
+  - Key: sprites/items/worm
+    Texture: {fileID: 2800000, guid: 0290599b346ebed44b218a1478383e35, type: 3}
+  - Key: sprites/items/zephyrsgaleblade
+    Texture: {fileID: 2800000, guid: e354ee1295d7436448b7459caa1740a9, type: 3}
+  - Key: sprites/items/zoncillogs
+    Texture: {fileID: 2800000, guid: b04a5017699dd7d479d2f1ffb20949e1, type: 3}
+  - Key: sprites/items/zondullogs
+    Texture: {fileID: 2800000, guid: 57ffc291e69c0cf468faa28fe4ecaeb7, type: 3}
+  - Key: sprites/items/zweipiercer
+    Texture: {fileID: 2800000, guid: a1a3170b9f387e74db02899bca7ac619, type: 3}
+  - Key: sprites/mobs/adherer
+    Texture: {fileID: 2800000, guid: 0922ff8beb37fdb46a9f7321446d7c76, type: 3}
+  - Key: sprites/mobs/ancientwizard
+    Texture: {fileID: 2800000, guid: 5d3d37669fba4dc48990e10d18b1a33a, type: 3}
+  - Key: sprites/mobs/angel
+    Texture: {fileID: 2800000, guid: 7af1ba6c2e0bd99459a68df209f00ef8, type: 3}
+  - Key: sprites/mobs/ant
+    Texture: {fileID: 2800000, guid: c723c795b3a23414886a74e4100f588b, type: 3}
+  - Key: sprites/mobs/babyspider
+    Texture: {fileID: 2800000, guid: e9cf01dabe70f3746b2b0378eb1a322a, type: 3}
+  - Key: sprites/mobs/bat
+    Texture: {fileID: 2800000, guid: 3d4c39be6c9049a47beb8cb958cc4559, type: 3}
+  - Key: sprites/mobs/beautifullife
+    Texture: {fileID: 2800000, guid: 95890279016a57144b8b6aaa371f2e17, type: 3}
+  - Key: sprites/mobs/bee
+    Texture: {fileID: 2800000, guid: 27241d2b07f382b42bdbf308cd7fecdb, type: 3}
+  - Key: sprites/mobs/beetle
+    Texture: {fileID: 2800000, guid: ec2ae4effca977542a78a0901174b1cd, type: 3}
+  - Key: sprites/mobs/blackpirateskeleton
+    Texture: {fileID: 2800000, guid: ba613414794f71943b76ec86491c670f, type: 3}
+  - Key: sprites/mobs/blackwizard
+    Texture: {fileID: 2800000, guid: e37ac2db88880204385869cf3f757c42, type: 3}
+  - Key: sprites/mobs/blazespider
+    Texture: {fileID: 2800000, guid: 4182f943fbd92454fba977dd6d4a20a5, type: 3}
+  - Key: sprites/mobs/bluepreta
+    Texture: {fileID: 2800000, guid: 3d442b00599566c48b624dc6cb8d79d5, type: 3}
+  - Key: sprites/mobs/brownmouse
+    Texture: {fileID: 2800000, guid: 66d07c0d279e41c44b84fe38436234a2, type: 3}
+  - Key: sprites/mobs/cactus
+    Texture: {fileID: 2800000, guid: 058386d98703c004ea51979202bd48c4, type: 3}
+  - Key: sprites/mobs/card
+    Texture: {fileID: 2800000, guid: 79992c21c26167141ade224692893cac, type: 3}
+  - Key: sprites/mobs/card2
+    Texture: {fileID: 2800000, guid: 40bc17e438fe8e34b8035d45597a44ae, type: 3}
+  - Key: sprites/mobs/cat
+    Texture: {fileID: 2800000, guid: c8f21f397442b0b40a98886d99779c41, type: 3}
+  - Key: sprites/mobs/clam
+    Texture: {fileID: 2800000, guid: 599b38cf643be2a4eb8b926c90fe2e58, type: 3}
+  - Key: sprites/mobs/cobra
+    Texture: {fileID: 2800000, guid: c528ab6dbb88ba04cb4f0c6a1a7f2a37, type: 3}
+  - Key: sprites/mobs/cowwarrior
+    Texture: {fileID: 2800000, guid: 510f4d83685596c47ae6ba4a25db17f7, type: 3}
+  - Key: sprites/mobs/crab
+    Texture: {fileID: 2800000, guid: 3cc05ff7284168441867c7b705dce4c8, type: 3}
+  - Key: sprites/mobs/crystalscorpion
+    Texture: {fileID: 2800000, guid: d8091bfe09a2785458a646a16c6f356a, type: 3}
+  - Key: sprites/mobs/cursedhahoemask
+    Texture: {fileID: 2800000, guid: d34a9f3fa6e3ace4b9863e37bb11f7a5, type: 3}
+  - Key: sprites/mobs/cursedjangseung
+    Texture: {fileID: 2800000, guid: 66446e126059adb4986568546d1b076b, type: 3}
+  - Key: sprites/mobs/darkogre
+    Texture: {fileID: 2800000, guid: 7cc18d2da6ca9c344bcd052988ecf4ac, type: 3}
+  - Key: sprites/mobs/darkregion
+    Texture: {fileID: 2800000, guid: 1bc6ab1204444ed40a97aab109911c38, type: 3}
+  - Key: sprites/mobs/darkregionillusion
+    Texture: {fileID: 2800000, guid: 5c081afa260f5ed47b748f3e49c56892, type: 3}
+  - Key: sprites/mobs/darkscorpion
+    Texture: {fileID: 2800000, guid: 09cb414430bac6e4189bc74b4721fb43, type: 3}
+  - Key: sprites/mobs/darkskeleton
+    Texture: {fileID: 2800000, guid: ba63e237de643914f9b6d08672afed92, type: 3}
+  - Key: sprites/mobs/darkwolf
+    Texture: {fileID: 2800000, guid: fc3faaa4022aa4d49872a6712f2cd348, type: 3}
+  - Key: sprites/mobs/deathknight
+    Texture: {fileID: 2800000, guid: 58226f9c51cae2945b64221185dd6886, type: 3}
+  - Key: sprites/mobs/desertscorpion
+    Texture: {fileID: 2800000, guid: 270f7dd61dfc9f24996dac3fc6635df6, type: 3}
+  - Key: sprites/mobs/devilkazya
+    Texture: {fileID: 2800000, guid: 557da4045df597548a61ae53b2ec71af, type: 3}
+  - Key: sprites/mobs/earthworm
+    Texture: {fileID: 2800000, guid: 919a1ed4213060a4897ee9b96f58dfbb, type: 3}
+  - Key: sprites/mobs/eliminator
+    Texture: {fileID: 2800000, guid: f7b60314711272f4b99eebc0d8e78146, type: 3}
+  - Key: sprites/mobs/enel
+    Texture: {fileID: 2800000, guid: 4b74b73e1eb4a5242b66693c044eedf7, type: 3}
+  - Key: sprites/mobs/eye
+    Texture: {fileID: 2800000, guid: 078d0e65f3bd7e841a743e4f496bb6c0, type: 3}
+  - Key: sprites/mobs/firespider
+    Texture: {fileID: 2800000, guid: af712eba258e73b49a928fd3440c9fe2, type: 3}
+  - Key: sprites/mobs/flaredeathknight
+    Texture: {fileID: 2800000, guid: 4d252be307151ab4786c916c82595868, type: 3}
+  - Key: sprites/mobs/fluffy
+    Texture: {fileID: 2800000, guid: 7c409724e7c60564b897aa5e410783eb, type: 3}
+  - Key: sprites/mobs/forestdragon
+    Texture: {fileID: 2800000, guid: 5dd878bb4b9840c4995f72fd59fc5ea9, type: 3}
+  - Key: sprites/mobs/frog
+    Texture: {fileID: 2800000, guid: 4ecd5ca765532b54fbde55f1e82fc784, type: 3}
+  - Key: sprites/mobs/frostqueen
+    Texture: {fileID: 2800000, guid: a979205f2bf71d544bd77e3534238d74, type: 3}
+  - Key: sprites/mobs/ghost
+    Texture: {fileID: 2800000, guid: 15ae62059be341e4886188195507b815, type: 3}
+  - Key: sprites/mobs/goblin
+    Texture: {fileID: 2800000, guid: ae40aad602ff9ea4e8e4ca6e379acc9e, type: 3}
+  - Key: sprites/mobs/goldgolem
+    Texture: {fileID: 2800000, guid: 26b5cd931cfc1c64ba720bde37eff1dd, type: 3}
+  - Key: sprites/mobs/golem
+    Texture: {fileID: 2800000, guid: ebffa3a22d811c548892eb497d9c318f, type: 3}
+  - Key: sprites/mobs/greencockroach
+    Texture: {fileID: 2800000, guid: 656f1c618a5a6344c9659bac676effb5, type: 3}
+  - Key: sprites/mobs/greenfish
+    Texture: {fileID: 2800000, guid: a5fa107fb3ae314439dabc2484911ed7, type: 3}
+  - Key: sprites/mobs/greenpirateskeleton
+    Texture: {fileID: 2800000, guid: 8692539a84ee00d4eab7cd89b9bbc760, type: 3}
+  - Key: sprites/mobs/guardmace
+    Texture: {fileID: 2800000, guid: e9b60811b1d8d0a458e4d234a5d9925d, type: 3}
+  - Key: sprites/mobs/guardsword
+    Texture: {fileID: 2800000, guid: 9fc05940f8490f64391eb347f8e4a026, type: 3}
+  - Key: sprites/mobs/hammerman
+    Texture: {fileID: 2800000, guid: ac8cabd3df0f9f746b1ff8b652937b41, type: 3}
+  - Key: sprites/mobs/hellhound
+    Texture: {fileID: 2800000, guid: 04fa9be5d8c37544f822c49ddb38f7c0, type: 3}
+  - Key: sprites/mobs/hellspider
+    Texture: {fileID: 2800000, guid: 82c43788a28eb714694059cadd61c801, type: 3}
+  - Key: sprites/mobs/hermitcrab
+    Texture: {fileID: 2800000, guid: d90274a9853dcd3469039e6f77b6dcdc, type: 3}
+  - Key: sprites/mobs/hobgoblin
+    Texture: {fileID: 2800000, guid: b6c31b966085bd24b91ddac9cc24e768, type: 3}
+  - Key: sprites/mobs/hongcheol
+    Texture: {fileID: 2800000, guid: 6d687ad9f61cbb54a9a66b4c6bae7408, type: 3}
+  - Key: sprites/mobs/hornet
+    Texture: {fileID: 2800000, guid: 27e019c9499f4a8418721b12f2853755, type: 3}
+  - Key: sprites/mobs/icebat
+    Texture: {fileID: 2800000, guid: a514a2b5b5f88544580ae6781b8a6f96, type: 3}
+  - Key: sprites/mobs/icecrab
+    Texture: {fileID: 2800000, guid: 4e18249f716ae904496fe1e4b6c1aba2, type: 3}
+  - Key: sprites/mobs/icegoblin
+    Texture: {fileID: 2800000, guid: 0fc1387fa59b9214f9db28c6ae099dae, type: 3}
+  - Key: sprites/mobs/icegolem
+    Texture: {fileID: 2800000, guid: d9518ec96a5e608469ce60ac4d6d968d, type: 3}
+  - Key: sprites/mobs/iceknight
+    Texture: {fileID: 2800000, guid: 0785f6b73a66da84280bca6e74834219, type: 3}
+  - Key: sprites/mobs/icerat
+    Texture: {fileID: 2800000, guid: f2d2ce83d5e154049b758ffa2828e4ac, type: 3}
+  - Key: sprites/mobs/icevulture
+    Texture: {fileID: 2800000, guid: 2419b700385f46944bfab8a7e1902e7a, type: 3}
+  - Key: sprites/mobs/icewizard
+    Texture: {fileID: 2800000, guid: d55d056d9113ef04187807337840b4d2, type: 3}
+  - Key: sprites/mobs/infectedguard
+    Texture: {fileID: 2800000, guid: 6af5ad2c33d3f85478ccd78a56e825bf, type: 3}
+  - Key: sprites/mobs/infectedvillager
+    Texture: {fileID: 2800000, guid: bd7fe0436bc82a247b43d34b746bcbde, type: 3}
+  - Key: sprites/mobs/ironogre
+    Texture: {fileID: 2800000, guid: 8740e85de35b48443995aa2f3152bda4, type: 3}
+  - Key: sprites/mobs/jirisanmoonbear
+    Texture: {fileID: 2800000, guid: 821a5687c152c234792c6e0bc8586e74, type: 3}
+  - Key: sprites/mobs/kaonashi
+    Texture: {fileID: 2800000, guid: eb54c5e158b907547914ef8daac59ba6, type: 3}
+  - Key: sprites/mobs/lavaslime
+    Texture: {fileID: 2800000, guid: e4529b4e95f3ce842b07ba6b491bb417, type: 3}
+  - Key: sprites/mobs/lightningguardian
+    Texture: {fileID: 2800000, guid: aea0aee85c9aa5a4fadae348517c3575, type: 3}
+  - Key: sprites/mobs/lightningseadragon
+    Texture: {fileID: 2800000, guid: 3163e2aa2f9e4ab4b99afc169e68e443, type: 3}
+  - Key: sprites/mobs/livingarmor
+    Texture: {fileID: 2800000, guid: c97d5624f65e22849aeaff65122ade1c, type: 3}
+  - Key: sprites/mobs/mantis
+    Texture: {fileID: 2800000, guid: e99f4d67c79cf96439314e9d867384be, type: 3}
+  - Key: sprites/mobs/mermaid
+    Texture: {fileID: 2800000, guid: 1ff6c3c1c13abf146a6abb0ffed3d29a, type: 3}
+  - Key: sprites/mobs/mimic
+    Texture: {fileID: 2800000, guid: 8baf2bc3d9c66314091268ff019e97ed, type: 3}
+  - Key: sprites/mobs/minidragon
+    Texture: {fileID: 2800000, guid: f49c4b099c85cd0409f4f05c4446d635, type: 3}
+  - Key: sprites/mobs/miniemperor
+    Texture: {fileID: 2800000, guid: a4d240aad9456e64a96fbcce0eb2bd05, type: 3}
+  - Key: sprites/mobs/miniiceknight1
+    Texture: {fileID: 2800000, guid: c8ed3a93b084ee147baf1df2551a969c, type: 3}
+  - Key: sprites/mobs/miniiceknight2
+    Texture: {fileID: 2800000, guid: f4e05ce70b673644ab2429afa65e1974, type: 3}
+  - Key: sprites/mobs/miniiceknight3
+    Texture: {fileID: 2800000, guid: 21b14b3e5110271489a65b0a339d3d13, type: 3}
+  - Key: sprites/mobs/miniiceknight4
+    Texture: {fileID: 2800000, guid: e23b703d4a7fa7c468d67d5fe6a95156, type: 3}
+  - Key: sprites/mobs/miniiceknight5
+    Texture: {fileID: 2800000, guid: c5dec5535f483f64d9e8718e0d9aa197, type: 3}
+  - Key: sprites/mobs/miniknight1
+    Texture: {fileID: 2800000, guid: 7564707f4b3d2904abd71e9227b916c3, type: 3}
+  - Key: sprites/mobs/miniknight2
+    Texture: {fileID: 2800000, guid: 40ccbfe48d1018442aadd5e4d947f26a, type: 3}
+  - Key: sprites/mobs/miniknight3
+    Texture: {fileID: 2800000, guid: 2261a79fe68970540aa917e85ed06c5e, type: 3}
+  - Key: sprites/mobs/miniknight4
+    Texture: {fileID: 2800000, guid: 1796165995d48c046b1d3f832a1a58b9, type: 3}
+  - Key: sprites/mobs/miniknight5
+    Texture: {fileID: 2800000, guid: 3c9ba559e91de2c4da94afb596af2ccc, type: 3}
+  - Key: sprites/mobs/miniknight6
+    Texture: {fileID: 2800000, guid: ed1961839f081ec40b8d6293fea79099, type: 3}
+  - Key: sprites/mobs/miniseadragon
+    Texture: {fileID: 2800000, guid: da3f3b45004a40d4e98f7769ba4b7236, type: 3}
+  - Key: sprites/mobs/minotaurboss
+    Texture: {fileID: 2800000, guid: d2cc3534668e39440afc4dacb0bc4524, type: 3}
+  - Key: sprites/mobs/moleking
+    Texture: {fileID: 2800000, guid: 3720900f4902a44478b78a36c3a7b4e5, type: 3}
+  - Key: sprites/mobs/nightmareregion
+    Texture: {fileID: 2800000, guid: a7b4fa8cda4415041b0c07d724eb7a10, type: 3}
+  - Key: sprites/mobs/ogre
+    Texture: {fileID: 2800000, guid: 77a749675e8d7304c815be24b8811fc3, type: 3}
+  - Key: sprites/mobs/ogrelord
+    Texture: {fileID: 2800000, guid: 427829ef5d3ef244ebd3a7381a3373e2, type: 3}
+  - Key: sprites/mobs/oldogre
+    Texture: {fileID: 2800000, guid: 8b0b995dfc89f0b4394193b929c7064b, type: 3}
+  - Key: sprites/mobs/orc
+    Texture: {fileID: 2800000, guid: 026b83ce9aa0d424f8ccbfb6d39a2d91, type: 3}
+  - Key: sprites/mobs/paladin
+    Texture: {fileID: 2800000, guid: 4819a84aa4e02934dacbc66efa002ce6, type: 3}
+  - Key: sprites/mobs/penguin
+    Texture: {fileID: 2800000, guid: 5f43540a94894bd44a40f0d177eab414, type: 3}
+  - Key: sprites/mobs/picklemob
+    Texture: {fileID: 2800000, guid: 846dbf625f1de1e45a52884eee207b22, type: 3}
+  - Key: sprites/mobs/pierrot
+    Texture: {fileID: 2800000, guid: fedd331adaef0b84c9c84a703cab7823, type: 3}
+  - Key: sprites/mobs/pinkelf
+    Texture: {fileID: 2800000, guid: 75c35fcd1470a7a429e9f4a505688614, type: 3}
+  - Key: sprites/mobs/piratecaptain
+    Texture: {fileID: 2800000, guid: 6a57a53f797e9c744ba5c358f083d297, type: 3}
+  - Key: sprites/mobs/pirateking
+    Texture: {fileID: 2800000, guid: c2c9f763aa0f31d489e86d63a7a4ff4e, type: 3}
+  - Key: sprites/mobs/pirateskeleton
+    Texture: {fileID: 2800000, guid: b3115a6473c8bba4f9024d5ec71687fa, type: 3}
+  - Key: sprites/mobs/poisonspider
+    Texture: {fileID: 2800000, guid: aac2fcb93dd8a11458f075be5f024868, type: 3}
+  - Key: sprites/mobs/preta
+    Texture: {fileID: 2800000, guid: 76bf671842af17c47a15d5c39f389631, type: 3}
+  - Key: sprites/mobs/purplepreta
+    Texture: {fileID: 2800000, guid: b1f3a14c3e503804db7a14febd0ce387, type: 3}
+  - Key: sprites/mobs/queenant
+    Texture: {fileID: 2800000, guid: 36542c0beafc2b74d97cde820d91bb66, type: 3}
+  - Key: sprites/mobs/queenspider
+    Texture: {fileID: 2800000, guid: ab00fb5954d867e45b5f44e7f081f1d6, type: 3}
+  - Key: sprites/mobs/rabbitboss
+    Texture: {fileID: 2800000, guid: 598769ad63606ff4e9869546b1e8839b, type: 3}
+  - Key: sprites/mobs/rabbitman
+    Texture: {fileID: 2800000, guid: b994219881716124eb7a058b3d2a6dd6, type: 3}
+  - Key: sprites/mobs/ramboss
+    Texture: {fileID: 2800000, guid: 29dbd935645e31b4a9f2925c79727e4c, type: 3}
+  - Key: sprites/mobs/rat
+    Texture: {fileID: 2800000, guid: 3fab61f7c80431c47b4cb6fe9bcc7b03, type: 3}
+  - Key: sprites/mobs/redcockroach
+    Texture: {fileID: 2800000, guid: 7b2d138f8d2bddd458c1c5ea44e11583, type: 3}
+  - Key: sprites/mobs/redelf
+    Texture: {fileID: 2800000, guid: fe3d33d4ff345104980b93fb478e549e, type: 3}
+  - Key: sprites/mobs/redfish
+    Texture: {fileID: 2800000, guid: 7fcf829273407294287347773a9f0df3, type: 3}
+  - Key: sprites/mobs/redguard
+    Texture: {fileID: 2800000, guid: a32dfabbe7afc3246bc22d59ba9d70b4, type: 3}
+  - Key: sprites/mobs/redmouse
+    Texture: {fileID: 2800000, guid: e4670879184f7c04684f4355f5959276, type: 3}
+  - Key: sprites/mobs/redpirateskeleton
+    Texture: {fileID: 2800000, guid: 044d634b2f71f2e45ba6650c0c4c8535, type: 3}
+  - Key: sprites/mobs/regionhenchman
+    Texture: {fileID: 2800000, guid: 61eb324af04dfba468b8debbb66ef42b, type: 3}
+  - Key: sprites/mobs/rhaphidophoridae
+    Texture: {fileID: 2800000, guid: 60291a9ddf990f1459bfbdc1a76d5588, type: 3}
+  - Key: sprites/mobs/rooster
+    Texture: {fileID: 2800000, guid: 6d91bca709a4dd74dbe8d08c9d99f5f9, type: 3}
+  - Key: sprites/mobs/rudolf
+    Texture: {fileID: 2800000, guid: 418c8dc0d363fef4ea39b762dc91987f, type: 3}
+  - Key: sprites/mobs/santa
+    Texture: {fileID: 2800000, guid: 170cfca5bca6fb74493645161fef229d, type: 3}
+  - Key: sprites/mobs/santaelf
+    Texture: {fileID: 2800000, guid: 66779256cef17fe4eb753b1d11907dbd, type: 3}
+  - Key: sprites/mobs/seadragon
+    Texture: {fileID: 2800000, guid: 95daea8c20539484c8379a38fb517fe5, type: 3}
+  - Key: sprites/mobs/shadowregion
+    Texture: {fileID: 2800000, guid: 647912abaa26e3d4d950df25cf2d4156, type: 3}
+  - Key: sprites/mobs/skeleton
+    Texture: {fileID: 2800000, guid: 212bd6d1952abc9479fcc75189875f42, type: 3}
+  - Key: sprites/mobs/skeleton2
+    Texture: {fileID: 2800000, guid: 9853d762895890341a0b83aa8c87331d, type: 3}
+  - Key: sprites/mobs/skeletonking
+    Texture: {fileID: 2800000, guid: 56783b23ffc45d64c9d92dba2b7b9d03, type: 3}
+  - Key: sprites/mobs/skydinosaur
+    Texture: {fileID: 2800000, guid: 69f0b4f8a97006242832ab823a6ea84a, type: 3}
+  - Key: sprites/mobs/skyelf
+    Texture: {fileID: 2800000, guid: 6c52ac4cf6b527740ad527b5a486ac16, type: 3}
+  - Key: sprites/mobs/slime
+    Texture: {fileID: 2800000, guid: 0216762a554a1f94181da93ea28ef925, type: 3}
+  - Key: sprites/mobs/smalldevil
+    Texture: {fileID: 2800000, guid: 2f2af373dfce3f4438bd1a9ee4081310, type: 3}
+  - Key: sprites/mobs/snek
+    Texture: {fileID: 2800000, guid: 5f81371dd2d9ae448bf9c4306d81f1cf, type: 3}
+  - Key: sprites/mobs/snowelf
+    Texture: {fileID: 2800000, guid: 3af126cbd12abee4695f1d17993aec21, type: 3}
+  - Key: sprites/mobs/snowlady
+    Texture: {fileID: 2800000, guid: 64fa1bc2a6c37de46b0afb3a74dd811b, type: 3}
+  - Key: sprites/mobs/snowman
+    Texture: {fileID: 2800000, guid: b6b7d81a1a3ef86499fd6e6f378a6a33, type: 3}
+  - Key: sprites/mobs/snowman2
+    Texture: {fileID: 2800000, guid: e91c181776505cc498504266b198a5b8, type: 3}
+  - Key: sprites/mobs/snowrabbit
+    Texture: {fileID: 2800000, guid: 9b806994e5854334aacf6ba0fdd134e3, type: 3}
+  - Key: sprites/mobs/snowwolf
+    Texture: {fileID: 2800000, guid: 3654e606328ee8543bc06228aac2a974, type: 3}
+  - Key: sprites/mobs/soldierant
+    Texture: {fileID: 2800000, guid: 7f9ad74037c9d884b8f6628461869fdc, type: 3}
+  - Key: sprites/mobs/soybeanbug
+    Texture: {fileID: 2800000, guid: 2b7027cc561c16145bec7021eea210a0, type: 3}
+  - Key: sprites/mobs/spectre
+    Texture: {fileID: 2800000, guid: e6be4da387636444b9265fbb1089a9d3, type: 3}
+  - Key: sprites/mobs/spider
+    Texture: {fileID: 2800000, guid: 28e807e271513c442a844aae3eabbd78, type: 3}
+  - Key: sprites/mobs/squid
+    Texture: {fileID: 2800000, guid: 45cd93bdd4485e845b6505d5fcaa7746, type: 3}
+  - Key: sprites/mobs/suicideghost
+    Texture: {fileID: 2800000, guid: 0d9e10d6e991b6c4f90a4eaced708e73, type: 3}
+  - Key: sprites/mobs/tigerboss
+    Texture: {fileID: 2800000, guid: 8003169143018924ea8737e3a1039ce1, type: 3}
+  - Key: sprites/mobs/vulture
+    Texture: {fileID: 2800000, guid: cf3162f860d284a49bf80099da91ce36, type: 3}
+  - Key: sprites/mobs/whitebear
+    Texture: {fileID: 2800000, guid: a0dd5f3ea19ea0c4dad32e3894c7b7b6, type: 3}
+  - Key: sprites/mobs/whitemouse
+    Texture: {fileID: 2800000, guid: a47e3b96d0585d440967d54fdd2bac26, type: 3}
+  - Key: sprites/mobs/whitetiger
+    Texture: {fileID: 2800000, guid: eb8f03eaa6a27d849ad2c2ba0af30d76, type: 3}
+  - Key: sprites/mobs/windguardian copy
+    Texture: {fileID: 2800000, guid: 4b640cb826e5a964fb8c18148e950e67, type: 3}
+  - Key: sprites/mobs/windguardian
+    Texture: {fileID: 2800000, guid: 0d22a85e2fbdfde4c916f17ca11af180, type: 3}
+  - Key: sprites/mobs/wizard
+    Texture: {fileID: 2800000, guid: 9afe88297fcd86440a3e8f733432adb8, type: 3}
+  - Key: sprites/mobs/wolf
+    Texture: {fileID: 2800000, guid: a0e76d6cbbc45724ea5859e3e7f8e455, type: 3}
+  - Key: sprites/mobs/yellowbat
+    Texture: {fileID: 2800000, guid: 19382a382c4a5fb41904adca2b578787, type: 3}
+  - Key: sprites/mobs/yellowfish
+    Texture: {fileID: 2800000, guid: 9accf52425334ed40ac6f2172027d58f, type: 3}
+  - Key: sprites/mobs/yellowmouse
+    Texture: {fileID: 2800000, guid: ad53e5cbe5437cc409f7d052665ca069, type: 3}
+  - Key: sprites/mobs/yellowpreta
+    Texture: {fileID: 2800000, guid: 76ff2b7bbb3ffe74ebe92c99e3d35ca2, type: 3}
+  - Key: sprites/mobs/zombie
+    Texture: {fileID: 2800000, guid: 62ee5c0df95aa614e8aacfa74110c738, type: 3}
+  - Key: sprites/npcs/agent
+    Texture: {fileID: 2800000, guid: edf8f401af1a11644974e17591f21c55, type: 3}
+  - Key: sprites/npcs/ancientmanumentnpc
+    Texture: {fileID: 2800000, guid: b7567a3e411c1d54789419f8f8d04f18, type: 3}
+  - Key: sprites/npcs/angelnpc
+    Texture: {fileID: 2800000, guid: 888f4e6ee1d5f0e4fb2cbfcb2f948022, type: 3}
+  - Key: sprites/npcs/beachnpc
+    Texture: {fileID: 2800000, guid: 6068efb8630560e498835f7abe69ff73, type: 3}
+  - Key: sprites/npcs/blacksmith
+    Texture: {fileID: 2800000, guid: b47ead2b338dc994782ad8d478ff705e, type: 3}
+  - Key: sprites/npcs/blacksmith2
+    Texture: {fileID: 2800000, guid: 2d1fdeaa75554794ab64b56b7a44f7e6, type: 3}
+  - Key: sprites/npcs/bluebikinigirlnpc
+    Texture: {fileID: 2800000, guid: 9128cdb5a92327b4f948d4eba80f295c, type: 3}
+  - Key: sprites/npcs/bluestoremannpc
+    Texture: {fileID: 2800000, guid: cfc332b2bd7355a45b4c836249a7f4dd, type: 3}
+  - Key: sprites/npcs/boxingman
+    Texture: {fileID: 2800000, guid: 129001c9b6f0cc4429d5233a9da3ca6c, type: 3}
+  - Key: sprites/npcs/coder
+    Texture: {fileID: 2800000, guid: 7648b0947414dfc4cbedab53c69147f3, type: 3}
+  - Key: sprites/npcs/desertnpc
+    Texture: {fileID: 2800000, guid: 23a6a391b622f8f4fb7a683db73fed10, type: 3}
+  - Key: sprites/npcs/doctor
+    Texture: {fileID: 2800000, guid: c9c8e34570d6934459abb2a38928d29c, type: 3}
+  - Key: sprites/npcs/elfnpc
+    Texture: {fileID: 2800000, guid: 5f20d971f1202db42afb5f8d2979609a, type: 3}
+  - Key: sprites/npcs/fairynpc
+    Texture: {fileID: 2800000, guid: 970f0983e9e758f4c848eb75063e4ed7, type: 3}
+  - Key: sprites/npcs/fairynpc2
+    Texture: {fileID: 2800000, guid: 646bb77267b678642bd47e14fb298307, type: 3}
+  - Key: sprites/npcs/firstsonangelnpc
+    Texture: {fileID: 2800000, guid: b3796c77c69a4d341861ba647548622c, type: 3}
+  - Key: sprites/npcs/fisherman
+    Texture: {fileID: 2800000, guid: 631ef00f9e77e574fbe9152a5f6f0bb2, type: 3}
+  - Key: sprites/npcs/forestnpc
+    Texture: {fileID: 2800000, guid: 65d12b06afb81284fb93d7f8c8be6732, type: 3}
+  - Key: sprites/npcs/greenstoremannpc
+    Texture: {fileID: 2800000, guid: a8d6667a64d37bb46b00a4da247166c8, type: 3}
+  - Key: sprites/npcs/guard
+    Texture: {fileID: 2800000, guid: 84e0231ef0fc3b14aba5298626ff2e19, type: 3}
+  - Key: sprites/npcs/guard2
+    Texture: {fileID: 2800000, guid: 33b475d9b20f5ac4f9563dea4e22e3fa, type: 3}
+  - Key: sprites/npcs/guildnpc
+    Texture: {fileID: 2800000, guid: afb23ba9d36425c4f82f178a6c1e7da2, type: 3}
+  - Key: sprites/npcs/herbalist
+    Texture: {fileID: 2800000, guid: 03cc235dda941c048add3a15fb1a6958, type: 3}
+  - Key: sprites/npcs/iamverycoldnpc
+    Texture: {fileID: 2800000, guid: 8cb5925a75c9a934393b71042b12c520, type: 3}
+  - Key: sprites/npcs/iceelfnpc
+    Texture: {fileID: 2800000, guid: 16c4e7de52e1f8144b0642fb553d2a05, type: 3}
+  - Key: sprites/npcs/king
+    Texture: {fileID: 2800000, guid: f3836e9050b1ac944b75a02d07b1bd35, type: 3}
+  - Key: sprites/npcs/king2
+    Texture: {fileID: 2800000, guid: c85dc4b81449a7d4089febe3c1879320, type: 3}
+  - Key: sprites/npcs/lavanpc
+    Texture: {fileID: 2800000, guid: da1b2e62ed7a3254cb541c9e9a6ccd27, type: 3}
+  - Key: sprites/npcs/madscientist
+    Texture: {fileID: 2800000, guid: 37f006228705ffd42a61e4c4cf35b315, type: 3}
+  - Key: sprites/npcs/mermaidnpc
+    Texture: {fileID: 2800000, guid: ddf26b0bac657674e960332f4e62a7d5, type: 3}
+  - Key: sprites/npcs/miner
+    Texture: {fileID: 2800000, guid: 1b91ea9e3ef0db1458a8733cf18904d3, type: 3}
+  - Key: sprites/npcs/miner2
+    Texture: {fileID: 2800000, guid: 873b78b417590b14d81c3e7adb4fffcf, type: 3}
+  - Key: sprites/npcs/mojojojonpc
+    Texture: {fileID: 2800000, guid: 942596845496de24782a954f94aac7c6, type: 3}
+  - Key: sprites/npcs/momangelnpc
+    Texture: {fileID: 2800000, guid: 537dc9a8cfc50674896d414955cdc53a, type: 3}
+  - Key: sprites/npcs/nyan
+    Texture: {fileID: 2800000, guid: 9de9753ebea52fd44885fbcc32b98a58, type: 3}
+  - Key: sprites/npcs/octocat
+    Texture: {fileID: 2800000, guid: 8f870db89cc8023478da817a936a9b41, type: 3}
+  - Key: sprites/npcs/octopus
+    Texture: {fileID: 2800000, guid: a7da844475922334888195929e5b70e6, type: 3}
+  - Key: sprites/npcs/oddeyecat
+    Texture: {fileID: 2800000, guid: 3144b11f0ca42c548a9f3026230246de, type: 3}
+  - Key: sprites/npcs/oldlady
+    Texture: {fileID: 2800000, guid: 72d8cf3470bad93438dd16a95ef6a8d1, type: 3}
+  - Key: sprites/npcs/oldlady2
+    Texture: {fileID: 2800000, guid: cafb187d13696464ab65366ba5a78a25, type: 3}
+  - Key: sprites/npcs/picklenpc
+    Texture: {fileID: 2800000, guid: 3811edea8e35a57429499351b1523ab0, type: 3}
+  - Key: sprites/npcs/pirategirlnpc
+    Texture: {fileID: 2800000, guid: 63800c303c978d642bb68be19ca92b6e, type: 3}
+  - Key: sprites/npcs/priest
+    Texture: {fileID: 2800000, guid: 1d76c6c8807ea1b4faf6e0bee8d7e249, type: 3}
+  - Key: sprites/npcs/prisoner
+    Texture: {fileID: 2800000, guid: bc6afe1ac0d808242ad4cff1314f0aaf, type: 3}
+  - Key: sprites/npcs/purplestoremannpc
+    Texture: {fileID: 2800000, guid: 4f06a6fc49ff28942adfc0bd4d5fdfd7, type: 3}
+  - Key: sprites/npcs/ratnpc
+    Texture: {fileID: 2800000, guid: acaf829d161d6ae47aa96e85800862c5, type: 3}
+  - Key: sprites/npcs/redbikinigirlnpc
+    Texture: {fileID: 2800000, guid: 6c3e395cae774a44d8749542f134d54d, type: 3}
+  - Key: sprites/npcs/redstoremannpc
+    Texture: {fileID: 2800000, guid: eb3dd8d40f3843e478d2567cc427c053, type: 3}
+  - Key: sprites/npcs/rick
+    Texture: {fileID: 2800000, guid: eb36d8a39ecf2724391e511235517d78, type: 3}
+  - Key: sprites/npcs/rickgf
+    Texture: {fileID: 2800000, guid: 23ed661a573c252459434139f7a69ea5, type: 3}
+  - Key: sprites/npcs/royalguard
+    Texture: {fileID: 2800000, guid: 22e2597be4704ff42b3c819784f14580, type: 3}
+  - Key: sprites/npcs/royalguard2
+    Texture: {fileID: 2800000, guid: ccde8326682ebc84780bb7ff175c502d, type: 3}
+  - Key: sprites/npcs/royalguard3
+    Texture: {fileID: 2800000, guid: 815724c1a5eff894d94ba287128f8316, type: 3}
+  - Key: sprites/npcs/santaelfnpc
+    Texture: {fileID: 2800000, guid: 4bbf9c10cb128ea48ac9ceacfe397d80, type: 3}
+  - Key: sprites/npcs/scientist
+    Texture: {fileID: 2800000, guid: 4eb0861d5d78749468c44760e2a85874, type: 3}
+  - Key: sprites/npcs/secondsonangelnpc
+    Texture: {fileID: 2800000, guid: 369e4d0044c57b548a99952876e2978d, type: 3}
+  - Key: sprites/npcs/shepherdboy
+    Texture: {fileID: 2800000, guid: 868ecdce1f0a40646bcb7a80448d41ce, type: 3}
+  - Key: sprites/npcs/shroomy
+    Texture: {fileID: 2800000, guid: d3ec7fea8cd96bf488b75360cdad762f, type: 3}
+  - Key: sprites/npcs/snowshepherdboy
+    Texture: {fileID: 2800000, guid: 2d3726a6f1b777c4ba9fa0b6a0e1c347, type: 3}
+  - Key: sprites/npcs/soldier
+    Texture: {fileID: 2800000, guid: 4850352dfb187d641915599690f015b1, type: 3}
+  - Key: sprites/npcs/sorcerer
+    Texture: {fileID: 2800000, guid: 0fb63b270175e634890f71fc948d5992, type: 3}
+  - Key: sprites/npcs/sponge
+    Texture: {fileID: 2800000, guid: b0a98465f23f06a418b4780b26f15b89, type: 3}
+  - Key: sprites/npcs/superiorangelnpc
+    Texture: {fileID: 2800000, guid: 64a76536fc5c5024d9e76b87683a3077, type: 3}
+  - Key: sprites/npcs/vampire
+    Texture: {fileID: 2800000, guid: d0b2cf8299843f543901b7b8043ef54f, type: 3}
+  - Key: sprites/npcs/vendingmachine
+    Texture: {fileID: 2800000, guid: a566cdc2cf1085e498842eed56505bbe, type: 3}
+  - Key: sprites/npcs/villagegirl
+    Texture: {fileID: 2800000, guid: 370dcc7119b9582458ba1d03d972097d, type: 3}
+  - Key: sprites/npcs/villagegirl2
+    Texture: {fileID: 2800000, guid: fcf32508a991c7d4fa491734b88bb761, type: 3}
+  - Key: sprites/npcs/villagegirl3
+    Texture: {fileID: 2800000, guid: 805389b02055b9e43b83811ac3bd2077, type: 3}
+  - Key: sprites/npcs/villagegirl4
+    Texture: {fileID: 2800000, guid: e636650e6fc215440aca2d027105b56d, type: 3}
+  - Key: sprites/npcs/villagegirl5
+    Texture: {fileID: 2800000, guid: 24571cc7ad1e3b144b1ad4f543b99134, type: 3}
+  - Key: sprites/npcs/villagegirl6
+    Texture: {fileID: 2800000, guid: 09c58bcaac30f31409dacc4c7190386b, type: 3}
+  - Key: sprites/npcs/villagegirl7
+    Texture: {fileID: 2800000, guid: 8162a141fc4be7644b89854fa8c0a609, type: 3}
+  - Key: sprites/npcs/villager
+    Texture: {fileID: 2800000, guid: 52249ab3558611d4e87499cf8960b58d, type: 3}
+  - Key: sprites/npcs/villager2
+    Texture: {fileID: 2800000, guid: 0a1f3939c2fe07e4db4ca0bb0fe9ac91, type: 3}
+  - Key: sprites/npcs/villager3
+    Texture: {fileID: 2800000, guid: c8256ff3c7122fc49833f6fcca881238, type: 3}
+  - Key: sprites/npcs/villager4
+    Texture: {fileID: 2800000, guid: 40778c13bb9dcd2429dc46906d126f1e, type: 3}
+  - Key: sprites/npcs/zombiegf
+    Texture: {fileID: 2800000, guid: 27d4e4e337b3cf04cad8a7fc1753f60f, type: 3}
+  - Key: sprites/objects/chest
+    Texture: {fileID: 2800000, guid: fe673a7c4883cee4ebf27c1a8f91c990, type: 3}
+  - Key: sprites/objects/footlocker
+    Texture: {fileID: 2800000, guid: aa345f5f425cb304e848b2749723c715, type: 3}
+  - Key: sprites/objects/reinforcedchest
+    Texture: {fileID: 2800000, guid: ac936bc7867436c45a0cb61d9ecab3ab, type: 3}
+  - Key: sprites/objects/seachest
+    Texture: {fileID: 2800000, guid: ed4b9b64785ef864d986906541904a09, type: 3}
+  - Key: sprites/objects/smallchest
+    Texture: {fileID: 2800000, guid: 1ccbef7aada402444a2c2d28b191b03b, type: 3}
+  - Key: sprites/pets/rat
+    Texture: {fileID: 2800000, guid: 0a22ed4edb96b7442805bcda67051cd9, type: 3}
+  - Key: sprites/pets/ratballoon
+    Texture: {fileID: 2800000, guid: 564bef43efbca594fb3cfd50983f78dc, type: 3}
+  - Key: sprites/pets/rathat
+    Texture: {fileID: 2800000, guid: 91e43d1727d4a6b48bfcba646814730b, type: 3}
+  - Key: sprites/player/base
+    Texture: {fileID: 2800000, guid: 327c689cba5b650488cccabfdefd3681, type: 3}
+  - Key: sprites/player/base_48x48
+    Texture: {fileID: 2800000, guid: faf22efcc0b66db409b9b47462b09beb, type: 3}
+  - Key: sprites/player/cape/wings
+    Texture: {fileID: 2800000, guid: ba71b425e0859f04bb9844480c54d426, type: 3}
+  - Key: sprites/player/cape/wingsdark
+    Texture: {fileID: 2800000, guid: 111b3920610591749aaa191b41f988f5, type: 3}
+  - Key: sprites/player/chestplate/amethystchestplate
+    Texture: {fileID: 2800000, guid: 93ff29cbfbf06264c94d5964ce38e501, type: 3}
+  - Key: sprites/player/chestplate/bluemysticchest
+    Texture: {fileID: 2800000, guid: 38b52580355e49a43baba9618ebd41b4, type: 3}
+  - Key: sprites/player/chestplate/bronzechestplate
+    Texture: {fileID: 2800000, guid: e68efc53eea80ba4598faa52314e0973, type: 3}
+  - Key: sprites/player/chestplate/cobaltchestplate
+    Texture: {fileID: 2800000, guid: 6887b83847f04234291170256156b175, type: 3}
+  - Key: sprites/player/chestplate/conquerorchestplate
+    Texture: {fileID: 2800000, guid: cf91a2260c269ce46b49ba2be57694e1, type: 3}
+  - Key: sprites/player/chestplate/copperchestplate
+    Texture: {fileID: 2800000, guid: f9ef17a928bde794b90edeecc44c1c29, type: 3}
+  - Key: sprites/player/chestplate/goldchestplate
+    Texture: {fileID: 2800000, guid: c33c4815fb41202469f30151814271d1, type: 3}
+  - Key: sprites/player/chestplate/greenmysticchest
+    Texture: {fileID: 2800000, guid: 74bdf2096d69f6a47af4381fa2d627e6, type: 3}
+  - Key: sprites/player/chestplate/hellkeeperchestplate
+    Texture: {fileID: 2800000, guid: a7d9717048852c143be4319e8cd5afdc, type: 3}
+  - Key: sprites/player/chestplate/ironchestplate
+    Texture: {fileID: 2800000, guid: f55a01c454a355f49b7aeea1d5b3963f, type: 3}
+  - Key: sprites/player/chestplate/knightchestplate
+    Texture: {fileID: 2800000, guid: 8f0f19a18463a4c4da68671bd828d9d4, type: 3}
+  - Key: sprites/player/chestplate/leatherchest
+    Texture: {fileID: 2800000, guid: 2e996edce6cd0304fb24382bc8dd43a0, type: 3}
+  - Key: sprites/player/chestplate/midnightamethystchestplate
+    Texture: {fileID: 2800000, guid: 089f9c203113a514399145b111b8f8c4, type: 3}
+  - Key: sprites/player/chestplate/minitauruschest
+    Texture: {fileID: 2800000, guid: fcab5879e0e3306458912cb8d6aeeaf4, type: 3}
+  - Key: sprites/player/chestplate/mysticchest
+    Texture: {fileID: 2800000, guid: 859c60b1edf318540baf839fc36d3f2d, type: 3}
+  - Key: sprites/player/chestplate/nightchestplate
+    Texture: {fileID: 2800000, guid: 2a53220c9245f6b45a5724b3f1cb3cdd, type: 3}
+  - Key: sprites/player/chestplate/paladinchestplate
+    Texture: {fileID: 2800000, guid: 4df75e63cd568af43bd773464356ac81, type: 3}
+  - Key: sprites/player/chestplate/refinedsapphirechestplate
+    Texture: {fileID: 2800000, guid: be0c83f878fb5bd4485bffefbb6bdf3a, type: 3}
+  - Key: sprites/player/chestplate/rubychestplate
+    Texture: {fileID: 2800000, guid: 025b8f4a3954d16428680373e5dcf45c, type: 3}
+  - Key: sprites/player/chestplate/samuraichestplate
+    Texture: {fileID: 2800000, guid: d34be475567d75747a0739769fa3b4be, type: 3}
+  - Key: sprites/player/chestplate/sapphirechestplate
+    Texture: {fileID: 2800000, guid: 9b88779704d027941a4a665d3f73c1ea, type: 3}
+  - Key: sprites/player/chestplate/scarabchest
+    Texture: {fileID: 2800000, guid: bbb1a015bd1532446bb77549732d7782, type: 3}
+  - Key: sprites/player/chestplate/sentinelchestplate
+    Texture: {fileID: 2800000, guid: 437c25689005f694ca56559d4e84c41a, type: 3}
+  - Key: sprites/player/chestplate/tinchestplate
+    Texture: {fileID: 2800000, guid: 01e8225ff33a760439f6f3e567b1ab9e, type: 3}
+  - Key: sprites/player/helmet/amethysthelm
+    Texture: {fileID: 2800000, guid: 580b055b8c53b9f4ab7988203f132706, type: 3}
+  - Key: sprites/player/helmet/artistcrown
+    Texture: {fileID: 2800000, guid: 2a6583773bce59745a942754420acc9c, type: 3}
+  - Key: sprites/player/helmet/bearhelm
+    Texture: {fileID: 2800000, guid: 35447dfbb93c43c4ab480729734acc90, type: 3}
+  - Key: sprites/player/helmet/bronzehelmet
+    Texture: {fileID: 2800000, guid: c9f65ee543fb09d4c96eda7c456d536c, type: 3}
+  - Key: sprites/player/helmet/cobalthelmet
+    Texture: {fileID: 2800000, guid: 2afb33bc9d346d54d9c6bef10cabd48a, type: 3}
+  - Key: sprites/player/helmet/conquerorhelmet
+    Texture: {fileID: 2800000, guid: 3402de68aaf86424c8abde753eb7f852, type: 3}
+  - Key: sprites/player/helmet/copperhelmet
+    Texture: {fileID: 2800000, guid: cb7014e5d35bce34e8fc10cd91052354, type: 3}
+  - Key: sprites/player/helmet/crystalhood
+    Texture: {fileID: 2800000, guid: 0b8fcb7495a3dd54d94e8244a323f8a4, type: 3}
+  - Key: sprites/player/helmet/darkmagehood
+    Texture: {fileID: 2800000, guid: 780034bc9b596b7498c70293cc078edb, type: 3}
+  - Key: sprites/player/helmet/darkmagehoodblue
+    Texture: {fileID: 2800000, guid: 517eb1979c30aec40842306647a480dd, type: 3}
+  - Key: sprites/player/helmet/darkmagehoodgold
+    Texture: {fileID: 2800000, guid: 400de7494ca42f54a8cd2f9ae6c99e5d, type: 3}
+  - Key: sprites/player/helmet/darkmagehoodgreen
+    Texture: {fileID: 2800000, guid: b468cdd491e37a040aa79a37360152a2, type: 3}
+  - Key: sprites/player/helmet/darkskeletonhelm
+    Texture: {fileID: 2800000, guid: 340f314de89994046a529ff364a54cb3, type: 3}
+  - Key: sprites/player/helmet/demoniccrystalhood
+    Texture: {fileID: 2800000, guid: 9c5828f6427c82743ac6f582791c2105, type: 3}
+  - Key: sprites/player/helmet/demonichelm
+    Texture: {fileID: 2800000, guid: 7fc40939f8f5e27459d58f0751e2c834, type: 3}
+  - Key: sprites/player/helmet/elfhelmet
+    Texture: {fileID: 2800000, guid: 1e66e1924eb0e0a45a927a55cc0d6a9a, type: 3}
+  - Key: sprites/player/helmet/elfhelmetgrown
+    Texture: {fileID: 2800000, guid: f608a69df1b6f034b952d0c3e88fab6b, type: 3}
+  - Key: sprites/player/helmet/fishbowl
+    Texture: {fileID: 2800000, guid: d4d53df17b9942945b87184e5fd80a1f, type: 3}
+  - Key: sprites/player/helmet/flameblackhelmet
+    Texture: {fileID: 2800000, guid: 06fa48b35cf5cd944a8f7ee3f9cd88db, type: 3}
+  - Key: sprites/player/helmet/flamebluehelmet
+    Texture: {fileID: 2800000, guid: 74cc69f088eeb8145862a7a1fe956765, type: 3}
+  - Key: sprites/player/helmet/flamecursehelmet
+    Texture: {fileID: 2800000, guid: 9f37b77c7664d7b4894e45b513e3feac, type: 3}
+  - Key: sprites/player/helmet/flamehelmet
+    Texture: {fileID: 2800000, guid: e959ee08d3b74664dbd65e9544028333, type: 3}
+  - Key: sprites/player/helmet/froghelm
+    Texture: {fileID: 2800000, guid: 563692224df109948995c67201056b91, type: 3}
+  - Key: sprites/player/helmet/goldhelmet
+    Texture: {fileID: 2800000, guid: 315cfe4a244836e4ca93468dae598107, type: 3}
+  - Key: sprites/player/helmet/hellkeeperhelm
+    Texture: {fileID: 2800000, guid: f3db7082aeeb6ca4cb67e150ed11d078, type: 3}
+  - Key: sprites/player/helmet/helmofhaste
+    Texture: {fileID: 2800000, guid: 914e9fb24643ae84bbcc4f830f676213, type: 3}
+  - Key: sprites/player/helmet/helmofliberty
+    Texture: {fileID: 2800000, guid: 86560691ce85984409ab4d8d4b59fedd, type: 3}
+  - Key: sprites/player/helmet/ironhelmet
+    Texture: {fileID: 2800000, guid: f5debd2a0a67dd74ea92c8e6cb45602d, type: 3}
+  - Key: sprites/player/helmet/jesterhat
+    Texture: {fileID: 2800000, guid: 49c2ab6c3a4863940a2aa01a332efb7d, type: 3}
+  - Key: sprites/player/helmet/knighthelmet
+    Texture: {fileID: 2800000, guid: a46f3da5ee1e47b47a9ce05228f81217, type: 3}
+  - Key: sprites/player/helmet/leatherhelmet
+    Texture: {fileID: 2800000, guid: 3f5648a12985a714cb0cccbb0bb8fa7c, type: 3}
+  - Key: sprites/player/helmet/magmahelm
+    Texture: {fileID: 2800000, guid: 1517e55c273d5ce4697d5184f1abf7c2, type: 3}
+  - Key: sprites/player/helmet/midnightamethysthelm
+    Texture: {fileID: 2800000, guid: 0249c03b820fcbf4da5b676fcba5a2dd, type: 3}
+  - Key: sprites/player/helmet/minitaurushelmet
+    Texture: {fileID: 2800000, guid: 7a72c0f056aecc243813548f19eeab55, type: 3}
+  - Key: sprites/player/helmet/moonhelm
+    Texture: {fileID: 2800000, guid: 74be950330397f347ad0c147d5e526dd, type: 3}
+  - Key: sprites/player/helmet/mushroomhat
+    Texture: {fileID: 2800000, guid: 7d2b20a583a841549922bb411f512c09, type: 3}
+  - Key: sprites/player/helmet/naturecrystalhood
+    Texture: {fileID: 2800000, guid: f0a0e26c65d33694e815a97cc78c76bd, type: 3}
+  - Key: sprites/player/helmet/nighthelm
+    Texture: {fileID: 2800000, guid: 43c20d455679bc94ba3b5a9f9441528e, type: 3}
+  - Key: sprites/player/helmet/oldmanmask
+    Texture: {fileID: 2800000, guid: d1785e92f929c3e4394b7b193e618826, type: 3}
+  - Key: sprites/player/helmet/paladinhelmet
+    Texture: {fileID: 2800000, guid: f45197967bfd1c54f8d4e1756cf21219, type: 3}
+  - Key: sprites/player/helmet/pilgrimhat
+    Texture: {fileID: 2800000, guid: f1d973dcf2f08424f87a2b78c62ec536, type: 3}
+  - Key: sprites/player/helmet/pilgrimhatpink
+    Texture: {fileID: 2800000, guid: 742d6ad0e3ae03842b2b1956531f754e, type: 3}
+  - Key: sprites/player/helmet/redmoonhelm
+    Texture: {fileID: 2800000, guid: a7c9a26bb87832f45a2d7a46a803caf7, type: 3}
+  - Key: sprites/player/helmet/refinedsapphirehelmet
+    Texture: {fileID: 2800000, guid: c1a97941a6d27c34a8f6bed733da6ab2, type: 3}
+  - Key: sprites/player/helmet/rubyhelm
+    Texture: {fileID: 2800000, guid: 1bebd37da97fba844b15633cf5eb2770, type: 3}
+  - Key: sprites/player/helmet/samuraihelmet
+    Texture: {fileID: 2800000, guid: 78b8acee7ae2beb449c48f1e2dbfc676, type: 3}
+  - Key: sprites/player/helmet/sapphirehelm
+    Texture: {fileID: 2800000, guid: a1a5c3e9b1fae574bba6fe72f3e60331, type: 3}
+  - Key: sprites/player/helmet/scarabhelmet
+    Texture: {fileID: 2800000, guid: 1084da91222cbdb4a8cd32e3e71bfdd3, type: 3}
+  - Key: sprites/player/helmet/scholarshat
+    Texture: {fileID: 2800000, guid: 2d6d512ea7da9964781dcd2f4851d312, type: 3}
+  - Key: sprites/player/helmet/scholarshatblack
+    Texture: {fileID: 2800000, guid: e918fc4818b866a42aa985a6afb13557, type: 3}
+  - Key: sprites/player/helmet/scholarshatgreen
+    Texture: {fileID: 2800000, guid: db574c4cbdeedb842863919533b0bdd4, type: 3}
+  - Key: sprites/player/helmet/scholarshatred
+    Texture: {fileID: 2800000, guid: caccf5c44e0371d4b8b600f9b3d22b2b, type: 3}
+  - Key: sprites/player/helmet/scholarshatyellow
+    Texture: {fileID: 2800000, guid: 921c5f01aed36cd4a96bba61c3dfbcd3, type: 3}
+  - Key: sprites/player/helmet/sentinelhelm
+    Texture: {fileID: 2800000, guid: 6354a2066e20b2647b2ade896f8b2ab7, type: 3}
+  - Key: sprites/player/helmet/skeletonhelm
+    Texture: {fileID: 2800000, guid: 685445abd3b7fc6489f5cb5251cfe4a6, type: 3}
+  - Key: sprites/player/helmet/slimehelmet
+    Texture: {fileID: 2800000, guid: c33e15e51d17c9e46af85ccbf7263c68, type: 3}
+  - Key: sprites/player/helmet/slimekinghelmet
+    Texture: {fileID: 2800000, guid: efc52fbc1e9df614285d29126ef3ecf3, type: 3}
+  - Key: sprites/player/helmet/slimekingrarehelmet
+    Texture: {fileID: 2800000, guid: 7be446772188dc14c836a0cd2d91e4d4, type: 3}
+  - Key: sprites/player/helmet/slimepurplehelmet
+    Texture: {fileID: 2800000, guid: 989d041de00051a4c91c662af4cba34a, type: 3}
+  - Key: sprites/player/helmet/slimeredhelmet
+    Texture: {fileID: 2800000, guid: 4ada66f40a915c841b8e4f18e8b5632d, type: 3}
+  - Key: sprites/player/helmet/slimetealhelmet
+    Texture: {fileID: 2800000, guid: e1343dd4b92bfd24eb487dc6906226c8, type: 3}
+  - Key: sprites/player/helmet/sunshinecrystalhood
+    Texture: {fileID: 2800000, guid: b16a61a0f74672d4797c4953a57a5296, type: 3}
+  - Key: sprites/player/helmet/tinhelmet
+    Texture: {fileID: 2800000, guid: b402dbdd8563d854798f8e12ed75db7c, type: 3}
+  - Key: sprites/player/helmet/toyhat
+    Texture: {fileID: 2800000, guid: 63cb811dc7801c647b4f809e714581a5, type: 3}
+  - Key: sprites/player/helmet/toyhatprogrammer
+    Texture: {fileID: 2800000, guid: ca713084f03bd7646a6b17e370aaa399, type: 3}
+  - Key: sprites/player/helmet/toyhatwhite
+    Texture: {fileID: 2800000, guid: 8757e8f013f1bdb459aa1dee54fbec23, type: 3}
+  - Key: sprites/player/helmet/witchhat
+    Texture: {fileID: 2800000, guid: 8aade54573ceae7489d1b3ab7208f1a3, type: 3}
+  - Key: sprites/player/helmet/witchhatblue
+    Texture: {fileID: 2800000, guid: e3642b33b70508347a69964b94aa694a, type: 3}
+  - Key: sprites/player/helmet/wizardhatblack
+    Texture: {fileID: 2800000, guid: 9a5af1553d28d744295fa394dd58f522, type: 3}
+  - Key: sprites/player/helmet/wizardhatblue
+    Texture: {fileID: 2800000, guid: d4c29798ddf03ce419111675bed4e3c2, type: 3}
+  - Key: sprites/player/helmet/wizardhatcrimson
+    Texture: {fileID: 2800000, guid: ae1a30f0c37f5e8499da19250499bb4c, type: 3}
+  - Key: sprites/player/helmet/wizardhatdarkblue
+    Texture: {fileID: 2800000, guid: bb49c215086a2c34394f5bf147383ffe, type: 3}
+  - Key: sprites/player/helmet/wizardhatgreen
+    Texture: {fileID: 2800000, guid: a7d9e62ddd0173e4eb0e25ae7221ca64, type: 3}
+  - Key: sprites/player/helmet/wizardhatpink
+    Texture: {fileID: 2800000, guid: 3fa10fd32e9145749a190fe1c5267f94, type: 3}
+  - Key: sprites/player/helmet/wizardhatpurple
+    Texture: {fileID: 2800000, guid: 4a59f674170c0bc4b93b6b5e451e5f5f, type: 3}
+  - Key: sprites/player/helmet/wizardhatred
+    Texture: {fileID: 2800000, guid: 4e75441ddb3d9bb4991fb51f0d89dd8d, type: 3}
+  - Key: sprites/player/helmet/wizardhatturquoise
+    Texture: {fileID: 2800000, guid: 631243942b65ae14db5dac3c42bdc6fb, type: 3}
+  - Key: sprites/player/helmet/wizardhatwhite
+    Texture: {fileID: 2800000, guid: 1349dc91459b66a40a4164ea6c47c0cd, type: 3}
+  - Key: sprites/player/helmet/wizardhatyellow
+    Texture: {fileID: 2800000, guid: d6a8855e3782f0e4b933bdba0572659f, type: 3}
+  - Key: sprites/player/helmet/wolfhelmet
+    Texture: {fileID: 2800000, guid: 2886505bf116dac41ade108d1b721627, type: 3}
+  - Key: sprites/player/legplates/amethystlegplates
+    Texture: {fileID: 2800000, guid: 7fd5ac77f32d64f4ab935397302862c7, type: 3}
+  - Key: sprites/player/legplates/bronzelegplates
+    Texture: {fileID: 2800000, guid: b893c420070f89c42998e1a1858dbf97, type: 3}
+  - Key: sprites/player/legplates/cobaltlegplates
+    Texture: {fileID: 2800000, guid: 3d714dbed501dca45b8dc5f758719019, type: 3}
+  - Key: sprites/player/legplates/conquerorlegplates
+    Texture: {fileID: 2800000, guid: d0056d364cc673c4ea36894f6af78bfc, type: 3}
+  - Key: sprites/player/legplates/copperlegplates
+    Texture: {fileID: 2800000, guid: d8ce3bb8536c7454fa72badaf026e7c5, type: 3}
+  - Key: sprites/player/legplates/crystallegplates
+    Texture: {fileID: 2800000, guid: 08eb63b075240c340ace36dc9b3ea517, type: 3}
+  - Key: sprites/player/legplates/goldlegplates
+    Texture: {fileID: 2800000, guid: 90590bc37d1610b42b4ee58ac36e597c, type: 3}
+  - Key: sprites/player/legplates/hellkeeperlegplates
+    Texture: {fileID: 2800000, guid: 46c11791093949f4888ee9b21e818106, type: 3}
+  - Key: sprites/player/legplates/ironlegplates
+    Texture: {fileID: 2800000, guid: 24d8c1b20fd57e047a97b487624ef7f3, type: 3}
+  - Key: sprites/player/legplates/knightlegplates
+    Texture: {fileID: 2800000, guid: 5c36a52dc481b6045ab0c9daeb64254d, type: 3}
+  - Key: sprites/player/legplates/leatherleggings
+    Texture: {fileID: 2800000, guid: 61a2571bfd13f0f48aaef96423bf6649, type: 3}
+  - Key: sprites/player/legplates/midnightamethystlegplates
+    Texture: {fileID: 2800000, guid: 133d3cab6662f314ab0259ca3678e138, type: 3}
+  - Key: sprites/player/legplates/minitauruslegplates
+    Texture: {fileID: 2800000, guid: ebf734485c4c1484c84fe4c1994a50c0, type: 3}
+  - Key: sprites/player/legplates/nightlegplates
+    Texture: {fileID: 2800000, guid: 6c766cc9bde247244bfda438d5c16f5e, type: 3}
+  - Key: sprites/player/legplates/paladinlegplates
+    Texture: {fileID: 2800000, guid: daab24fde84a3f846bc772dd8dfbaf9f, type: 3}
+  - Key: sprites/player/legplates/rubylegplates
+    Texture: {fileID: 2800000, guid: ca6f307e728918f4d90896335dba9b07, type: 3}
+  - Key: sprites/player/legplates/samurailegplates
+    Texture: {fileID: 2800000, guid: 1c370e91d3c112942a93030ec9788260, type: 3}
+  - Key: sprites/player/legplates/sapphirelegplates
+    Texture: {fileID: 2800000, guid: 75fe81537c349b34794738a199384693, type: 3}
+  - Key: sprites/player/legplates/scarablegplates
+    Texture: {fileID: 2800000, guid: 65c4e86a8a8ff8d42b8a02b634d7863e, type: 3}
+  - Key: sprites/player/legplates/sentinelchestplate
+    Texture: {fileID: 2800000, guid: 0d3ecc1e08370c0458706e01d4725495, type: 3}
+  - Key: sprites/player/legplates/sentinelegplates
+    Texture: {fileID: 2800000, guid: b530be953b5bcc240be5a916f064c513, type: 3}
+  - Key: sprites/player/legplates/sentinellegplates
+    Texture: {fileID: 2800000, guid: ccb187665b2be0a4a98077282c1cd5dc, type: 3}
+  - Key: sprites/player/legplates/tinlegplates
+    Texture: {fileID: 2800000, guid: a49894b43e291414f8a203281b4b3657, type: 3}
+  - Key: sprites/player/shield/cobaltshield
+    Texture: {fileID: 2800000, guid: aa476c34dfb892d4b8de2683a629438a, type: 3}
+  - Key: sprites/player/shield/coppershield
+    Texture: {fileID: 2800000, guid: 480a2370211200244b96a68a64881ad9, type: 3}
+  - Key: sprites/player/shield/goldshield
+    Texture: {fileID: 2800000, guid: 375272918423d9b48acbd349bd5d09f6, type: 3}
+  - Key: sprites/player/shield/ironroundshield
+    Texture: {fileID: 2800000, guid: 6f8e24ebd694e6444ae88c7b01a710cc, type: 3}
+  - Key: sprites/player/shield/ironshield
+    Texture: {fileID: 2800000, guid: 7c2de56b6c58809489aaa97ed8dc2e4b, type: 3}
+  - Key: sprites/player/shield/lantern
+    Texture: {fileID: 2800000, guid: c79de5a724bc66349956b1fc4ea543a2, type: 3}
+  - Key: sprites/player/shield/lantern2
+    Texture: {fileID: 2800000, guid: 051a921095845794a885ee194d4b80bf, type: 3}
+  - Key: sprites/player/shield/lanternarcan
+    Texture: {fileID: 2800000, guid: b3c9caa535557404d96667bdf9d1567c, type: 3}
+  - Key: sprites/player/shield/shieldofglory
+    Texture: {fileID: 2800000, guid: f61065ebf2bf32f439332737b96df047, type: 3}
+  - Key: sprites/player/shield/shieldofliberty
+    Texture: {fileID: 2800000, guid: becdc883dc257734eb281615c85ef7a0, type: 3}
+  - Key: sprites/player/shield/tinshield
+    Texture: {fileID: 2800000, guid: 39ca54fee1326794cbdb112c39c5813c, type: 3}
+  - Key: sprites/player/shield/woodenshield
+    Texture: {fileID: 2800000, guid: 5c4c20a88b9573441a732ab1ded56376, type: 3}
+  - Key: sprites/player/skin/danbo
+    Texture: {fileID: 2800000, guid: dcc1888077860ad4eb04098ecea38b56, type: 3}
+  - Key: sprites/player/skin/danboblue
+    Texture: {fileID: 2800000, guid: 7d56278fa97adf74a95b6154d8dc6785, type: 3}
+  - Key: sprites/player/skin/danbogreen
+    Texture: {fileID: 2800000, guid: c27b7a810d0c7ff4fb3be8355afe322f, type: 3}
+  - Key: sprites/player/skin/danbored
+    Texture: {fileID: 2800000, guid: 5a2c35267e45bf543a3e3422504be66b, type: 3}
+  - Key: sprites/player/skin/darkskeletonskin
+    Texture: {fileID: 2800000, guid: e8f0a53d8b3b3b145b0be140b9e5ae5e, type: 3}
+  - Key: sprites/player/skin/oldmanskin
+    Texture: {fileID: 2800000, guid: 4b348412ee444be42867f38e89297190, type: 3}
+  - Key: sprites/player/skin/skeletonskin
+    Texture: {fileID: 2800000, guid: a38f0422ddbd69242bc6b325b6ea5a7a, type: 3}
+  - Key: sprites/player/skin/taekwondo
+    Texture: {fileID: 2800000, guid: 46bc346e362bdf94b839aa16cfc7a982, type: 3}
+  - Key: sprites/player/weapon/adamantitesworth
+    Texture: {fileID: 2800000, guid: 71e9f9ecd344f4b49aa0b1fa705129c7, type: 3}
+  - Key: sprites/player/weapon/adeptsrapier
+    Texture: {fileID: 2800000, guid: 388243c30617e4d449e58f61f43984dd, type: 3}
+  - Key: sprites/player/weapon/alchemistalimony
+    Texture: {fileID: 2800000, guid: 2fd374c71bbd136448853968d8241673, type: 3}
+  - Key: sprites/player/weapon/ancientshovel
+    Texture: {fileID: 2800000, guid: 111488d9df18d4e40bbca1b1366ef3d7, type: 3}
+  - Key: sprites/player/weapon/ancientstaff
+    Texture: {fileID: 2800000, guid: 26cf0cc5d58de74469ac7dfc1d06e25b, type: 3}
+  - Key: sprites/player/weapon/angelicblade
+    Texture: {fileID: 2800000, guid: be717d341c9d91f499ec03caabfc4ada, type: 3}
+  - Key: sprites/player/weapon/aquastaff
+    Texture: {fileID: 2800000, guid: be79a154c64770245ae5573ae096569c, type: 3}
+  - Key: sprites/player/weapon/balloonblue
+    Texture: {fileID: 2800000, guid: d23af786c92d8c342bd32f46df7b69a1, type: 3}
+  - Key: sprites/player/weapon/balloongreen
+    Texture: {fileID: 2800000, guid: 6f4fb1c695f766047ba229a96f061853, type: 3}
+  - Key: sprites/player/weapon/balloonpink
+    Texture: {fileID: 2800000, guid: eafaec96e37a8ea489a66ea3b2aa0d2d, type: 3}
+  - Key: sprites/player/weapon/balloonturquoise
+    Texture: {fileID: 2800000, guid: 9820dbe30194cc142b31fc294348051e, type: 3}
+  - Key: sprites/player/weapon/balloonwhite
+    Texture: {fileID: 2800000, guid: e4b8c27f330e19a4c83dab6615118e49, type: 3}
+  - Key: sprites/player/weapon/balloonyellow
+    Texture: {fileID: 2800000, guid: 86367bfe5f7ea024a9e61a5257358ab9, type: 3}
+  - Key: sprites/player/weapon/berserkerssanity
+    Texture: {fileID: 2800000, guid: 89e8e99a5317e64419badd4946d531e1, type: 3}
+  - Key: sprites/player/weapon/bident
+    Texture: {fileID: 2800000, guid: 8a9aafe4866295142aa404cf2c29d741, type: 3}
+  - Key: sprites/player/weapon/bladeofdarkness
+    Texture: {fileID: 2800000, guid: 5f2445177119bb4478a7c7439763c861, type: 3}
+  - Key: sprites/player/weapon/bloodmoonstaff
+    Texture: {fileID: 2800000, guid: 1b0d860685683cb4390cdb650d99e367, type: 3}
+  - Key: sprites/player/weapon/bluelightsaber
+    Texture: {fileID: 2800000, guid: 73f0d75ca95498c4da4db0b08e09f980, type: 3}
+  - Key: sprites/player/weapon/bluemoonstaff
+    Texture: {fileID: 2800000, guid: 7445f76fdbe688f4a8ee5ab2ac2c4b9c, type: 3}
+  - Key: sprites/player/weapon/bonebonker
+    Texture: {fileID: 2800000, guid: 5f60178decdb1374bb7c948aa3f3e912, type: 3}
+  - Key: sprites/player/weapon/bonepickaxe
+    Texture: {fileID: 2800000, guid: 9fc6e76a392ec4342ba56521bf9b49a6, type: 3}
+  - Key: sprites/player/weapon/bowbamboo
+    Texture: {fileID: 2800000, guid: 146ea3524b239a9488194f8ed32f8d62, type: 3}
+  - Key: sprites/player/weapon/bowdeuteranom
+    Texture: {fileID: 2800000, guid: 455a8fd367158814c824e57ae17e4d1e, type: 3}
+  - Key: sprites/player/weapon/boweggplant
+    Texture: {fileID: 2800000, guid: 2337e7c9381b032439645a09be763013, type: 3}
+  - Key: sprites/player/weapon/bowfleshflinger
+    Texture: {fileID: 2800000, guid: 0bc3afdab2e12f74ea7d0da8117a3d4a, type: 3}
+  - Key: sprites/player/weapon/bowiceicemaybe
+    Texture: {fileID: 2800000, guid: 9866b752d3cabbf44a547f991c5a27ee, type: 3}
+  - Key: sprites/player/weapon/bowillmuscal
+    Texture: {fileID: 2800000, guid: 3abf72a9e0b8b8043b4b2900e38276e3, type: 3}
+  - Key: sprites/player/weapon/bowkelpysburden
+    Texture: {fileID: 2800000, guid: a6769e3c092e7dc48a881c1a2b35b232, type: 3}
+  - Key: sprites/player/weapon/bowmagiccool
+    Texture: {fileID: 2800000, guid: fb852fe4a92f8e445b0b3802b1e84dfb, type: 3}
+  - Key: sprites/player/weapon/bowmagichot
+    Texture: {fileID: 2800000, guid: 30a9113a5d321224c9bc15a41e097253, type: 3}
+  - Key: sprites/player/weapon/bowmoon
+    Texture: {fileID: 2800000, guid: 726e88b9d8b5e5343bb11a1244c2b311, type: 3}
+  - Key: sprites/player/weapon/bowocean
+    Texture: {fileID: 2800000, guid: dde6a02e2cbfc3a49b920def88ec4ddd, type: 3}
+  - Key: sprites/player/weapon/bowpine
+    Texture: {fileID: 2800000, guid: 1852d99cf8dcb034484514a1b7f1626e, type: 3}
+  - Key: sprites/player/weapon/bowsky
+    Texture: {fileID: 2800000, guid: f3ffd316efba0954e956e90fa7dc0d5b, type: 3}
+  - Key: sprites/player/weapon/bowsun
+    Texture: {fileID: 2800000, guid: 0c459eb287a433849a2b43c66b4f4ace, type: 3}
+  - Key: sprites/player/weapon/bowswineslayer
+    Texture: {fileID: 2800000, guid: 495703ac06a084c48aebdbe74eb73c74, type: 3}
+  - Key: sprites/player/weapon/bowwillowtwine
+    Texture: {fileID: 2800000, guid: cd599cf2d9c02e44f8e8c0efed19d48b, type: 3}
+  - Key: sprites/player/weapon/bronzeaxe
+    Texture: {fileID: 2800000, guid: 54415d7b1b700df4580b8e638a5e916f, type: 3}
+  - Key: sprites/player/weapon/bronzebattleaxe
+    Texture: {fileID: 2800000, guid: 063aee3c72ac84243ad9d00c8e1422af, type: 3}
+  - Key: sprites/player/weapon/bronzepickaxe
+    Texture: {fileID: 2800000, guid: b72366e50607cd54b9e151376430e26b, type: 3}
+  - Key: sprites/player/weapon/bronzescythe
+    Texture: {fileID: 2800000, guid: 5155caa6ca0b4df4280238590c837e83, type: 3}
+  - Key: sprites/player/weapon/bronzespear
+    Texture: {fileID: 2800000, guid: 5bb0bbb2a6f49714192af5f98ec7f39b, type: 3}
+  - Key: sprites/player/weapon/bronzesword
+    Texture: {fileID: 2800000, guid: ca6a6ba7a56b3144dace1586a137c429, type: 3}
+  - Key: sprites/player/weapon/brutishblade
+    Texture: {fileID: 2800000, guid: a78244c5fb217c64d9f38e0cadf3ee71, type: 3}
+  - Key: sprites/player/weapon/cellobello
+    Texture: {fileID: 2800000, guid: 3143cc6ea18501e4a8e745b0505b86e4, type: 3}
+  - Key: sprites/player/weapon/cinnabarsword
+    Texture: {fileID: 2800000, guid: e90a0e44af7870c4898bf46d3b00b910, type: 3}
+  - Key: sprites/player/weapon/club
+    Texture: {fileID: 2800000, guid: babdde1b17162c448a73675ed189de1d, type: 3}
+  - Key: sprites/player/weapon/cobaltaxe
+    Texture: {fileID: 2800000, guid: 9031949de3b3e424d9919ddb51ad678d, type: 3}
+  - Key: sprites/player/weapon/cobaltbattleaxe
+    Texture: {fileID: 2800000, guid: b96b53aba515afe49be867915cf5c034, type: 3}
+  - Key: sprites/player/weapon/cobaltpickaxe
+    Texture: {fileID: 2800000, guid: ce6d99f7bf0f0bb49bac2c3465710efa, type: 3}
+  - Key: sprites/player/weapon/cobaltscythe
+    Texture: {fileID: 2800000, guid: 6d47373bac1871745851ef821ade1218, type: 3}
+  - Key: sprites/player/weapon/cobaltspear
+    Texture: {fileID: 2800000, guid: 3d424e9a356ae7b4ebc591ef2c1a10a6, type: 3}
+  - Key: sprites/player/weapon/coppersword
+    Texture: {fileID: 2800000, guid: 08a8b349cce2a5b4580a3fe7bc99fc24, type: 3}
+  - Key: sprites/player/weapon/cursedbattleaxe
+    Texture: {fileID: 2800000, guid: fdf0f796a1208aa48a7b76e5719c09fc, type: 3}
+  - Key: sprites/player/weapon/cursedpickaxe
+    Texture: {fileID: 2800000, guid: ec8069ffa8ccdd049874007e6d2520a6, type: 3}
+  - Key: sprites/player/weapon/cursedsapphirepickaxe
+    Texture: {fileID: 2800000, guid: 58765650f6e05464ca8019b8d96797e4, type: 3}
+  - Key: sprites/player/weapon/cursestaff
+    Texture: {fileID: 2800000, guid: db7596b971278484295a5931e16e17e2, type: 3}
+  - Key: sprites/player/weapon/demonicstaff
+    Texture: {fileID: 2800000, guid: fabe90c602f62bf40ad8da9d2789591a, type: 3}
+  - Key: sprites/player/weapon/dragonscale
+    Texture: {fileID: 2800000, guid: 97e79eed2111c0847bba4687ab91ecd1, type: 3}
+  - Key: sprites/player/weapon/etherialblade
+    Texture: {fileID: 2800000, guid: 807554bfbaacb7242a81309a95cabdcf, type: 3}
+  - Key: sprites/player/weapon/executionershammer
+    Texture: {fileID: 2800000, guid: 062a9cf35f90bee4cae50b6396e257aa, type: 3}
+  - Key: sprites/player/weapon/eyesword
+    Texture: {fileID: 2800000, guid: d8e9f773d9d1d004bb218043821aa2ff, type: 3}
+  - Key: sprites/player/weapon/firestaff
+    Texture: {fileID: 2800000, guid: 67902938924656e4487297a91b932878, type: 3}
+  - Key: sprites/player/weapon/firesword
+    Texture: {fileID: 2800000, guid: ef3f6d31f5707604584806f3f3f0a4c6, type: 3}
+  - Key: sprites/player/weapon/fishingpole
+    Texture: {fileID: 2800000, guid: 64c333ef5a0cdb544bca0b46031be6c0, type: 3}
+  - Key: sprites/player/weapon/goldaxe
+    Texture: {fileID: 2800000, guid: 7818cec716a1d604799cad981e6adb00, type: 3}
+  - Key: sprites/player/weapon/goldbattleaxe
+    Texture: {fileID: 2800000, guid: fd2675c6a011ac942b6e3f651ae58828, type: 3}
+  - Key: sprites/player/weapon/goldgolemsmace
+    Texture: {fileID: 2800000, guid: c9640db0c8eeda94d96aea67faae3960, type: 3}
+  - Key: sprites/player/weapon/goldpickaxe
+    Texture: {fileID: 2800000, guid: 10da51333785df44eadd3e4e425407e2, type: 3}
+  - Key: sprites/player/weapon/goldscythe
+    Texture: {fileID: 2800000, guid: c61fc0700f3a2554dbe4a5e4e62761d2, type: 3}
+  - Key: sprites/player/weapon/goldspear
+    Texture: {fileID: 2800000, guid: d8d34f0d92f73eb4182f3dabf023b4de, type: 3}
+  - Key: sprites/player/weapon/goldsword
+    Texture: {fileID: 2800000, guid: 923793ddf65b4474093801daedca6ad6, type: 3}
+  - Key: sprites/player/weapon/golemsmace
+    Texture: {fileID: 2800000, guid: 7c0a580f1fe477c4db54f6d0a29c88e9, type: 3}
+  - Key: sprites/player/weapon/greenlightsaber
+    Texture: {fileID: 2800000, guid: 875c6412d5f04f04b93e805fb8f3eec3, type: 3}
+  - Key: sprites/player/weapon/gun
+    Texture: {fileID: 2800000, guid: af931182328ee074dbae175dc3a476f3, type: 3}
+  - Key: sprites/player/weapon/heavyberylpickaxe
+    Texture: {fileID: 2800000, guid: 224040b2f721a7b4fadbd0678c419446, type: 3}
+  - Key: sprites/player/weapon/hellhoundfang
+    Texture: {fileID: 2800000, guid: b50705de9009af6408fb79cf3efc22b4, type: 3}
+  - Key: sprites/player/weapon/hellsword
+    Texture: {fileID: 2800000, guid: b57283d7c2b4ae54d85c76892ec1ff85, type: 3}
+  - Key: sprites/player/weapon/ibosword
+    Texture: {fileID: 2800000, guid: 23e38dadaaebde14a9f1ba2898d024ae, type: 3}
+  - Key: sprites/player/weapon/icesword
+    Texture: {fileID: 2800000, guid: ed812bf6d11c4ff43853c67b4fc28fa5, type: 3}
+  - Key: sprites/player/weapon/ironaxe
+    Texture: {fileID: 2800000, guid: 3da9571ef5efcd44fada9e8d6a696f5d, type: 3}
+  - Key: sprites/player/weapon/ironbattleaxe
+    Texture: {fileID: 2800000, guid: 8339899b1c6320f4e93dd88fefcf03ba, type: 3}
+  - Key: sprites/player/weapon/ironpickaxe
+    Texture: {fileID: 2800000, guid: b71f5abbd49d45746981ca0c616c3797, type: 3}
+  - Key: sprites/player/weapon/ironscythe
+    Texture: {fileID: 2800000, guid: 7ab0d767026fcd945afb032e7f9baeb1, type: 3}
+  - Key: sprites/player/weapon/ironspear
+    Texture: {fileID: 2800000, guid: d34bd29d05bc89148944623b8c7e8940, type: 3}
+  - Key: sprites/player/weapon/ironsword
+    Texture: {fileID: 2800000, guid: a5dc3f4668a25f84eaee0b8fec0fbea0, type: 3}
+  - Key: sprites/player/weapon/lightningstaff
+    Texture: {fileID: 2800000, guid: e261a20df61664245af39e03118fed1e, type: 3}
+  - Key: sprites/player/weapon/lolipop
+    Texture: {fileID: 2800000, guid: 32858eb34c3fcb84da0a521c07a4d2aa, type: 3}
+  - Key: sprites/player/weapon/magichamberge
+    Texture: {fileID: 2800000, guid: 9777dbc8b72e31642890ddf09b5e5b3b, type: 3}
+  - Key: sprites/player/weapon/moongreataxe
+    Texture: {fileID: 2800000, guid: 2c333214a30d08b42b1bc3f712e5663a, type: 3}
+  - Key: sprites/player/weapon/naturestaff
+    Texture: {fileID: 2800000, guid: 62a31d2ab17a6184c9627c745d3fbfe8, type: 3}
+  - Key: sprites/player/weapon/nightsword
+    Texture: {fileID: 2800000, guid: 1600dd7f0d2551d4f92ca3f10deb39f3, type: 3}
+  - Key: sprites/player/weapon/nisocsword
+    Texture: {fileID: 2800000, guid: 82b6d581bc8d78b479ffa8ab649e7831, type: 3}
+  - Key: sprites/player/weapon/oldonesblade
+    Texture: {fileID: 2800000, guid: 7c51d356844c82e4bbb13cd812c4fffe, type: 3}
+  - Key: sprites/player/weapon/peddlepounder
+    Texture: {fileID: 2800000, guid: e55e78b549df2c84aaf9c4c379bbd838, type: 3}
+  - Key: sprites/player/weapon/pinklightsaber
+    Texture: {fileID: 2800000, guid: c67a3e9240861f64c8d4bf525a6cae5d, type: 3}
+  - Key: sprites/player/weapon/pytharsword
+    Texture: {fileID: 2800000, guid: 339105e634bfb4e42ab61dcfcd145f33, type: 3}
+  - Key: sprites/player/weapon/redlightsaber
+    Texture: {fileID: 2800000, guid: d59bd763d7630af4597439539faefe05, type: 3}
+  - Key: sprites/player/weapon/royalrapier
+    Texture: {fileID: 2800000, guid: 9ac193715865aff4e8fe2c177158acb6, type: 3}
+  - Key: sprites/player/weapon/scimitar
+    Texture: {fileID: 2800000, guid: dc93ba0febe3ff7449b1b94103a85e96, type: 3}
+  - Key: sprites/player/weapon/sentinelsword
+    Texture: {fileID: 2800000, guid: 69bf795ad348d9a44933640a3bb627e0, type: 3}
+  - Key: sprites/player/weapon/smithshammer
+    Texture: {fileID: 2800000, guid: 07d048c7e76c8ca40a6292f8b736e5f2, type: 3}
+  - Key: sprites/player/weapon/spoon
+    Texture: {fileID: 2800000, guid: 1ace38189e9ae744c9cdb446bc66fcf5, type: 3}
+  - Key: sprites/player/weapon/sunrisegreataxe
+    Texture: {fileID: 2800000, guid: 4b016d074e87692488bc8c079e0c441f, type: 3}
+  - Key: sprites/player/weapon/sunshinestaff
+    Texture: {fileID: 2800000, guid: 932dde54c6fc6c54283f1c8491efcbb1, type: 3}
+  - Key: sprites/player/weapon/swashbuckler
+    Texture: {fileID: 2800000, guid: 10554ff60490cec43a4b88f48b93fd47, type: 3}
+  - Key: sprites/player/weapon/swordofliberty
+    Texture: {fileID: 2800000, guid: a21cdba7e4eb0ac4fa2337aefcd070bc, type: 3}
+  - Key: sprites/player/weapon/sycophant
+    Texture: {fileID: 2800000, guid: 58f4cc23f11cc6641a132e31309d6ae5, type: 3}
+  - Key: sprites/player/weapon/timelessglaive
+    Texture: {fileID: 2800000, guid: 9d077b90a8a43e441b9061ba6b0540bb, type: 3}
+  - Key: sprites/player/weapon/tinsword
+    Texture: {fileID: 2800000, guid: bd5cdf9df8aee6d408ccc0da27b3c4cf, type: 3}
+  - Key: sprites/player/weapon/twilightgreataxe
+    Texture: {fileID: 2800000, guid: 9c1c16a9fcf8c954db7f9cc1bfa7cff0, type: 3}
+  - Key: sprites/player/weapon/witchsstaffancient
+    Texture: {fileID: 2800000, guid: 6b330a0ba52d15b429d3d52a40a0bd1c, type: 3}
+  - Key: sprites/player/weapon/witchsstaffblood
+    Texture: {fileID: 2800000, guid: 8dc17350a4c26be4ca42714388ee6977, type: 3}
+  - Key: sprites/player/weapon/witchsstaffdemonic
+    Texture: {fileID: 2800000, guid: bc222a3facb8fe04e92d05ccccb6f4a3, type: 3}
+  - Key: sprites/player/weapon/witchsstaffmoon
+    Texture: {fileID: 2800000, guid: 3b18e85612fdc8c4baf1b468239921ab, type: 3}
+  - Key: sprites/player/weapon/witchsstaffsunshine
+    Texture: {fileID: 2800000, guid: d6c9ba7efb54fc64680b23ca3cb3d29b, type: 3}
+  - Key: sprites/player/weapon/woodenbow
+    Texture: {fileID: 2800000, guid: db8a86243cea82640b5600ec97f73f12, type: 3}
+  - Key: sprites/player/weapon/zweipiercer
+    Texture: {fileID: 2800000, guid: 69f702de730b09b409b0997ec44e568c, type: 3}
+  - Key: sprites/projectiles/arrow
+    Texture: {fileID: 2800000, guid: 087202dcac121464db8f3baaf8fbaf1e, type: 3}
+  - Key: sprites/projectiles/bloodball
+    Texture: {fileID: 2800000, guid: 090e0fc62f63fe64bbd909b5f1755455, type: 3}
+  - Key: sprites/projectiles/bluelightning
+    Texture: {fileID: 2800000, guid: 117ea9d42bfc980469d6826e95ed1076, type: 3}
+  - Key: sprites/projectiles/boulder
+    Texture: {fileID: 2800000, guid: f4f24964fe779f4458b420228b204f89, type: 3}
+  - Key: sprites/projectiles/cinnabararrow
+    Texture: {fileID: 2800000, guid: 3680ef18e4c367244a03a0c4b0c82bb8, type: 3}
+  - Key: sprites/projectiles/firearc
+    Texture: {fileID: 2800000, guid: fc993cd50f693a24fad2c71d75dce088, type: 3}
+  - Key: sprites/projectiles/firearrow
+    Texture: {fileID: 2800000, guid: e6402a52cada22d4cb96f18e53537418, type: 3}
+  - Key: sprites/projectiles/fireball
+    Texture: {fileID: 2800000, guid: 4233586b6361fce4c9a4ace412429fe4, type: 3}
+  - Key: sprites/projectiles/fireball2
+    Texture: {fileID: 2800000, guid: 535e86f4197a62f4f8c38ac445c4a4e9, type: 3}
+  - Key: sprites/projectiles/gift
+    Texture: {fileID: 2800000, guid: 428dfa61ed5395145bdc4423fa902d8c, type: 3}
+  - Key: sprites/projectiles/gift2
+    Texture: {fileID: 2800000, guid: 1569e439b13499342b678a26e047b0a1, type: 3}
+  - Key: sprites/projectiles/gift3
+    Texture: {fileID: 2800000, guid: aea7965202324724287662a7d4a093ee, type: 3}
+  - Key: sprites/projectiles/gift4
+    Texture: {fileID: 2800000, guid: 96902d644c8a95546a3749aee55289fc, type: 3}
+  - Key: sprites/projectiles/gift5
+    Texture: {fileID: 2800000, guid: e632f4c56736d454591dab02d0511f03, type: 3}
+  - Key: sprites/projectiles/gift6
+    Texture: {fileID: 2800000, guid: 2d8b298b8628658478a50f389a08eda2, type: 3}
+  - Key: sprites/projectiles/greenbolt
+    Texture: {fileID: 2800000, guid: 14548976102608b4cb9dfe2a7a441164, type: 3}
+  - Key: sprites/projectiles/iboarrow
+    Texture: {fileID: 2800000, guid: 0f42f1f1011e2a4469bfd8632dd40301, type: 3}
+  - Key: sprites/projectiles/icearrow
+    Texture: {fileID: 2800000, guid: 708b8a7466bdfba43b02a7f6029bf698, type: 3}
+  - Key: sprites/projectiles/iceball
+    Texture: {fileID: 2800000, guid: 05f9354d6a90d0f4280f8c17b1905f74, type: 3}
+  - Key: sprites/projectiles/lightningarc
+    Texture: {fileID: 2800000, guid: 79963eacba8b25446b33dd71a8d19d98, type: 3}
+  - Key: sprites/projectiles/lightningarrow
+    Texture: {fileID: 2800000, guid: d0bd65fa7366df340940d31f92ae3d48, type: 3}
+  - Key: sprites/projectiles/nisocarrow
+    Texture: {fileID: 2800000, guid: bf691f52bed0e594d9d12f75e8d1bcb0, type: 3}
+  - Key: sprites/projectiles/none
+    Texture: {fileID: 2800000, guid: e5e190656ba82314e8cf5c1083e8b4f2, type: 3}
+  - Key: sprites/projectiles/pinearrow
+    Texture: {fileID: 2800000, guid: 68e72c923e6819a40ba4e2c30dc0f4fd, type: 3}
+  - Key: sprites/projectiles/poisonarrow
+    Texture: {fileID: 2800000, guid: f344ae9e45d03894887b2428455eefaf, type: 3}
+  - Key: sprites/projectiles/poisonball
+    Texture: {fileID: 2800000, guid: db4ba772245b2a74db633d218edc0e4a, type: 3}
+  - Key: sprites/projectiles/purplebolt
+    Texture: {fileID: 2800000, guid: 54a73cb830c6e6444ada034c8d8c47e6, type: 3}
+  - Key: sprites/projectiles/pythararrow
+    Texture: {fileID: 2800000, guid: bd5f0a5556e137642846be43cf341a95, type: 3}
+  - Key: sprites/projectiles/redlightning
+    Texture: {fileID: 2800000, guid: 64ef0686642a7144bb3f89156dcac5a8, type: 3}
+  - Key: sprites/projectiles/shadowarc
+    Texture: {fileID: 2800000, guid: 61a51155025014142a486062ccad4a9b, type: 3}
+  - Key: sprites/projectiles/terror
+    Texture: {fileID: 2800000, guid: 9bb3082a1aee8d04dbc7b6c611cb6289, type: 3}
+  - Key: sprites/projectiles/tornado
+    Texture: {fileID: 2800000, guid: 866d750e0a35dd1439803ce03fa4ed10, type: 3}
+  - Key: sprites/projectiles/yellowlightning
+    Texture: {fileID: 2800000, guid: 30c5d6fbbe2e6dd4aa0b08aaa863a336, type: 3}
+  - Key: sprites/rocks/amethystrock
+    Texture: {fileID: 2800000, guid: 995ff42690b4ddd458ffbee70a367863, type: 3}
+  - Key: sprites/rocks/berylrock
+    Texture: {fileID: 2800000, guid: c2b4f4c9898cbba459ab5598bdeb0109, type: 3}
+  - Key: sprites/rocks/cinnabarrock
+    Texture: {fileID: 2800000, guid: 0c0b750979c86b04fbb0fecde336d70c, type: 3}
+  - Key: sprites/rocks/citrinerock
+    Texture: {fileID: 2800000, guid: c6ffd13447270d343b74d68133d4f23a, type: 3}
+  - Key: sprites/rocks/coalrock
+    Texture: {fileID: 2800000, guid: 32cd177749b81244f9824cd2be962817, type: 3}
+  - Key: sprites/rocks/copperrock
+    Texture: {fileID: 2800000, guid: 0f98806c6ce41884c949e26d98f2b75b, type: 3}
+  - Key: sprites/rocks/emeraldrock
+    Texture: {fileID: 2800000, guid: 9d54ff327b1bf5340bda9b097841573f, type: 3}
+  - Key: sprites/rocks/goldrock
+    Texture: {fileID: 2800000, guid: bab2fe5810c2a4343913cbe3034da537, type: 3}
+  - Key: sprites/rocks/iborock
+    Texture: {fileID: 2800000, guid: 3105bb5722dfe2b469846daf1dbabecc, type: 3}
+  - Key: sprites/rocks/ironrock
+    Texture: {fileID: 2800000, guid: 6f1e6b269d07472418b63d3bcacd928d, type: 3}
+  - Key: sprites/rocks/lapislazulirock
+    Texture: {fileID: 2800000, guid: 3e99755ad36549c4dbac928ec42669de, type: 3}
+  - Key: sprites/rocks/moonrockrock
+    Texture: {fileID: 2800000, guid: 2ce817c30b4db4b499ee2d0ca57454e8, type: 3}
+  - Key: sprites/rocks/nisocrock
+    Texture: {fileID: 2800000, guid: ab52de34619c1794cb7495d01bf758a8, type: 3}
+  - Key: sprites/rocks/opalrock
+    Texture: {fileID: 2800000, guid: 51a7351e82fed924685407c6edc76ef0, type: 3}
+  - Key: sprites/rocks/peridotrock
+    Texture: {fileID: 2800000, guid: 0b2474b08317ae140a7f1242091d79ef, type: 3}
+  - Key: sprites/rocks/pytharrock
+    Texture: {fileID: 2800000, guid: 25e7476cae2e1f240baabf2b414b5be0, type: 3}
+  - Key: sprites/rocks/rubyrock
+    Texture: {fileID: 2800000, guid: 04a7d61c7f09c4f448ac8665b6494a52, type: 3}
+  - Key: sprites/rocks/taaffeiterock
+    Texture: {fileID: 2800000, guid: 73bbd3504b9126d4391e9fb8e08a59e4, type: 3}
+  - Key: sprites/rocks/tinrock
+    Texture: {fileID: 2800000, guid: aa6865d0673eddf4db7e03939987929a, type: 3}
+  - Key: sprites/rocks/topazrock
+    Texture: {fileID: 2800000, guid: f361f41383d6bda4c9e454edc405e365, type: 3}
+  - Key: sprites/shadow
+    Texture: {fileID: 2800000, guid: e31a9b949d6e30a46a6b48fe63f1944b, type: 3}
+  - Key: sprites/skills/accuracy
+    Texture: {fileID: 2800000, guid: 3dca67bb98b30c948b732c2ac879a3b4, type: 3}
+  - Key: sprites/skills/alchemy
+    Texture: {fileID: 2800000, guid: 1e5622db5dbe36449bfdd3ebb2d53271, type: 3}
+  - Key: sprites/skills/archery
+    Texture: {fileID: 2800000, guid: 9dbf70a8df592ad4485c7ff7c8de77b4, type: 3}
+  - Key: sprites/skills/chiseling
+    Texture: {fileID: 2800000, guid: a5b89e974eb77b04286d61d4beb18532, type: 3}
+  - Key: sprites/skills/chiseling2
+    Texture: {fileID: 2800000, guid: 22c461e74977ac84a82a02efcf521448, type: 3}
+  - Key: sprites/skills/cooking
+    Texture: {fileID: 2800000, guid: 44d983fcec548644b911bbdd8f8ade7d, type: 3}
+  - Key: sprites/skills/crafting
+    Texture: {fileID: 2800000, guid: ea13f181ee901b648af334fd7518652e, type: 3}
+  - Key: sprites/skills/defense
+    Texture: {fileID: 2800000, guid: 12c52e967406d084fa416e9764f7ae80, type: 3}
+  - Key: sprites/skills/eating
+    Texture: {fileID: 2800000, guid: b81928dc9946e7d42bf5aad263a48bf1, type: 3}
+  - Key: sprites/skills/fishing
+    Texture: {fileID: 2800000, guid: 8b71c086b4703a542aab74233a51c111, type: 3}
+  - Key: sprites/skills/fletching
+    Texture: {fileID: 2800000, guid: bb93585259074984cba6ff4814aca356, type: 3}
+  - Key: sprites/skills/foraging
+    Texture: {fileID: 2800000, guid: 38a74ee8c441e854d8c1896f9494a545, type: 3}
+  - Key: sprites/skills/health
+    Texture: {fileID: 2800000, guid: f122a2fabe9b0a749bc90b0898a51334, type: 3}
+  - Key: sprites/skills/loitering
+    Texture: {fileID: 2800000, guid: 35847002a5d823d4fae998cbb05ec605, type: 3}
+  - Key: sprites/skills/lumberjacking
+    Texture: {fileID: 2800000, guid: 72669e6843710e04db70ddee2b33e1ba, type: 3}
+  - Key: sprites/skills/magic
+    Texture: {fileID: 2800000, guid: 744543f56c8789248be7d88d98fb1c23, type: 3}
+  - Key: sprites/skills/mining
+    Texture: {fileID: 2800000, guid: d490ef4ad5175c24a800babaa3d8566b, type: 3}
+  - Key: sprites/skills/smelting
+    Texture: {fileID: 2800000, guid: fec8cdcc69eec58488dd68ea20270188, type: 3}
+  - Key: sprites/skills/smithing
+    Texture: {fileID: 2800000, guid: 0731369f54500844aa0078232b5cfb8b, type: 3}
+  - Key: sprites/skills/strength
+    Texture: {fileID: 2800000, guid: 1556c65da9944384da57e57446185fcd, type: 3}
+  - Key: sprites/sparks
+    Texture: {fileID: 2800000, guid: a6d3f7a6113d6e4428a28c93da2ba606, type: 3}
+  - Key: sprites/target
+    Texture: {fileID: 2800000, guid: d6a9ecc71817f514ead13c71e507ba6d, type: 3}
+  - Key: sprites/trees/alkythn
+    Texture: {fileID: 2800000, guid: 656fa0cd13dbcd049b9dc7e8bfa85fb1, type: 3}
+  - Key: sprites/trees/aquasillius
+    Texture: {fileID: 2800000, guid: b9f0f7e0676fe58448ba571415bba985, type: 3}
+  - Key: sprites/trees/bloodwood
+    Texture: {fileID: 2800000, guid: 8a0a1fbabb5dcac419968ac8df9caf60, type: 3}
+  - Key: sprites/trees/flastel
+    Texture: {fileID: 2800000, guid: a1ad2892ff2e3554fa737cf2ca0b29ed, type: 3}
+  - Key: sprites/trees/heliphatit
+    Texture: {fileID: 2800000, guid: 1525dce8eb0ff2645afa7ed12ee2f3c9, type: 3}
+  - Key: sprites/trees/iceoak
+    Texture: {fileID: 2800000, guid: 37222ccdf3abd584596b1678439a5eb3, type: 3}
+  - Key: sprites/trees/iceoak2
+    Texture: {fileID: 2800000, guid: dbcce6d74f7962b46b51634623dee9f5, type: 3}
+  - Key: sprites/trees/iceoak3
+    Texture: {fileID: 2800000, guid: 4a8c3c6f440072744be43807cc180ec8, type: 3}
+  - Key: sprites/trees/iceoak5
+    Texture: {fileID: 2800000, guid: 38ae5597658449f49bc2dd4d9831507f, type: 3}
+  - Key: sprites/trees/iceoak6
+    Texture: {fileID: 2800000, guid: 89ad5b07bf391ba449f2ff035e1f1ca2, type: 3}
+  - Key: sprites/trees/icepalm
+    Texture: {fileID: 2800000, guid: 46ff716ec257584408be9c3c19092879, type: 3}
+  - Key: sprites/trees/inibti
+    Texture: {fileID: 2800000, guid: 2a69e02dff79d494e830b1c103dc53a5, type: 3}
+  - Key: sprites/trees/oak
+    Texture: {fileID: 2800000, guid: 3c61958732c6c49419b1480ff3ceb1cf, type: 3}
+  - Key: sprites/trees/oak2
+    Texture: {fileID: 2800000, guid: 0fc9adfeda24031408844775065c6bf3, type: 3}
+  - Key: sprites/trees/oak3
+    Texture: {fileID: 2800000, guid: f914847261ecfdb468d84f475ba1ecc0, type: 3}
+  - Key: sprites/trees/oak4
+    Texture: {fileID: 2800000, guid: a7c7e5093ba374947a2c388248343808, type: 3}
+  - Key: sprites/trees/oak5
+    Texture: {fileID: 2800000, guid: 61d9bcabf6ab0c048a5133cb2c040101, type: 3}
+  - Key: sprites/trees/oak6
+    Texture: {fileID: 2800000, guid: e9351c2c50eec6a4594ddd7ab4d17349, type: 3}
+  - Key: sprites/trees/oak7
+    Texture: {fileID: 2800000, guid: f8a853a0727b9a84190ea6ea27479c64, type: 3}
+  - Key: sprites/trees/palm
+    Texture: {fileID: 2800000, guid: eb2623693b99ff64295eee51da154cc1, type: 3}
+  - Key: sprites/trees/pine
+    Texture: {fileID: 2800000, guid: 504518fbba0e4d947a519e5d09f80935, type: 3}
+  - Key: sprites/trees/puhrix
+    Texture: {fileID: 2800000, guid: fa5e96c8828412d45a46e183b532918d, type: 3}
+  - Key: sprites/trees/snowoak
+    Texture: {fileID: 2800000, guid: 704a7398f1d0880408675c189c0184f5, type: 3}
+  - Key: sprites/trees/spruce
+    Texture: {fileID: 2800000, guid: bdddc469ed162794ca526ec38d9ba4dd, type: 3}
+  - Key: sprites/trees/tutorialoak
+    Texture: {fileID: 2800000, guid: eb327723d264a6141a931ef9a430cb0b, type: 3}
+  - Key: sprites/trees/zoncil
+    Texture: {fileID: 2800000, guid: 57361e6f42935f646a8dd94e25b5ab4f, type: 3}
+  - Key: sprites/trees/zondul
+    Texture: {fileID: 2800000, guid: da16718b81f8ed54da80e6d5cde8965d, type: 3}
+  - Key: tilesets/tilesheet-1
+    Texture: {fileID: 2800000, guid: e61241e5e36f35b4fa0182de56e76803, type: 3}
+  - Key: tilesets/tilesheet-2
+    Texture: {fileID: 2800000, guid: 1ec4feed618739144adf9a97b2ddeaa9, type: 3}
+  - Key: tilesets/tilesheet-3
+    Texture: {fileID: 2800000, guid: 07534a433f06c2841bc190b5f19816c0, type: 3}
+  - Key: tilesets/tilesheet-4
+    Texture: {fileID: 2800000, guid: 49dc17c0b1779ac41a8fe1d692cb814f, type: 3}
+  - Key: tilesets/tilesheet-5
+    Texture: {fileID: 2800000, guid: 37a054cf71fe8a94d8c416abc558c367, type: 3}
+  - Key: tilesets/tilesheet-6
+    Texture: {fileID: 2800000, guid: c5a89d0470bb2f34f86cf42a353965d5, type: 3}
+  - Key: interface/abilityicons
+    Texture: {fileID: 2800000, guid: 4ee0992c3eb82b34783ea09969523b4f, type: 3}
+  - Key: interface/achievements
+    Texture: {fileID: 2800000, guid: e2c435acd6cee624ea7613f6b338a75c, type: 3}
+  - Key: interface/bank
+    Texture: {fileID: 2800000, guid: fe18da82a1e5fb348ae2bb2738b19854, type: 3}
+  - Key: interface/bars
+    Texture: {fileID: 2800000, guid: 88cf64bf7dc8f634b9856978b713bd0a, type: 3}
+  - Key: interface/buttons
+    Texture: {fileID: 2800000, guid: 21cdd376afb02164d8dd39f00189a3e7, type: 3}
+  - Key: interface/characterdialogsheet
+    Texture: {fileID: 2800000, guid: 525a03adf52de034a88820eff5eb0dac, type: 3}
+  - Key: interface/chatbox
+    Texture: {fileID: 2800000, guid: 558247f3ed8369546a79bd4916b58ab0, type: 3}
+  - Key: interface/container-fancy-button
+    Texture: {fileID: 2800000, guid: 6f0c1517d70891f4097009b9db8182d9, type: 3}
+  - Key: interface/containers
+    Texture: {fileID: 2800000, guid: f409507f8708c7a40a8333469cdb0745, type: 3}
+  - Key: interface/controls/arrows
+    Texture: {fileID: 2800000, guid: 607d73ade5d596743b293b141b567d9c, type: 3}
+  - Key: interface/controls/click
+    Texture: {fileID: 2800000, guid: c2fc2e7f734c5ee47aff106f68ffe9b1, type: 3}
+  - Key: interface/controls/wasd
+    Texture: {fileID: 2800000, guid: 488dc04b10471b647bb443c258b380e9, type: 3}
+  - Key: interface/crafting
+    Texture: {fileID: 2800000, guid: 3fa55e0238536704daeb0871969ca38c, type: 3}
+  - Key: interface/equipment/armourskin
+    Texture: {fileID: 2800000, guid: 704406730c60b51449e9e9bc181ed883, type: 3}
+  - Key: interface/equipment/arrows
+    Texture: {fileID: 2800000, guid: d5e20e993b53a354fa94cdff5e66f611, type: 3}
+  - Key: interface/equipment/boots
+    Texture: {fileID: 2800000, guid: fb169debe6e2b31468d3e80927d6449c, type: 3}
+  - Key: interface/equipment/cape
+    Texture: {fileID: 2800000, guid: 8d81dc84954f6444ba322c7f12aad0be, type: 3}
+  - Key: interface/equipment/chestplate
+    Texture: {fileID: 2800000, guid: f2a7f08ad20851c48b3cc2c2a2565592, type: 3}
+  - Key: interface/equipment/helmet
+    Texture: {fileID: 2800000, guid: 01788485aae9bce48970c4206b3c33f3, type: 3}
+  - Key: interface/equipment/legplates
+    Texture: {fileID: 2800000, guid: c276646e4ac974346b43ae2cc7bebe77, type: 3}
+  - Key: interface/equipment/pendant
+    Texture: {fileID: 2800000, guid: 0a6a34397127c7e41a51008cd2d85a11, type: 3}
+  - Key: interface/equipment/ring
+    Texture: {fileID: 2800000, guid: 61c577c578d82fc4fa50069702a9b5cc, type: 3}
+  - Key: interface/equipment/shield
+    Texture: {fileID: 2800000, guid: dd460cb32ee942740bb0d0faa50fbff5, type: 3}
+  - Key: interface/equipment/weapon
+    Texture: {fileID: 2800000, guid: 906f02181f860814395b4383b10be83b, type: 3}
+  - Key: interface/equipment/weaponskin
+    Texture: {fileID: 2800000, guid: 4ef53764bd5a4ab4a930fc5e34523e77, type: 3}
+  - Key: interface/frame_buttons
+    Texture: {fileID: 2800000, guid: 3a6310e40361f454b98df17245e1d10a, type: 3}
+  - Key: interface/guilds/banners-outline
+    Texture: {fileID: 2800000, guid: 0000f8fcd8326294a89987a461c26819, type: 3}
+  - Key: interface/guilds/banners
+    Texture: {fileID: 2800000, guid: 21b57e4cfe8aa87479d90bd4dd977ee0, type: 3}
+  - Key: interface/guilds/decorations
+    Texture: {fileID: 2800000, guid: efea863a60b906949b14f3ec4d84be9b, type: 3}
+  - Key: interface/guilds/elements
+    Texture: {fileID: 2800000, guid: 1bcf76a1b5c163c49bbcea2932d332a6, type: 3}
+  - Key: interface/guilds/frames
+    Texture: {fileID: 2800000, guid: 2a5ec214c6a1b2a41bebbadbfbe1edea, type: 3}
+  - Key: interface/guilds/outline1
+    Texture: {fileID: 2800000, guid: 1575aa048f8a501468bd1f92ddfa0c11, type: 3}
+  - Key: interface/guilds/outline2
+    Texture: {fileID: 2800000, guid: 610a83c7ae443c84f90183c899c3bb44, type: 3}
+  - Key: interface/guilds/outline3
+    Texture: {fileID: 2800000, guid: c0058a6e2467c74479a7c2bbf84898a2, type: 3}
+  - Key: interface/guilds/outline4
+    Texture: {fileID: 2800000, guid: c7f2ab10c6880464190000f638431f6e, type: 3}
+  - Key: interface/guilds/outline5
+    Texture: {fileID: 2800000, guid: dba3de56ca599b64fb02267e83bc50f5, type: 3}
+  - Key: interface/guilds/splitbanners
+    Texture: {fileID: 2800000, guid: 973f70c51117efe4a9fb0326c9cea659, type: 3}
+  - Key: interface/hud_buttons
+    Texture: {fileID: 2800000, guid: f38ad7f0bbc52c9488b978c718cf1eea, type: 3}
+  - Key: interface/image
+    Texture: {fileID: 2800000, guid: 6ee581a3ff028d24da6a486edd40564d, type: 3}
+  - Key: interface/leaderboards
+    Texture: {fileID: 2800000, guid: fbd46e3b8d896b24288981ab12971483, type: 3}
+  - Key: interface/main
+    Texture: {fileID: 2800000, guid: a419a1a44bd38dd48aaa72711ba8bf93, type: 3}
+  - Key: interface/mapframe
+    Texture: {fileID: 2800000, guid: 4fa9b701a971d2448b9357ef5d14bc34, type: 3}
+  - Key: interface/mapicons
+    Texture: {fileID: 2800000, guid: c1eb5da5444454a47b0856f7879c415c, type: 3}
+  - Key: interface/pointer
+    Texture: {fileID: 2800000, guid: e3b45ee84b5c2c54f86b7bcb7f6db58d, type: 3}
+  - Key: interface/quests
+    Texture: {fileID: 2800000, guid: ee86a78ac6bfa5140929f76e6e529d85, type: 3}
+  - Key: interface/skills/accuracy
+    Texture: {fileID: 2800000, guid: 9fdc12673f5de074ea9ed660f6d080bc, type: 3}
+  - Key: interface/skills/alchemy
+    Texture: {fileID: 2800000, guid: 3565b3000051bd148959b39afb543275, type: 3}
+  - Key: interface/skills/archery
+    Texture: {fileID: 2800000, guid: 73f0995872c8dea43a9c1603b2fb4015, type: 3}
+  - Key: interface/skills/chiseling
+    Texture: {fileID: 2800000, guid: baab744e80c6d1e48accf45581961dc3, type: 3}
+  - Key: interface/skills/chiseling2
+    Texture: {fileID: 2800000, guid: ffe3b6575fffed844952654fa19f30a5, type: 3}
+  - Key: interface/skills/cooking
+    Texture: {fileID: 2800000, guid: 0742bf7de62faa44e82c57dc34f8d879, type: 3}
+  - Key: interface/skills/crafting
+    Texture: {fileID: 2800000, guid: 3a9642d8bddb74543908b004befa21b9, type: 3}
+  - Key: interface/skills/defense
+    Texture: {fileID: 2800000, guid: 1cfe03a50b241114e90c5eb026a2fd6c, type: 3}
+  - Key: interface/skills/eating
+    Texture: {fileID: 2800000, guid: e55f83dfd9c86874f956901c915f19e9, type: 3}
+  - Key: interface/skills/fishing
+    Texture: {fileID: 2800000, guid: 96fb6b5a5addc2c4b868c18eebfcf324, type: 3}
+  - Key: interface/skills/fletching
+    Texture: {fileID: 2800000, guid: 28d9162e65a575b4e817ed2c30a2fd02, type: 3}
+  - Key: interface/skills/foraging
+    Texture: {fileID: 2800000, guid: b189242adf1601c4eb316e301511ef4b, type: 3}
+  - Key: interface/skills/health
+    Texture: {fileID: 2800000, guid: 7215bbbaa73edda4a884f073d089930c, type: 3}
+  - Key: interface/skills/loitering
+    Texture: {fileID: 2800000, guid: 8e73002dab8ff2546ad9e02e9a642425, type: 3}
+  - Key: interface/skills/lumberjacking
+    Texture: {fileID: 2800000, guid: 0059b2d92e7b1c045b6666ad0c06f274, type: 3}
+  - Key: interface/skills/magic
+    Texture: {fileID: 2800000, guid: ba3b47d45cede6c4a8b0d79ecca2a60f, type: 3}
+  - Key: interface/skills/mining
+    Texture: {fileID: 2800000, guid: 304d75f1f5ca41149bbb42fc00f7dd36, type: 3}
+  - Key: interface/skills/smelting
+    Texture: {fileID: 2800000, guid: 4810d192b78663b46a3d78706a9bd3d8, type: 3}
+  - Key: interface/skills/smithing
+    Texture: {fileID: 2800000, guid: 44ef5a07c54c613499f51dd8c0bc45db, type: 3}
+  - Key: interface/skills/strength
+    Texture: {fileID: 2800000, guid: f97b1834dab4024469955a2f2f32692f, type: 3}
+  - Key: interface/skillslots
+    Texture: {fileID: 2800000, guid: f3a78c816ef4b3c409939f064a55d456, type: 3}
+  - Key: interface/slices/button-active
+    Texture: {fileID: 2800000, guid: df0a91751f2c3894f92aa5d0920cacc9, type: 3}
+  - Key: interface/slices/button-green-active
+    Texture: {fileID: 2800000, guid: ba3617cd2a726ef4ea19eafcc2d752f3, type: 3}
+  - Key: interface/slices/button-green-hover
+    Texture: {fileID: 2800000, guid: aeef993a1cbe1724dae252769e32e0c5, type: 3}
+  - Key: interface/slices/button-green
+    Texture: {fileID: 2800000, guid: 3d85f44c61958a740b7dd7caa737424b, type: 3}
+  - Key: interface/slices/button-hover
+    Texture: {fileID: 2800000, guid: b24985905edd9d141bdd574c6d1a5666, type: 3}
+  - Key: interface/slices/button
+    Texture: {fileID: 2800000, guid: 63aa23272e9fe28469032cefafedf70a, type: 3}
+  - Key: interface/slices/container-fancy
+    Texture: {fileID: 2800000, guid: 136b22e4607465e428bd54bfb5d6c830, type: 3}
+  - Key: interface/slices/container
+    Texture: {fileID: 2800000, guid: 3a3feaf2d496c0246ab72ae03a9e353c, type: 3}
+  - Key: interface/slices/dialog
+    Texture: {fileID: 2800000, guid: 53e6e741f7aa9114385f40405b30e647, type: 3}
+  - Key: interface/slices/inner-container
+    Texture: {fileID: 2800000, guid: 0189ab3e591ec0040ac54c31698e34d1, type: 3}
+  - Key: interface/slices/input-active
+    Texture: {fileID: 2800000, guid: f18974c0420018e4d96da9e406af1e4a, type: 3}
+  - Key: interface/slices/input-error
+    Texture: {fileID: 2800000, guid: c986ef834cbb6e54ca85ac35a845f6d6, type: 3}
+  - Key: interface/slices/input
+    Texture: {fileID: 2800000, guid: ca4b5a69bef287d4b94873b3b7b6ab99, type: 3}
+  - Key: interface/slices/item-slot
+    Texture: {fileID: 2800000, guid: e94c0f54fa03bae4ba3592e92c2f2555, type: 3}
+  - Key: interface/slices/list-hover
+    Texture: {fileID: 2800000, guid: 554c6051be8aaed4692874d5893b0dfd, type: 3}
+  - Key: interface/slices/list-item-hover
+    Texture: {fileID: 2800000, guid: f3827e86d8fd9d14bbaeb10229ffb4ca, type: 3}
+  - Key: interface/slices/list-item
+    Texture: {fileID: 2800000, guid: e1125f5c66308084b9a1b1234f4827f6, type: 3}
+  - Key: interface/slices/list
+    Texture: {fileID: 2800000, guid: 3017780e7cf9f5648acea4babc0be160, type: 3}
+  - Key: interface/slices/menu-fancy
+    Texture: {fileID: 2800000, guid: 79cb60357f4ca6141af78975b5518529, type: 3}
+  - Key: interface/slices/menu
+    Texture: {fileID: 2800000, guid: a776de7ae6270e043b74912980bdea87, type: 3}
+  - Key: interface/slices/tab-active
+    Texture: {fileID: 2800000, guid: b37066ea6afb29340a434f34bc443c65, type: 3}
+  - Key: interface/slices/tab
+    Texture: {fileID: 2800000, guid: be206995f363b364d983ab90200959f6, type: 3}
+  - Key: interface/spritesheet
+    Texture: {fileID: 2800000, guid: 8d351937944761048a33666808e11fb8, type: 3}
+  - Key: interface/trade
+    Texture: {fileID: 2800000, guid: d61a35d4c2d7a1949b61041708c4a5db, type: 3}
+  - Key: icons/android-chrome-1024x1024
+    Texture: {fileID: 2800000, guid: cd199b6f872684f48b164a9a84d4b274, type: 3}
+  - Key: icons/android-chrome-192x192
+    Texture: {fileID: 2800000, guid: 00de2dd952ac8b24cbf7701b22c1494f, type: 3}
+  - Key: icons/android-chrome-512x512
+    Texture: {fileID: 2800000, guid: e3bafa1e2cc11a946b4cef360d7945c7, type: 3}
+  - Key: icons/logo-border-1024x1024
+    Texture: {fileID: 2800000, guid: c70dd4adfa34c434e8543e1f63e6ed94, type: 3}
+  - Key: icons/mstile-144x144
+    Texture: {fileID: 2800000, guid: a95df898d2ec3d14dbe241609c8bd757, type: 3}
+  - Key: icons/mstile-150x150
+    Texture: {fileID: 2800000, guid: 8a99a75de19f5234ca44b2c6e00a2015, type: 3}
+  - Key: icons/mstile-310x310
+    Texture: {fileID: 2800000, guid: 24a32ee166274474dbf932e81a23856b, type: 3}
+  - Key: icons/mstile-70x70
+    Texture: {fileID: 2800000, guid: d7b684cd2c22e3e4ea4eb1d09e9793b1, type: 3}
+  - Key: flags/american
+    Texture: {fileID: 2800000, guid: c43a119e31d2e4e4c993a5c1468096b7, type: 3}
+  - Key: flags/canada
+    Texture: {fileID: 2800000, guid: 67f5a10959afca8439f35d800975469c, type: 3}
+  - Key: flags/france
+    Texture: {fileID: 2800000, guid: 0a55dbabc4dd2b44c8993d9907efe766, type: 3}
+  - Key: overlays/fog
+    Texture: {fileID: 2800000, guid: 4a3499e5078c2994aa8f8c991d523328, type: 3}
+  - Key: hand
+    Texture: {fileID: 2800000, guid: b3be721b8e49c5449b649adafd6b2717, type: 3}
+  - Key: pointer
+    Texture: {fileID: 2800000, guid: 40e734cc329e32046a4291833048f0e8, type: 3}
+  - Key: thingy
+    Texture: {fileID: 2800000, guid: ab122ebb6bd756449b58a03cb128d81a, type: 3}
+  - Key: tile
+    Texture: {fileID: 2800000, guid: 98f8c5c10fd948547b78d45aa3f8a91e, type: 3}
+  Fonts:
+  - Name: abaddon
+    Font: {fileID: 12800000, guid: 932efe5eb3fcaf3439148e98712121e4, type: 3}
+  - Name: advocut-webfont
+    Font: {fileID: 12800000, guid: e03621453c12ea44cb296180e49442de, type: 3}
+  - Name: dorfscratch
+    Font: {fileID: 12800000, guid: 25090c48b3e5fa84e9ca1790cc29f666, type: 3}
+  - Name: fibberish
+    Font: {fileID: 12800000, guid: 62b3fbfb0a6e2554a979824695808f0d, type: 3}
+  - Name: graphicpixel
+    Font: {fileID: 12800000, guid: c957081750f32044bbca1ecb7d052395, type: 3}
+  - Name: kerriefont
+    Font: {fileID: 12800000, guid: 08064468d3db3a344855cb19d824bcbf, type: 3}
+  - Name: monogram
+    Font: {fileID: 12800000, guid: a0aae760a130f3843b8705a7de076553, type: 3}
+  - Name: quaver
+    Font: {fileID: 12800000, guid: 2cec5382508a3d14486cdc2016d9c3f3, type: 3}
+  - Name: galmuri11
+    Font: {fileID: 12800000, guid: 2cea17bd0fb2e884ca87ec6b8733500a, type: 3}
+  - Name: galmuri11-bold
+    Font: {fileID: 12800000, guid: 8f3afd06184e43e48985e1e252c56a4a, type: 3}
+  - Name: galmuri9
+    Font: {fileID: 12800000, guid: 8352cef46374a4645991ba61199ecec1, type: 3}
+  Music:
+  - Name: beach
+    Clip: {fileID: 8300000, guid: 8e4fb9d7f6497a14db5fb15c3e411163, type: 3}
+  - Name: beach2
+    Clip: {fileID: 8300000, guid: 6738c979c5ab6ad49955a15b362a8a05, type: 3}
+  - Name: beach3
+    Clip: {fileID: 8300000, guid: 33f891b4779756941a4fa3471327c8b1, type: 3}
+  - Name: boss
+    Clip: {fileID: 8300000, guid: 935d58afd5901af4286b04d06fe18372, type: 3}
+  - Name: cave
+    Clip: {fileID: 8300000, guid: 825b74947f9607347a017265c9344da4, type: 3}
+  - Name: codingroom
+    Clip: {fileID: 8300000, guid: 5eedba955189e5447a4ae3d90a8d6e65, type: 3}
+  - Name: desert
+    Clip: {fileID: 8300000, guid: 70bc5533f99b3e643800d7426d1e4ee6, type: 3}
+  - Name: desert2
+    Clip: {fileID: 8300000, guid: cfceb91180c0f7f4c9629d4817e3568a, type: 3}
+  - Name: desert3
+    Clip: {fileID: 8300000, guid: f75debc1b59c6f141973d68eb5af4fc4, type: 3}
+  - Name: forest
+    Clip: {fileID: 8300000, guid: c97107095dbb6ac41b44e5e99b31ddfd, type: 3}
+  - Name: jungle
+    Clip: {fileID: 8300000, guid: 8a451d4673518214b9c5bb60202991b7, type: 3}
+  - Name: jungle2
+    Clip: {fileID: 8300000, guid: 0325008e5c7b51a44b8e3a1fb2a0ee05, type: 3}
+  - Name: lavaland
+    Clip: {fileID: 8300000, guid: b9b50edfba8765347a64e55ecc686a38, type: 3}
+  - Name: meadowofthepast
+    Clip: {fileID: 8300000, guid: 588a516515320514eab2fae34c1cd14a, type: 3}
+  - Name: reggae
+    Clip: {fileID: 8300000, guid: 5a4d7da7abaf7a44a8855fd90b07e32a, type: 3}
+  - Name: smalltown
+    Clip: {fileID: 8300000, guid: 391a712d3771a9a43bb86dbef322dcc7, type: 3}
+  - Name: spookyship
+    Clip: {fileID: 8300000, guid: cdb0703adb377b44a96fdd1539d757b1, type: 3}
+  - Name: underwater
+    Clip: {fileID: 8300000, guid: ffe879714975d624a9f1c526c1dd0266, type: 3}
+  Sounds:
+  - Name: achievement
+    Clip: {fileID: 8300000, guid: c8daa4073aa09294eb662ba00ff359f8, type: 3}
+  - Name: chat
+    Clip: {fileID: 8300000, guid: 3b96805919c85dc439d8e67382d44a63, type: 3}
+  - Name: chest
+    Clip: {fileID: 8300000, guid: 0bc7a8dffb5d3804985300354df8d3a9, type: 3}
+  - Name: death
+    Clip: {fileID: 8300000, guid: 88243a1f452a2d647b48a4c30cc81735, type: 3}
+  - Name: firefox
+    Clip: {fileID: 8300000, guid: a5adc600d5180e84ebf295bd4e51d164, type: 3}
+  - Name: heal
+    Clip: {fileID: 8300000, guid: 2e7dfae7080599643bc9d5b3852618f1, type: 3}
+  - Name: hit1
+    Clip: {fileID: 8300000, guid: 9e1a626683888034685850c5e5bb9656, type: 3}
+  - Name: hit2
+    Clip: {fileID: 8300000, guid: cf4d350df31ea5a4d967eb88a2a7a3f1, type: 3}
+  - Name: hurt
+    Clip: {fileID: 8300000, guid: 11ab95c92cd1e5b4c80c62474d661846, type: 3}
+  - Name: kill1
+    Clip: {fileID: 8300000, guid: 1af981c67cb11aa4bbd9507ca038af9d, type: 3}
+  - Name: kill2
+    Clip: {fileID: 8300000, guid: 73b00f221939c9b47843ffcf9dcc6624, type: 3}
+  - Name: loot
+    Clip: {fileID: 8300000, guid: 1f6cc9619d9e83c428dfe21473834897, type: 3}
+  - Name: mining1
+    Clip: {fileID: 8300000, guid: 52392a66b64e1b043923ca2709556f11, type: 3}
+  - Name: mining2
+    Clip: {fileID: 8300000, guid: 8caca8c5775b14447ac737300fcbc610, type: 3}
+  - Name: mining3
+    Clip: {fileID: 8300000, guid: 5ee47224404a5874e81cc9948dd42662, type: 3}
+  - Name: noloot
+    Clip: {fileID: 8300000, guid: 30d7e8aeef2a0a74383ff5e6991708ce, type: 3}
+  - Name: npc-end
+    Clip: {fileID: 8300000, guid: e7ef18d336a6ff449b4b0e59c393a7e1, type: 3}
+  - Name: npc
+    Clip: {fileID: 8300000, guid: 3fdc9a821654c8a4099b772cc975a024, type: 3}
+  - Name: npctalk
+    Clip: {fileID: 8300000, guid: c17dabc784c8dfd4b9d8dba17cd8465e, type: 3}
+  - Name: revive
+    Clip: {fileID: 8300000, guid: 821671140fa00e64fbf8a43dc525acd9, type: 3}
+  - Name: teleport
+    Clip: {fileID: 8300000, guid: da86dc3cb8a849648a743331db96eca0, type: 3}
+  - Name: wood1
+    Clip: {fileID: 8300000, guid: 2e8ed76fdd21c87438ee7d83e6bae957, type: 3}
+  - Name: wood2
+    Clip: {fileID: 8300000, guid: 8a93b98a77633c3468d09051163e2830, type: 3}
+  - Name: wood3
+    Clip: {fileID: 8300000, guid: fab2995dc4166c84ea0550c653874626, type: 3}
+  - Name: wood4
+    Clip: {fileID: 8300000, guid: 03ee9467f9f943e41ac4016aa7bf4fcb, type: 3}
+  - Name: wood5
+    Clip: {fileID: 8300000, guid: 6aabbb3b309c12241b0e00d3ea12a6d7, type: 3}

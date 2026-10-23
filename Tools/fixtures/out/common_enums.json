@@ -1,0 +1,2659 @@
+{
+  "source": "PixelHero-Data/packages/common/network/{packets,opcodes,modules}.ts",
+  "packets": {
+    "name": "Packets",
+    "members": [
+      [
+        "Connected",
+        0
+      ],
+      [
+        "Handshake",
+        1
+      ],
+      [
+        "Login",
+        2
+      ],
+      [
+        "Welcome",
+        3
+      ],
+      [
+        "Map",
+        4
+      ],
+      [
+        "Spawn",
+        5
+      ],
+      [
+        "List",
+        6
+      ],
+      [
+        "Who",
+        7
+      ],
+      [
+        "Equipment",
+        8
+      ],
+      [
+        "Ready",
+        9
+      ],
+      [
+        "Sync",
+        10
+      ],
+      [
+        "Movement",
+        11
+      ],
+      [
+        "Teleport",
+        12
+      ],
+      [
+        "Despawn",
+        13
+      ],
+      [
+        "Target",
+        14
+      ],
+      [
+        "Combat",
+        15
+      ],
+      [
+        "Animation",
+        16
+      ],
+      [
+        "Points",
+        17
+      ],
+      [
+        "Network",
+        18
+      ],
+      [
+        "Chat",
+        19
+      ],
+      [
+        "Command",
+        20
+      ],
+      [
+        "Container",
+        21
+      ],
+      [
+        "Ability",
+        22
+      ],
+      [
+        "Quest",
+        23
+      ],
+      [
+        "Achievement",
+        24
+      ],
+      [
+        "Notification",
+        25
+      ],
+      [
+        "Blink",
+        26
+      ],
+      [
+        "Heal",
+        27
+      ],
+      [
+        "Experience",
+        28
+      ],
+      [
+        "Death",
+        29
+      ],
+      [
+        "Music",
+        30
+      ],
+      [
+        "NPC",
+        31
+      ],
+      [
+        "Respawn",
+        32
+      ],
+      [
+        "Trade",
+        33
+      ],
+      [
+        "Enchant",
+        34
+      ],
+      [
+        "Guild",
+        35
+      ],
+      [
+        "Pointer",
+        36
+      ],
+      [
+        "PVP",
+        37
+      ],
+      [
+        "Poison",
+        38
+      ],
+      [
+        "Warp",
+        39
+      ],
+      [
+        "Store",
+        40
+      ],
+      [
+        "Overlay",
+        41
+      ],
+      [
+        "Camera",
+        42
+      ],
+      [
+        "Bubble",
+        43
+      ],
+      [
+        "Skill",
+        44
+      ],
+      [
+        "Update",
+        45
+      ],
+      [
+        "Minigame",
+        46
+      ],
+      [
+        "Effect",
+        47
+      ],
+      [
+        "Friends",
+        48
+      ],
+      [
+        "Focus",
+        49
+      ],
+      [
+        "Rank",
+        50
+      ],
+      [
+        "Examine",
+        51
+      ],
+      [
+        "Player",
+        52
+      ],
+      [
+        "Relay",
+        53
+      ],
+      [
+        "Crafting",
+        54
+      ],
+      [
+        "Interface",
+        55
+      ],
+      [
+        "LootBag",
+        56
+      ],
+      [
+        "Countdown",
+        57
+      ],
+      [
+        "Pet",
+        58
+      ],
+      [
+        "Resource",
+        59
+      ],
+      [
+        "AdminSync",
+        60
+      ]
+    ]
+  },
+  "opcodes": [
+    {
+      "name": "Ability",
+      "members": [
+        [
+          "Batch",
+          0
+        ],
+        [
+          "Add",
+          1
+        ],
+        [
+          "Update",
+          2
+        ],
+        [
+          "Use",
+          3
+        ],
+        [
+          "QuickSlot",
+          4
+        ],
+        [
+          "Toggle",
+          5
+        ]
+      ]
+    },
+    {
+      "name": "Achievement",
+      "members": [
+        [
+          "Batch",
+          0
+        ],
+        [
+          "Progress",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Bubble",
+      "members": [
+        [
+          "Entity",
+          0
+        ],
+        [
+          "Position",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Camera",
+      "members": [
+        [
+          "LockX",
+          0
+        ],
+        [
+          "LockY",
+          1
+        ],
+        [
+          "FreeFlow",
+          2
+        ],
+        [
+          "Player",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Combat",
+      "members": [
+        [
+          "Initiate",
+          0
+        ],
+        [
+          "Hit",
+          1
+        ],
+        [
+          "Finish",
+          2
+        ],
+        [
+          "Sync",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Command",
+      "members": [
+        [
+          "CtrlClick",
+          0
+        ]
+      ]
+    },
+    {
+      "name": "Container",
+      "members": [
+        [
+          "Batch",
+          0
+        ],
+        [
+          "Add",
+          1
+        ],
+        [
+          "Remove",
+          2
+        ],
+        [
+          "Select",
+          3
+        ],
+        [
+          "Swap",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Crafting",
+      "members": [
+        [
+          "Open",
+          0
+        ],
+        [
+          "Select",
+          1
+        ],
+        [
+          "Craft",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Effect",
+      "members": [
+        [
+          "Add",
+          0
+        ],
+        [
+          "Remove",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Enchant",
+      "members": [
+        [
+          "Select",
+          0
+        ],
+        [
+          "Confirm",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Equipment",
+      "members": [
+        [
+          "Batch",
+          0
+        ],
+        [
+          "Equip",
+          1
+        ],
+        [
+          "Unequip",
+          2
+        ],
+        [
+          "Style",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Experience",
+      "members": [
+        [
+          "Sync",
+          0
+        ],
+        [
+          "Skill",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Friends",
+      "members": [
+        [
+          "List",
+          0
+        ],
+        [
+          "Add",
+          1
+        ],
+        [
+          "Remove",
+          2
+        ],
+        [
+          "Status",
+          3
+        ],
+        [
+          "Sync",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Guild",
+      "members": [
+        [
+          "Create",
+          0
+        ],
+        [
+          "Login",
+          1
+        ],
+        [
+          "Logout",
+          2
+        ],
+        [
+          "Join",
+          3
+        ],
+        [
+          "Leave",
+          4
+        ],
+        [
+          "Rank",
+          5
+        ],
+        [
+          "Update",
+          6
+        ],
+        [
+          "Experience",
+          7
+        ],
+        [
+          "Banner",
+          8
+        ],
+        [
+          "List",
+          9
+        ],
+        [
+          "Error",
+          10
+        ],
+        [
+          "Chat",
+          11
+        ],
+        [
+          "Promote",
+          12
+        ],
+        [
+          "Demote",
+          13
+        ],
+        [
+          "Kick",
+          14
+        ]
+      ]
+    },
+    {
+      "name": "Interface",
+      "members": [
+        [
+          "Open",
+          0
+        ],
+        [
+          "Close",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "List",
+      "members": [
+        [
+          "Spawns",
+          0
+        ],
+        [
+          "Positions",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Login",
+      "members": [
+        [
+          "Login",
+          0
+        ],
+        [
+          "Register",
+          1
+        ],
+        [
+          "Guest",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "LootBag",
+      "members": [
+        [
+          "Open",
+          0
+        ],
+        [
+          "Take",
+          1
+        ],
+        [
+          "Close",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Minigame",
+      "members": [
+        [
+          "TeamWar",
+          0
+        ],
+        [
+          "Coursing",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "MinigameActions",
+      "members": [
+        [
+          "Score",
+          0
+        ],
+        [
+          "End",
+          1
+        ],
+        [
+          "Lobby",
+          2
+        ],
+        [
+          "Exit",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "MinigameState",
+      "members": [
+        [
+          "Lobby",
+          0
+        ],
+        [
+          "End",
+          1
+        ],
+        [
+          "Exit",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Movement",
+      "members": [
+        [
+          "Request",
+          0
+        ],
+        [
+          "Started",
+          1
+        ],
+        [
+          "Step",
+          2
+        ],
+        [
+          "Stop",
+          3
+        ],
+        [
+          "Move",
+          4
+        ],
+        [
+          "Follow",
+          5
+        ],
+        [
+          "Entity",
+          6
+        ],
+        [
+          "Speed",
+          7
+        ]
+      ]
+    },
+    {
+      "name": "NPC",
+      "members": [
+        [
+          "Talk",
+          0
+        ],
+        [
+          "Store",
+          1
+        ],
+        [
+          "Bank",
+          2
+        ],
+        [
+          "Enchant",
+          3
+        ],
+        [
+          "Countdown",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Network",
+      "members": [
+        [
+          "Ping",
+          0
+        ],
+        [
+          "Pong",
+          1
+        ],
+        [
+          "Sync",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Notification",
+      "members": [
+        [
+          "Ok",
+          0
+        ],
+        [
+          "YesNo",
+          1
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Popup",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Overlay",
+      "members": [
+        [
+          "Set",
+          0
+        ],
+        [
+          "Remove",
+          1
+        ],
+        [
+          "Lamp",
+          2
+        ],
+        [
+          "RemoveLamps",
+          3
+        ],
+        [
+          "Darkness",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Pet",
+      "members": [
+        [
+          "Pickup",
+          0
+        ]
+      ]
+    },
+    {
+      "name": "Player",
+      "members": [
+        [
+          "Login",
+          0
+        ],
+        [
+          "Logout",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Pointer",
+      "members": [
+        [
+          "Location",
+          0
+        ],
+        [
+          "Entity",
+          1
+        ],
+        [
+          "Relative",
+          2
+        ],
+        [
+          "Remove",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Projectile",
+      "members": [
+        [
+          "Static",
+          0
+        ],
+        [
+          "Dynamic",
+          1
+        ],
+        [
+          "Create",
+          2
+        ],
+        [
+          "Update",
+          3
+        ],
+        [
+          "Impact",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Quest",
+      "members": [
+        [
+          "Batch",
+          0
+        ],
+        [
+          "Progress",
+          1
+        ],
+        [
+          "Finish",
+          2
+        ],
+        [
+          "Start",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Skill",
+      "members": [
+        [
+          "Batch",
+          0
+        ],
+        [
+          "Update",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Store",
+      "members": [
+        [
+          "Open",
+          0
+        ],
+        [
+          "Close",
+          1
+        ],
+        [
+          "Buy",
+          2
+        ],
+        [
+          "Sell",
+          3
+        ],
+        [
+          "Update",
+          4
+        ],
+        [
+          "Select",
+          5
+        ]
+      ]
+    },
+    {
+      "name": "Target",
+      "members": [
+        [
+          "Talk",
+          0
+        ],
+        [
+          "Attack",
+          1
+        ],
+        [
+          "None",
+          2
+        ],
+        [
+          "Object",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Trade",
+      "members": [
+        [
+          "Request",
+          0
+        ],
+        [
+          "Add",
+          1
+        ],
+        [
+          "Remove",
+          2
+        ],
+        [
+          "Accept",
+          3
+        ],
+        [
+          "Close",
+          4
+        ],
+        [
+          "Open",
+          5
+        ]
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "name": "APIConstants",
+      "members": [
+        [
+          "UNHANDLED_HTTP_METHOD",
+          0
+        ],
+        [
+          "NOT_FOUND_ERROR",
+          1
+        ],
+        [
+          "MALFORMED_PARAMETERS",
+          2
+        ],
+        [
+          "PLAYER_NOT_ONLINE",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "AbilityType",
+      "members": [
+        [
+          "Active",
+          0
+        ],
+        [
+          "Passive",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Actions",
+      "members": [
+        [
+          "Idle",
+          0
+        ],
+        [
+          "Attack",
+          1
+        ],
+        [
+          "Walk",
+          2
+        ],
+        [
+          "Orientate",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "AttackStyle",
+      "members": [
+        [
+          "None",
+          0
+        ],
+        [
+          "Stab",
+          1
+        ],
+        [
+          "Slash",
+          2
+        ],
+        [
+          "Defensive",
+          3
+        ],
+        [
+          "Crush",
+          4
+        ],
+        [
+          "Shared",
+          5
+        ],
+        [
+          "Hack",
+          6
+        ],
+        [
+          "Chop",
+          7
+        ],
+        [
+          "Accurate",
+          8
+        ],
+        [
+          "Fast",
+          9
+        ],
+        [
+          "Focused",
+          10
+        ],
+        [
+          "LongRange",
+          11
+        ]
+      ]
+    },
+    {
+      "name": "AudioTypes",
+      "members": [
+        [
+          "Music",
+          0
+        ],
+        [
+          "SFX",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "BannerColour",
+      "members": [
+        [
+          "Grey",
+          "grey"
+        ],
+        [
+          "Green",
+          "green"
+        ],
+        [
+          "Fuchsia",
+          "fuchsia"
+        ],
+        [
+          "Red",
+          "red"
+        ],
+        [
+          "Brown",
+          "brown"
+        ],
+        [
+          "Cyan",
+          "cyan"
+        ],
+        [
+          "DarkGrey",
+          "darkgrey"
+        ],
+        [
+          "Teal",
+          "teal"
+        ],
+        [
+          "GoldenYellow",
+          "goldenyellow"
+        ]
+      ]
+    },
+    {
+      "name": "BannerCrests",
+      "members": [
+        [
+          "None",
+          "none"
+        ],
+        [
+          "Star",
+          "star"
+        ],
+        [
+          "Hawk",
+          "hawk"
+        ],
+        [
+          "Phoenix",
+          "phoenix"
+        ]
+      ]
+    },
+    {
+      "name": "BannerOutline",
+      "members": [
+        [
+          "StyleOne",
+          0
+        ],
+        [
+          "StyleTwo",
+          1
+        ],
+        [
+          "StyleThree",
+          2
+        ],
+        [
+          "StyleFour",
+          3
+        ],
+        [
+          "StyleFive",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "ContainerType",
+      "members": [
+        [
+          "Bank",
+          0
+        ],
+        [
+          "Inventory",
+          1
+        ],
+        [
+          "Trade",
+          2
+        ],
+        [
+          "LootBag",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Crowns",
+      "members": [
+        [
+          "None",
+          0
+        ],
+        [
+          "Silver",
+          1
+        ],
+        [
+          "Gold",
+          2
+        ],
+        [
+          "Artist",
+          3
+        ],
+        [
+          "Tier1",
+          4
+        ],
+        [
+          "Tier2",
+          5
+        ],
+        [
+          "Tier3",
+          6
+        ],
+        [
+          "Tier4",
+          7
+        ],
+        [
+          "Tier5",
+          8
+        ],
+        [
+          "Tier6",
+          9
+        ],
+        [
+          "Tier7",
+          10
+        ]
+      ]
+    },
+    {
+      "name": "DamageStyle",
+      "members": [
+        [
+          "None",
+          0
+        ],
+        [
+          "Crush",
+          1
+        ],
+        [
+          "Slash",
+          2
+        ],
+        [
+          "Stab",
+          3
+        ],
+        [
+          "Magic",
+          4
+        ],
+        [
+          "Archery",
+          5
+        ]
+      ]
+    },
+    {
+      "name": "Defaults",
+      "members": [
+        [
+          "MOVEMENT_SPEED",
+          220
+        ],
+        [
+          "ATTACK_RATE",
+          1000
+        ],
+        [
+          "POISON_CHANCE",
+          15
+        ]
+      ]
+    },
+    {
+      "name": "Effects",
+      "members": [
+        [
+          "None",
+          0
+        ],
+        [
+          "Critical",
+          1
+        ],
+        [
+          "Terror",
+          2
+        ],
+        [
+          "TerrorStatus",
+          3
+        ],
+        [
+          "Stun",
+          4
+        ],
+        [
+          "Healing",
+          5
+        ],
+        [
+          "Fireball",
+          6
+        ],
+        [
+          "Iceball",
+          7
+        ],
+        [
+          "Poisonball",
+          8
+        ],
+        [
+          "Boulder",
+          9
+        ],
+        [
+          "Running",
+          10
+        ],
+        [
+          "HotSauce",
+          11
+        ],
+        [
+          "DualistsMark",
+          12
+        ],
+        [
+          "ThickSkin",
+          13
+        ],
+        [
+          "SnowPotion",
+          14
+        ],
+        [
+          "FirePotion",
+          15
+        ],
+        [
+          "Burning",
+          16
+        ],
+        [
+          "Freezing",
+          17
+        ],
+        [
+          "Invincible",
+          18
+        ],
+        [
+          "AccuracyBuff",
+          19
+        ],
+        [
+          "StrengthBuff",
+          20
+        ],
+        [
+          "DefenseBuff",
+          21
+        ],
+        [
+          "MagicBuff",
+          22
+        ],
+        [
+          "ArcheryBuff",
+          23
+        ],
+        [
+          "AccuracySuperBuff",
+          24
+        ],
+        [
+          "StrengthSuperBuff",
+          25
+        ],
+        [
+          "DefenseSuperBuff",
+          26
+        ],
+        [
+          "MagicSuperBuff",
+          27
+        ],
+        [
+          "ArcherySuperBuff",
+          28
+        ],
+        [
+          "Bleed",
+          29
+        ]
+      ]
+    },
+    {
+      "name": "Enchantment",
+      "members": [
+        [
+          "Bloodsucking",
+          0
+        ],
+        [
+          "Critical",
+          1
+        ],
+        [
+          "Evasion",
+          2
+        ],
+        [
+          "Thorns",
+          3
+        ],
+        [
+          "Explosive",
+          4
+        ],
+        [
+          "Stun",
+          5
+        ],
+        [
+          "AntiStun",
+          6
+        ],
+        [
+          "Splash",
+          7
+        ],
+        [
+          "DoubleEdged",
+          8
+        ]
+      ]
+    },
+    {
+      "name": "EntityType",
+      "members": [
+        [
+          "Player",
+          0
+        ],
+        [
+          "NPC",
+          1
+        ],
+        [
+          "Item",
+          2
+        ],
+        [
+          "Mob",
+          3
+        ],
+        [
+          "Chest",
+          4
+        ],
+        [
+          "Projectile",
+          5
+        ],
+        [
+          "Object",
+          6
+        ],
+        [
+          "Pet",
+          7
+        ],
+        [
+          "LootBag",
+          8
+        ],
+        [
+          "Effect",
+          9
+        ],
+        [
+          "Tree",
+          10
+        ],
+        [
+          "Rock",
+          11
+        ],
+        [
+          "Foraging",
+          12
+        ],
+        [
+          "FishSpot",
+          13
+        ]
+      ]
+    },
+    {
+      "name": "Equipment",
+      "members": [
+        [
+          "Helmet",
+          0
+        ],
+        [
+          "Pendant",
+          1
+        ],
+        [
+          "Arrows",
+          2
+        ],
+        [
+          "Chestplate",
+          3
+        ],
+        [
+          "Weapon",
+          4
+        ],
+        [
+          "Shield",
+          5
+        ],
+        [
+          "Ring",
+          6
+        ],
+        [
+          "ArmourSkin",
+          7
+        ],
+        [
+          "WeaponSkin",
+          8
+        ],
+        [
+          "Legplates",
+          9
+        ],
+        [
+          "Cape",
+          10
+        ],
+        [
+          "Boots",
+          11
+        ]
+      ]
+    },
+    {
+      "name": "GuildRank",
+      "members": [
+        [
+          "Fledgling",
+          0
+        ],
+        [
+          "Emergent",
+          1
+        ],
+        [
+          "Established",
+          2
+        ],
+        [
+          "Adept",
+          3
+        ],
+        [
+          "Veteran",
+          4
+        ],
+        [
+          "Elite",
+          5
+        ],
+        [
+          "Master",
+          6
+        ],
+        [
+          "Landlord",
+          7
+        ]
+      ]
+    },
+    {
+      "name": "Hits",
+      "members": [
+        [
+          "Normal",
+          0
+        ],
+        [
+          "Poison",
+          1
+        ],
+        [
+          "Heal",
+          2
+        ],
+        [
+          "Mana",
+          3
+        ],
+        [
+          "Experience",
+          4
+        ],
+        [
+          "LevelUp",
+          5
+        ],
+        [
+          "Critical",
+          6
+        ],
+        [
+          "Stun",
+          7
+        ],
+        [
+          "Profession",
+          8
+        ],
+        [
+          "Freezing",
+          9
+        ],
+        [
+          "Burning",
+          10
+        ],
+        [
+          "Terror",
+          11
+        ],
+        [
+          "Explosive",
+          12
+        ]
+      ]
+    },
+    {
+      "name": "Hovering",
+      "members": [
+        [
+          "Colliding",
+          0
+        ],
+        [
+          "Mob",
+          1
+        ],
+        [
+          "Player",
+          2
+        ],
+        [
+          "Item",
+          3
+        ],
+        [
+          "NPC",
+          4
+        ],
+        [
+          "Chest",
+          5
+        ],
+        [
+          "Object",
+          6
+        ],
+        [
+          "Tree",
+          7
+        ],
+        [
+          "Rock",
+          8
+        ],
+        [
+          "FishSpot",
+          9
+        ],
+        [
+          "Foraging",
+          10
+        ]
+      ]
+    },
+    {
+      "name": "Interfaces",
+      "members": [
+        [
+          "Inventory",
+          0
+        ],
+        [
+          "Crafting",
+          1
+        ],
+        [
+          "Spells",
+          2
+        ],
+        [
+          "Bank",
+          3
+        ],
+        [
+          "Store",
+          4
+        ],
+        [
+          "Quests",
+          5
+        ],
+        [
+          "Quest",
+          6
+        ],
+        [
+          "Achievements",
+          7
+        ],
+        [
+          "Skills",
+          8
+        ],
+        [
+          "Trade",
+          9
+        ],
+        [
+          "Settings",
+          10
+        ],
+        [
+          "Warp",
+          11
+        ],
+        [
+          "Leaderboards",
+          12
+        ],
+        [
+          "Guilds",
+          13
+        ],
+        [
+          "Friends",
+          14
+        ],
+        [
+          "Enchant",
+          15
+        ],
+        [
+          "Customization",
+          16
+        ],
+        [
+          "Book",
+          17
+        ],
+        [
+          "Lootbag",
+          18
+        ],
+        [
+          "Equipments",
+          19
+        ],
+        [
+          "Welcome",
+          20
+        ]
+      ]
+    },
+    {
+      "name": "ItemDefaults",
+      "members": [
+        [
+          "RESPAWN_DELAY",
+          30000
+        ],
+        [
+          "DESPAWN_DURATION",
+          34000
+        ],
+        [
+          "BLINK_DELAY",
+          30000
+        ]
+      ]
+    },
+    {
+      "name": "MapFlags",
+      "members": [
+        [
+          "DIAGONAL_FLAG",
+          536870912
+        ],
+        [
+          "VERTICAL_FLAG",
+          1073741824
+        ],
+        [
+          "HORIZONTAL_FLAG",
+          2147483648
+        ]
+      ]
+    },
+    {
+      "name": "MenuActions",
+      "members": [
+        [
+          "Attack",
+          "attack"
+        ],
+        [
+          "Equip",
+          "equip"
+        ],
+        [
+          "DropOne",
+          "drop-one"
+        ],
+        [
+          "DropMany",
+          "drop-many"
+        ],
+        [
+          "Eat",
+          "eat"
+        ],
+        [
+          "Interact",
+          "interact"
+        ],
+        [
+          "Trade",
+          "trade"
+        ],
+        [
+          "Potion",
+          "potion"
+        ],
+        [
+          "Follow",
+          "follow"
+        ],
+        [
+          "Examine",
+          "examine"
+        ],
+        [
+          "AddFriend",
+          "addfriend"
+        ]
+      ]
+    },
+    {
+      "name": "MinigameConstants",
+      "members": [
+        [
+          "TEAM_WAR_COUNTDOWN",
+          240
+        ],
+        [
+          "TEAM_WAR_MIN_PLAYERS",
+          2
+        ],
+        [
+          "COURSING_COUNTDOWN",
+          45
+        ],
+        [
+          "COURSING_MIN_PLAYERS",
+          2
+        ],
+        [
+          "COURSING_SCORE_DIVISOR",
+          10
+        ]
+      ]
+    },
+    {
+      "name": "MobDefaults",
+      "members": [
+        [
+          "AGGRO_RANGE",
+          2
+        ],
+        [
+          "RESPAWN_DELAY",
+          60000
+        ],
+        [
+          "ROAM_DISTANCE",
+          7
+        ],
+        [
+          "ROAM_FREQUENCY",
+          17000
+        ],
+        [
+          "HEALTH_LEVEL",
+          1
+        ],
+        [
+          "ACCURACY_LEVEL",
+          1
+        ],
+        [
+          "STRENGTH_LEVEL",
+          1
+        ],
+        [
+          "DEFENSE_LEVEL",
+          1
+        ],
+        [
+          "MAGIC_LEVEL",
+          1
+        ],
+        [
+          "ARCHERY_LEVEL",
+          1
+        ],
+        [
+          "ATTACK_LEVEL",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "NPCRole",
+      "members": [
+        [
+          "Banker",
+          0
+        ],
+        [
+          "Enchanter",
+          1
+        ],
+        [
+          "Clerk",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Orientation",
+      "members": [
+        [
+          "Up",
+          0
+        ],
+        [
+          "Down",
+          1
+        ],
+        [
+          "Left",
+          2
+        ],
+        [
+          "Right",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "PacketType",
+      "members": [
+        [
+          "Broadcast",
+          0
+        ],
+        [
+          "Player",
+          1
+        ],
+        [
+          "Players",
+          2
+        ],
+        [
+          "Region",
+          3
+        ],
+        [
+          "Regions",
+          4
+        ],
+        [
+          "RegionList",
+          5
+        ]
+      ]
+    },
+    {
+      "name": "PoisonTypes",
+      "members": [
+        [
+          "Venom",
+          0
+        ],
+        [
+          "Plague",
+          1
+        ],
+        [
+          "Persistent",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Ranks",
+      "members": [
+        [
+          "None",
+          0
+        ],
+        [
+          "Moderator",
+          1
+        ],
+        [
+          "Admin",
+          2
+        ],
+        [
+          "Veteran",
+          3
+        ],
+        [
+          "Patron",
+          4
+        ],
+        [
+          "Artist",
+          5
+        ],
+        [
+          "Cheater",
+          6
+        ],
+        [
+          "TierOne",
+          7
+        ],
+        [
+          "TierTwo",
+          8
+        ],
+        [
+          "TierThree",
+          9
+        ],
+        [
+          "TierFour",
+          10
+        ],
+        [
+          "TierFive",
+          11
+        ],
+        [
+          "TierSix",
+          12
+        ],
+        [
+          "TierSeven",
+          13
+        ],
+        [
+          "HollowAdmin",
+          14
+        ],
+        [
+          "Booster",
+          15
+        ]
+      ]
+    },
+    {
+      "name": "ResourceState",
+      "members": [
+        [
+          "Default",
+          0
+        ],
+        [
+          "Depleted",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Skills",
+      "members": [
+        [
+          "Lumberjacking",
+          0
+        ],
+        [
+          "Accuracy",
+          1
+        ],
+        [
+          "Archery",
+          2
+        ],
+        [
+          "Health",
+          3
+        ],
+        [
+          "Magic",
+          4
+        ],
+        [
+          "Mining",
+          5
+        ],
+        [
+          "Strength",
+          6
+        ],
+        [
+          "Defense",
+          7
+        ],
+        [
+          "Fishing",
+          8
+        ],
+        [
+          "Cooking",
+          9
+        ],
+        [
+          "Smithing",
+          10
+        ],
+        [
+          "Crafting",
+          11
+        ],
+        [
+          "Chiseling",
+          12
+        ],
+        [
+          "Fletching",
+          13
+        ],
+        [
+          "Smelting",
+          14
+        ],
+        [
+          "Foraging",
+          15
+        ],
+        [
+          "Eating",
+          16
+        ],
+        [
+          "Loitering",
+          17
+        ],
+        [
+          "Alchemy",
+          18
+        ]
+      ]
+    },
+    {
+      "name": "SpecialEntityTypes",
+      "members": [
+        [
+          "Achievement",
+          0
+        ],
+        [
+          "Quest",
+          1
+        ],
+        [
+          "Area",
+          2
+        ],
+        [
+          "Boss",
+          3
+        ],
+        [
+          "Miniboss",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Warps",
+      "members": [
+        [
+          "Mudwich",
+          0
+        ],
+        [
+          "Aynor",
+          1
+        ],
+        [
+          "Lakesworld",
+          2
+        ],
+        [
+          "Patsow",
+          3
+        ],
+        [
+          "Crullfield",
+          4
+        ],
+        [
+          "Undersea",
+          5
+        ]
+      ]
+    }
+  ],
+  "constants": [
+    {
+      "name": "MAX_STACK",
+      "value": 2147483647
+    },
+    {
+      "name": "MAX_LEVEL",
+      "value": 120
+    },
+    {
+      "name": "INVENTORY_SIZE",
+      "value": 25
+    },
+    {
+      "name": "BANK_SIZE",
+      "value": 420
+    },
+    {
+      "name": "DROP_PROBABILITY",
+      "value": 100000
+    },
+    {
+      "name": "MAX_PROFESSION_LEVEL",
+      "value": 99
+    },
+    {
+      "name": "HEAL_RATE",
+      "value": 7000
+    },
+    {
+      "name": "EFFECT_RATE",
+      "value": 10000
+    },
+    {
+      "name": "STORE_UPDATE_FREQUENCY",
+      "value": 20000
+    },
+    {
+      "name": "MAP_DIVISION_SIZE",
+      "value": 48
+    },
+    {
+      "name": "SPAWN_POINT",
+      "value": "328,892"
+    },
+    {
+      "name": "TUTORIAL_QUEST_KEY",
+      "value": "tutorial"
+    },
+    {
+      "name": "ALCHEMY_QUEST_KEY",
+      "value": "scientistspotion"
+    },
+    {
+      "name": "CRAFTING_QUEST_KEY",
+      "value": "artsandcrafts"
+    },
+    {
+      "name": "TUTORIAL_SPAWN_POINT",
+      "value": "133,562"
+    },
+    {
+      "name": "JAIL_SPAWN_POINT",
+      "value": "110,915"
+    },
+    {
+      "name": "RESOURCE_RESPAWN",
+      "value": 30000
+    },
+    {
+      "name": "TREE_RESPAWN",
+      "value": 25000
+    },
+    {
+      "name": "CHEST_RESPAWN",
+      "value": 50000
+    },
+    {
+      "name": "SKILL_LOOP",
+      "value": 1000
+    },
+    {
+      "name": "MAX_ACCURACY",
+      "value": 0.45
+    },
+    {
+      "name": "EDIBLE_COOLDOWN",
+      "value": 1500
+    },
+    {
+      "name": "CRAFT_COOLDOWN",
+      "value": 1500
+    },
+    {
+      "name": "ARCHER_ATTACK_RANGE",
+      "value": 8
+    },
+    {
+      "name": "MAX_CONNECTIONS",
+      "value": 16
+    },
+    {
+      "name": "EXPERIENCE_PER_HIT",
+      "value": 2
+    },
+    {
+      "name": "SNOW_POTION_DURATION",
+      "value": 60000
+    },
+    {
+      "name": "FIRE_POTION_DURATION",
+      "value": 60000
+    },
+    {
+      "name": "FREEZING_DURATION",
+      "value": 60000
+    },
+    {
+      "name": "BURNING_DURATION",
+      "value": 60000
+    },
+    {
+      "name": "TERROR_DURATION",
+      "value": 60000
+    },
+    {
+      "name": "LOITERING_THRESHOLD",
+      "value": 90000
+    },
+    {
+      "name": "STUN_DURATION",
+      "value": 10000
+    },
+    {
+      "name": "COLD_EFFECT_DAMAGE",
+      "value": 10
+    },
+    {
+      "name": "BURNING_EFFECT_DAMAGE",
+      "value": 20
+    },
+    {
+      "name": "ATTACKER_TIMEOUT",
+      "value": 20000
+    },
+    {
+      "name": "MAX_GUILD_MEMBERS",
+      "value": 50
+    },
+    {
+      "name": "EVENTS_CHECK_INTERVAL",
+      "value": 3600000
+    }
+  ],
+  "objects": {
+    "DamageColours": {
+      "0": {
+        "fill": "rgb(255, 50, 50)",
+        "stroke": "rgb(255, 180, 180)",
+        "inflicted": {
+          "fill": "white",
+          "stroke": "#373737"
+        }
+      },
+      "1": {
+        "fill": "rgb(66, 183, 77)",
+        "stroke": "rgb(50, 120 , 50)"
+      },
+      "2": {
+        "fill": "rgb(80, 255, 80)",
+        "stroke": "rgb(50, 120, 50)"
+      },
+      "3": {
+        "fill": "rgb(73, 94, 228)",
+        "stroke": "rgb(56, 63, 133)"
+      },
+      "4": {
+        "fill": "rgb(80, 180, 255)",
+        "stroke": "rgb(15, 85, 138)"
+      },
+      "5": {
+        "fill": "rgb(80, 180, 255)",
+        "stroke": "rgb(15, 85, 138)"
+      },
+      "6": {
+        "fill": "rgb(204, 0, 204)",
+        "stroke": "rgb(255, 180, 180)",
+        "inflicted": {
+          "fill": "rgb(255, 153, 204)",
+          "stroke": "#373737"
+        }
+      },
+      "8": {
+        "fill": "rgb(204, 0, 153)",
+        "stroke": "rgb(112, 17, 112)"
+      },
+      "9": {
+        "fill": "rgb(52, 195, 235)",
+        "stroke": "rgb(14, 138, 227)"
+      },
+      "10": {
+        "fill": "rgb(227, 170, 14)",
+        "stroke": "rgb(235, 135, 52)"
+      },
+      "11": {
+        "fill": "rgb(89, 21, 125)",
+        "stroke": "rgb(136, 29, 194)"
+      },
+      "12": {
+        "fill": "rgb(255, 50, 50)",
+        "stroke": "rgb(255, 180, 180)",
+        "inflicted": {
+          "fill": "white",
+          "stroke": "#373737"
+        }
+      }
+    },
+    "EmptyPointer": {
+      "type": 3
+    },
+    "EntityScale": {
+      "4": 1.2
+    },
+    "EquipmentRenderOrder": [
+      10,
+      9,
+      3,
+      0,
+      7,
+      5,
+      4,
+      8
+    ],
+    "NameColours": {
+      "0": "rgb(60, 179, 113)",
+      "1": "rgb(106, 90, 205)",
+      "2": "rgb(255, 165, 0)",
+      "3": "rgb(150, 0, 51)",
+      "4": "rgb(204, 51, 0)"
+    },
+    "PoisonInfo": {
+      "0": {
+        "name": "Venom",
+        "damage": 5,
+        "duration": 30,
+        "rate": 2
+      },
+      "1": {
+        "name": "Plague",
+        "damage": 5,
+        "duration": 60,
+        "rate": 1
+      },
+      "2": {
+        "name": "Persistent",
+        "damage": 2,
+        "duration": -1,
+        "rate": 1
+      }
+    },
+    "RankColours": {
+      "0": "",
+      "1": "#02f070",
+      "2": "#3bbaff",
+      "3": "#d84343",
+      "4": "#db753c",
+      "5": "#b552f7",
+      "6": "#ffffff",
+      "7": "#db963c",
+      "8": "#e6c843",
+      "9": "#d6e34b",
+      "10": "#a9e03a",
+      "11": "#7beb65",
+      "12": "#77e691",
+      "13": "#77e691",
+      "14": "#3bbaff",
+      "15": "#f47fff"
+    },
+    "RankTitles": {
+      "0": "",
+      "1": "Mod",
+      "2": "Admin",
+      "3": "Veteran",
+      "4": "Patron",
+      "5": "Artist",
+      "6": "Cheater",
+      "7": "T1 Patron",
+      "8": "T2 Patron",
+      "9": "T3 Patron",
+      "10": "T4 Patron",
+      "11": "T5 Patron",
+      "12": "T6 Patron",
+      "13": "T7 Patron",
+      "14": "Admin",
+      "15": "Booster"
+    },
+    "SkillExpColours": {
+      "0": {
+        "fill": "rgb(132, 57, 45)",
+        "stroke": "rgb(101, 48, 35)"
+      },
+      "1": {
+        "fill": "rgb(6, 191, 188)",
+        "stroke": "rgb(2, 94, 93)"
+      },
+      "2": {
+        "fill": "rgb(34, 214, 130)",
+        "stroke": "rgb(7, 184, 101)"
+      },
+      "3": {
+        "fill": "rgb(239, 90, 90)",
+        "stroke": "rgb(255, 0, 0)"
+      },
+      "4": {
+        "fill": "rgb(37, 124, 210)",
+        "stroke": "rgb(12, 55, 208)"
+      },
+      "5": {
+        "fill": "rgb(105, 106, 107)",
+        "stroke": "rgb(45, 45, 46)"
+      },
+      "6": {
+        "fill": "rgb(232, 211, 185)",
+        "stroke": "rgb(189, 172, 151)"
+      },
+      "7": {
+        "fill": "rgb(110, 158, 255)",
+        "stroke": "rgb(7, 63, 176)"
+      },
+      "8": {
+        "fill": "rgb(0, 170, 230)",
+        "stroke": "rgb(0, 100, 180)"
+      },
+      "9": {
+        "fill": "rgb(255, 165, 0)",
+        "stroke": "rgb(205, 133, 0)"
+      },
+      "10": {
+        "fill": "rgb(132, 57, 45)",
+        "stroke": "rgb(101, 48, 35)"
+      },
+      "11": {
+        "fill": "rgb(128, 0, 128)",
+        "stroke": "rgb(85, 0, 85)"
+      },
+      "12": {
+        "fill": "rgb(188, 143, 143)",
+        "stroke": "rgb(139, 100, 100)"
+      },
+      "13": {
+        "fill": "rgb(139, 69, 19)",
+        "stroke": "rgb(85, 40, 0)"
+      },
+      "14": {
+        "fill": "rgb(255, 99, 71)",
+        "stroke": "rgb(205, 50, 25)"
+      },
+      "15": {
+        "fill": "rgb(124, 252, 0)",
+        "stroke": "rgb(85, 180, 0)"
+      },
+      "16": {
+        "fill": "rgb(255, 228, 196)",
+        "stroke": "rgb(238, 213, 183)"
+      },
+      "17": {
+        "fill": "rgb(221, 160, 221)",
+        "stroke": "rgb(199, 120, 199)"
+      },
+      "18": {
+        "fill": "rgb(255, 215, 0)",
+        "stroke": "rgb(218, 165, 0)"
+      }
+    },
+    "SkillsOrder": [
+      3,
+      1,
+      6,
+      7,
+      2,
+      4,
+      0,
+      5,
+      8,
+      15,
+      11,
+      9,
+      13,
+      10,
+      18,
+      16,
+      17
+    ]
+  }
+}

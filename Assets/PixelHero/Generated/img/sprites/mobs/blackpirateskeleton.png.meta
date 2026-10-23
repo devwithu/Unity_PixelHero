@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: ba613414794f71943b76ec86491c670f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6431607484528765927
+    second: blackpirateskeleton_0
+  - first:
+      213: 1473416216042867020
+    second: blackpirateskeleton_1
+  - first:
+      213: -2386674656921911019
+    second: blackpirateskeleton_2
+  - first:
+      213: 5470008781692761022
+    second: blackpirateskeleton_3
+  - first:
+      213: 264583158596500897
+    second: blackpirateskeleton_4
+  - first:
+      213: 4405878117044923438
+    second: blackpirateskeleton_5
+  - first:
+      213: 6031720228211522627
+    second: blackpirateskeleton_6
+  - first:
+      213: 1678587651711294075
+    second: blackpirateskeleton_7
+  - first:
+      213: -2033365125585854846
+    second: blackpirateskeleton_8
+  - first:
+      213: -614576871354667322
+    second: blackpirateskeleton_9
+  - first:
+      213: -2571266947030399575
+    second: blackpirateskeleton_10
+  - first:
+      213: -2813218199299525483
+    second: blackpirateskeleton_11
+  - first:
+      213: -4325447823498788787
+    second: blackpirateskeleton_12
+  - first:
+      213: -3687486723955881199
+    second: blackpirateskeleton_13
+  - first:
+      213: 6421256829856014985
+    second: blackpirateskeleton_14
+  - first:
+      213: -2822787595826750435
+    second: blackpirateskeleton_15
+  - first:
+      213: -8528418412599385839
+    second: blackpirateskeleton_16
+  - first:
+      213: 3648373963237058123
+    second: blackpirateskeleton_17
+  - first:
+      213: -1897487322272522232
+    second: blackpirateskeleton_18
+  - first:
+      213: 593681840054806378
+    second: blackpirateskeleton_19
+  - first:
+      213: -5438223366392146533
+    second: blackpirateskeleton_20
+  - first:
+      213: -2536249689443142477
+    second: blackpirateskeleton_21
+  - first:
+      213: 5759065160784595690
+    second: blackpirateskeleton_22
+  - first:
+      213: -5626265891537163972
+    second: blackpirateskeleton_23
+  - first:
+      213: 455310375184143814
+    second: blackpirateskeleton_24
+  - first:
+      213: -5044337243563038915
+    second: blackpirateskeleton_25
+  - first:
+      213: -5456700240089306189
+    second: blackpirateskeleton_26
+  - first:
+      213: -6526068644585070205
+    second: blackpirateskeleton_27
+  - first:
+      213: -9186517055855032354
+    second: blackpirateskeleton_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackpirateskeleton_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9145be5a1175eb6a0800000000000000
+      internalID: -6431607484528765927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 260
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c490983fd30a27410800000000000000
+      internalID: 1473416216042867020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5110ebf6b04d0eed0800000000000000
+      internalID: -2386674656921911019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3701f610069eb40800000000000000
+      internalID: 5470008781692761022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 228
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adf1bd1bfcfba300800000000000000
+      internalID: 264583158596500897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 228
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c212addc2d42d30800000000000000
+      internalID: 4405878117044923438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf5131799f4b350800000000000000
+      internalID: 6031720228211522627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7adb90639a8b4710800000000000000
+      internalID: 1678587651711294075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e99c6013908c3e0800000000000000
+      internalID: -2033365125585854846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceebb777959877f0800000000000000
+      internalID: -614576871354667322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5cc87b556015cd0800000000000000
+      internalID: -2571266947030399575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 164
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594761be3f075f8d0800000000000000
+      internalID: -2813218199299525483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d404ed92f1ce8f3c0800000000000000
+      internalID: -4325447823498788787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b04a89c5a63dcc0800000000000000
+      internalID: -3687486723955881199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9826e13c013ec1950800000000000000
+      internalID: 6421256829856014985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 132
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1e5a23a173d8d0800000000000000
+      internalID: -2822787595826750435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111ec15a3a8f4a980800000000000000
+      internalID: -8528418412599385839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4667862ac0a1a230800000000000000
+      internalID: 3648373963237058123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a32e6555caa5e0800000000000000
+      internalID: -1897487322272522232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 70
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a672112fc7e2d3800800000000000000
+      internalID: 593681840054806378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 69
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9597f449ac8784b0800000000000000
+      internalID: -5438223366392146533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4fb07585e6dccd0800000000000000
+      internalID: -2536249689443142477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeac4ea304f4cef40800000000000000
+      internalID: 5759065160784595690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39e70b1bfc7be1b0800000000000000
+      internalID: -5626265891537163972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c59667bf56915600800000000000000
+      internalID: 455310375184143814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37e626c00aeef9b0800000000000000
+      internalID: -5044337243563038915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb20bfda08e544b0800000000000000
+      internalID: -5456700240089306189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38121b3f42fbe65a0800000000000000
+      internalID: -6526068644585070205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackpirateskeleton_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed781b2f86fe28080800000000000000
+      internalID: -9186517055855032354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blackpirateskeleton_0: -6431607484528765927
+      blackpirateskeleton_1: 1473416216042867020
+      blackpirateskeleton_10: -2571266947030399575
+      blackpirateskeleton_11: -2813218199299525483
+      blackpirateskeleton_12: -4325447823498788787
+      blackpirateskeleton_13: -3687486723955881199
+      blackpirateskeleton_14: 6421256829856014985
+      blackpirateskeleton_15: -2822787595826750435
+      blackpirateskeleton_16: -8528418412599385839
+      blackpirateskeleton_17: 3648373963237058123
+      blackpirateskeleton_18: -1897487322272522232
+      blackpirateskeleton_19: 593681840054806378
+      blackpirateskeleton_2: -2386674656921911019
+      blackpirateskeleton_20: -5438223366392146533
+      blackpirateskeleton_21: -2536249689443142477
+      blackpirateskeleton_22: 5759065160784595690
+      blackpirateskeleton_23: -5626265891537163972
+      blackpirateskeleton_24: 455310375184143814
+      blackpirateskeleton_25: -5044337243563038915
+      blackpirateskeleton_26: -5456700240089306189
+      blackpirateskeleton_27: -6526068644585070205
+      blackpirateskeleton_28: -9186517055855032354
+      blackpirateskeleton_3: 5470008781692761022
+      blackpirateskeleton_4: 264583158596500897
+      blackpirateskeleton_5: 4405878117044923438
+      blackpirateskeleton_6: 6031720228211522627
+      blackpirateskeleton_7: 1678587651711294075
+      blackpirateskeleton_8: -2033365125585854846
+      blackpirateskeleton_9: -614576871354667322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

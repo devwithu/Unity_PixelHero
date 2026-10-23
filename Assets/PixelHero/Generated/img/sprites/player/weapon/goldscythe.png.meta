@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: c61fc0700f3a2554dbe4a5e4e62761d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7195316171671149859
+    second: goldscythe_0
+  - first:
+      213: 7927901878320515329
+    second: goldscythe_1
+  - first:
+      213: -4539035981134876198
+    second: goldscythe_2
+  - first:
+      213: -7739329991867548141
+    second: goldscythe_3
+  - first:
+      213: 4427155627971561996
+    second: goldscythe_4
+  - first:
+      213: 7352464141286535440
+    second: goldscythe_5
+  - first:
+      213: -6720664855026574481
+    second: goldscythe_6
+  - first:
+      213: -5145951308837474703
+    second: goldscythe_7
+  - first:
+      213: -829971998796764479
+    second: goldscythe_8
+  - first:
+      213: -1176308375678111089
+    second: goldscythe_9
+  - first:
+      213: -3965991813680286291
+    second: goldscythe_10
+  - first:
+      213: 1205352640153005410
+    second: goldscythe_11
+  - first:
+      213: 3283503389934206509
+    second: goldscythe_12
+  - first:
+      213: -7457717280897322409
+    second: goldscythe_13
+  - first:
+      213: -4401182745896024878
+    second: goldscythe_14
+  - first:
+      213: -2134189997591339303
+    second: goldscythe_15
+  - first:
+      213: -480580639214216289
+    second: goldscythe_16
+  - first:
+      213: -2652295854352481140
+    second: goldscythe_17
+  - first:
+      213: -1305226022996815931
+    second: goldscythe_18
+  - first:
+      213: -5450844721613862588
+    second: goldscythe_19
+  - first:
+      213: 58558082634281568
+    second: goldscythe_20
+  - first:
+      213: -3387527086403949621
+    second: goldscythe_21
+  - first:
+      213: 1269087658747125659
+    second: goldscythe_22
+  - first:
+      213: -3039831202340519434
+    second: goldscythe_23
+  - first:
+      213: -6507537293250431784
+    second: goldscythe_24
+  - first:
+      213: -1497425350796937034
+    second: goldscythe_25
+  - first:
+      213: -3233847929382635738
+    second: goldscythe_26
+  - first:
+      213: 5868239530757601626
+    second: goldscythe_27
+  - first:
+      213: 5749299331290885999
+    second: goldscythe_28
+  - first:
+      213: -3404225926580881716
+    second: goldscythe_29
+  - first:
+      213: -9063835600680496626
+    second: goldscythe_30
+  - first:
+      213: 8573353247998888780
+    second: goldscythe_31
+  - first:
+      213: -367438883076677725
+    second: goldscythe_32
+  - first:
+      213: -718966523118265985
+    second: goldscythe_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldscythe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2eae4701a152c90800000000000000
+      internalID: -7195316171671149859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109427721c0950e60800000000000000
+      internalID: 7927901878320515329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13db1f2da1201c0800000000000000
+      internalID: -4539035981134876198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e353b8060689490800000000000000
+      internalID: -7739329991867548141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0acd9a669a607d30800000000000000
+      internalID: 4427155627971561996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 354
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0117e257e23390660800000000000000
+      internalID: 7352464141286535440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b50b50ce66bb2a0800000000000000
+      internalID: -6720664855026574481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e294d8c88e598b0800000000000000
+      internalID: -5145951308837474703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 307
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caa23e4dd85b74f0800000000000000
+      internalID: -829971998796764479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b361c3c9ecafe0800000000000000
+      internalID: -1176308375678111089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5ba7b4577f5f8c0800000000000000
+      internalID: -3965991813680286291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 307
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d266907d54ab010800000000000000
+      internalID: 1205352640153005410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eb1d7bfe8519d20800000000000000
+      internalID: 3283503389934206509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752b2dc45add08890800000000000000
+      internalID: -7457717280897322409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d40a4f6c9bdbe2c0800000000000000
+      internalID: -4401182745896024878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de506e2185d162e0800000000000000
+      internalID: -2134189997591339303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bd4b17472a459f0800000000000000
+      internalID: -480580639214216289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 210
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84441219f6213bd0800000000000000
+      internalID: -2652295854352481140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfcda3f8d7e2ede0800000000000000
+      internalID: -1305226022996815931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 211
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44984620b95ba54b0800000000000000
+      internalID: -5450844721613862588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062f422144a00d000800000000000000
+      internalID: 58558082634281568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe0e310161df0d0800000000000000
+      internalID: -3387527086403949621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f54707084bc9110800000000000000
+      internalID: 1269087658747125659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1485f80a950d5d0800000000000000
+      internalID: -3039831202340519434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d473396f4590b5a0800000000000000
+      internalID: -6507537293250431784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 117
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b87510c393183be0800000000000000
+      internalID: -1497425350796937034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 107
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f38f11701f13d0800000000000000
+      internalID: -3233847929382635738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 108
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5936bf03cc207150800000000000000
+      internalID: 5868239530757601626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6febfcd74d99cf40800000000000000
+      internalID: 5749299331290885999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b8fe5e82c1c0d0800000000000000
+      internalID: -3404225926580881716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 60
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0256ee1b89c63280800000000000000
+      internalID: -9063835600680496626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b4ae00b5baaf670800000000000000
+      internalID: 8573353247998888780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af5c89584896eaf0800000000000000
+      internalID: -367438883076677725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldscythe_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f795328a1c7b506f0800000000000000
+      internalID: -718966523118265985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goldscythe_0: -7195316171671149859
+      goldscythe_1: 7927901878320515329
+      goldscythe_10: -3965991813680286291
+      goldscythe_11: 1205352640153005410
+      goldscythe_12: 3283503389934206509
+      goldscythe_13: -7457717280897322409
+      goldscythe_14: -4401182745896024878
+      goldscythe_15: -2134189997591339303
+      goldscythe_16: -480580639214216289
+      goldscythe_17: -2652295854352481140
+      goldscythe_18: -1305226022996815931
+      goldscythe_19: -5450844721613862588
+      goldscythe_2: -4539035981134876198
+      goldscythe_20: 58558082634281568
+      goldscythe_21: -3387527086403949621
+      goldscythe_22: 1269087658747125659
+      goldscythe_23: -3039831202340519434
+      goldscythe_24: -6507537293250431784
+      goldscythe_25: -1497425350796937034
+      goldscythe_26: -3233847929382635738
+      goldscythe_27: 5868239530757601626
+      goldscythe_28: 5749299331290885999
+      goldscythe_29: -3404225926580881716
+      goldscythe_3: -7739329991867548141
+      goldscythe_30: -9063835600680496626
+      goldscythe_31: 8573353247998888780
+      goldscythe_32: -367438883076677725
+      goldscythe_33: -718966523118265985
+      goldscythe_4: 4427155627971561996
+      goldscythe_5: 7352464141286535440
+      goldscythe_6: -6720664855026574481
+      goldscythe_7: -5145951308837474703
+      goldscythe_8: -829971998796764479
+      goldscythe_9: -1176308375678111089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

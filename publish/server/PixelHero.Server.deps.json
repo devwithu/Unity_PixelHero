@@ -1,0 +1,433 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PixelHero.Server/1.0.0": {
+        "dependencies": {
+          "PixelHero.Server.Core": "1.0.0",
+          "SuperSocket.WebSocket.Server": "2.1.0"
+        },
+        "runtime": {
+          "PixelHero.Server.dll": {}
+        }
+      },
+      "BCrypt.Net-Next/4.0.3": {
+        "runtime": {
+          "lib/net6.0/BCrypt.Net-Next.dll": {
+            "assemblyVersion": "4.0.3.0",
+            "fileVersion": "4.0.3.0"
+          }
+        }
+      },
+      "Discord.Net.Core/3.20.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "runtime": {
+          "lib/net10.0/Discord.Net.Core.dll": {
+            "assemblyVersion": "3.20.1.0",
+            "fileVersion": "3.20.1.0"
+          }
+        }
+      },
+      "Discord.Net.Dave/3.20.1": {
+        "runtime": {
+          "lib/net10.0/Discord.Net.Dave.dll": {
+            "assemblyVersion": "3.20.1.0",
+            "fileVersion": "3.20.1.0"
+          }
+        }
+      },
+      "Discord.Net.Rest/3.20.1": {
+        "dependencies": {
+          "Discord.Net.Core": "3.20.1"
+        },
+        "runtime": {
+          "lib/net10.0/Discord.Net.Rest.dll": {
+            "assemblyVersion": "3.20.1.0",
+            "fileVersion": "3.20.1.0"
+          }
+        }
+      },
+      "Discord.Net.WebSocket/3.20.1": {
+        "dependencies": {
+          "Discord.Net.Core": "3.20.1",
+          "Discord.Net.Dave": "3.20.1",
+          "Discord.Net.Rest": "3.20.1"
+        },
+        "runtime": {
+          "lib/net10.0/Discord.Net.WebSocket.dll": {
+            "assemblyVersion": "3.20.1.0",
+            "fileVersion": "3.20.1.0"
+          }
+        }
+      },
+      "DnsClient/1.6.1": {
+        "runtime": {
+          "lib/net5.0/DnsClient.dll": {
+            "assemblyVersion": "1.6.1.0",
+            "fileVersion": "1.6.1.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Hosting/8.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.EventLog": "8.0.0"
+        }
+      },
+      "Microsoft.Extensions.Logging.EventLog/8.0.0": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "8.0.0"
+        }
+      },
+      "MongoDB.Bson/3.9.0": {
+        "runtime": {
+          "lib/net6.0/MongoDB.Bson.dll": {
+            "assemblyVersion": "3.9.0.0",
+            "fileVersion": "3.9.0.0"
+          }
+        }
+      },
+      "MongoDB.Driver/3.9.0": {
+        "dependencies": {
+          "DnsClient": "1.6.1",
+          "MongoDB.Bson": "3.9.0",
+          "SharpCompress": "0.48.1",
+          "Snappier": "1.3.1",
+          "ZstdSharp.Port": "0.7.3"
+        },
+        "runtime": {
+          "lib/net6.0/MongoDB.Driver.dll": {
+            "assemblyVersion": "3.9.0.0",
+            "fileVersion": "3.9.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.4": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.4.30916"
+          }
+        }
+      },
+      "SharpCompress/0.48.1": {
+        "runtime": {
+          "lib/net10.0/SharpCompress.dll": {
+            "assemblyVersion": "0.48.1.0",
+            "fileVersion": "0.48.1.0"
+          }
+        }
+      },
+      "Snappier/1.3.1": {
+        "runtime": {
+          "lib/net8.0/Snappier.dll": {
+            "assemblyVersion": "1.3.1.0",
+            "fileVersion": "1.3.1.0"
+          }
+        }
+      },
+      "SuperSocket.Command/2.1.0": {
+        "dependencies": {
+          "SuperSocket.Primitives": "2.1.0",
+          "SuperSocket.Server.Abstractions": "2.1.0"
+        },
+        "runtime": {
+          "lib/net10.0/SuperSocket.Command.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "SuperSocket.Connection/2.1.0": {
+        "dependencies": {
+          "SuperSocket.ProtoBase": "2.1.0"
+        },
+        "runtime": {
+          "lib/net10.0/SuperSocket.Connection.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "SuperSocket.Primitives/2.1.0": {
+        "dependencies": {
+          "SuperSocket.ProtoBase": "2.1.0"
+        },
+        "runtime": {
+          "lib/net10.0/SuperSocket.Primitives.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "SuperSocket.ProtoBase/2.1.0": {
+        "runtime": {
+          "lib/net10.0/SuperSocket.ProtoBase.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "SuperSocket.Server/2.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Hosting": "8.0.0",
+          "SuperSocket.ProtoBase": "2.1.0",
+          "SuperSocket.Server.Abstractions": "2.1.0"
+        },
+        "runtime": {
+          "lib/net10.0/SuperSocket.Server.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "SuperSocket.Server.Abstractions/2.1.0": {
+        "dependencies": {
+          "SuperSocket.Connection": "2.1.0",
+          "SuperSocket.Primitives": "2.1.0",
+          "SuperSocket.ProtoBase": "2.1.0"
+        },
+        "runtime": {
+          "lib/net10.0/SuperSocket.Server.Abstractions.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "SuperSocket.WebSocket/2.1.0": {
+        "dependencies": {
+          "SuperSocket.ProtoBase": "2.1.0"
+        },
+        "runtime": {
+          "lib/net10.0/SuperSocket.WebSocket.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "SuperSocket.WebSocket.Server/2.1.0": {
+        "dependencies": {
+          "SuperSocket.Command": "2.1.0",
+          "SuperSocket.Primitives": "2.1.0",
+          "SuperSocket.Server": "2.1.0",
+          "SuperSocket.WebSocket": "2.1.0"
+        },
+        "runtime": {
+          "lib/net10.0/SuperSocket.WebSocket.Server.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/8.0.0": {
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "ZstdSharp.Port/0.7.3": {
+        "runtime": {
+          "lib/net7.0/ZstdSharp.dll": {
+            "assemblyVersion": "0.7.3.0",
+            "fileVersion": "0.7.3.0"
+          }
+        }
+      },
+      "PixelHero.Server.Core/1.0.0": {
+        "dependencies": {
+          "BCrypt.Net-Next": "4.0.3",
+          "Discord.Net.WebSocket": "3.20.1",
+          "MongoDB.Driver": "3.9.0"
+        },
+        "runtime": {
+          "PixelHero.Server.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PixelHero.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCrypt.Net-Next/4.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W+U9WvmZQgi5cX6FS5GDtDoPzUCV4LkBLkywq/kRZhuDwcbavOzcDAr3LXJFqHUi952Yj3LEYoWW0jbEUQChsA==",
+      "path": "bcrypt.net-next/4.0.3",
+      "hashPath": "bcrypt.net-next.4.0.3.nupkg.sha512"
+    },
+    "Discord.Net.Core/3.20.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fgWdbTlcd2ck05OoS03UBd/7kyrgHWATV9o2mvTwReqIB2CCcVPf5Qu8BpUpr3IgGYNHeVg+9J4KnK9DznYT4Q==",
+      "path": "discord.net.core/3.20.1",
+      "hashPath": "discord.net.core.3.20.1.nupkg.sha512"
+    },
+    "Discord.Net.Dave/3.20.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fsHIhE5dRHlihOsqwe3WNjgHiS9Xgh8XJWjsuJ/R1nfiSuGFYrEopF7EFMOpIs9z2aHaGKl8GurA8HP6RHoLWg==",
+      "path": "discord.net.dave/3.20.1",
+      "hashPath": "discord.net.dave.3.20.1.nupkg.sha512"
+    },
+    "Discord.Net.Rest/3.20.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vAmHwdpotchmz/rPicB2BrYoU2yWmMuFJhqDv/Ywi4nelIo/O7VYzzHD82iNGm3fYnD+2m+dCcZZGGgga3A7wQ==",
+      "path": "discord.net.rest/3.20.1",
+      "hashPath": "discord.net.rest.3.20.1.nupkg.sha512"
+    },
+    "Discord.Net.WebSocket/3.20.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/JwHnqfAFkEfZ8nO3dKpImGEFG+pYG9KzcGvNYuHYztMsA2r9+bdk0Y1OxncL53zaE3053wq0AtwlXe8+CDfgQ==",
+      "path": "discord.net.websocket/3.20.1",
+      "hashPath": "discord.net.websocket.3.20.1.nupkg.sha512"
+    },
+    "DnsClient/1.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4H/f2uYJOZ+YObZjpY9ABrKZI+JNw3uizp6oMzTXwDw6F+2qIPhpRl/1t68O/6e98+vqNiYGu+lswmwdYUy3gg==",
+      "path": "dnsclient/1.6.1",
+      "hashPath": "dnsclient.1.6.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Hosting/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ItYHpdqVp5/oFLT5QqbopnkKlyFG9EW/9nhM6/yfObeKt6Su0wkBio6AizgRHGNwhJuAtlE5VIjow5JOTrip6w==",
+      "path": "microsoft.extensions.hosting/8.0.0",
+      "hashPath": "microsoft.extensions.hosting.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.EventLog/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3X9D3sl7EmOu7vQp5MJrmIJBl5XSdOhZPYXUeFfYa6Nnm9+tok8x3t3IVPLhm7UJtPOU61ohFchw8rNm9tIYOQ==",
+      "path": "microsoft.extensions.logging.eventlog/8.0.0",
+      "hashPath": "microsoft.extensions.logging.eventlog.8.0.0.nupkg.sha512"
+    },
+    "MongoDB.Bson/3.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J6vB61zKwMSfxbkN+/amGvj1qVMDKrKjV3kmoOWttMcv8JJScLDCFh89FyL3f2lDUyJrnfgZCR6/KX+07e99eg==",
+      "path": "mongodb.bson/3.9.0",
+      "hashPath": "mongodb.bson.3.9.0.nupkg.sha512"
+    },
+    "MongoDB.Driver/3.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XKUa+y5RtNH1iInfxj3Y7c1FN1BQ16/7hFxoqU6fzc3+BKM1D3mGa+pB/yBbAk8jNxf7+JWEnCfuQOyCo7dQLg==",
+      "path": "mongodb.driver/3.9.0",
+      "hashPath": "mongodb.driver.3.9.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
+      "path": "newtonsoft.json/13.0.4",
+      "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
+    },
+    "SharpCompress/0.48.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SqGaVniGG943Gph/gHhUQUiZPyC7y0tXZyMf0/B2oGsMav9dqs7JJOuUA+xOkwKYaWM2TM7aZQjNK91f4bX71A==",
+      "path": "sharpcompress/0.48.1",
+      "hashPath": "sharpcompress.0.48.1.nupkg.sha512"
+    },
+    "Snappier/1.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DOdDQiO8YZ5rBtVLY+6CmR1yp9WYoJRgEEktPBrR0tEj9QO2djA/zv0O3DX0OZpEAfosbY8pytQ9tQUogwQsEA==",
+      "path": "snappier/1.3.1",
+      "hashPath": "snappier.1.3.1.nupkg.sha512"
+    },
+    "SuperSocket.Command/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MUpyzOYb951CSL8CkTMgWiLUkBaW8D6U7E5uB8p4s5Kv8nICMBJbWQXnsLj7J1ZxARmXZ+KUA90NtJ61l6vSSw==",
+      "path": "supersocket.command/2.1.0",
+      "hashPath": "supersocket.command.2.1.0.nupkg.sha512"
+    },
+    "SuperSocket.Connection/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+DwyHiB4+VD8jsWt3qFX6Tz3uAd+wEldUCUYspt2J/HHTCe65BTGOIeWy4qSatLkwMen5ws1gbm0I6bvq3PsZA==",
+      "path": "supersocket.connection/2.1.0",
+      "hashPath": "supersocket.connection.2.1.0.nupkg.sha512"
+    },
+    "SuperSocket.Primitives/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-84HUtR3x8K6nf7vmCavP4048yKADjVb1Ry11Wa2p6xJju0BMC37YUEYXdcdhXGUPnKH0ooEPEaIeclTLdUpwcQ==",
+      "path": "supersocket.primitives/2.1.0",
+      "hashPath": "supersocket.primitives.2.1.0.nupkg.sha512"
+    },
+    "SuperSocket.ProtoBase/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tzOhERLgMGh138SrZECLOaCdHHwUxktUaiSqMxocwMqXA9z4q8nqcyys/j/V9D7LBUAnbdUibh6mPf1f45C7qg==",
+      "path": "supersocket.protobase/2.1.0",
+      "hashPath": "supersocket.protobase.2.1.0.nupkg.sha512"
+    },
+    "SuperSocket.Server/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MSTJCv0LToNCgzRqNz9uvmUqYE4aaEjxYfc+RI4BFD/jQVWw4ptipC64FaAWOjR9IofFFxB4FqzmLtm0tBIPUA==",
+      "path": "supersocket.server/2.1.0",
+      "hashPath": "supersocket.server.2.1.0.nupkg.sha512"
+    },
+    "SuperSocket.Server.Abstractions/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9tKi98mNEO2qwuxNy6cv67G0uOaOAYGGObwT8AY8fHWrcTAW3cRYzyDvbOzeSmwDRal1ULQHKVmBxlrEV+YfMw==",
+      "path": "supersocket.server.abstractions/2.1.0",
+      "hashPath": "supersocket.server.abstractions.2.1.0.nupkg.sha512"
+    },
+    "SuperSocket.WebSocket/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-edhOCwBLCLkZm3GY8ItrVKjt2H2+sbMPwaBTPjbA7EgAlsb8zpTUETD62jKy0rK2U2yowLVqZpC43LbkviIy7w==",
+      "path": "supersocket.websocket/2.1.0",
+      "hashPath": "supersocket.websocket.2.1.0.nupkg.sha512"
+    },
+    "SuperSocket.WebSocket.Server/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SSdQ9MFs7wkrJ5BX4HNxHIjSbU2k3stHFSIYhJXbNOIshaWhG9uiuAGROWwZ/TQv7dN27xO8asTSnddr9/+uAw==",
+      "path": "supersocket.websocket.server/2.1.0",
+      "hashPath": "supersocket.websocket.server.2.1.0.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fdYxcRjQqTTacKId/2IECojlDSFvp7LP5N78+0z/xH7v/Tuw5ZAxu23Y6PTCRinqyu2ePx+Gn1098NC6jM6d+A==",
+      "path": "system.diagnostics.eventlog/8.0.0",
+      "hashPath": "system.diagnostics.eventlog.8.0.0.nupkg.sha512"
+    },
+    "ZstdSharp.Port/0.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U9Ix4l4cl58Kzz1rJzj5hoVTjmbx1qGMwzAcbv1j/d3NzrFaESIurQyg+ow4mivCgkE3S413y+U9k4WdnEIkRA==",
+      "path": "zstdsharp.port/0.7.3",
+      "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
+    },
+    "PixelHero.Server.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

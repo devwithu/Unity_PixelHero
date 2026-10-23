@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 7cc18d2da6ca9c344bcd052988ecf4ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8718248842693358986
+    second: darkogre_0
+  - first:
+      213: 5824176695434317040
+    second: darkogre_1
+  - first:
+      213: -1083602276657782914
+    second: darkogre_2
+  - first:
+      213: 1817946161297483671
+    second: darkogre_3
+  - first:
+      213: 884104259127155132
+    second: darkogre_4
+  - first:
+      213: 7061870347697430491
+    second: darkogre_5
+  - first:
+      213: 6841233939322589046
+    second: darkogre_6
+  - first:
+      213: -2540630195746809825
+    second: darkogre_7
+  - first:
+      213: 2598760195529361595
+    second: darkogre_8
+  - first:
+      213: 4618130734209123428
+    second: darkogre_9
+  - first:
+      213: 4273939054204502108
+    second: darkogre_10
+  - first:
+      213: -940795002939774773
+    second: darkogre_11
+  - first:
+      213: -1024301453247874616
+    second: darkogre_12
+  - first:
+      213: -4805200595745098518
+    second: darkogre_13
+  - first:
+      213: 6901613492353659030
+    second: darkogre_14
+  - first:
+      213: 889429994282506196
+    second: darkogre_15
+  - first:
+      213: -1812156607454759098
+    second: darkogre_16
+  - first:
+      213: -7631465574299763108
+    second: darkogre_17
+  - first:
+      213: 6129721169084296139
+    second: darkogre_18
+  - first:
+      213: -4289131439430700182
+    second: darkogre_19
+  - first:
+      213: 2923121349466199571
+    second: darkogre_20
+  - first:
+      213: -5373584953178142667
+    second: darkogre_21
+  - first:
+      213: -9058942021381629170
+    second: darkogre_22
+  - first:
+      213: 450721638811855220
+    second: darkogre_23
+  - first:
+      213: 3627219893224390695
+    second: darkogre_24
+  - first:
+      213: 3318503624960429625
+    second: darkogre_25
+  - first:
+      213: 3073545542069563326
+    second: darkogre_26
+  - first:
+      213: 5990854200434682529
+    second: darkogre_27
+  - first:
+      213: -6738740124616887443
+    second: darkogre_28
+  - first:
+      213: 4581667499294840704
+    second: darkogre_29
+  - first:
+      213: 8513621895303426906
+    second: darkogre_30
+  - first:
+      213: -3462581533287407391
+    second: darkogre_31
+  - first:
+      213: 3288979455122231907
+    second: darkogre_32
+  - first:
+      213: -175167426607070686
+    second: darkogre_33
+  - first:
+      213: 3938041661223036567
+    second: darkogre_34
+  - first:
+      213: 7923801777513367038
+    second: darkogre_35
+  - first:
+      213: -4247226771817430064
+    second: darkogre_36
+  - first:
+      213: -8029648726795271321
+    second: darkogre_37
+  - first:
+      213: 837780981773151521
+    second: darkogre_38
+  - first:
+      213: 7873947616412196336
+    second: darkogre_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkogre_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 392
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a4dcb6ede820780800000000000000
+      internalID: -8718248842693358986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 424
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc8870c8d1a3d050800000000000000
+      internalID: 5824176695434317040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f1206787546f0f0800000000000000
+      internalID: -1083602276657782914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 392
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ebecd664aa3910800000000000000
+      internalID: 1817946161297483671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 392
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb91fa5b328f44c00800000000000000
+      internalID: 884104259127155132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 423
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf9e547aadc00260800000000000000
+      internalID: 7061870347697430491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 344
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f4baa7502f0fe50800000000000000
+      internalID: 6841233939322589046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 346
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1851ec3c4eddbcd0800000000000000
+      internalID: -2540630195746809825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 345
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8c3f601a6a01420800000000000000
+      internalID: 2598760195529361595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 344
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46449d25f65e61040800000000000000
+      internalID: 4618130734209123428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 346
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50478dece4105b30800000000000000
+      internalID: 4273939054204502108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 346
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8ef4bedef91f2f0800000000000000
+      internalID: -940795002939774773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 296
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c97e385143f8c1f0800000000000000
+      internalID: -1024301453247874616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 296
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae43e18648f705db0800000000000000
+      internalID: -4805200595745098518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 248
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69078cca7e477cf50800000000000000
+      internalID: 6901613492353659030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 248
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d759cd0ed3e75c00800000000000000
+      internalID: 889429994282506196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 280
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647384faa2de9d6e0800000000000000
+      internalID: -1812156607454759098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 248
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e7d305e76971690800000000000000
+      internalID: -7631465574299763108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb26773de4211550800000000000000
+      internalID: 6129721169084296139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63f5cd3ea1f974c0800000000000000
+      internalID: -4289131439430700182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3161b464163019820800000000000000
+      internalID: 2923121349466199571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 201
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ce6f94f03d65b0800000000000000
+      internalID: -5373584953178142667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 200
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b50b65a3c284280800000000000000
+      internalID: -9058942021381629170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47966f541f8414600800000000000000
+      internalID: 450721638811855220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ced96649765230800000000000000
+      internalID: 3627219893224390695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 104
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ecc97f671bd0e20800000000000000
+      internalID: 3318503624960429625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfaa0cd26d67aa20800000000000000
+      internalID: 3073545542069563326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aae016872ac32350800000000000000
+      internalID: 5990854200434682529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f98e5f8f2b72a0800000000000000
+      internalID: -6738740124616887443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087db6ed05a559f30800000000000000
+      internalID: 4581667499294840704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a537c85b106762670800000000000000
+      internalID: 8513621895303426906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0a396e07072ffc0800000000000000
+      internalID: -3462581533287407391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3625e10836dc4ad20800000000000000
+      internalID: 3288979455122231907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 56
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222cdd0572ea19df0800000000000000
+      internalID: -175167426607070686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 57
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79663e7b60cb6a630800000000000000
+      internalID: 3938041661223036567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 53
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef50b4b0cbff6fd60800000000000000
+      internalID: 7923801777513367038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 57
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30b49f0c1de05c0800000000000000
+      internalID: -4247226771817430064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 56
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7634330a605f09090800000000000000
+      internalID: -8029648726795271321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12daa2a3d5560ab00800000000000000
+      internalID: 837780981773151521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkogre_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd5840a3a1e54d60800000000000000
+      internalID: 7873947616412196336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkogre_0: -8718248842693358986
+      darkogre_1: 5824176695434317040
+      darkogre_10: 4273939054204502108
+      darkogre_11: -940795002939774773
+      darkogre_12: -1024301453247874616
+      darkogre_13: -4805200595745098518
+      darkogre_14: 6901613492353659030
+      darkogre_15: 889429994282506196
+      darkogre_16: -1812156607454759098
+      darkogre_17: -7631465574299763108
+      darkogre_18: 6129721169084296139
+      darkogre_19: -4289131439430700182
+      darkogre_2: -1083602276657782914
+      darkogre_20: 2923121349466199571
+      darkogre_21: -5373584953178142667
+      darkogre_22: -9058942021381629170
+      darkogre_23: 450721638811855220
+      darkogre_24: 3627219893224390695
+      darkogre_25: 3318503624960429625
+      darkogre_26: 3073545542069563326
+      darkogre_27: 5990854200434682529
+      darkogre_28: -6738740124616887443
+      darkogre_29: 4581667499294840704
+      darkogre_3: 1817946161297483671
+      darkogre_30: 8513621895303426906
+      darkogre_31: -3462581533287407391
+      darkogre_32: 3288979455122231907
+      darkogre_33: -175167426607070686
+      darkogre_34: 3938041661223036567
+      darkogre_35: 7923801777513367038
+      darkogre_36: -4247226771817430064
+      darkogre_37: -8029648726795271321
+      darkogre_38: 837780981773151521
+      darkogre_39: 7873947616412196336
+      darkogre_4: 884104259127155132
+      darkogre_5: 7061870347697430491
+      darkogre_6: 6841233939322589046
+      darkogre_7: -2540630195746809825
+      darkogre_8: 2598760195529361595
+      darkogre_9: 4618130734209123428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

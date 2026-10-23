@@ -1,0 +1,19 @@
+{
+    "description": "Entities missing from PixelHero-Data's data/map/world.json (pinned f5b6665ef). The tutorial needs two tutorialoak trees (stage 3) and a tutorialshrimpspot (stage 6), but the map has no tutorialoak at all and its seven pond spots below the guard's house have empty keys, so the tutorial cannot be finished. The pond spots get their key back; the trees stand on open grass near the guard (positions chosen by us). The C# server applies this at map load and the server harness applies it to the original (Tools/fixtures/server/server_bundle.mjs PATCHES), so fixtures stay comparable. The cooking pot tile 15057 has the cooking cursor but is missing from the objects list, so clients cannot click the pots drawn with it (the tutorial pot at 56,607, and 731,101, 781,113, 706,605); it is added to objects.",
+    "entities": [
+        { "x": 48, "y": 610, "key": "tutorialshrimpspot" },
+        { "x": 50, "y": 610, "key": "tutorialshrimpspot" },
+        { "x": 47, "y": 611, "key": "tutorialshrimpspot" },
+        { "x": 52, "y": 611, "key": "tutorialshrimpspot" },
+        { "x": 48, "y": 612, "key": "tutorialshrimpspot" },
+        { "x": 50, "y": 613, "key": "tutorialshrimpspot" },
+        { "x": 51, "y": 613, "key": "tutorialshrimpspot" },
+        { "x": 40, "y": 598, "key": "tutorialoak" },
+        { "x": 38, "y": 602, "key": "tutorialoak" },
+        { "x": 66, "y": 603, "key": "tutorialoak" },
+        { "x": 69, "y": 606, "key": "tutorialoak" }
+    ],
+    "objects": [
+        15057
+    ]
+}

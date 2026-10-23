@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: be717d341c9d91f499ec03caabfc4ada
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4571467904776827804
+    second: angelicblade_0
+  - first:
+      213: 7211548115350671217
+    second: angelicblade_1
+  - first:
+      213: -5962640666848381320
+    second: angelicblade_2
+  - first:
+      213: 1725387380309638690
+    second: angelicblade_3
+  - first:
+      213: 3678201057930509187
+    second: angelicblade_4
+  - first:
+      213: 1822114323211504253
+    second: angelicblade_5
+  - first:
+      213: -6656751410150878356
+    second: angelicblade_6
+  - first:
+      213: 7478943852202172743
+    second: angelicblade_7
+  - first:
+      213: 6556161135740074601
+    second: angelicblade_8
+  - first:
+      213: 5209862961901362213
+    second: angelicblade_9
+  - first:
+      213: -1738227961276203042
+    second: angelicblade_10
+  - first:
+      213: 7047945076287192836
+    second: angelicblade_11
+  - first:
+      213: -4444421442436544960
+    second: angelicblade_12
+  - first:
+      213: 6562372239731915259
+    second: angelicblade_13
+  - first:
+      213: -74290076004063968
+    second: angelicblade_14
+  - first:
+      213: -6532420612728177330
+    second: angelicblade_15
+  - first:
+      213: -2079271668734371905
+    second: angelicblade_16
+  - first:
+      213: 412729197373310257
+    second: angelicblade_17
+  - first:
+      213: -369558395692284631
+    second: angelicblade_18
+  - first:
+      213: 6368309750026441400
+    second: angelicblade_19
+  - first:
+      213: 4250486770008106246
+    second: angelicblade_20
+  - first:
+      213: -386517497498055565
+    second: angelicblade_21
+  - first:
+      213: 7212692328366951602
+    second: angelicblade_22
+  - first:
+      213: 6215483739771738419
+    second: angelicblade_23
+  - first:
+      213: -1679072489027742412
+    second: angelicblade_24
+  - first:
+      213: 1582478359462955880
+    second: angelicblade_25
+  - first:
+      213: -7462391324676504237
+    second: angelicblade_26
+  - first:
+      213: 7184551336722837311
+    second: angelicblade_27
+  - first:
+      213: -5879158564738300954
+    second: angelicblade_28
+  - first:
+      213: -856626869357896543
+    second: angelicblade_29
+  - first:
+      213: -8127203589173490539
+    second: angelicblade_30
+  - first:
+      213: -7980542547917635056
+    second: angelicblade_31
+  - first:
+      213: 8608014639222752163
+    second: angelicblade_32
+  - first:
+      213: -8034087827538601002
+    second: angelicblade_33
+  - first:
+      213: 7028721471334734970
+    second: angelicblade_34
+  - first:
+      213: 4358049664934708170
+    second: angelicblade_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelicblade_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c937256b6dd117f30800000000000000
+      internalID: 4571467904776827804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 723
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f4d107dc0941460800000000000000
+      internalID: 7211548115350671217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 723
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8763439a7e1704da0800000000000000
+      internalID: -5962640666848381320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e3c4f4eaec1f710800000000000000
+      internalID: 1725387380309638690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 660
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf96ecf589b0330800000000000000
+      internalID: 3678201057930509187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 659
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a4c2fa253794910800000000000000
+      internalID: 1822114323211504253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 659
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6350e78cd77e93a0800000000000000
+      internalID: -6656751410150878356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 660
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412a95fecb8ac760800000000000000
+      internalID: 7478943852202172743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 597
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a320221d92cfa50800000000000000
+      internalID: 6556161135740074601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 596
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c5894c2c62d4840800000000000000
+      internalID: 5209862961901362213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 596
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edffa75f0e290e7e0800000000000000
+      internalID: -1738227961276203042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 597
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fbf8c84b45fc160800000000000000
+      internalID: 7047945076287192836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 531
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c073ee3e3252c0800000000000000
+      internalID: -4444421442436544960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9fa1978ca321b50800000000000000
+      internalID: 6562372239731915259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 531
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e079c19118fef0800000000000000
+      internalID: -74290076004063968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 532
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4db5ee101e2855a0800000000000000
+      internalID: -6532420612728177330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7dd890f61f423e0800000000000000
+      internalID: -2079271668734371905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1354edda40f4ab500800000000000000
+      internalID: 412729197373310257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9258ffcd8901fdaf0800000000000000
+      internalID: -369558395692284631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b29bf51af7c06850800000000000000
+      internalID: 6368309750026441400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 404
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a4d08233ccfa30800000000000000
+      internalID: 4250486770008106246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 405
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cc7264260d2aaf0800000000000000
+      internalID: -386517497498055565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 404
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc4f7a4571a81460800000000000000
+      internalID: 7212692328366951602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 405
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399f40c785d14650800000000000000
+      internalID: 6215483739771738419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 340
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435de53a77cb2b8e0800000000000000
+      internalID: -1679072489027742412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 342
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b48800fa716f510800000000000000
+      internalID: 1582478359462955880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 321
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35543bda0a2407890800000000000000
+      internalID: -7462391324676504237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f2ce71067a4b360800000000000000
+      internalID: 7184551336722837311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 277
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3049a3f68096ea0800000000000000
+      internalID: -5879158564738300954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 278
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac1ed2a666ac14f0800000000000000
+      internalID: -856626869357896543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 268
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cc80a356f563f80800000000000000
+      internalID: -8127203589173490539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 277
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0128a7cd5da6f3190800000000000000
+      internalID: -7980542547917635056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 214
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a30c3805bfc57770800000000000000
+      internalID: 8608014639222752163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db9541ffaf218090800000000000000
+      internalID: -8034087827538601002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c511c30f80b8160800000000000000
+      internalID: 7028721471334734970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelicblade_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac381ff8417ea7c30800000000000000
+      internalID: 4358049664934708170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      angelicblade_0: 4571467904776827804
+      angelicblade_1: 7211548115350671217
+      angelicblade_10: -1738227961276203042
+      angelicblade_11: 7047945076287192836
+      angelicblade_12: -4444421442436544960
+      angelicblade_13: 6562372239731915259
+      angelicblade_14: -74290076004063968
+      angelicblade_15: -6532420612728177330
+      angelicblade_16: -2079271668734371905
+      angelicblade_17: 412729197373310257
+      angelicblade_18: -369558395692284631
+      angelicblade_19: 6368309750026441400
+      angelicblade_2: -5962640666848381320
+      angelicblade_20: 4250486770008106246
+      angelicblade_21: -386517497498055565
+      angelicblade_22: 7212692328366951602
+      angelicblade_23: 6215483739771738419
+      angelicblade_24: -1679072489027742412
+      angelicblade_25: 1582478359462955880
+      angelicblade_26: -7462391324676504237
+      angelicblade_27: 7184551336722837311
+      angelicblade_28: -5879158564738300954
+      angelicblade_29: -856626869357896543
+      angelicblade_3: 1725387380309638690
+      angelicblade_30: -8127203589173490539
+      angelicblade_31: -7980542547917635056
+      angelicblade_32: 8608014639222752163
+      angelicblade_33: -8034087827538601002
+      angelicblade_34: 7028721471334734970
+      angelicblade_35: 4358049664934708170
+      angelicblade_4: 3678201057930509187
+      angelicblade_5: 1822114323211504253
+      angelicblade_6: -6656751410150878356
+      angelicblade_7: 7478943852202172743
+      angelicblade_8: 6556161135740074601
+      angelicblade_9: 5209862961901362213
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

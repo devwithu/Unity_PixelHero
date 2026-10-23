@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 647912abaa26e3d4d950df25cf2d4156
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5145271096616136359
+    second: shadowregion_0
+  - first:
+      213: 8462855748833560381
+    second: shadowregion_1
+  - first:
+      213: -1417071664611589429
+    second: shadowregion_2
+  - first:
+      213: 7280220444034303276
+    second: shadowregion_3
+  - first:
+      213: 1525711593858878588
+    second: shadowregion_4
+  - first:
+      213: -3866487256745853901
+    second: shadowregion_5
+  - first:
+      213: -423334065479096350
+    second: shadowregion_6
+  - first:
+      213: -3819690740602311246
+    second: shadowregion_7
+  - first:
+      213: 1910696500134621408
+    second: shadowregion_8
+  - first:
+      213: -3241093898318772571
+    second: shadowregion_9
+  - first:
+      213: 1560759307649012245
+    second: shadowregion_10
+  - first:
+      213: -1941506906848522750
+    second: shadowregion_11
+  - first:
+      213: 593442558027120156
+    second: shadowregion_12
+  - first:
+      213: 7186717365073889772
+    second: shadowregion_13
+  - first:
+      213: -1573851384992193045
+    second: shadowregion_14
+  - first:
+      213: 3815145022075142450
+    second: shadowregion_15
+  - first:
+      213: 1537962543546133987
+    second: shadowregion_16
+  - first:
+      213: 7575122717521727423
+    second: shadowregion_17
+  - first:
+      213: -1779037501628224631
+    second: shadowregion_18
+  - first:
+      213: -7342751253702490337
+    second: shadowregion_19
+  - first:
+      213: -4501201615311313224
+    second: shadowregion_20
+  - first:
+      213: -6507426764609625936
+    second: shadowregion_21
+  - first:
+      213: 3846418646025723838
+    second: shadowregion_22
+  - first:
+      213: -6330433468108482792
+    second: shadowregion_23
+  - first:
+      213: -116007026335848119
+    second: shadowregion_24
+  - first:
+      213: 7765751372968240425
+    second: shadowregion_25
+  - first:
+      213: 6914333720357766353
+    second: shadowregion_26
+  - first:
+      213: -7131506539016567582
+    second: shadowregion_27
+  - first:
+      213: 3939792278981668190
+    second: shadowregion_28
+  - first:
+      213: -6879322848231948331
+    second: shadowregion_29
+  - first:
+      213: 7259502800537006825
+    second: shadowregion_30
+  - first:
+      213: -1926488326490928931
+    second: shadowregion_31
+  - first:
+      213: 3798840104741121916
+    second: shadowregion_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadowregion_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 342
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9515c1dc2335898b0800000000000000
+      internalID: -5145271096616136359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 342
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c896277a127570800000000000000
+      internalID: 8462855748833560381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 342
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc20e8934dc855ce0800000000000000
+      internalID: -1417071664611589429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 337
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25833debe9880560800000000000000
+      internalID: 7280220444034303276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 334
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c47ad6c9a6c2510800000000000000
+      internalID: 1525711593858878588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 300
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cb615535a775ac0800000000000000
+      internalID: -3866487256745853901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 301
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7ebcd09e3002af0800000000000000
+      internalID: -423334065479096350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 300
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdec8e428bbdfac0800000000000000
+      internalID: -3819690740602311246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 301
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e03b14f758248a10800000000000000
+      internalID: 1910696500134621408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6060385425503d0800000000000000
+      internalID: -3241093898318772571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 258
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512dd40325ee8a510800000000000000
+      internalID: 1560759307649012245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e835831c16e05e0800000000000000
+      internalID: -1941506906848522750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 216
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e3ec1ccd45c3800800000000000000
+      internalID: 593442558027120156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 216
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce94c5edd595cb360800000000000000
+      internalID: 7186717365073889772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 217
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a844018e882ae0800000000000000
+      internalID: -1573851384992193045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231836f1f2e12f430800000000000000
+      internalID: 3815145022075142450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 174
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6cede8c0f75510800000000000000
+      internalID: 1537962543546133987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 173
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfcfd31afd302960800000000000000
+      internalID: 7575122717521727423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98be95961d69f47e0800000000000000
+      internalID: -1779037501628224631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 173
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17420963ae491a90800000000000000
+      internalID: -7342751253702490337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 131
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b664f0baf48881c0800000000000000
+      internalID: -4501201615311313224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 131
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e29dd5d9f0b5a0800000000000000
+      internalID: -6507426764609625936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 86
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf5dcd1169316530800000000000000
+      internalID: 3846418646025723838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 84
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81756230d48c528a0800000000000000
+      internalID: -6330433468108482792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 82
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9496dc3693cd36ef0800000000000000
+      internalID: -116007026335848119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 80
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92526cf9abd75cb60800000000000000
+      internalID: 7765751372968240425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 84
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d40e6c82e5a4ff50800000000000000
+      internalID: 6914333720357766353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4ca8c469cc70d90800000000000000
+      internalID: -7131506539016567582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 49
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d678d2434fca630800000000000000
+      internalID: 3939792278981668190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 48
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff7e7515cb780a0800000000000000
+      internalID: -6879322848231948331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 49
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e236f7a55feeb460800000000000000
+      internalID: 7259502800537006825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd84293f21db345e0800000000000000
+      internalID: -1926488326490928931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowregion_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f2a99b2f038b430800000000000000
+      internalID: 3798840104741121916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shadowregion_0: -5145271096616136359
+      shadowregion_1: 8462855748833560381
+      shadowregion_10: 1560759307649012245
+      shadowregion_11: -1941506906848522750
+      shadowregion_12: 593442558027120156
+      shadowregion_13: 7186717365073889772
+      shadowregion_14: -1573851384992193045
+      shadowregion_15: 3815145022075142450
+      shadowregion_16: 1537962543546133987
+      shadowregion_17: 7575122717521727423
+      shadowregion_18: -1779037501628224631
+      shadowregion_19: -7342751253702490337
+      shadowregion_2: -1417071664611589429
+      shadowregion_20: -4501201615311313224
+      shadowregion_21: -6507426764609625936
+      shadowregion_22: 3846418646025723838
+      shadowregion_23: -6330433468108482792
+      shadowregion_24: -116007026335848119
+      shadowregion_25: 7765751372968240425
+      shadowregion_26: 6914333720357766353
+      shadowregion_27: -7131506539016567582
+      shadowregion_28: 3939792278981668190
+      shadowregion_29: -6879322848231948331
+      shadowregion_3: 7280220444034303276
+      shadowregion_30: 7259502800537006825
+      shadowregion_31: -1926488326490928931
+      shadowregion_32: 3798840104741121916
+      shadowregion_4: 1525711593858878588
+      shadowregion_5: -3866487256745853901
+      shadowregion_6: -423334065479096350
+      shadowregion_7: -3819690740602311246
+      shadowregion_8: 1910696500134621408
+      shadowregion_9: -3241093898318772571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 7af1ba6c2e0bd99459a68df209f00ef8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8186489078436091987
+    second: angel_0
+  - first:
+      213: -1519330624634402944
+    second: angel_1
+  - first:
+      213: -2196574385531375431
+    second: angel_2
+  - first:
+      213: 2684834875931381204
+    second: angel_3
+  - first:
+      213: 8688116277281573048
+    second: angel_4
+  - first:
+      213: -6204384343150635696
+    second: angel_5
+  - first:
+      213: 4415837518529691250
+    second: angel_6
+  - first:
+      213: 5046122137016037827
+    second: angel_7
+  - first:
+      213: -6532408413231160452
+    second: angel_8
+  - first:
+      213: 1997231017322006320
+    second: angel_9
+  - first:
+      213: 464232992901541616
+    second: angel_10
+  - first:
+      213: -5810535050573765937
+    second: angel_11
+  - first:
+      213: -513610540094532554
+    second: angel_12
+  - first:
+      213: 2268560671995999300
+    second: angel_13
+  - first:
+      213: -5130511810273414167
+    second: angel_14
+  - first:
+      213: -6837337836046067286
+    second: angel_15
+  - first:
+      213: -2271129873503599516
+    second: angel_16
+  - first:
+      213: 7838884542862492719
+    second: angel_17
+  - first:
+      213: -5251575129225058303
+    second: angel_18
+  - first:
+      213: -3157513501010548971
+    second: angel_19
+  - first:
+      213: 1542509948303528843
+    second: angel_20
+  - first:
+      213: -2324623407021066202
+    second: angel_21
+  - first:
+      213: -5074996077531959232
+    second: angel_22
+  - first:
+      213: 3827216783799368502
+    second: angel_23
+  - first:
+      213: 269728383381834405
+    second: angel_24
+  - first:
+      213: -8212599481428274026
+    second: angel_25
+  - first:
+      213: -4102658948446968473
+    second: angel_26
+  - first:
+      213: 649507225448023088
+    second: angel_27
+  - first:
+      213: -3084978282003782169
+    second: angel_28
+  - first:
+      213: 2598605513446428521
+    second: angel_29
+  - first:
+      213: 5574599967949408728
+    second: angel_30
+  - first:
+      213: -4036092650800285415
+    second: angel_31
+  - first:
+      213: 1265884388085612982
+    second: angel_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angel_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3585cc561704c9170800000000000000
+      internalID: 8186489078436091987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 260
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0874b4eb8d04aeae0800000000000000
+      internalID: -1519330624634402944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 260
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b03eabfb333481e0800000000000000
+      internalID: -2196574385531375431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 254
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd48744813724520800000000000000
+      internalID: 2684834875931381204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 255
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b848aaf8b3629870800000000000000
+      internalID: 8688116277281573048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d288ef4995e9a0800000000000000
+      internalID: -6204384343150635696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 229
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27efdc5b3d4384d30800000000000000
+      internalID: 4415837518529691250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 228
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1731e195d670640800000000000000
+      internalID: 5046122137016037827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 229
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73659988293855a0800000000000000
+      internalID: -6532408413231160452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037ced9470797bb10800000000000000
+      internalID: 1997231017322006320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 196
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fea9ea8279417600800000000000000
+      internalID: 464232992901541616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc228933825dc5fa0800000000000000
+      internalID: -5810535050573765937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d4cc5fe94fd8f0800000000000000
+      internalID: -513610540094532554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4443ebd69eb8b7f10800000000000000
+      internalID: 2268560671995999300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 166
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3f4b0f0b2ccc8b0800000000000000
+      internalID: -5130511810273414167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 165
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9d221c675ec11a0800000000000000
+      internalID: -6837337836046067286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4644a0bb9635b70e0800000000000000
+      internalID: -2271129873503599516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 134
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f248e94a5ff49cc60800000000000000
+      internalID: 7838884542862492719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 133
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108a3477e38ae17b0800000000000000
+      internalID: -5251575129225058303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 134
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51724c633324e24d0800000000000000
+      internalID: -3157513501010548971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 101
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83532b10a8186510800000000000000
+      internalID: 1542509948303528843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 101
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62873f3e3574dbfd0800000000000000
+      internalID: -2324623407021066202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040f43ab4fdf199b0800000000000000
+      internalID: -5074996077531959232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b36cc23610d1530800000000000000
+      internalID: 3827216783799368502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa805d19844eb300800000000000000
+      internalID: 269728383381834405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69419eaa84cf60e80800000000000000
+      internalID: -8212599481428274026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 68
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765ad375c6d6017c0800000000000000
+      internalID: -4102658948446968473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03401eb5163830900800000000000000
+      internalID: 649507225448023088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 37
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ae51f894ff25d0800000000000000
+      internalID: -3084978282003782169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 36
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f885c42f9101420800000000000000
+      internalID: 2598605513446428521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 37
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d94786a225fc5d40800000000000000
+      internalID: 5574599967949408728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919fb744e1becf7c0800000000000000
+      internalID: -4036092650800285415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b14e8ed423519110800000000000000
+      internalID: 1265884388085612982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      angel_0: 8186489078436091987
+      angel_1: -1519330624634402944
+      angel_10: 464232992901541616
+      angel_11: -5810535050573765937
+      angel_12: -513610540094532554
+      angel_13: 2268560671995999300
+      angel_14: -5130511810273414167
+      angel_15: -6837337836046067286
+      angel_16: -2271129873503599516
+      angel_17: 7838884542862492719
+      angel_18: -5251575129225058303
+      angel_19: -3157513501010548971
+      angel_2: -2196574385531375431
+      angel_20: 1542509948303528843
+      angel_21: -2324623407021066202
+      angel_22: -5074996077531959232
+      angel_23: 3827216783799368502
+      angel_24: 269728383381834405
+      angel_25: -8212599481428274026
+      angel_26: -4102658948446968473
+      angel_27: 649507225448023088
+      angel_28: -3084978282003782169
+      angel_29: 2598605513446428521
+      angel_3: 2684834875931381204
+      angel_30: 5574599967949408728
+      angel_31: -4036092650800285415
+      angel_32: 1265884388085612982
+      angel_4: 8688116277281573048
+      angel_5: -6204384343150635696
+      angel_6: 4415837518529691250
+      angel_7: 5046122137016037827
+      angel_8: -6532408413231160452
+      angel_9: 1997231017322006320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

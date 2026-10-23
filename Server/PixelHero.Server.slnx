@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PixelHero.Hub/PixelHero.Hub.csproj" />
+    <Project Path="src/PixelHero.Server.Core/PixelHero.Server.Core.csproj" />
+    <Project Path="src/PixelHero.Server/PixelHero.Server.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PixelHero.Server.Tests/PixelHero.Server.Tests.csproj" />
+  </Folder>
+</Solution>

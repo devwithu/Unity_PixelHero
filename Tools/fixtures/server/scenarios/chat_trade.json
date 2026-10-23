@@ -1,0 +1,388 @@
+{
+ "seed": 107,
+ "end": 40000,
+ "config": {
+  "tutorialEnabled": false
+ },
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.0.1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 2000,
+   "open": 1,
+   "address": "10.0.0.2"
+  },
+  {
+   "t": 2400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ]
+  },
+  {
+   "t": 2700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ]
+  },
+  {
+   "t": 3300,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ]
+  },
+  {
+   "t": 4000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "hello there"
+    ]
+   ]
+  },
+  {
+   "t": 4300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "what the fuck"
+    ]
+   ]
+  },
+  {
+   "t": 4600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "<b>bold</b> <script>x</script>"
+    ]
+   ]
+  },
+  {
+   "t": 4900,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "   "
+    ]
+   ]
+  },
+  {
+   "t": 5200,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/g first"
+    ]
+   ]
+  },
+  {
+   "t": 5500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/g second"
+    ]
+   ]
+  },
+  {
+   "t": 5800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pm *Guest4205* hi friend"
+    ]
+   ]
+  },
+  {
+   "t": 6100,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/msg *nobody* hello"
+    ]
+   ]
+  },
+  {
+   "t": 6400,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pm"
+    ]
+   ]
+  },
+  {
+   "t": 6700,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/mute 1 guest4205"
+    ]
+   ]
+  },
+  {
+   "t": 7500,
+   "conn": 1,
+   "send": [
+    "Chat",
+    [
+     "can I talk"
+    ]
+   ]
+  },
+  {
+   "t": 7800,
+   "conn": 1,
+   "send": [
+    "Chat",
+    [
+     "/g me too"
+    ]
+   ]
+  },
+  {
+   "t": 8500,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn coppersword"
+    ]
+   ]
+  },
+  {
+   "t": 8800,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/spawn flask 5"
+    ]
+   ]
+  },
+  {
+   "t": 8500,
+   "conn": 1,
+   "send": [
+    "Chat",
+    [
+     "/spawn burger 2"
+    ]
+   ]
+  },
+  {
+   "t": 10000,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 0,
+     "instance": "0-252594205"
+    }
+   ]
+  },
+  {
+   "t": 10500,
+   "conn": 1,
+   "send": [
+    "Trade",
+    {
+     "opcode": 0,
+     "instance": "0-719044203"
+    }
+   ]
+  },
+  {
+   "t": 11000,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 1,
+     "index": 0
+    }
+   ]
+  },
+  {
+   "t": 11300,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 1,
+     "index": 1,
+     "count": 3
+    }
+   ]
+  },
+  {
+   "t": 11600,
+   "conn": 1,
+   "send": [
+    "Trade",
+    {
+     "opcode": 1,
+     "index": 0,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 11900,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 2,
+     "index": 0
+    }
+   ]
+  },
+  {
+   "t": 12200,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 1,
+     "index": 0,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "t": 12500,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 3
+    }
+   ]
+  },
+  {
+   "t": 12800,
+   "conn": 1,
+   "send": [
+    "Trade",
+    {
+     "opcode": 3
+    }
+   ]
+  },
+  {
+   "t": 14000,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 0,
+     "instance": "0-252594205"
+    }
+   ]
+  },
+  {
+   "t": 14500,
+   "conn": 1,
+   "send": [
+    "Trade",
+    {
+     "opcode": 0,
+     "instance": "0-719044203"
+    }
+   ]
+  },
+  {
+   "t": 15000,
+   "conn": 1,
+   "send": [
+    "Trade",
+    {
+     "opcode": 4
+    }
+   ]
+  },
+  {
+   "t": 15500,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 0,
+     "instance": "nobody"
+    }
+   ]
+  },
+  {
+   "t": 15800,
+   "conn": 0,
+   "send": [
+    "Trade",
+    {
+     "opcode": 3
+    }
+   ]
+  },
+  {
+   "t": 20000,
+   "close": 1
+  }
+ ]
+}

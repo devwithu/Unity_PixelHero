@@ -1,0 +1,365 @@
+{
+ "seed": 151,
+ "end": 22000,
+ "nodes": [
+  {
+   "name": "hub",
+   "kind": "hub",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret"
+   }
+  },
+  {
+   "name": "s1",
+   "kind": "server",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret",
+    "serverId": 1,
+    "port": 9001,
+    "apiPort": 9002,
+    "tutorialEnabled": false
+   }
+  },
+  {
+   "name": "s2",
+   "kind": "server",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret",
+    "serverId": 2,
+    "port": 9101,
+    "apiPort": 9102,
+    "tutorialEnabled": false
+   }
+  },
+  {
+   "name": "s3",
+   "kind": "server",
+   "config": {
+    "hubEnabled": true,
+    "hubAccessToken": "secret",
+    "serverId": 3,
+    "port": 9201,
+    "apiPort": 9202,
+    "tutorialEnabled": false,
+    "gver": "0.0.1"
+   }
+  }
+ ],
+ "steps": [
+  {
+   "t": 1000,
+   "open": 0,
+   "address": "10.0.1.1",
+   "node": "s1"
+  },
+  {
+   "t": 1400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 1700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "alice",
+     "password": "secret123"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 2300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 1200,
+   "open": 0,
+   "address": "10.0.2.1",
+   "node": "s2"
+  },
+  {
+   "t": 1600,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 1900,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "bob",
+     "password": "secret123"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 2500,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 1500,
+   "open": 1,
+   "address": "10.0.1.2",
+   "node": "s1"
+  },
+  {
+   "t": 1900,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 2200,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 2800,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 4000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pm *bob* hello bob"
+    ]
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 4300,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pm *nobody* hi"
+    ]
+   ],
+   "node": "s1"
+  },
+  {
+   "t": 4600,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/g hi everyone"
+    ]
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 5000,
+   "open": 1,
+   "address": "10.0.2.2",
+   "node": "s2"
+  },
+  {
+   "t": 5400,
+   "conn": 1,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 5700,
+   "conn": 1,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "alice",
+     "password": "secret123"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 6300,
+   "conn": 1,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 8000,
+   "close": 0,
+   "node": "s1"
+  },
+  {
+   "t": 9000,
+   "open": 2,
+   "address": "10.0.2.3",
+   "node": "s2"
+  },
+  {
+   "t": 9400,
+   "conn": 2,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.5.5-beta"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 9700,
+   "conn": 2,
+   "send": [
+    "Login",
+    {
+     "opcode": 0,
+     "username": "alice",
+     "password": "secret123"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 10300,
+   "conn": 2,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 11000,
+   "conn": 0,
+   "send": [
+    "Chat",
+    [
+     "/pm *alice* same server"
+    ]
+   ],
+   "node": "s2"
+  },
+  {
+   "t": 11000,
+   "open": 0,
+   "address": "10.0.3.1",
+   "node": "s3"
+  },
+  {
+   "t": 11400,
+   "conn": 0,
+   "send": [
+    "Handshake",
+    {
+     "gVer": "0.0.1"
+    }
+   ],
+   "node": "s3"
+  },
+  {
+   "t": 11700,
+   "conn": 0,
+   "send": [
+    "Login",
+    {
+     "opcode": 2
+    }
+   ],
+   "node": "s3"
+  },
+  {
+   "t": 12300,
+   "conn": 0,
+   "send": [
+    "Ready",
+    {
+     "regionsLoaded": 0,
+     "userAgent": "harness"
+    }
+   ],
+   "node": "s3"
+  },
+  {
+   "t": 12000,
+   "close": 0,
+   "node": "s2"
+  },
+  {
+   "t": 12500,
+   "close": 2,
+   "node": "s2"
+  },
+  {
+   "t": 13000,
+   "close": 1,
+   "node": "s1"
+  }
+ ]
+}

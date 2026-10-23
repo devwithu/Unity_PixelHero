@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: e4b8c27f330e19a4c83dab6615118e49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8058863591893072315
+    second: balloonwhite_0
+  - first:
+      213: 8008555194715435926
+    second: balloonwhite_1
+  - first:
+      213: 927572112919464858
+    second: balloonwhite_2
+  - first:
+      213: -2587358822505614338
+    second: balloonwhite_3
+  - first:
+      213: 4723293251609934446
+    second: balloonwhite_4
+  - first:
+      213: -4029546528091793111
+    second: balloonwhite_5
+  - first:
+      213: 2060649849029889545
+    second: balloonwhite_6
+  - first:
+      213: 2444336227704845302
+    second: balloonwhite_7
+  - first:
+      213: 1078825785021961609
+    second: balloonwhite_8
+  - first:
+      213: -4473499513894390718
+    second: balloonwhite_9
+  - first:
+      213: -1565541820549751353
+    second: balloonwhite_10
+  - first:
+      213: -5247448495760314433
+    second: balloonwhite_11
+  - first:
+      213: -7666077652373528367
+    second: balloonwhite_12
+  - first:
+      213: 4507053342133225742
+    second: balloonwhite_13
+  - first:
+      213: 7907775753994365242
+    second: balloonwhite_14
+  - first:
+      213: 6222594967798921674
+    second: balloonwhite_15
+  - first:
+      213: -5619633997088517757
+    second: balloonwhite_16
+  - first:
+      213: 886047529969622921
+    second: balloonwhite_17
+  - first:
+      213: -4557738372650090
+    second: balloonwhite_18
+  - first:
+      213: 369750835126671011
+    second: balloonwhite_19
+  - first:
+      213: 477161710217686631
+    second: balloonwhite_20
+  - first:
+      213: -7385150436240694547
+    second: balloonwhite_21
+  - first:
+      213: 8851156248066097488
+    second: balloonwhite_22
+  - first:
+      213: -789948494175522819
+    second: balloonwhite_23
+  - first:
+      213: 2497322362756342840
+    second: balloonwhite_24
+  - first:
+      213: -2223301327850262362
+    second: balloonwhite_25
+  - first:
+      213: 4788480235361855303
+    second: balloonwhite_26
+  - first:
+      213: 6414432565053652775
+    second: balloonwhite_27
+  - first:
+      213: 7338197020804604673
+    second: balloonwhite_28
+  - first:
+      213: -3299771271150629249
+    second: balloonwhite_29
+  - first:
+      213: -4836637249051858331
+    second: balloonwhite_30
+  - first:
+      213: -485025114607045064
+    second: balloonwhite_31
+  - first:
+      213: -1743946087491831058
+    second: balloonwhite_32
+  - first:
+      213: 5926494837488827687
+    second: balloonwhite_33
+  - first:
+      213: 5459727162227100487
+    second: balloonwhite_34
+  - first:
+      213: 4309336896855332515
+    second: balloonwhite_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balloonwhite_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 544
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97d183db5d6df60800000000000000
+      internalID: 8058863591893072315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 543
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937f19b48a142f60800000000000000
+      internalID: 8008555194715435926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 543
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b8f161ce56fdc00800000000000000
+      internalID: 927572112919464858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 544
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3741efbdad71cd0800000000000000
+      internalID: -2587358822505614338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 495
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ab530ff228c8140800000000000000
+      internalID: 4723293251609934446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 494
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9291e2b38cc2418c0800000000000000
+      internalID: -4029546528091793111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 494
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e83e1be16e89c10800000000000000
+      internalID: 2060649849029889545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 495
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f337f339d60ce120800000000000000
+      internalID: 2444336227704845302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 448
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98514cae552c8fe00800000000000000
+      internalID: 1078825785021961609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 447
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244317bc4efeae1c0800000000000000
+      internalID: -4473499513894390718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 447
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd1d114204164ae0800000000000000
+      internalID: -1565541820549751353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 448
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6c0135615d27b0800000000000000
+      internalID: -5247448495760314433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 399
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d027b5edfe9c9590800000000000000
+      internalID: -7666077652373528367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e098691a2254c8e30800000000000000
+      internalID: 4507053342133225742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 399
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39e74ca6201ebd60800000000000000
+      internalID: 7907775753994365242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9b9cc87291b5650800000000000000
+      internalID: 6222594967798921674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 351
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38194db57ac0302b0800000000000000
+      internalID: -5619633997088517757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 350
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f93f5b88fdb4c00800000000000000
+      internalID: 886047529969622921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ba157d2cecfeff0800000000000000
+      internalID: -4557738372650090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 351
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6112fec6e912500800000000000000
+      internalID: 369750835126671011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e61fd1c083f9600800000000000000
+      internalID: 477161710217686631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de26d037ecca28990800000000000000
+      internalID: -7385150436240694547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051857156bf95da70800000000000000
+      internalID: 8851156248066097488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff20d5a70a8905f0800000000000000
+      internalID: -789948494175522819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8342bb1257548a220800000000000000
+      internalID: 2497322362756342840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 258
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0b4dcc83f3521e0800000000000000
+      internalID: -2223301327850262362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 254
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747e8b25769147240800000000000000
+      internalID: 4788480235361855303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 255
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f78bbce64a40950800000000000000
+      internalID: 6414432565053652775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 207
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10363ec9f4386d560800000000000000
+      internalID: 7338197020804604673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 210
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e0707038bd432d0800000000000000
+      internalID: -3299771271150629249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 208
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a67de2c00d0ecb0800000000000000
+      internalID: -4836637249051858331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 209
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83634b06a38d449f0800000000000000
+      internalID: -485025114607045064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeafd93f5424cc7e0800000000000000
+      internalID: -1743946087491831058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d35bf97a32f3250800000000000000
+      internalID: 5926494837488827687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 159
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b091b5de8d4cb40800000000000000
+      internalID: 5459727162227100487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonwhite_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6db8a6317ddcb30800000000000000
+      internalID: 4309336896855332515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balloonwhite_0: 8058863591893072315
+      balloonwhite_1: 8008555194715435926
+      balloonwhite_10: -1565541820549751353
+      balloonwhite_11: -5247448495760314433
+      balloonwhite_12: -7666077652373528367
+      balloonwhite_13: 4507053342133225742
+      balloonwhite_14: 7907775753994365242
+      balloonwhite_15: 6222594967798921674
+      balloonwhite_16: -5619633997088517757
+      balloonwhite_17: 886047529969622921
+      balloonwhite_18: -4557738372650090
+      balloonwhite_19: 369750835126671011
+      balloonwhite_2: 927572112919464858
+      balloonwhite_20: 477161710217686631
+      balloonwhite_21: -7385150436240694547
+      balloonwhite_22: 8851156248066097488
+      balloonwhite_23: -789948494175522819
+      balloonwhite_24: 2497322362756342840
+      balloonwhite_25: -2223301327850262362
+      balloonwhite_26: 4788480235361855303
+      balloonwhite_27: 6414432565053652775
+      balloonwhite_28: 7338197020804604673
+      balloonwhite_29: -3299771271150629249
+      balloonwhite_3: -2587358822505614338
+      balloonwhite_30: -4836637249051858331
+      balloonwhite_31: -485025114607045064
+      balloonwhite_32: -1743946087491831058
+      balloonwhite_33: 5926494837488827687
+      balloonwhite_34: 5459727162227100487
+      balloonwhite_35: 4309336896855332515
+      balloonwhite_4: 4723293251609934446
+      balloonwhite_5: -4029546528091793111
+      balloonwhite_6: 2060649849029889545
+      balloonwhite_7: 2444336227704845302
+      balloonwhite_8: 1078825785021961609
+      balloonwhite_9: -4473499513894390718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
