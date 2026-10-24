@@ -70,7 +70,13 @@ namespace PixelHero.Server.Game
             }
 
             // Trigger `loaded()` when we have no database information.
-            if (questInfo.Count == 0) ForEachQuest(quest => quest.Loaded());
+            if (questInfo.Count == 0)
+            {
+                ForEachQuest(quest => quest.Loaded());
+
+                // C# server only: a new character skips the tutorial's item rewards, so it gets the starter items.
+                if (!Config.Current.tutorialEnabled) player.starterItemsPending = true;
+            }
 
             loadCallback?.Invoke();
         }

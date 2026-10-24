@@ -68,6 +68,10 @@ namespace PixelHero.Server.Common
         public double aggregateThreshold;
 
         public bool tutorialEnabled;
+
+        // C# server only: the item keys a new character gets when the tutorial is off, since the tutorial is what
+        // hands out the first tools (a comma list, or one key; empty gives nothing). See Player.GiveStarterItems.
+        public object starterItems;
         public bool overrideAuth;
         public bool disableRegister;
         public double maxPlayers;

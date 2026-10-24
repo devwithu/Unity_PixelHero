@@ -31,6 +31,7 @@ namespace PixelHero.Server.Game
         public PlayerHandler handler;
 
         public bool ready; // indicates if login processed finished
+        public bool starterItemsPending; // C# server only: set by Quests.Load, granted in Welcome
         public bool authenticated;
         public bool isGuest;
         public bool canTalk = true;
@@ -345,6 +346,8 @@ namespace PixelHero.Server.Game
         {
             var config = Config.Current;
 
+            if (starterItemsPending) GiveStarterItems();
+
             if (IsNew())
             {
                 Save();
@@ -362,6 +365,38 @@ namespace PixelHero.Server.Game
             if (JsData.Truthy(activeEvent)) Notify($"The {activeEvent} event is currently active!", "crimsonred", "", true);
 
             if (IsJailed()) Notify($"misc:JAILED;duration={GetJailDuration()}", "crimsonred", "", true);
+        }
+
+        /// <summary>
+        /// C# server only: gives a new character the STARTER_ITEMS when the tutorial is off. It runs once the client is
+        /// ready, so the inventory has loaded and the client receives the added items.
+        /// </summary>
+        void GiveStarterItems()
+        {
+            starterItemsPending = false;
+
+            var keys = Config.Current.starterItems switch
+            {
+                List<object> list => list.ConvertAll(JsString.Of),
+                string key when key != "" => new List<string> { key },
+                _ => new List<string>()
+            };
+
+            if (keys.Count == 0) return;
+
+            foreach (var key in keys)
+            {
+                if (ServerData.Items[key] == null)
+                {
+                    Log.Warning($"[STARTER_ITEMS] Unknown item {key}.");
+                    continue;
+                }
+
+                inventory.Add(new Item(key, -1, -1, false, 1));
+            }
+
+            // A new character is saved by Welcome, an older one without quest data is saved here.
+            if (!IsNew()) Save();
         }
 
         public override void Heal(double amount = 1) => Heal(amount, "passive");

@@ -130,8 +130,9 @@ namespace PixelHero.Server.Tests
 
             foreach (JsObject entry in nodes)
             {
-                // The harness config: .env.defaults and SKIP_DATABASE off when there is a database.
-                var overrides = new JsObject("skipDatabase", database == null);
+                // The harness config: .env.defaults and SKIP_DATABASE off when there is a database. STARTER_ITEMS is
+                // empty: the original has no starter items, and the scenarios turn the tutorial off.
+                var overrides = new JsObject("skipDatabase", database == null, "starterItems", "");
                 if (entry.Obj("config") is { } config) foreach (var pair in config) overrides.Set(pair.Key, pair.Value);
 
                 var node = new Node

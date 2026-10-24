@@ -89,8 +89,9 @@ namespace PixelHero.Server.Tests
                 if (level >= Log.Level.Warning) Logs.Add($"{Loop.Now} {level}: {message}");
             };
 
-            // The harness config: .env.defaults and SKIP_DATABASE off when there is a database.
-            var overrides = new JsObject("skipDatabase", database == null);
+            // The harness config: .env.defaults and SKIP_DATABASE off when there is a database. STARTER_ITEMS is
+            // empty: the original has no starter items, and the scenarios turn the tutorial off.
+            var overrides = new JsObject("skipDatabase", database == null, "starterItems", "");
             if (config != null) foreach (var pair in config) overrides.Set(pair.Key, pair.Value);
 
             ServerMain.ResetState(DataDirectory, Config.Load(Path.Combine(TestPaths.Data, ".env.defaults"), null, overrides));
