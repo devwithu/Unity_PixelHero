@@ -193,8 +193,10 @@ namespace PixelHero.Tests
             yield return new WaitForSecondsRealtime(0.5f);
 
             // Two tiles to the right of the player: on screen, above the tile.
+            // /pointer replaces any pointer already shown (a guest in the tutorial has the quest's), so wait for the
+            // command's own: it carries the player's instance.
             Chat(game, $"/pointer {player.GridX + 2} {player.GridY}");
-            yield return Until(() => pointers.All.Count == 1 && pointers.All[0].Left != "", 5);
+            yield return Until(() => pointers.All.Count == 1 && pointers.All[0].Instance == player.Instance && pointers.All[0].Left != "", 5);
             Assert.AreEqual(1, pointers.All.Count, "no pointer");
             var arrow = pointers.All[0];
             Debug.Log($"[LiveGameTests] pointer: {arrow}");
