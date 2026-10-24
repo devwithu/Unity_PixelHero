@@ -51,7 +51,7 @@
    "t": 1400,
    "conn": 0,
    "kind": "message",
-   "text": "[1,{\"gVer\":\"0.5.5-beta\"}]"
+   "text": "[1,{\"gVer\":\"0.1.1\"}]"
   },
   {
    "node": "s1",
@@ -79,7 +79,7 @@
    "t": 2400,
    "conn": 0,
    "kind": "message",
-   "text": "[1,{\"gVer\":\"0.5.5-beta\"}]"
+   "text": "[1,{\"gVer\":\"0.1.1\"}]"
   },
   {
    "node": "s2",
@@ -102,14 +102,14 @@
    "kind": "link",
    "from": "s1",
    "to": "hub",
-   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.5.5-beta\",\"name\":\"PixelHero\",\"serverId\":1,\"accessToken\":\"secret\",\"remoteHost\":\"localhost\",\"port\":9001,\"players\":[],\"maxPlayers\":200}]"
+   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.1.1\",\"name\":\"PixelHero\",\"serverId\":1,\"accessToken\":\"secret\",\"remoteHost\":\"localhost\",\"port\":9001,\"players\":[],\"maxPlayers\":200}]"
   },
   {
    "t": 0,
    "kind": "link",
    "from": "s2",
    "to": "hub",
-   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.5.5-beta\",\"name\":\"PixelHero\",\"serverId\":2,\"accessToken\":\"wrong\",\"remoteHost\":\"localhost\",\"port\":9101,\"players\":[],\"maxPlayers\":200}]"
+   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.1.1\",\"name\":\"PixelHero\",\"serverId\":2,\"accessToken\":\"wrong\",\"remoteHost\":\"localhost\",\"port\":9101,\"players\":[],\"maxPlayers\":200}]"
   },
   {
    "t": 0,
@@ -238,7 +238,7 @@
    "kind": "link",
    "from": "s2",
    "to": "hub",
-   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.5.5-beta\",\"name\":\"PixelHero\",\"serverId\":2,\"accessToken\":\"wrong\",\"remoteHost\":\"localhost\",\"port\":9101,\"players\":[\"guest4203\"],\"maxPlayers\":200}]"
+   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.1.1\",\"name\":\"PixelHero\",\"serverId\":2,\"accessToken\":\"wrong\",\"remoteHost\":\"localhost\",\"port\":9101,\"players\":[\"guest4203\"],\"maxPlayers\":200}]"
   },
   {
    "t": 5000,
@@ -265,7 +265,7 @@
    "kind": "link",
    "from": "s2",
    "to": "hub",
-   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.5.5-beta\",\"name\":\"PixelHero\",\"serverId\":2,\"accessToken\":\"wrong\",\"remoteHost\":\"localhost\",\"port\":9101,\"players\":[\"guest4203\"],\"maxPlayers\":200}]"
+   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.1.1\",\"name\":\"PixelHero\",\"serverId\":2,\"accessToken\":\"wrong\",\"remoteHost\":\"localhost\",\"port\":9101,\"players\":[\"guest4203\"],\"maxPlayers\":200}]"
   },
   {
    "t": 10000,

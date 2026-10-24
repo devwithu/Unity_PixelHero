@@ -64,7 +64,7 @@
    "t": 1400,
    "conn": 0,
    "kind": "message",
-   "text": "[1,{\"gVer\":\"0.5.5-beta\"}]"
+   "text": "[1,{\"gVer\":\"0.1.1\"}]"
   },
   {
    "node": "s1",
@@ -92,7 +92,7 @@
    "t": 1600,
    "conn": 0,
    "kind": "message",
-   "text": "[1,{\"gVer\":\"0.5.5-beta\"}]"
+   "text": "[1,{\"gVer\":\"0.1.1\"}]"
   },
   {
    "node": "s2",
@@ -120,7 +120,7 @@
    "t": 1900,
    "conn": 1,
    "kind": "message",
-   "text": "[1,{\"gVer\":\"0.5.5-beta\"}]"
+   "text": "[1,{\"gVer\":\"0.1.1\"}]"
   },
   {
    "node": "s1",
@@ -169,7 +169,7 @@
    "t": 5400,
    "conn": 1,
    "kind": "message",
-   "text": "[1,{\"gVer\":\"0.5.5-beta\"}]"
+   "text": "[1,{\"gVer\":\"0.1.1\"}]"
   },
   {
    "node": "s2",
@@ -204,7 +204,7 @@
    "t": 9400,
    "conn": 2,
    "kind": "message",
-   "text": "[1,{\"gVer\":\"0.5.5-beta\"}]"
+   "text": "[1,{\"gVer\":\"0.1.1\"}]"
   },
   {
    "node": "s2",
@@ -283,14 +283,14 @@
    "kind": "link",
    "from": "s1",
    "to": "hub",
-   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.5.5-beta\",\"name\":\"PixelHero\",\"serverId\":1,\"accessToken\":\"secret\",\"remoteHost\":\"localhost\",\"port\":9001,\"players\":[],\"maxPlayers\":200}]"
+   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.1.1\",\"name\":\"PixelHero\",\"serverId\":1,\"accessToken\":\"secret\",\"remoteHost\":\"localhost\",\"port\":9001,\"players\":[],\"maxPlayers\":200}]"
   },
   {
    "t": 0,
    "kind": "link",
    "from": "s2",
    "to": "hub",
-   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.5.5-beta\",\"name\":\"PixelHero\",\"serverId\":2,\"accessToken\":\"secret\",\"remoteHost\":\"localhost\",\"port\":9101,\"players\":[],\"maxPlayers\":200}]"
+   "text": "[1,{\"type\":\"hub\",\"gVer\":\"0.1.1\",\"name\":\"PixelHero\",\"serverId\":2,\"accessToken\":\"secret\",\"remoteHost\":\"localhost\",\"port\":9101,\"players\":[],\"maxPlayers\":200}]"
   },
   {
    "t": 0,
@@ -943,7 +943,7 @@
   {
    "t": 0,
    "level": "hub error",
-   "text": "Game version mismatch: 0.5.5-beta 0.0.1 from 3"
+   "text": "Game version mismatch: 0.1.1 0.0.1 from 3"
   },
   {
    "t": 0,
@@ -968,7 +968,7 @@
   {
    "t": 5000,
    "level": "hub error",
-   "text": "Game version mismatch: 0.5.5-beta 0.0.1 from 3"
+   "text": "Game version mismatch: 0.1.1 0.0.1 from 3"
   },
   {
    "t": 5000,
@@ -988,7 +988,7 @@
   {
    "t": 10000,
    "level": "hub error",
-   "text": "Game version mismatch: 0.5.5-beta 0.0.1 from 3"
+   "text": "Game version mismatch: 0.1.1 0.0.1 from 3"
   },
   {
    "t": 10000,
@@ -1003,7 +1003,7 @@
   {
    "t": 15000,
    "level": "hub error",
-   "text": "Game version mismatch: 0.5.5-beta 0.0.1 from 3"
+   "text": "Game version mismatch: 0.1.1 0.0.1 from 3"
   },
   {
    "t": 15000,
@@ -1013,7 +1013,7 @@
   {
    "t": 20000,
    "level": "hub error",
-   "text": "Game version mismatch: 0.5.5-beta 0.0.1 from 3"
+   "text": "Game version mismatch: 0.1.1 0.0.1 from 3"
   },
   {
    "t": 20000,

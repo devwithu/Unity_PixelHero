@@ -748,12 +748,16 @@ namespace PixelHero.Game
             SynchronizeMenus();
         }
 
+        /// <summary>The keys of npc.en.json: dialogue the server sends as English text.</summary>
+        const string NpcLines = "npc.";
+
         /// <summary>connection.ts handleBubble: over an entity, or at a tile when the bubble has no entity.</summary>
         void HandleBubble(int opcode, Dictionary<string, object> info)
         {
             if (info == null) return;
             var instance = Str(info, "instance");
-            var text = Str(info, "text");
+            // Signs and boss lines come in English (npc.en.json).
+            var text = Localization.TranslateEnglish(Str(info, "text"), NpcLines);
             if (string.IsNullOrEmpty(text))
             {
                 _bubbles.Clear(instance);
@@ -776,7 +780,8 @@ namespace PixelHero.Game
         {
             if (info == null || !(_world.Entities.Get(Str(info, "instance")) is Entity npc)) return;
 
-            var text = Str(info, "text");
+            // The server sends the data's English line (npc.en.json).
+            var text = Localization.TranslateEnglish(Str(info, "text"), NpcLines);
             // Which sound effect to play depending on if conversation is over or not.
             _audio.PlaySound(string.IsNullOrEmpty(text) ? "npc-end" : "npc", npc);
 

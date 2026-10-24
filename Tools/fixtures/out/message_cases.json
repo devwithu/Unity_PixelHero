@@ -1321,9 +1321,9 @@
  },
  {
   "input": "game:DESCRIPTION",
-  "format": "PixelHero is a 2D MMORPG built on BrowserQuest, an open-source game engine. PixelHero's original idea is based on Little Workshop's demo game - BrowserQuest. The assets have remained the same, but the code itself has been completely wiped and redone from the ground up.",
+  "format": "PixelHero is a 2D MMORPG built on BrowserQuest. PixelHero's original idea is based on Little Workshop's demo game - BrowserQuest. The assets have remained the same, but the code itself has been completely wiped and redone from the ground up.",
   "parse": "game:DESCRIPTION",
-  "both": "PixelHero is a 2D MMORPG built on BrowserQuest, an open-source game engine. PixelHero's original idea is based on Little Workshop's demo game - BrowserQuest. The assets have remained the same, but the code itself has been completely wiped and redone from the ground up."
+  "both": "PixelHero is a 2D MMORPG built on BrowserQuest. PixelHero's original idea is based on Little Workshop's demo game - BrowserQuest. The assets have remained the same, but the code itself has been completely wiped and redone from the ground up."
  },
  {
   "input": "warps:WARPED_TO",

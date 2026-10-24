@@ -127,9 +127,10 @@ namespace PixelHero.UI
                 BuildWorldSelect();
             }
             //BuildCredits();
-            //BuildAbout();
+            BuildAbout();
             if (_hub != null && (_resetToken != null || _resetId != null)) BuildResetPage();
-            //BuildFooter();
+            BuildFooter();
+            BuildLanguageSelect();
             BuildDeath();
 
             Localization.LanguageChanged += Relabel;
@@ -514,10 +515,10 @@ namespace PixelHero.UI
             var items = new List<Text>
             {
                 FooterLink(row, "about-link", "intro.about", () => OpenScroll("about")),
-                FooterText(row, "–"),
-                FooterLink(row, "credits-link", "intro.credits", () => OpenScroll("credits")),
-                FooterText(row, "–"),
-                FooterLink(row, "pixelhero-link", "intro.source", () => Application.OpenURL(OriginalUrl))
+                //FooterText(row, "–"),
+                //FooterLink(row, "credits-link", "intro.credits", () => OpenScroll("credits")),
+                //FooterText(row, "–"),
+                //FooterLink(row, "pixelhero-link", "intro.source", () => Application.OpenURL(OriginalUrl))
             };
             // #reset (#toggle-reset-password) needs the hub, which sends the reset mail.
             if (_hub != null)
@@ -542,6 +543,18 @@ namespace PixelHero.UI
                 row.anchoredPosition = Vector2.zero;
             });
 
+            // #game-version: bottom-right, padding 1em, #eee.
+            var version = _kit.Label(_root, "#game-version", GameVersion.Gver, _kit.Body, UiKit.Em, "#eee", TextAnchor.LowerRight);
+            _introOnly.Add(version.gameObject);
+            var versionRect = version.rectTransform;
+            versionRect.anchorMin = versionRect.anchorMax = versionRect.pivot = new Vector2(1, 0);
+            versionRect.anchoredPosition = new Vector2(-UiKit.Em, UiKit.Em);
+            versionRect.sizeDelta = new Vector2(0, UiKit.Em);
+        }
+
+        /// <summary>The language select, top right; built on its own because the footer is off.</summary>
+        void BuildLanguageSelect()
+        {
             // #lang-select: top-right 1em; select styling (#c6c0a3 on black, padding 0.25em, radius 0.25em).
             var select = _kit.Sliced(_root, "#lang-select", "menu", 0.25f * UiKit.Em);
             _introOnly.Add(select.gameObject);
@@ -559,14 +572,6 @@ namespace PixelHero.UI
                 _languageLabel.text = Localization.Get("language.name");
                 selectRect.sizeDelta = new Vector2(UiKit.Width(_languageLabel) + 0.5f * UiKit.Em, 1.5f * UiKit.Em);
             });
-
-            // #game-version: bottom-right, padding 1em, #eee.
-            var version = _kit.Label(_root, "#game-version", GameVersion.Gver, _kit.Body, UiKit.Em, "#eee", TextAnchor.LowerRight);
-            _introOnly.Add(version.gameObject);
-            var versionRect = version.rectTransform;
-            versionRect.anchorMin = versionRect.anchorMax = versionRect.pivot = new Vector2(1, 0);
-            versionRect.anchoredPosition = new Vector2(-UiKit.Em, UiKit.Em);
-            versionRect.sizeDelta = new Vector2(0, UiKit.Em);
         }
 
         /// <summary>

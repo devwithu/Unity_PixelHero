@@ -33,7 +33,7 @@ namespace PixelHero.Editor
             var game = new GameObject("Game").AddComponent<GameClient>();
             game.Catalog = AssetDatabase.LoadAssetAtPath<SpriteCatalog>(CatalogBuilder.CatalogPath);
             game.ViewCamera = camera;
-            game.Languages = new[] { "ko", "en", "server.ko", "server.en" }
+            game.Languages = new[] { "ko", "en", "server.ko", "server.en", "npc.ko", "npc.en" }
                 .Select(language => AssetDatabase.LoadAssetAtPath<TextAsset>($"Assets/PixelHero/Localization/{language}.json"))
                 .ToArray();
 

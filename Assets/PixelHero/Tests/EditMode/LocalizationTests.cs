@@ -70,6 +70,71 @@ namespace PixelHero.Tests
             }
         }
 
+        /// <summary>
+        /// npc.en.json holds every line of dialogue in the server data (NPCs, quests, achievements, signs), so a line
+        /// changed there is not left untranslated; npc.ko.json translates only keys of it, with the same edge spaces.
+        /// </summary>
+        [Test]
+        public void NpcTableCoversTheServerDialogue()
+        {
+            var en = Table("npc.en");
+            var lines = new HashSet<string>(en.Values);
+            var missing = new List<string>();
+            void Check(string where, object line)
+            {
+                if (line is string text && text != "" && !lines.Contains(text)) missing.Add($"{where}: {text}");
+            }
+
+            object Read(string relative) => JsJson.Parse(File.ReadAllText(TestPaths.Data(relative)));
+
+            foreach (var npc in (Dictionary<string, object>)Read("server/data/npcs.json"))
+                if (((Dictionary<string, object>)npc.Value).TryGetValue("text", out var text))
+                    foreach (var line in (List<object>)text) Check("npcs.json " + npc.Key, line);
+
+            var fields = new[] { "text", "completedText", "hasItemText", "dialogueHidden", "dialogueStarted" };
+            void Walk(string where, object value)
+            {
+                if (!(value is Dictionary<string, object> obj)) return;
+                foreach (var pair in obj)
+                    if (pair.Value is List<object> list && fields.Contains(pair.Key))
+                        foreach (var line in list) Check(where, line);
+                    else Walk(where, pair.Value);
+            }
+
+            foreach (var path in Directory.GetFiles(TestPaths.Data("server/data/quests"), "*.json"))
+                Walk(Path.GetFileName(path), JsJson.Parse(File.ReadAllText(path)));
+            Walk("achievements.json", Read("server/data/achievements.json"));
+
+            var areas = (Dictionary<string, object>)((Dictionary<string, object>)Read("server/data/map/world.json"))["areas"];
+            foreach (Dictionary<string, object> sign in (List<object>)areas["signs"])
+                foreach (var line in ((string)sign["text"]).Split(',')) Check("sign " + sign["id"], line);
+
+            CollectionAssert.IsEmpty(missing);
+
+            foreach (var pair in Table("npc.ko"))
+            {
+                Assert.IsTrue(en.ContainsKey(pair.Key), pair.Key);
+                Assert.AreEqual(en[pair.Key].StartsWith(" "), pair.Value.StartsWith(" "), pair.Key + " leading space");
+                Assert.AreEqual(en[pair.Key].EndsWith(" "), pair.Value.EndsWith(" "), pair.Key + " trailing space");
+            }
+        }
+
+        [Test]
+        public void NpcLinesAreTranslated()
+        {
+            Localization.Load("ko", File.ReadAllText(TablePath("npc.ko")));
+            Localization.Load("en", File.ReadAllText(TablePath("npc.en")));
+
+            Assert.AreEqual("튜토리얼에서 빠져나오는 길을 찾았구나.", Localization.TranslateEnglish("find your way out of that tutorial.", "npc."));
+            // A line npc.ko.json leaves out (the song lyrics) stays English.
+            Assert.AreEqual("Never gonna give you up...", Localization.TranslateEnglish("Never gonna give you up...", "npc."));
+            // A UI string is not an NPC line.
+            Assert.AreEqual("Back", Localization.TranslateEnglish("Back", "npc."));
+
+            Localization.SetLanguage("en");
+            Assert.AreEqual("find your way out of that tutorial.", Localization.TranslateEnglish("find your way out of that tutorial.", "npc."));
+        }
+
         [Test]
         public void EveryCloseReasonIsTranslated()
         {
