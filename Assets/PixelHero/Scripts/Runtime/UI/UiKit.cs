@@ -350,9 +350,14 @@ namespace PixelHero.UI
         /// <summary>An EventSystem with the Input System module, once per scene.</summary>
         public static void EnsureEventSystem()
         {
-            if (EventSystem.current != null) return;
+            if (EventSystem.current != null)
+            {
+                if (!EventSystem.current.TryGetComponent<WebTextInput>(out _)) EventSystem.current.gameObject.AddComponent<WebTextInput>();
+                return;
+            }
             var go = new GameObject("EventSystem", typeof(EventSystem));
             go.AddComponent<UnityEngine.InputSystem.UI.InputSystemUIInputModule>();
+            go.AddComponent<WebTextInput>();
         }
     }
 }
