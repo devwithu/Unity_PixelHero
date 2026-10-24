@@ -14,9 +14,25 @@ namespace PixelHero.Tests
     /// The Game scene against a running PixelHero server: log in, show the map and entities, walk by a click.
     /// Writes Snapshots/game_live_before.png and _after.png. Ignored when the server is down. The environment
     /// variable PIXELHERO_SERVER_URL points the tests at a server other than the Game scene's.
+    /// The scene's HubUrl (the live hub) is cleared, so the tests only reach that server; PIXELHERO_HUB_URL still
+    /// picks a hub on purpose.
     /// </summary>
     public class LiveGameTests
     {
+        [SetUp]
+        public void WatchSceneLoads() => SceneManager.sceneLoaded += ClearHub;
+
+        [TearDown]
+        public void StopWatchingSceneLoads() => SceneManager.sceneLoaded -= ClearHub;
+
+        /// <summary>sceneLoaded runs before Start, which resolves HubUrl and builds the title screen with it.</summary>
+        static void ClearHub(Scene scene, LoadSceneMode mode)
+        {
+            foreach (var root in scene.GetRootGameObjects())
+            foreach (var game in root.GetComponentsInChildren<GameClient>(true))
+                game.HubUrl = "";
+        }
+
         /// <summary>
         /// The login for live tests. Admin commands (/spawn, /kill) need an admin: without a database every player is
         /// one, so a guest will do; with a database the tests log in to the admin test account in .test-account.json
