@@ -49,7 +49,6 @@ namespace PixelHero.UI
 
         void Awake()
         {
-            Debug.Log($"[PixelHero] WebTextInput: {(Supported ? "on" : "off")}");
             if (!Supported)
             {
                 enabled = false;
