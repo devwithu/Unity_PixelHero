@@ -1112,10 +1112,19 @@ namespace PixelHero.Game
                 }
             }
 
+            // A left click, or a tap on mobile browsers: the Input System does not turn touches into mouse presses.
             var mouse = Mouse.current;
-            if (mouse != null && mouse.leftButton.wasPressedThisFrame)
+            var touch = Touchscreen.current;
+            Vector2? press = null;
+            if (mouse != null && mouse.leftButton.wasPressedThisFrame) press = mouse.position.ReadValue();
+            else if (touch != null && touch.primaryTouch.press.wasPressedThisFrame)
             {
-                var position = mouse.position.ReadValue();
+                // The UI module may not have seen this touch yet, so IsPointerOverGameObject above can miss the HUD.
+                var tap = touch.primaryTouch.position.ReadValue();
+                if (!OverUi(tap)) press = tap;
+            }
+            if (press is Vector2 position)
+            {
                 // Canvas pixels: origin top-left.
                 var x = Mathf.Clamp(position.x, 0, _screenWidth - 1);
                 var y = Mathf.Clamp(_screenHeight - position.y, 0, _screenHeight - 1);
@@ -1129,6 +1138,18 @@ namespace PixelHero.Game
             Key(keyboard.aKey, keyboard.leftArrowKey, Modules.Orientation.Left, !leaderboardsKeys);
             Key(keyboard.sKey, keyboard.downArrowKey, Modules.Orientation.Down, !leaderboardsKeys);
             Key(keyboard.dKey, keyboard.rightArrowKey, Modules.Orientation.Right, !leaderboardsKeys);
+        }
+
+        static readonly List<RaycastResult> UiHits = new List<RaycastResult>();
+
+        /// <summary>Whether a UI element lies under the given screen position.</summary>
+        static bool OverUi(Vector2 screen)
+        {
+            var events = EventSystem.current;
+            if (events == null) return false;
+            UiHits.Clear();
+            events.RaycastAll(new PointerEventData(events) { position = screen }, UiHits);
+            return UiHits.Count > 0;
         }
 
         void Key(UnityEngine.InputSystem.Controls.KeyControl key, UnityEngine.InputSystem.Controls.KeyControl arrow, Modules.Orientation direction,
