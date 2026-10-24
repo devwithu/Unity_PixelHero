@@ -369,6 +369,12 @@ sudo ufw allow 59443/tcp
 - 페이지 주소에 `?hub=`가 없으면 클라이언트가 **페이지 호스트**(`pixelhero.jdj.kr:59443`)로 붙으려 해서 실패합니다. 그래서 `?hub=`가 없을 때 붙여 주도록 리디렉트합니다.
   - 재설정 메일 링크(`RESET_URL`)에는 `?hub=`가 이미 들어 있습니다.
 - 빌드는 gzip 압축이고 압축 해제 대비 기능이 켜져 있습니다. 그래서 헤더가 없어도 동작하지만, 아래 헤더를 주면 로딩이 빠릅니다.
+- 빌드 파일(`Build/`)은 이름이 내용 해시라서 빌드마다 바뀝니다. 그래서 `index.html`과 `ServiceWorker.js`는 매번 서버에 확인하게(`no-cache`) 하고, `Build/`는 오래 캐시합니다. `index.html`이 캐시되면 새로 배포해도 옛 빌드를 계속 불러옵니다.
+- PWA 형식은 `Assets/WebGLTemplates/PixelHeroPWA` 템플릿입니다. Unity 기본 PWA 템플릿의 서비스 워커는 모든 응답을 캐시 우선으로 돌려줘서 새 배포가 반영되지 않습니다. 그래서 서비스 워커를 이렇게 바꿨습니다.
+  - 캐시 이름이 빌드마다 다르고(해시 파일 이름), 새 서비스 워커는 바로 활성화되어 옛 캐시를 지웁니다.
+  - 페이지(`index.html`)는 네트워크 우선이고, 오프라인일 때만 캐시를 씁니다. `Build/` 파일은 캐시 우선입니다.
+  - 같은 출처의 GET만 캐시합니다. 허브 HTTP API(랭킹 등)는 캐시하지 않습니다.
+  - 새 버전은 배포 후 **페이지를 새로 열 때** 적용됩니다. 게임 중인 탭은 그대로 둡니다.
 
 ```nginx
 server {
@@ -380,8 +386,13 @@ server {
 
     location = / {
         if ($arg_hub = "") { return 302 /?hub=https://hub.jdj.kr:59536; }
+        add_header Cache-Control "no-cache";
         try_files /index.html =404;
     }
+
+    location = /index.html       { add_header Cache-Control "no-cache"; }
+    location = /ServiceWorker.js { add_header Cache-Control "no-cache, no-store"; }
+    location /Build/             { add_header Cache-Control "public, max-age=31536000, immutable"; }
 
     location ~ \.wasm\.gz$ { gzip off; add_header Content-Encoding gzip; default_type application/wasm; }
     location ~ \.js\.gz$   { gzip off; add_header Content-Encoding gzip; default_type application/javascript; }
@@ -401,6 +412,8 @@ rsync -avR -e 'ssh -p 60079' \
   index.html manifest.webmanifest ServiceWorker.js \
   ubuntu@base2.jdj.kr:~/pixelhero/
 ```
+
+- 해시 이름이라 서버의 `Build/`에 옛 빌드 파일이 쌓입니다. 가끔 `Build/`에서 지금 `index.html`이 가리키지 않는 파일을 지웁니다.
 
 - 확인 주소: `https://pixelhero.jdj.kr/` → `?hub=…`가 붙은 주소로 바뀌고 월드 선택에 beta가 나오면 됩니다.
 - 허브는 cors()로 모든 출처를 허용하므로 다른 도메인의 페이지에서도 호출됩니다.

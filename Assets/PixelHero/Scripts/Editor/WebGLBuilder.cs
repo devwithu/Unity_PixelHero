@@ -11,6 +11,8 @@ namespace PixelHero.Editor
     /// <summary>
     /// The WebGL player build (S11): the Game scene, the shaders the port finds by name at run time, gzip with the
     /// decompression fallback (so any static server works; Tools/serve_webgl.mjs also sends the gzip headers).
+    /// Build files are named by content hash, so a new index.html never loads a stale cached build, and the PWA template
+    /// (Assets/WebGLTemplates/PixelHeroPWA) has a service worker that lets a new deploy through (live.md §9).
     /// Output: Builds/WebGL (not committed).
     /// </summary>
     public static class WebGLBuilder
@@ -31,6 +33,8 @@ namespace PixelHero.Editor
             PlayerSettings.WebGL.compressionFormat = WebGLCompressionFormat.Gzip;
             PlayerSettings.WebGL.decompressionFallback = true;
             PlayerSettings.WebGL.dataCaching = true;
+            PlayerSettings.WebGL.nameFilesAsHashes = true;
+            PlayerSettings.WebGL.template = "PROJECT:PixelHeroPWA";
             PlayerSettings.WebGL.exceptionSupport = WebGLExceptionSupport.ExplicitlyThrownExceptionsOnly;
             PlayerSettings.runInBackground = true;
 
